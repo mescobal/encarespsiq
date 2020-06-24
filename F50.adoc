@@ -1,0 +1,11 @@
+=== 17 Trastornos de la conducta alimentaria
+
+==== Notas clínicas
+
+Los trastornos de la conducta alimentaria (TCA) son un conjunto de trastornos que se agrupan dentro de los «trastornos del comportamiento asociados a disfunciones fisiológicas y a factores somáticos» (F5x) en la CIE-10. El DSM-IV reconoce 2 categorías: anorexia nerviosa (AN) y bulimia nerviosa (BN), especificando una propuesta de criterios de investigación para el trastorno por atracón (TA). La CIE-10 es más abarcativa, incluyendo la AN (F50.0), la AN atípica (F50.1), BN (F50.2), BN atípica (F50.3), hiperfagia asociada a otros trastornos psicológicos (F50.4), vómitos asociados a otros trastornos psicológicos (F50.5) y categorías residuales.
+
+Todos estos trastornos están caracterizados, en un grado variable, por alteraciones persistentes en el comportamiento asociado a la alimentación o al control del peso y a preocupaciones excesivas por el peso o figura footnote:[Hilbert A, Hoek HW, Schmidt R. Evidence-based clinical guidelines for eating disorders: international comparison. Curr Opin Psychiatry. 2017;30(6):423-437.].
+
+La característica central de la AN es el bajo peso. El TA está caracterizado por episodios de atracones (hiperfagia con pérdida de control). En la BN existe, además, una conducta compensatoria (purgativa o no purgativa). Todos estos trastornos producen un impacto significativo en el funcionamiento y calidad de vida.
+
+El inicio es más frecuente en la adolescencia o adultez temprana. Tanto la AN como la BN evolucionan en un 50% de los casos a la remisión a largo plazo. Se conoce menos de la evolución del TA. La AN puede tener una prevalencia de aproximadamente 4% de mujeres jóvenes. La BN y el TA tienen una prevalencia de vida de 1.0 y 1.9 % respectivamente.
