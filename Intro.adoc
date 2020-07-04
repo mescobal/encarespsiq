@@ -25,12 +25,11 @@ WARNING: No lo impriman!!! Sale una versión nueva aproximadamente cada 15 días
 ==== Cambios
 Ultimos cambios:
 
-* inclusión del contenido de F31 Trastorno bipolar
 * inclusión del contenido de F32 Trastorno depresivo
 * inclusión del contenido de F23 Episodio Psicótico agudo
 * citas bibliográficas F32
 * inclusión del contenido de F44 Trastorno conversivo-disociativo
-
+* inclusión de Trastornos por consumo de opiáceos
 
 ==== Colaboración
 

@@ -1,7 +1,7 @@
 = Encares de Psiquiatría: Para prueba de residencia
 :autor: Marcelo Escobal
 :email: marcelo.escobal@gmail.com
-:revnumber: 0.06-24
+:revnumber: 0.06-28
 :doctype: book
 :pdf-theme: libro-theme.yml
 :icons: font
@@ -21,6 +21,8 @@ include::F05.adoc[]
 == Trastornos por consumo de sustancias psicoactivas
 
 include::F10.adoc[]
+
+include::F11.adoc[]
 
 == Trastornos psicóticos
 
