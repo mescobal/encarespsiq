@@ -2,11 +2,7 @@
 
 ==== Notas clínicas
 
-===== Importancia del tema
-
-Enfermedad que afecta generalmente a sujetos jóvenes que produce graves incapacidades psicosociales y laborales durante los años potencialmente más creativos y productivos de la vida. Indice elevado de suicidios. Costo económico / costo en sufrimiento humano individual o familiar.
-
-===== Los precursores
+===== Historia
 
 ====== Hebefrenia de Hecker
 
@@ -154,31 +150,35 @@ En lo conductual: conductas generadas por el delirio (auto y heteroagresividad, 
 
 Dentro del síndrome delirante puede formarse un:
 
-síndrome de automatismo mental
-
+.Síndrome de automatismo mental
 Dado por la pérdida de la intimidad del espacio intrapsíquico, en su forma de triple automatismo, conformado por fenómenos de desdoblamiento alucinatorio del pensamiento que se imponen a la conciencia del sujeto a pesar de su yo, dado a nivel:
 
-ideoverbal: por alucinaciones acústivo-verbales que: enuncian y comentan actos y pensamientos, eco del pensamiento y de la lectura, robo y adivina-ción del pensamiento, estribillos verbales, juegos verbales, jaculatorias fortuitas, psitacismo.
+Ideoverbal: por alucinaciones acústivo-verbales que: enuncian y comentan actos y pensamientos, eco del pensamiento y de la lectura, robo y adivina-ción del pensamiento, estribillos verbales, juegos verbales, jaculatorias fortuitas, psitacismo.
 
 Pequeño automatismo: interpretación, parasitismos, coacción. Ideación impuesta, telepatía, mentismo xenopático.
 
-sensorial-sensitivo: parasitación de las percepcio-nes. Alucinaciones: visuales, gustativas, olfativas, cenestésicas.
+Sensorial-sensitivo: parasitación de las percepciones. Alucinaciones: visuales, gustativas, olfativas, cenestésicas.
 
-psicomotor: impresiones cinestésicas de imposición de mov., articulación verbal forzada.
+Psicomotor: impresiones cinestésicas de imposición de mov., articulación verbal forzada.
 
 Dada la jerarquía se puede individualizar: síndrome de Influencia o control externo: el individuo se sien-te manejado, influido por fuerzas externas a él.
 
-síndrome de despersonalización Pérdida del sentido de familiaridad de la persona consigo misma y con el entorno, que afecta la inte-gridad somática corporal, la identidad y la concien-cia del yo y que acompaña a la expresión de extrañeza e incluso de cambio total del mundo exterior.
+.Síndrome de despersonalización 
+Pérdida del sentido de familiaridad de la persona consigo misma y con el entorno, que afecta la inte-gridad somática corporal, la identidad y la concien-cia del yo y que acompaña a la expresión de extrañeza e incluso de cambio total del mundo exterior.
 
-. Alteración del esquema corporal: alucinaciones somatognósticas, ilusión de desplazamiento o distorsión, metamorfosis segmentarias, miembros fantasmas.
+* Alteración del esquema corporal: alucinaciones somatognósticas, ilusión de desplazamiento o distorsión, metamorfosis segmentarias, miembros fantasmas.
+* Desrealización: cambio de ambiente, falta de familiaridad con el ambiente.
+* Desanimación: sentimiento de vacuidad, sin vida.
+* Tendencia al autoanálisis (signo del espejo).
 
-. Desrealización: cambio de ambiente, falta de familiaridad con el ambiente.
+.Síndrome del humor y la afectividad 
+Humor oscilante, lábil, humor inadecuado, inadaptado (discordancia). Exaltación, oscilante de acuerdo al contenido temático. Ansiedad. 
 
-. Desanimación: sentimiento de vacuidad, sin vida.
+====== Síndrome deficitario social
+En el corte longitudinal pragmatismos. Retracción social de X evolución, con abandono de metas y proyectos de futuro, con pérdida de relación con sus amigos y familia con deterioro en su actividad como ser social. Déficit de rendimiento como persona social (CB y Prg). 
 
-. Tendencia al autoanálisis (signo del espejo).
-
-síndrome del humor y la afectividad Humor oscilante, lábil, humor inadecuado, inadaptado (discordancia). Exaltación, oscilante de acuerdo al contenido temático. Ansiedad. 3.síndrome deficitario social En el corte longitudinal pragmatismos. Retracción social de X evolución, con abandono de metas y proyectos de futuro, con pérdida de relación con sus amigos y familia con deterioro en su actividad como ser social. Déficit de rendimiento como persona social (CB y Prg). 4.síndrome conductual Conductas que motivan el ingreso: impulsión cata-tónica, comando alucinatorio, IAE. Se objetiva en conducas basales y pragmatismos.
+====== Síndrome conductual 
+Conductas que motivan el ingreso: impulsión catatónica, comando alucinatorio, IAE. Se objetiva en conducas basales y pragmatismos.
 
 ===== Personalidad y nivel
 
@@ -331,56 +331,33 @@ Criterios de administración
 
 Mecanismo de acción :< afinidad D2 que los clásicos / bloq D1 equivalente a D2 + bloq 5HT2 / > especificidad en D2 mesolímbico razón por la cual raramente ocurren ef 2º EP (acatisia, disk aguda, parkinson) y no existen reportes de Disquinesia Tardía (otra indicación de clozapina)
 
-. riesgo de agranulocitosis : 2% en 1er año de trat / enteramente reversible si el tto se suspende en for-ma precoz : monitoreo sanguíneo regular / CON-SENTIMIENTO INFORMADO / hemograma semanal x 18 sem y luego mensual / ef 2º idiosincrásico / 75% de casos reportados entre 4 -18 sem
+. riesgo de agranulocitosis : 2% en 1er año de trat / enteramente reversible si el tto se suspende en forma precoz : monitoreo sanguíneo regular / CON-SENTIMIENTO INFORMADO / hemograma semanal x 18 sem y luego mensual / ef 2º idiosincrásico / 75% de casos reportados entre 4 -18 sem
 
 Valoración pre tto : anamnésico : AP de agranulocitosis por drogas - alt MO / hemograma c/ fórmula leucocitaria (rango normal : leucocitos 4 a 11 mil - neutrófilos 2500 a 7500 / AP neurológicos ( s/t con-vulsiones) / evaluación cardiológica
 
 . contraindicaciones : AP de agranulocitosis x dro-gas / recuento leucocitario bajo previo (< 3,5 x 10 a la nueve) / trast M.O. actual o en AP / uso concomitante de otro supresor de M.O. (cbz, ojo c/ fenotia-zínicos)
-
 . posología : inicio por 25 mg / día probar tolerancia (sedación y P.A.) y aumentos diarios de 25-50 mg hasta 300 / día en 7-14 días / eficacia antipsicótica entre dosis de 300 y 450 mg / día / dosis máx reco-mendada 600 mg, a/v requieren hasta 900
-
 . Hipotensión ortostática en administración inicial: tomar precauciones si hay administración concomitante de anticolinérgicos, hipotensores, BZD
-
 . sedación, ef colateral frecuente, concentrar la po-sología en la noche
-
 . convulsiones, ef 2º dosis dependiente, riesgo por encima de 450 mg, agregar valproato siempre (anti-convulsivante que no aumenta riesgo de agranulocitosis) / riesgo : enf cerebral previa - dosis : 4-5 % entre 600-900 mg / reducir dosis y buscar patología subyacente responsable / continuar con dosis < /
-
 . luego de benef terap máx se puede pasar a mante-nim titulando hacia abajo hasta un rango de 150- 300 / día
-
 . índice de resp en resistentes a tto convencional : 30% mejoran en 6 sem / 55% mejoran luego de un año
-
 . luego de beneficio terap máx se puede pasar a do-sis de mantenimiento titulando hacia abajo hasta un rango de 150-300 mg / día
-
-. el índice de respuesta en ptes resistentes a tto con-vencional es de mejoría de 30 % en 6 sem y 55 % luego de un año
-
+. el índice de respuesta en ptes resistentes a tto con-vencional es de mejoría de 30 % en 6 sem y 55 % uego de un año
 . respuesta pobre luego de 6 meses : niveles plasmáticos : 350 nanogr / ml (s/t si es fumador)
-
 . ideal descenso lento c/ wash out de 24 hs y titulación lenta de Clozapina / si hay graves elementos de des-compensac se pueden superponer / post depot espe-rar 4-6 sem / adición de otro NL > riesgo de ef 2º EP
-
 . "olvido de tomar" : < 48 hs : reiniciar tto c/ = dosis / > 48 = patrón que esquema inicial
-
 . interrupción del tto LENTA a razón de 25-50 mg/d en período de 1-2 sem
-
 . psicoeducación : reporte inmediato de cualquier sg de infección
-
 . monitoreo leucocitario : semanal en 1ª 18 sem / luego mensualmente / 4 sem post a discontinuación
-
 . si disminuye x debajo de 3500 o hay sgs de infec-ción repetir urgente / si se interrumpe y el nº de leucocitos no baja de 3000 ni neutrófilos de 1500 se puede reiniciar con esquema inicial / si encontramos leucocitos entre 3 mil-3500 o neutrófilos entre 1500-2 mil realizar 2 hemogramas por semana
-
 . efectos 2º ( por acc sobre receptores muscarínicos, adrenérgicos, anti H1)
-
 . sedación y fatiga : usualmente transitorio / reducir dosis, titulación lenta / descartar interacc c/ OH u otras drogas / concentrar mayoría de dosis en la noche
-
 . sialorrea : reducir dosis, titulación lenta / dormir sobre toalla / dosis bajas de amitriptilina (10 a 25) o clonidina
-
 . hipertermia benigna
-
 . aumento de peso (por antagonismo 5HT)
-
 . hipotensión : usualmente transit / ojo ancianos y cardiópatas / titulación lenta / educación
-
 . taquicardia
-
 . leucocitosis
 
 Psicosocial Entrevistas frecuentes para control evolutivo, pro-moviendo una relac individualizada médico-paciente, tratando de ser flexibles ante un pte hostil y negativista
@@ -402,7 +379,6 @@ Biológico
 Realizaremos medicación neruoléptica: al principio con igual dosis con la que tuvo mejoría, ya que el ingreso al hogar puede significar un estrés importan-te. Por tratarse de un paciente con bajo perfil de cumplimiento, si bien preferimos la medicación v/o que nos permite un mejor manejo de la dosis, indi-caremos previo al alta NL de depósito como:
 
 . Decanoato de Haloperidol 50-100 mg c/21 días i/m
-
 . Palmitato de Pipotiazina 50 mg i/m cada 4 semanas.
 
 Controlaremos la aparición de efectos secundarios extrapiramidales y el recrudecimiento de su sintomatología delirante, Eventualmente y según la evolución agregaremos antiparkinsonianos de síntesis y/o benzodiacepinas, sustituyendo a la levomepromacina, ya que preferimos no asociar dos neurolépticos en el tratamiento crónico.
@@ -687,11 +663,9 @@ Lo que haya en su historia personal que actuaría en un terreno vulnerable. Fact
 
 Causa de descompensación:
 
-• abandono de medicación
-
-• empuje evolutivo de la enfermedad
-
-• estrés psicosocial
+* abandono de medicación
+* empuje evolutivo de la enfermedad
+* estrés psicosocial
 
 Psicopatología
 
@@ -699,7 +673,7 @@ Para el psicoanálisis, significa una regresión (regresión narcisista de la li
 
 Para Jaspers, la esquizofrenia es un proceso que cambia la estructura con fragmentación y creación de nuevo estado de personalidad con ruptura histórico-biográfica de la existencia.
 
-Paraclínica
+===== Paraclínica
 
 El diagnóstico es clínico. Historia anterior: corroborar el curso de la enfermedad, rendimiento pragmático, tratamientos recibidos y respuesta a ellos, grado de adhesión al tratamiento, comunicación con psiquiatra tratante.
 
@@ -715,7 +689,7 @@ Social
 
 Adquiere jerarquía y empezar por él si sólo hay datos aportados por el paciente. Consentimiento informado para la realización de ECT. Despejar temores, explicar riesgos, beneficios y efectos secundarios. Historias anteriores, medicación recibida y respuesta a ella, períodos intercríticos con nivel de adaptabilidad socio-familiar. Vínculos con los otros familiares, funcionamiento dentro del hogar. Impulsiones. Valoración de la red de apoyo psicosocial (AS, citar familia) y manejo de recursos emocionales de la familia con vistas al alta.
 
-Tratamiento
+===== Tratamiento
 
 Internación: en hospital psiquiátrico. Justificación: por intenso cuadro delirante alucinatorio, con peligro para sí mismo y para terceros, para continencia int. y/o ext. Visitas: restringidas a familiares más aptos. Destinado a:
 
