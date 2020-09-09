@@ -1,4 +1,4 @@
-=== 17 Trastornos de la conducta alimentaria
+=== Trastornos de la conducta alimentaria
 
 ==== Notas clínicas
 
@@ -9,3 +9,6 @@ Todos estos trastornos están caracterizados, en un grado variable, por alteraci
 La característica central de la AN es el bajo peso. El TA está caracterizado por episodios de atracones (hiperfagia con pérdida de control). En la BN existe, además, una conducta compensatoria (purgativa o no purgativa). Todos estos trastornos producen un impacto significativo en el funcionamiento y calidad de vida.
 
 El inicio es más frecuente en la adolescencia o adultez temprana. Tanto la AN como la BN evolucionan en un 50% de los casos a la remisión a largo plazo. Se conoce menos de la evolución del TA. La AN puede tener una prevalencia de aproximadamente 4% de mujeres jóvenes. La BN y el TA tienen una prevalencia de vida de 1.0 y 1.9 % respectivamente.
+
+=== Trastornos del sueño
+Melatonina aprobada para uso en adolescentes footnote:[Wei, Sha, et al. "Efficacy and safety of melatonin for sleep onset insomnia in children and adolescents: a meta-analysis of randomized controlled trials." Sleep Medicine 68 (2020): 1-8.].
