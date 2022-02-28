@@ -1,12 +1,25 @@
-=== Fobia simple / Neurosis fóbica
+== Fobia simple / Neurosis fóbica
 
-==== Encare
+=== Notas clínicas
+Ansiedad footnote:[https://doi.org/10.1176/appi.ajp.2020.20010057]: función adaptativa.
+Ansiedad patológica: preocupación excesiva, hipervigilancia, activación fisiológica, conductas de evitación.
+Incidencia de lo genético: 30-50%, multigénico.
+Factores no genéticos: estilo parental, aprendizaje social, adversidad en la infancia (exposición a estrés, maltrato, NSEC deficitario).
+Epidemiología: prevalencia en 12 meses: 18%. M a H -> 3 a 1. En niños y adolescentes prevalencia 15-20%. 
+Predictor de mala evolución para otros trastornos.
+Clasificación DSM5: trastorno de ansiedad de separación, mutismo selectivo, trastorno de ansiedad social, trastorno de pánico, agorafobia, trastorno de ansiedad generalizada, trastorno de ansiedad inducido por sustancias o fármacos, trastorno de ansiedad debido a enfermedad médica.
+Quedan aparte: trastornos relacionados a estresores (previamente TEPT y trastorno por estrés agudo) y TOC.
+De todos modos se siguen considerando todos trastornos de ansiedad.
+Marcador más fiable en infancia: inhibición comportamental en respuesta a extraños o a situaciones nuevas -> estable en el tiempo -> x3 o x 4 riesgo de trastorno de ansiedad y FR para depresión y trastornos por consumo de sustancias.
+Circuitos involucrados: núcleo central de la amígdala y corteza orbitofrontal posterior).
+
+=== Encare
 
 En suma: paciente de sexo X, de X años de edad, con AFP de trastornos de ansiedad que consulta por cuadro de X tiempo de evolución centrado en temores específicos / inespecíficos que pasamos a analizar.
 
-===== Agrupación sindromática
+==== Agrupación sindromática
 
-====== Síndrome fóbico
+===== Síndrome fóbico
 
 Entendiendo por fobia, la presencia de un temor irracional y exagerado, persistente en el tiempo, con objeto colocado en el exterior que le genera conductas de evitación y de tranquilización. Está dado por:
 
@@ -36,27 +49,27 @@ Entendiendo por fobia social el temor irracional persistente y reconocible de tu
 
 Entendiendo por fobia simple el temor persistente a un objeto o situación.
 
-====== Síndrome de ansiedad-angustia
+===== Síndrome de ansiedad-angustia
 
 Bajo la forma de ansiedad generalizada (ver F41.1) o crisis de pánico (ver F41.0).
 
-====== Síndrome conductual
+===== Síndrome conductual
 
 Subsidiario de la fobia ya analizada.
 
 * consumo de alcohol y/o benzodiacepinas
 * pragmatismos: indican gravedad de la fobia, de X evolución
 
-====== Síndrome depresivo
+===== Síndrome depresivo
 
-====== Síndrome hipocondríaco
+===== Síndrome hipocondríaco
 
 Definido como la interpretación no realista de signos y sensaciones físicas que conducen a preocupación o temor de padecer una enfermedad. Elaboración hipocondríaca de los síntomas de angustia. Diferenciar hipocondría (la consulta al médico no calma ansiedad) de:
 
 * Nosofobia (la consulta al médico calma la angustia y es equivalente a una conducta tranquilizadora)
 * Psicosis: convicción delirante de padecer enfermedad.
 
-====== Síndrome de despersonalización
+===== Síndrome de despersonalización
 
 Constituido x 3 elementos clásicos:
 
@@ -64,25 +77,25 @@ Constituido x 3 elementos clásicos:
 * Desanimación: cambio del yo psíquico: "como otra persona".
 * Desrealización: cambia el ambiente. Especificar si aparece vinculado la angustia.
 
-===== Personalidad y nivel
+==== Personalidad y nivel
 
-Nivel: cualquiera (independencia de ejes I y II). 
+Nivel: cualquiera (independencia de ejes I y II).
 
-Personalidad: 
+Personalidad:
 
-* Conflictiva infantil 
-* Rasgos neuróticos globales 
-* Rasgos de la serie fóbica: 
-** Huida hacia adelante: comportamiento de desafío, hiperocupación 
-** Tímido, pasivo, dependiente 
-** Actitud evitativa 
-** Dificultad para sobreponerse a pérdidas 
-** Tendencia a la inestabilidad motora (vértigo, falta de equilibrio) e hiperestesia somática 
+* Conflictiva infantil
+* Rasgos neuróticos globales
+* Rasgos de la serie fóbica:
+** Huida hacia adelante: comportamiento de desafío, hiperocupación
+** Tímido, pasivo, dependiente
+** Actitud evitativa
+** Dificultad para sobreponerse a pérdidas
+** Tendencia a la inestabilidad motora (vértigo, falta de equilibrio) e hiperestesia somática
 * Buena relación interpersonal, pedido de ayuda
 
-===== Diagnóstico positivo
+==== Diagnóstico positivo
 
-====== Nosografía Clásica
+===== Nosografía Clásica
 
 .Neurosis
 
@@ -101,7 +114,7 @@ Por:
 * Depresión (disfórica)
 * Exacerbación de síntomas
 
-====== DSM IV - CIE-10
+===== DSM IV - CIE-10
 
 .F40.0: Agorafobia (sin historia de trastorno de angustia)
 Requiere:
@@ -138,7 +151,7 @@ G. descartar otros trastornos mentales.
 
 Especificadores: tipo (animal, ambiental, sangre-inyecciones-daño, situacional, otros)
 
-===== Diagnósticos diferenciales
+==== Diagnósticos diferenciales
 
 .Nosografía clásica
 
@@ -169,17 +182,17 @@ Los diagnósticos diferenciales son diferentes dado que estos sistemas clasifica
 * Inducidos por sustancias
 * Como diagnósticos adicionales (más que diferenciales) considerar Trastorno de la Personalidad del grupo C (sobre todo TP por Evitación).
 
-===== Etiopatogenia y psicopatología
+==== Etiopatogenia y psicopatología
 
 Se propone una gran heterogeneidad causal, aplicándose en general el modelo de estrés-diátesis.
 
-====== Biológico
+===== Biológico
 
-Algunos autores proponen un modelo vulnerabilidad-estrés, citando una predisposición constitucional en personas que nacen con un temperamento específico conocido como "inhibición conductual a lo desconocido", que ante factores de estrés constituirían una fobia. 
+Algunos autores proponen un modelo vulnerabilidad-estrés, citando una predisposición constitucional en personas que nacen con un temperamento específico conocido como "inhibición conductual a lo desconocido", que ante factores de estrés constituirían una fobia.
 
-Para el caso de la fobia específica y la fobia social, podría existir un componente genético (tiende a darse en la misma familia: 2/3 de los sujetos tienen al menos un familiar de primer grado con una fobia del mismo tipo). Para la fobia social hay mayor concordancia entre gemelos monocigóticos. Los familiares de primer grado de pacientes con fobia social tiene 3 veces más probabilidades de tenerlas que los familiares de personas sanas. 
+Para el caso de la fobia específica y la fobia social, podría existir un componente genético (tiende a darse en la misma familia: 2/3 de los sujetos tienen al menos un familiar de primer grado con una fobia del mismo tipo). Para la fobia social hay mayor concordancia entre gemelos monocigóticos. Los familiares de primer grado de pacientes con fobia social tiene 3 veces más probabilidades de tenerlas que los familiares de personas sanas.
 
-Para el caso de la fobia social, diversos autores postulan la existencia de alteraciones en sistemas de neurotransmisión (adrenérgico, serotoninérgico y dopaminérgico), basado en la eficacia de fármacos como los antagonistas beta-adrenérgicos, los ISRS y los IMAO en este trastorno. Los pacientes con FS liberarían más adrenalina a nivel central y periférico que los no-fóbicos. 
+Para el caso de la fobia social, diversos autores postulan la existencia de alteraciones en sistemas de neurotransmisión (adrenérgico, serotoninérgico y dopaminérgico), basado en la eficacia de fármacos como los antagonistas beta-adrenérgicos, los ISRS y los IMAO en este trastorno. Los pacientes con FS liberarían más adrenalina a nivel central y periférico que los no-fóbicos.
 
 En la fobia social generalizada podría estar alterado el sistema dopaminérgico, esta afirmación se basa en:
 
@@ -189,11 +202,11 @@ En la fobia social generalizada podría estar alterado el sistema dopaminérgico
 * Altas tasas de Fobia Social en pacientes con Enfermedad de Parkinson.
 * Baja actividad dopaminérgica detectada en cepas de ratones "tímidos"
 * Bajos niveles en LCR de ácido homovanílico en pacientes con T de Pánico y Fobia Social.
-* En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopamina a nivel del estriado. 
+* En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopamina a nivel del estriado.
 
 Neuroimagen: los estudios sugieren la presencia de circuitos neurales específicos involucrados en la Fobia Social (cíngulo anterior, cortex prefrontal dorsolateral, cerebelo, cortex orbitofrontal).
 
-====== Psicológico
+===== Psicológico
 
 .Psicoanálisis
 
@@ -201,31 +214,31 @@ Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún 
 
 * Represión: mecanismo destinado a mantener la pulsión fuera de la representación consciente. Este mecanismo fracasa por lo cual la conflictiva rechazada irrumpe en la conciencia debiendo recurrir el yo a defensas auxiliares para combatir la angustia que provocan las pulsiones genitales edípicas incestuosas
 * Desplazamiento: separa el afecto de la representación prohibida y lo desplaza a una situación u objeto en el exterior, aparentemente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
-* Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado. 
+* Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado.
 
-La reactivación del conflicto sobrepasa los mecanismos de defensa ya estructurados y se manifiesta como angustia. Se trata de una regresión y fijación a etapa edípica del desarrollo psicosexual, vinculado a intensa angustia de castración (el impulso sexual continuaría teniendo una marcada connotación incestuosa en el adulto por lo que la activación sexual tiende a transformarse en ansiedad que de forma característica es un miedo a la castración). 
+La reactivación del conflicto sobrepasa los mecanismos de defensa ya estructurados y se manifiesta como angustia. Se trata de una regresión y fijación a etapa edípica del desarrollo psicosexual, vinculado a intensa angustia de castración (el impulso sexual continuaría teniendo una marcada connotación incestuosa en el adulto por lo que la activación sexual tiende a transformarse en ansiedad que de forma característica es un miedo a la castración).
 
-Teorías más recientes también proponen la existencia de otras angustias: de separación (Agorafobia), ansiedad del Superyo (vergüenza vinculada a la eritrofobia). 
+Teorías más recientes también proponen la existencia de otras angustias: de separación (Agorafobia), ansiedad del Superyo (vergüenza vinculada a la eritrofobia).
 
 Dentro del modelo psicoanalítico se destaca la existencia de actitudes contra-fóbicas, patrón conductual que representa una negación (del temor ante el objeto). La persona busca y se enfrenta a situaciones de peligro. Podría estar implicado el mecanismo de defensa de "identificación con el agresor".
 
 .Teoría Cognitivo-comportamental
 
-El modelo teórico del aprendizaje (Watson) vincula la fobia y la evitación consiguiente al modelo estímulo-respuesta pavloviano tradicional de los reflejos condicionados, donde un estímulo originalmente neutro se transforma en condicionado para producir ansiedad al presentarse apareado a un estímulo amenazante. Si bien el condicionamiento clásico puede explicar el origen de la fobia, no explica el mantenimiento, para lo cual se postula la intervención del condicionamiento operante: el patrón de evitación se muestra eficaz para reducir la ansiedad por lo que se refuerza el mantenimiento de la fobia. 
+El modelo teórico del aprendizaje (Watson) vincula la fobia y la evitación consiguiente al modelo estímulo-respuesta pavloviano tradicional de los reflejos condicionados, donde un estímulo originalmente neutro se transforma en condicionado para producir ansiedad al presentarse apareado a un estímulo amenazante. Si bien el condicionamiento clásico puede explicar el origen de la fobia, no explica el mantenimiento, para lo cual se postula la intervención del condicionamiento operante: el patrón de evitación se muestra eficaz para reducir la ansiedad por lo que se refuerza el mantenimiento de la fobia.
 
 Otro mecanismo de aprendizaje que podría estar implicado es el moldeamiento (por observación de reacciones de un tercero).
 
-====== Social
+===== Social
 
 Estrés psicosocial en el curso de vida, en especial: muerte de un progenitor, separación de progenitores, crítica o humillación por terceros, violencia intrafamiliar: activarían la diátesis latente con la consiguiente aparición de síntomas.
 
-===== Paraclínica
+==== Paraclínica
 
-====== Biológico
+===== Biológico
 
 Examen físico completo: neurológico, signos de intoxicación por psicoestimulantes (midriasis, PA, pulso), tiroides, CV (eventual EcoCG, ECG, para uso de AD y buscando trastornos de la conducción). Paraclínica general.
 
-====== Psicológico
+===== Psicológico
 
 Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorscharch), no proyectivos (Minnesota), evaluando:
 
@@ -235,11 +248,11 @@ Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorscharch), 
 
 Para el seguimiento del trastorno, pueden ser útiles las escalas de cuantificación de síntomas.
 
-====== Social
+===== Social
 
 Familiares y terceros. Valoración de red de soporte. Datos de HC y tratamientos previos.
 
-===== Tratamiento
+==== Tratamiento
 
 * Ambulatorio con control en policlínica
 * Hospitalizar según entidad de síndromes asociados (ej. depresión)
@@ -252,37 +265,37 @@ Objetivos del tratamiento:
 * Reducir los síntomas autonómicos y fisiológicos de ansiedad
 * Lograr mejores niveles de funcionamiento Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
 
-====== Biológico
+===== Biológico
 
 .Agorafobia sin trastorno de pánico
-El tratamiento de la agorafobia sin crisis de pánico sería, en primera instancia, psicoterapéutico. Como coadyuvante o para casos resistentes pueden usarse ISRS. 
+El tratamiento de la agorafobia sin crisis de pánico sería, en primera instancia, psicoterapéutico. Como coadyuvante o para casos resistentes pueden usarse ISRS.
 
-Primera línea: ISRS/Venlafaxina. 
+Primera línea: ISRS/Venlafaxina.
 
-Segunda línea: Clorimipramina (o Imipramina). Iniciar con 10 mg con comida, con aumentos progresivos de 10 mg cada 2-3 días y luego aumentos de 25 mg cada 2-3 días (estos pacientes pueden presentar sobreestimulación si se comienza de forma brusca) hasta 100-300 mg en 2-4 tomas (o en 1-2 tomas en preparados de liberación sostenida). Está contraindicada en caso de IAM reciente, arritmia severa, glaucoma, retención urinaria, 1º trimestre de embarazo. Precauciones en: ancianos, epilépticos, bipolares, riesgo suicida, trabajos de riesgo. Efectos secundarios: anticolinérgicos. Interacciones: IMAOs, simpaticomiméticos. 
+Segunda línea: Clorimipramina (o Imipramina). Iniciar con 10 mg con comida, con aumentos progresivos de 10 mg cada 2-3 días y luego aumentos de 25 mg cada 2-3 días (estos pacientes pueden presentar sobreestimulación si se comienza de forma brusca) hasta 100-300 mg en 2-4 tomas (o en 1-2 tomas en preparados de liberación sostenida). Está contraindicada en caso de IAM reciente, arritmia severa, glaucoma, retención urinaria, 1º trimestre de embarazo. Precauciones en: ancianos, epilépticos, bipolares, riesgo suicida, trabajos de riesgo. Efectos secundarios: anticolinérgicos. Interacciones: IMAOs, simpaticomiméticos.
 
 Tercera línea: si no hay respuesta con Clorimipramina, puede haber respuesta con Fenelzina 45-90 mg/día (máximo = 1.2 mg/Kg/día). Iniciar con 15 mg/día aumentando de a 15 mg lentamente hasta lograr control de manifestaciones. Está contraindicada en caso de insuficiencia cardíaca, AP o riesgo de AVE, insuficiencia hepática y Feocromocitoma. Debe informarse al paciente de las restricciones dietéticas referidas a alimentos que contienen tiramina (pueden desencadenar crisis hipertensivas): quesos, embutidos, conservas de carne, habas, bananas, pasas de uva, higos, dátiles, levadura, cerveza, vino, café, chocolate, bebidas cola. Se proscribirán los siguientes medicamentos: aminas vasopresoras (incluso las contenidas en gotas nasales y antigripales), Meperidina, otros IMAO, tricíclicos, anorexígenos, Dopamina. Debe suspenderse 10 días antes de una cirugía de elección. Reacciones adversas: CV (hipotensión postural, crisis hipertensivas), neuropsíquicas, digestivas, leucopenia. Interacciones medicamentosas importantes.
 
 La duración de cada prueba terapéutica debe ser de 8-12 semanas (mayor que en la depresión). El tratamiento se continuará a las dosis con las que se obtuvo mejoría por 6-12 meses luego de la remisión sintomática. A partir de ese momento se continúa con la dosis mínima eficaz por 2-5 años.
 
 .Fobia específica
-El tratamiento básico es psicoterapéutico, el tratamiento farmacológico será de apoyo pudiendo utilizarse: Benzodiacepinas: de cualquier tipo a dosis adecuadas para cada caso, generalmente en monodosis para disminuir la ansiedad en el momento de la exposición. Por ejemplo: Alprazolam 1 mg media hora antes de la situación fóbica. Ambos fármacos deben dejar de usarse cuando desaparezcan los síntomas. Propranolol: en monodosis (20-40 mg) media hora antes de la situación fóbica. El uso de medicación en forma continua queda reservado para casos refractarios: Alprazolam 0.5-1 mg c/8 o Propranolol 20-80 mg/día. Los fármacos en pauta fija se mantendrán hasta 6 meses después de la remisión sintomática. 
+El tratamiento básico es psicoterapéutico, el tratamiento farmacológico será de apoyo pudiendo utilizarse: Benzodiacepinas: de cualquier tipo a dosis adecuadas para cada caso, generalmente en monodosis para disminuir la ansiedad en el momento de la exposición. Por ejemplo: Alprazolam 1 mg media hora antes de la situación fóbica. Ambos fármacos deben dejar de usarse cuando desaparezcan los síntomas. Propranolol: en monodosis (20-40 mg) media hora antes de la situación fóbica. El uso de medicación en forma continua queda reservado para casos refractarios: Alprazolam 0.5-1 mg c/8 o Propranolol 20-80 mg/día. Los fármacos en pauta fija se mantendrán hasta 6 meses después de la remisión sintomática.
 
 .Fobia social
-Fobia social restringida o limitada 
+Fobia social restringida o limitada
 
-* Primera línea: beta bloqueantes (Propranolol 40-80 mg 30 minutos antes de la previsible situación fóbica). 
+* Primera línea: beta bloqueantes (Propranolol 40-80 mg 30 minutos antes de la previsible situación fóbica).
 * Segunda línea: benzodiacepinas, dosis de 5-15 mg de equivalentes Diazepam.
 
-Fobia social generalizada o difusa Si bien el fármaco mejor estudiado y con mayores índices de eficacia es la Fenelzina, su manejo complicado (con contraindicaciones y restricciones) lo relegan a un segundo plano. 
+Fobia social generalizada o difusa Si bien el fármaco mejor estudiado y con mayores índices de eficacia es la Fenelzina, su manejo complicado (con contraindicaciones y restricciones) lo relegan a un segundo plano.
 
-* Primera línea: Paroxetina 20 - 60 mg/día > Sertralina > Fluvoxamina (orden según calidad de evidencia en estudios realizados) 
-* Segunda línea: Clorimipramina, Paroxetina, Sertralina, Moclobemida (eficacia clínica limitada). Fenelzina 45-90 mg/día, iniciando con 15 mg/día, aumentando hasta 45-60 mg/día, esperando 4 semanas y luego, según resultados y tolerancia puede aumentarse hasta. 
-* Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la terapia única con BZD es de eficacia dudosa o limitada). 
+* Primera línea: Paroxetina 20 - 60 mg/día > Sertralina > Fluvoxamina (orden según calidad de evidencia en estudios realizados)
+* Segunda línea: Clorimipramina, Paroxetina, Sertralina, Moclobemida (eficacia clínica limitada). Fenelzina 45-90 mg/día, iniciando con 15 mg/día, aumentando hasta 45-60 mg/día, esperando 4 semanas y luego, según resultados y tolerancia puede aumentarse hasta.
+* Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la terapia única con BZD es de eficacia dudosa o limitada).
 
 En casos de fobia generalizada se mantendrá el tratamiento hasta 12 meses luego de remisión sintomática, a las dosis con las que se logró mejoría. Luego pueden disminuirse de forma progresiva, si aparece recidiva se vuelve a las dosis eficaces que se mantendrán por 12 meses más. Tratamientos superiores al año podrían estar indicados en: pacientes con síntomas significativos persistentes, presencia de comorbilidad, inicio precoz con TP por Evitación severo y pacientes con historia previa de recaídas.
 
-====== Psicológico
+===== Psicológico
 
 Entrevistas en ambiente cálido y de escucha, afianzar vínculo, explicar enfermedad.
 
@@ -298,11 +311,11 @@ Terapia cognitivo-comportamental: en especial técnicas de entrenamiento en rela
 
 Terapia cognitivo-comportamental: en especial técnicas de inoculación de estrés (exposición para reducción del miedo), entrenamiento en asertividad y habilidades sociales, reestructuración cognitiva.
 
-====== Social
+===== Social
 
 Terapia familiar, grupo de apoyo. Alianza terapéutica con familiar por tendencia de los fóbicos a abandonar la terapia.
 
-===== Evolución y pronóstico
+==== Evolución y pronóstico
 
 Puede seguir varios caminos evolutivos:
 
@@ -325,7 +338,7 @@ El pronóstico depende de:
 * Comorbilidad (depresión, alcoholismo, TP)
 * Antecedentes familiares (predictor negativo para el caso de la fobia social).
 
-===== Fuentes:
+==== Fuentes:
 
 * RTM II
 * The Journal of Clinical Psychiatry 59(supp 17), 1998.

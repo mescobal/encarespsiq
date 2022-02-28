@@ -1,4 +1,4 @@
-=== Fragmentos
+== Fragmentos
 
 En los lugares marcados con el ícono "pegar" (icon:paste[]) pueden insertarse textos similares a los que se encuentran a continuación. No se recomienda la copia textual, porque puede tener un efecto negativo a los ojos del tribunal.
 

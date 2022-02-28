@@ -1,50 +1,53 @@
-=== 13 Trastorno de Pánico / Ansiedad generalizada
+== Trastorno de Pánico / Ansiedad generalizada
 
-==== Encare
-Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digestivos), derivaciones desde otras epecialidades (cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
+=== Encare
+Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digestivos), derivaciones desde otras especialidades (cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
 
-===== Agrupación sindromática
+==== Agrupación sindromática
 
-====== Síndrome de ansiedad-angustia
+===== Síndrome de ansiedad-angustia
 
-Entendemos por ansiedad el sentimiento de aprensión causado por la anticipación de un peligro (interno, externo, real o imaginado), que se acompaña de síntomas somáticos de tensión. Está dada por:
+Entendemos por ansiedad una experiencia displacentera con un componente psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o a morir, desrealización / despersonalización) y uno somático (psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos, mareos, disfagia, náuseas, malestar abdominal). Está centrada en el sentimiento de aprensión causado por la anticipación de un peligro (interno, externo, real o imaginado). Puede presentarse como episodio crítico o como estado más o menos persistente:
 
 .Crisis de angustia
-Definir crisis de angustia. De X evolución, de inicio brusco, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia). Con rápido aumento de intensidad, de duración breve.  Crisis que se presentan clínicamente con X (lista de síntomas). Crisis que han tenido una evolución X (edad de inicio, pauta, frecuencia, reprecusión).
-
+Definir crisis de angustia. De X evolución, de inicio brusco, paroxísticas, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia). Con rápido aumento de intensidad, de duración breve.  Crisis que se presentan clínicamente con X (lista de síntomas). Crisis que han tenido una evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio evolutivo).
 
 .Ansiedad basal
-Fondo de ansiedad difusa y permanente Dado por:
+Fondo de ansiedad difusa y permanente. Dado por:
 
-* Fondo permanente de ansiedad y preocupación no realista o excesiva.
+* Fondo permanente de ansiedad y preocupación no realista o excesiva sobre una gama amplia de acontecimientos.
 * Tensión motora: temblor, sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva, hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca, mareos, sensación de inestabilidad, trastornos gastrointestinales, sofocaciones, escalofríos, micción frecuente, "nudo en la garganta", cefaleas).
 * Hipervigilancia: sentirse en peligro, alarma exagerada, dificultad para concentrarse, insomnio, irritabilidad.
 * Alteraciones de las conductas basales, alteraciones somáticas funcionales (anorexia, disfunción sexual, insomnio).
 
 TIP: La semiología puede dividirse en componentes: psíquicos (afectivo / cognitivo) y somáticos (psicomotriz / neurovegetativo).
 
-====== Síndrome fóbico
+===== Síndrome fóbico
 
-Entendiendo por fobia X. Que aparece a partir de las crisis de angustia configurando una Agorafobia (definirla).
+Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de angustia configurando una Agorafobia (definirla).
 
-====== Síndrome depresivo
+===== Síndrome depresivo
 
-Vinculado a la ansiedad.Marcar la cronología (primero ansiedad, luego depresión).
+Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego depresión).
 
-====== Otros síndromes
+===== Otros síndromes
 
 * Síndrome disociativo
 * Síndrome conversivo: motor (como crisis o más permanentes), sensorial, sensitivo, neurovegetativo.
 * Síndrome obsesivo-compulsivo
 * Síndrome de despersonalización: puede hablar de la gravedad de la ansiedad-angustia.
 
-===== Personalidad y nivel
+==== Personalidad y nivel
 
-Rasgos evitativos: conflictividad infantil, introversión, timidez, rasgos de cualquier serie, síntomas de cualquier serie. Destacar: buena relación interpersonal, pedido de ayuda.
+Nivel: cualquiera.
 
-===== Diagnóstico positivo
+Personalidad: rasgos evitativos, conflictividad infantil, introversión, timidez, rasgos de cualquier serie, síntomas de cualquier serie. Dificultad para superar e integrar separaciones y pérdidas. Dificultades para adapta|rse a situaciones nuevas. Dificultad para manejar la agresividad.
 
-====== Nosografía clásica
+Destacar: buena relación interpersonal, pedido de ayuda.
+
+==== Diagnóstico positivo
+
+===== Nosografía clásica
 
 .Neurosis
 icon:paste[] Fragmentos: Neurosis.
@@ -56,7 +59,7 @@ Ya que el cuadro está centrado en la ansiedad angustia. Y si bien existen eleme
 Por
 
 * Exacerbación de la sintomatología de ansiedad-angustia con aparición de episodios críticos de angustia y utilización de mecanismos de defensa tipo fóbicos, intento fallido por el momento de estructuración en neurosis fóbica.
-* Síndrome depresivo con elementos disfóricos como consecuencia de un desencadenante... (depresión neurótica).
+* Síndrome depresivo con elementos disfóricos como consecuencia de un desencadenante (reactivo)... (depresión neurótica).
 
 .Causa de descompensación
 
@@ -67,7 +70,7 @@ Conflicto psicosocial, estrés ambiental, separaciones, situaciones de pérdida,
 * Gravedad de las crisis de angustia: por cantidad de crisis (grave > 8 al mes), según períodos intercríticos.
 * Gravedad de la evitación agorafóbica: según limitaciones en la vida cotidiana y uso de acompañantes al salir.
 
-====== DSM IV - CIE-10
+===== DSM IV - CIE-10
 
 * Trastorno de angustia con Agorafobia.
 * Trastorno de angustia sin Agorafobia.
@@ -86,13 +89,10 @@ No codifica aislado.Ver F40.
 .F40.01 Trastorno de pánico con Agorafobia
 Requiere:
 
-A Crisis de pánico inesperadas recidivantes seguidas de 1 mes o más de ansiedad anticipatoria o preocupación por las crisis y sus consecuencias o cambio del comportamiento vinculado a las crisis.
-
-B Presencia de Agorafobia.
-
-C Descartar sustancias y enfermedad médica.
-
-D No se explica mejor por otro trastorno mental (excluir sobre todo fobias).
+. Crisis de pánico inesperadas recidivantes (al menos 2) seguidas de 1 mes o más de ansiedad anticipatoria o preocupación por las crisis y sus consecuencias o cambio del comportamiento vinculado a las crisis.
+. Presencia de Agorafobia.
+. Descartar sustancias y enfermedad médica.
+. No se explica mejor por otro trastorno mental (excluir sobre todo fobias).
 
 .F41.0 Trastorno de pánico (sin Agorafobia)
 Requiere: lo mismo que F40.01, pero SIN Agorafobia
@@ -100,30 +100,21 @@ Requiere: lo mismo que F40.01, pero SIN Agorafobia
 .F41.1 Trastorno de ansiedad generalizada
 Requiere:
 
-A Ansiedad y preocupación excesivas (expectación aprensiva) sobre una amplia gama de acontecimientos o actividades por más de 6 meses.
-
-B Dificultades para controlar el estado de preocupación.
-
-C Asociada a 3 o más síntomas de: inquietud / impaciencia; fatigabilidad; dificultades para concentrarse; irritabilidad; tensión muscular; alteraciones del sueño.
-
-D La ansiedad no se limita a ser sintomática a otro trastorno del eje I (no vinculado a crisis de pánico, fobia social, trastorno de somatización, etc.).
-
-E Alteración de pragmatismos.
-
-F Descartar sustancias, enfermedad médica y trastornos psicóticos.
+. Ansiedad y preocupación excesivas (expectación aprensiva) sobre una amplia gama de acontecimientos o actividades por más de 6 meses.
+. Dificultades para controlar el estado de preocupación.
+. Asociada a 3 o más síntomas de: inquietud / impaciencia; fatigabilidad; dificultades para concentrarse; irritabilidad; tensión muscular; alteraciones del sueño.
+. La ansiedad no se limita a ser sintomática a otro trastorno del eje I (no vinculado a crisis de pánico, fobia social, trastorno de somatización, etc.).
+. Alteración de pragmatismos.
+. Descartar sustancias, enfermedad médica y trastornos psicóticos.
 
 .F43.xx Trastornos adaptativos
 Requiere:
 
-A Aparición de síntomas emocionales o comportamentales en respuesta a un estresante identificable (aparece dentro de los 3 meses de sucedido el evento).
-
-B Malestar mayor al esperable para el desencadenante, con afectación de pragmatismos.
-
-C No cumple criterios para otro trastorno del eje I (descartar sobre todo TAG, EDM y TEPT) y no es una exacerbación de otro trastorno del eje I.
-
-D No es una reacción de duelo.
-
-E Una vez que cesa el estresante los síntomas no permanecen más de 6 meses.
+. Aparición de síntomas emocionales o comportamentales en respuesta a un estresante identificable (aparece dentro de los 3 meses de sucedido el evento).
+. Malestar mayor al esperable para el desencadenante, con afectación de pragmatismos.
+. No cumple criterios para otro trastorno del eje I (descartar sobre todo TAG, EDM y TEPT) y no es una exacerbación de otro trastorno del eje I.
+. No es una reacción de duelo.
+. Una vez que cesa el estresante los síntomas no permanecen más de 6 meses.
 
 .Especificadores
 
@@ -132,9 +123,9 @@ E Una vez que cesa el estresante los síntomas no permanecen más de 6 meses.
 
 En caso de desencadenantes graves considerar los diagnósticos de Trastorno por Estrés agudo y Trastorno por Estrés Postraumático.
 
-===== Diagnóstico diferencial
+==== Diagnóstico diferencial
 
-====== Nosografía clásica
+===== Nosografía clásica
 
 .Con otras neurosis
 * Neurosis fóbica: acá la ansiedad-angustia va ligada al objeto o situación fóbica. En la neurosis de angustia no hay desencadenante específico, aunque el paciente puede evitar por ansiedad anticipatoria los lugares donde puede quedar expuesto en caso de sufrir las crisis, pero no porque estos lugares sean desencadenantes por sí mismos. Tampoco tienen conductas tranquilizadoras.
@@ -157,29 +148,36 @@ También debemos descartar que esto sea secundario a abstinencia de sustancias p
 
 Aunque no existan datos concretos que apunten a una causa de las enumeradas, de cualquier modo descartaremos por paraclínica. Destacar que ningún trastorno médico descarta un trastorno psíquico coexistente.
 
-====== DSM IV - CIE-10
+===== DSM IV - CIE-10
 
 .Trastorno de personalidad
 Al poder acumular diagnóstico en cada uno de los ejes (pueden coexistir varios trastornos de ansiedad + trastornos del estado de ánimo + trastornos de la personalidad), los DD cambian:
 
 .Entre trastornos de ansiedad
 
-Que no sean acumulables, por ejemplo: DD entre TAG y Trastornos adaptativos. Algunos pueden acumularse, por ejemplo: TAG y Trastorno de pánico pueden coexistir, siempre que la ansiedad no haga referencia exclusivamente al trastorno de pánico. Similares consideraciones para TEAg y TEPT.
+Que no sean acumulables, por ejemplo: DD entre TAG y Trastornos adaptativos. Algunos pueden acumularse, por ejemplo: TAG y Trastorno de pánico pueden coexistir, siempre que la ansiedad no haga referencia exclusivamente al trastorno de pánico. Similares consideraciones para TAG y TEPT.
 
 .Causas médicas y sustancias de trastornos de ansiedad
 
-Descartar en especial Hipertiroidismo (temblores, palmas frías y húmedas, nerviosismo).
+Descartar en especial Hipertiroidismo (temblores, palmas frías y húmedas, nerviosismo), feocromocitoma, hipoglicemias.
+
+. Otas causas de síntomas de ansiedad
+
+* Sustancias: intoxicación (cocaína, estimulantes) o abstinencia (alcohol, benzodiacepinas, barbitúricos).
+* Fármacos: corticoides, T4.
 
 .Trastorno por somatización
 Trastornos somatomorfos/disociativos
 
-===== Diagnóstico etiopatogénico y psicopatológico
+==== Diagnóstico etiopatogénico y psicopatológico
 
-====== Etiopatogenia
+===== Etiopatogenia
 
 Diferentes niveles explicativos:
 
 .Factores biológicos
+
+El modelo biológico es el de vulnerabilidad/estrés. La ansiedad es un comportamiento posible como respuesta al estrés (respuesta programada de lucha/huída). El trastorno sería el producto de la disregulación del sistema que procesa información de forma errónea aumentando la respuesta de ansiedad.
 
 Genéticos: incidencia familiar (es más probable que se hereden formas con Agorafobia). Riesgo x4 o x8 en familiares de primer grado. Apoyado en estudios con gemelos.
 
@@ -196,6 +194,7 @@ En estudios imagenológicos se señalan alteraciones en lóbulos temporales (hip
 *Teoría cognitivo-comportamental*
 
 La ansiedad sería una respuesta condicionada a estímulos ambientales específicos (exposición primaria generalización + conceptualización cognitiva). También estarían implicada la imitación de conductas parentales.
+En lo cognitivo: estructura cognitiva que determina una interpretación catastrófica de las sensaciones somáticas e interoceptivas y una percepción de uno mismo y del riesgo del entorno erradas.
 
 *Psicodinámico*
 
@@ -208,29 +207,29 @@ Relación con la aparición de pulsiones agresivas. En un intento de enfoque com
 * Factores sexuales: deseo culpabilizado, temor a la sexualidad
 * Estrés psicosocial (duelo patológico: duración, síntomas disociativos relacionados con el mismo) reactiva viejas pérdidas depresión culpa.
 
-====== Psicopatología
+===== Psicopatología
 
 Para el psicoanálisis la ansiedad sería una señal de la inminente aparición a nivel consciente de un impulso intolerable para el Yo. Esto implica una falla del mecanismo de represión, lo que motivaría el uso de otros mecanismos de defensa que pueden producir formaciones sintomáticas constituyéndose la neurosis. Según el psicoanálisis existirían 4 tipos de ansiedad: ansiedad impulsiva o del Ello, ansiedad de separación, ansiedad de castración y ansiedad del Superyo. Existe una mala estructuración del Yo que fracasa en la síntesis e integración de los impulsos instintivos del Ello, las exigencias normativas y prohibitivas del Superyo y las presiones de la realidad exterior. La reactivación del conflicto psíquico inconsciente vinculado a la angustia de castración sobrepasa el mecanismos de represión (destinado a mantener la pulsión fuera del campo consciente) por lo cual los impulsos rechazados amenazan irrumpir en la conciencia alterando la homeostasis emocional. El enfrentamiento del yo con dicha conflictiva provoca la ansiedad cuya función es la de anunciar la existencia de un peligro. 
 
 La neurosis de angustia es el primer estadio de las restantes neurosis en la cual el yo no ha aprendido a defenderse. Si bien existen intentos de recuperar el equilibrio recurriendo a mecanismos de defensa estructurados de tipo histéricos (disociativos, conversivos), obsesivos, fóbicos. En el caso de coexistencia con síntomas agorafóbicos, estarían en juego mecanismos de defensa tales como la represión, desplazamiento, evitación y simbolización.
 
-===== Paraclínica
+==== Paraclínica
 
 El diagnóstico es clínico.
 
-====== Biológico
+===== Biológico
 
 Descartar causas tratables ya citadas. EF completo y PC e interconsultas según hallazgos. Rutinas de valoración general. ECG: trastornos de la conducción por ADT, extrasístoles. En especial: Función Tiroidea.
 
-====== Psicológico
+===== Psicológico
 
 Entrevistas reiteradas profundizando en el conflicto, evaluación más concreta de eventos vitales. Superado el cuadro actual con vistas a un abordaje psicoterapéutico procurando conocer la fortaleza yoica, mecanismos de defensa y manejo de la angustia. Tests de personalidad proyectivos (TAT y Rorscharch), no proyectivos (MMPI-Minessotta), tests de nivel (Weschler). Puede ser de utilidad para valorar la respuesta al tratamiento la aplicación de inventarios tales como el cuestionario de Hamilton para la ansiedad de 14 ítems (HAM-A).
 
-====== Social
+===== Social
 
 Entrevistas con terceros (familiares, amigos, compañeros de trabajo), red de soporte social, evaluando repercusión, objetivando reacciones de ésos así como su tolerancia con respecto al trastorno del paciente. Investigación de elementos que pueden coadyuvar a mantener el trastorno.
 
-===== Tratamiento
+==== Tratamiento
 
 Ambulatorio. Internar en caso de poca continencia familiar. Actuaremos s/t a nivel sintomático sobre:
 
@@ -243,7 +242,7 @@ Como primera medida, estableceremos un buen vínculo, realizando continentación
 
 Psicológico Entrevistas reiteradas con la frecuencia necesaria mitigando la ansiedad, en un marco de continentación. Psicoterapia de apoyo, procurando obtener los niveles previos de funcionamiento. Psicoeducación en relación a las crisis de pánico, explicando que son autolimitadas en el tiempo, que no son perjudiciales que no revisten peligro de muerte, etc.
 
-====== Trastorno de pánico
+===== Trastorno de pánico
 .Biológico
 
 *Durante la crisis*
@@ -272,7 +271,7 @@ El tratamiento medicamentoso será mantenido por 12 meses luego de la remisión 
 
 Terapia cognitivo-comportamental: psicoeducación + técnicas de manejo de la ansiedad y de la crisis de pánico (respiración controlada, relajación, reestructuración cognitiva).
 
-====== Ansiedad de fondo
+===== Ansiedad de fondo
 
 .Biológico
 Si coexiste con crisis de pánico: el tratamiento queda cubierto con lo expuesto.
@@ -291,15 +290,15 @@ Tratamiento psicoterapéutico: Terapia cognitivo-comportamental: psicoeducación
 
 Ver F40. 
 
-====== General
+===== General
 
 Mantendremos la psicoterapia de apoyo y control de medicación antidepresiva que mantendremos a largo plazo ya que su suspensión aumenta el índice de recaídas de las crisis de angustia. En algunos casos puede indicarse psicoterapia de corte analítico, una vez superado el cuadro actual. Indicado en casos de: paciente joven, con buen nivel intelectual, con deseos de curarse, que ha pedido ayuda, que inició recientemente los síntomas, con buen insight y problemática global que exceda al cuadro actual.
 
-====== Social
+===== Social
 
 Psicoeducación explicando su enfermedad y la necesidad de tratamiento y controles, actuando s nivel de desencadenantes y factores que contribuyan a mantenimiento. Eventualmente: terapia familiar.
 
-===== Evolución y pronóstico
+==== Evolución y pronóstico
 
 Trastorno con tendencia a la cronicidad con curso variable: 30% libre de sintomatología, 50% síntomas leves, 20% síntomas más graves. Del cuadro actual: cederá con el tratamiento instituido, presentando un bajo riesgo suicida. Se habla de un 80% de remisiones para el tratamiento combinado de fármacos + psicoterapia. Como complicaciones de la crisis de pánico cabe citar: ansiedad persistente, evitación fóbica, depresión, abuso de alcohol, drogas, trastorno por somatización (hipocondría secundaria), dependencia, alteraciones médicas (mayor morbilidad por HTA, UGD). Posibilidades evolutivas de la neurosis de angustia:
 
@@ -320,19 +319,20 @@ Los elementos de buen pronóstico son:
 * corta duración
 * pedido de ayuda
 
-Notas Depresión neurótica (Concepto caduco en lo nosológico, útil en la clínica).
 
-1. Tonalidad afectiva más próxima al sentimiento de tristeza normal
-2. Ansiedad intensa
-3. El contenido está relacionado con el acontecimiento desencadenante (o es + comprensible)
-4. Busca compasión/consuelo
-5. Acusa a otros de su suerte (y no a sí mismo)
-6. Sentimiento de impotencia que proyecta a los demás
-7. Mayor sensibilidad a influencias del medio que el melancólico
-8. Fondo de depresión está en relación a herida narcisista
-9. Pico vespertino
-10. Avidez afectiva puede alcanzar un carácter tiránico
-11. Menor inhibición psicomotriz que permite expresión más dramática
+.Nota: Depresión neurótica
+Concepto caduco en lo nosológico, útil en la clínica.
+- Tonalidad afectiva más próxima al sentimiento de tristeza normal
+- Ansiedad intensa
+- El contenido está relacionado con el acontecimiento desencadenante (o es + comprensible)
+- Busca compasión/consuelo
+- Acusa a otros de su suerte (y no a sí mismo)
+- Sentimiento de impotencia que proyecta a los demás
+- Mayor sensibilidad a influencias del medio que el melancólico
+- Fondo de depresión está en relación a herida narcisista
+- Pico vespertino
+- Avidez afectiva puede alcanzar un carácter tiránico
+- Menor inhibición psicomotriz que permite expresión más dramática
 
 Rasgos típicos de los Ataques de Pánico:
 
@@ -340,7 +340,7 @@ Rasgos típicos de los Ataques de Pánico:
 * AF
 * Presencia de crisis nocturnas
 
-===== Fuentes
+==== Fuentes
 
 * Kaplan
 * DSM IV

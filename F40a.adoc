@@ -1,24 +1,24 @@
-=== 12 Fobia social
+== Fobia social
 
-==== Notas clínicas
+=== Notas clínicas
 
-===== Definición
+==== Definición
 Temor ante situaciones que requieren exposición social: iniciar o mantener conversaciones, participar en pequeños grupos, tener citas, hablar con figuras de autoridad, asistir a fiestas. Percepción del temor como irracional o exagera-do. Preocupación por la posibilidad de estar en una situación embarazosa o que los demás le vean como ansioso, débil, “loco”. Temor a que los demás se den cuenta de que sus manos tiemblan. Temor a no poder articular correctamente las palabras. Pueden evitar: comer, beber, escribir en público. Síntomas de ansiedad ante la exposición: palpitaciones, temblores, sudoración, molestias gastrointestinales, diarrea, tensión muscular, rubor. Temor a evaluaciones indirectas (exámenes). De forma típica aparece en la adolescencia (rango 5 a 35 años) con el antecedente de timidez o inhibición social en la infancia. La aparición puede estar marcada por algún su-ceso vivido como humillante.
 
-====== Curso
+===== Curso
 Crónico o continuo (puede oscilar por circunstancias ambientales, por ejemplo: disminución del temor ante conversaciones con personas del sexo opuesto que desaparece luego de casarse; cambio de puesto laboral que obliga a interactuar con público).
 
 Examen psiquiátrico Dificultad para sostener la mirada. Comprobación de manifestaciones objetivas de ansiedad (rubor, manos pegajosas y frías, temblor, voz vacilante). Afectación de pragmatismos.
 
-===== Epidemiología
+==== Epidemiología
 
 Prevalencia: 3-13%. Síntoma más frecuente: temor a hablar en público. Prevalencia a 6 meses: 2-3% de población general. En estudios epidemiológicos: mujeres > hombres. En mues-tras clínicas: hombres > mujeres (causa de variación: desconocida). Prevalencia de aproximadamente un 10% en pacientes con otro trastorno de ansiedad. Mujeres con FS tienen más probabilidades de desarrollar una Agorafobia.
 
-==== Encare
+=== Encare
 
-===== Agrupación sindromática
+==== Agrupación sindromática
 
-====== Síndrome fóbico
+===== Síndrome fóbico
 
 Entendiendo por fobia, la presencia de un temor irracional y exagerado con objeto colocado en el exterior que le genera conductas de evitación y de tranquilización. De X tiempo de evolución dado por:
 
@@ -31,30 +31,30 @@ Entendiendo por fobia, la presencia de un temor irracional y exagerado con objet
 
 En este caso la ansiedad se vincula a situaciones sociales y se presenta como miedo a ser examinado por otras personas, que conduce a evitar situaciones de encuentro social. Puede estar asociado a baja autoestima y temor a las críticas. Se presenta generalmente en situaciones tales como comer o hablar en público, encontrarse con conocidos en público o introducirse o permanecer en actividades de grupo reducido (fiestas, reuniones de trabajo, clases). Se destaca la presencia de elementos somáticos tales como: ruborización, temblor de manos, náuseas o urgencia miccional. Afecta de X modo los pragmatismos.
 
-====== Síndrome de ansiedad-angustia
+===== Síndrome de ansiedad-angustia
 
 Bajo la forma de ansiedad anticipatoria (vinculada a síndrome fóbico), ansiedad generalizada (ver F41.1) o crisis de pánico (ver F41.0).
 
-====== Síndrome conductual
+===== Síndrome conductual
 
 Subsidiario de la fobia ya analizada
 
 * consumo de alcohol y/o benzodiacepinas
 * pragmatismos: indican gravedad de la fobia, de X evolución
 
-====== Síndrome depresivo
+===== Síndrome depresivo
 
 Secundario a la sintomatología de ansiedad (o en comorbilidad).
 
-===== Personalidad y nivel
+==== Personalidad y nivel
 
 Nivel: cualquiera (independencia de ejes I y II).
 
 Personalidad: susceptibilidad a la crítica aumentada, susceptibilidad a la valoración negativa por parte de los demás. Temor al rechazo. Dificultad para autoafirmarse y baja autoestima.
 
-===== Diagnóstico positivo
+==== Diagnóstico positivo
 
-====== Nosografía Clásica
+===== Nosografía Clásica
 
 Neurosis
 Neurosis fóbica
@@ -71,7 +71,7 @@ Por:
 * Depresión (disfórica)
 * Exacerbación de síntomas
 
-====== DSM-IV - CIE-10
+===== DSM-IV - CIE-10
 
 F40.1: Fobia social Entendiendo por fobia social el temor irracional persistente y reconocible de turbarse o verse humillado cuando se desempeña en situaciones sociales.
 
@@ -100,7 +100,7 @@ C. Malestar significativo.
 D. Los síntomas se limitan a las situaciones temidas o a la contemplación de las mismas.
 E. Exclusión de: trastornos mentales orgánicos, esquizofrenia, trastornos afectivos, TOC, factores culturales.
 
-===== Diagnósticos diferenciales
+==== Diagnósticos diferenciales
 
 Nosografía clásica
 
@@ -134,11 +134,11 @@ Los diagnósticos diferenciales son diferentes dado que estos sistemas clasifica
 . Otros diagnósticos que pueden tener síntomas en común o estar presentes por comorbilidad: Trastorno Depresivo Mayor, Trastorno Distímico, Trastorno Dismórfico Corporal, Trastornos Alimentarios, temor o vergüenza asociada a patología médica (obesidad, estrabismo, cicatrices faciales).
 . Normalidad: temor a actuar en público, temor a escenarios o timidez en reuniones sociales donde no participan personas del entorno familiar. No deben calificarse como Fobia Social a menos que interfieran significativamente con el funcionamiento del individuo.
 
-===== Etiopatogenia y psicopatología
+==== Etiopatogenia y psicopatología
 
 Se propone una gran heterogeneidad causal, aplicándose en general el modelo de estrés-diátesis. Los modelos vigentes apuntan a interacción entre mecanismos ambientales, biológicos, cognitivos y comportamentales . Los eventos sociales se presentarían como amenazantes, activando los circuitos innatos vinculados a la ansiedad (punto de acción de los ISRS, IMAOs, Benzodiacepinas y alcohol), lo que genera a través de vías corticales, cogniciones negativas (punto de acción de la Psicoterapia Cognitiva). A su vez, por activación del sistema nervioso autónomo (punto de acción de beta bloqueantes) se produce el aprendizaje de conductas de evitación (punto de acción del entrenamiento en habilidades sociales y de la Terapia Comportamental).
 
-====== Biológico
+===== Biológico
 
 Algunos autores proponen un modelo vulnerabilidad-estrés, citando una predisposición constitucional en personas que nacen con un temperamento específico conocido como "inhibición conductual a lo desconocido", que ante factores de estrés constituirían una fobia. Este patrón conductual se observa frecuentemente en niños cuyos padres están afectados por un trastorno de angustia.
 
@@ -178,7 +178,7 @@ Los estudios sugieren la presencia de circuitos neurales específicos involucrad
 
 Por otro lado hay estudios que muestran una mayor disminución del volumen del putamen con la edad en sujetos con FS en relación a con-troles.
 
-====== Psicológico
+===== Psicológico
 
 .Psicoanálisis
 Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún impulso in-consciente prohibido (pulsiones genitales edípicas incestuosas) está luchando para expresarse en forma consciente, con falla del mecanismo de Represión (mecanismo destinado a mantener la pulsión fuera de la representación consciente), lo que lleva al Yo al uso de mecanismos de defensa auxiliares:
@@ -190,30 +190,30 @@ Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún 
 
 El modelo teórico del aprendizaje (Watson) vincula la fobia y la evitación consiguiente al modelo estímulo-respuesta pavloviano tradicional de los reflejos condicionados, donde un estímulo originalmente neutro se transforma en condicionado para producir ansiedad al presentarse apareado a un estímulo amenazante. Si bien el condicionamiento clásico puede explicar el origen de la fobia, no explica el mantenimiento, para lo cual se postula la intervención del condiciona-miento operante: el patrón de evitación se muestra eficaz para reducir la ansiedad por lo que se refuerza el mantenimiento de la fobia. Otro mecanismo de aprendizaje que podría estar implicado es el moldeamiento (por observación de reacciones de un tercero).
 
-====== Social
+===== Social
 
 Estrés psicosocial en el curso de vida, en especial: muerte de un progenitor, separación de progenitores, crítica o humillación por terceros (por ejemplo hermanos mayores), violencia intrafamiliar: activarían la diátesis latente con la consiguiente aparición de síntomas. Datos estadísticos indican que los progenitores de pacientes con Fobia Social, tendían a ser padres menos cariñosos, más críticos y sobreprotectores que otros padres.
 
-===== Paraclínica
+==== Paraclínica
 
 El diagnóstico es clínico.
 
-====== Biológico
+===== Biológico
 
 Examen físico completo: neurológico, signos de intoxicación por psicoestimulantes (midriasis, PA, pulso), tiroides, CV (eventual EcoCG, ECG, para uso de AD y buscando trastornos de la con-ducción). Paraclínica general. Con interés académico: los individuos con Fobia Social tienen menos probabilidades de padecer una crisis de angustia en respuesta a la perfusión de lactato sódico o a la inhalación de CO2.
 
-====== Psicológico
+===== Psicológico
 
 Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorscharch), no proyectivos (Minnesota), evaluando:
 
 * Fortaleza yoica
 * Elementos para el análisis de los mecanismos de defensa • Implementación de psicoterapia Tests de nivel (Weschler)..
 
-====== Social
+===== Social
 
 Familiares y terceros. Valoración de red de so-porte. Otros: para el seguimiento del trastorno, pueden ser útiles las escalas de cuantificación de síntomas.
 
-===== Tratamiento
+==== Tratamiento
 
 * Ambulatorio con control en policlínica
 * Hospitalizar según entidad de síndromes asociados (ej. depresión) Objetivos del tratamiento:
@@ -223,7 +223,7 @@ Familiares y terceros. Valoración de red de so-porte. Otros: para el seguimient
 * Reducir los síntomas autonómicos y fisiológicos de ansiedad
 * Lograr mejores niveles de funcionamiento Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
 
-====== Biológico
+===== Biológico
 
 .Fobia social restringida o limitada (de ejecución):
 
@@ -243,7 +243,7 @@ Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la
 
 En casos de fobia generalizada se mantendrá el tratamiento hasta 12 meses luego de remisión sintomática, a las dosis con las que se logró me-joría. Luego pueden disminuirse de forma progresiva, si aparece recidiva se vuelve a las dosis eficaces que se mantendrán por 12 meses más. Tratamientos superiores al año podrían estar indicados en: pacientes con síntomas significativos persistentes, presencia de comorbilidad, inicio precoz con TP por Evitación severo y pacientes con historia previa de recaídas.
 
-====== Psicológico
+===== Psicológico
 
 Entrevistas en ambiente cálido y de escucha, afianzar vínculo, realizar psicoeducación.
 
@@ -256,11 +256,11 @@ Terapia cognitivo-comportamental: uso de diferentes técnicas:
 * Técnicas de inoculación de estrés
 * Entrenamiento en asertividad y habilidades sociales.
 
-====== Social
+===== Social
 
 Terapia familiar, grupo de apoyo. Alianza terapéutica con familiar por tendencia de los fóbicos a abandonar la terapia.
 
-===== Evolución y pronóstico
+==== Evolución y pronóstico
 
 Puede seguir varios caminos evolutivos:
 

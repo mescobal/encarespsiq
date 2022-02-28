@@ -1,14 +1,14 @@
-=== 21 IAE
+== IAE
 
-==== Notas clínicas
+=== Notas clínicas
 
 Factores de riesgo para suicidio
 
-==== Encare
+=== Encare
 
-===== Agrupación sindromática
+==== Agrupación sindromática
 
-====== Síndrome conductual
+===== Síndrome conductual
 
 TIP: Evaluación de IAE: MMPPRRR
 
@@ -24,7 +24,7 @@ Hace X tiempo:
 
 Clasificarlo y decir si es grave.
 
-====== Síndrome secundario
+===== Síndrome secundario
 
 * síndrome depresivo.
 * síndrome biográfico: T de la P contexto depresivo, disfórico, intolerancia a las frustraciones, pobre control de impulsos, otros IAEs, conductas adictivas, conductas heteroagresivas.

@@ -1,15 +1,15 @@
-=== Retardo mental
-==== Notas clínicas
-==== Encare
-===== En suma
+== Retardo mental
+=== Notas clínicas
+=== Encare
+==== En suma
 
 Analfabetismo Pensión por incapacidad Laboral - núcleo familiar AF: Retraso Mental - Alcoholismo. AP: Escuela de Recuperación, INAU.
 
-===== Agrupación sindromática
+==== Agrupación sindromática
 
 Según motivo de ingreso:
 
-====== Síndrome conductual
+===== Síndrome conductual
 
 Crisis de excitación psicomotriz (conversiva). IAE en contexto de impulsividad. Heteroagresividad. Fugas.
 
@@ -17,13 +17,13 @@ Crisis de excitación psicomotriz (conversiva). IAE en contexto de impulsividad.
 * Curso de vida Pauta de heteroagresividad que demuestra baja tolerancia a las frustraciones y un pobre control de los impulsos. Conductas antisociales. Consumo de sustancias.
 * Pragmatismos y conductas basales.
 
-====== Síndrome delirante
+===== Síndrome delirante
 
 Temática pobre, ideas y supersticiones ingenuas, alta incidencia sociocultural.
 
-====== Síndrome depresivo
+===== Síndrome depresivo
 
-====== Síndrome deficitario intelectual (congénito o precozmente adquirido)
+===== Síndrome deficitario intelectual (congénito o precozmente adquirido)
 
 * Escolaridad: deficiente, destacar analfabetismo.
 * Pensamiento: pobre, pueril, concreto, anecdótico. No puede dar cuenta de situaciones importantes de su vida. baja capacidad de abstracción.
@@ -34,11 +34,11 @@ Temática pobre, ideas y supersticiones ingenuas, alta incidencia sociocultural.
 
 A confirmar por tests psicométricos.
 
-====== Otros
+===== Otros
 
 Epilepsia.
 
-===== Personalidad y nivel
+==== Personalidad y nivel
 
 Yo débil:
 
@@ -54,9 +54,9 @@ Yo débil:
 
 Personalidad: teñida por el déficit intelectual. Personalidad defectuosa.
 
-===== Diagnóstico positivo
+==== Diagnóstico positivo
 
-====== Nosografía clásica
+===== Nosografía clásica
 
 .Oligofrenia o Retraso Mental.
 
@@ -88,17 +88,17 @@ Con crisis convulsiva, conversiva, IAE, aumento del monto de impulsividad, sínd
 
 Biopsicosocial.
 
-====== CIE-10 - DSM-IV
+===== CIE-10 - DSM-IV
 
 Al codificar en Eje II, es compatible con diagnósticos del eje I (el eje I descompensa el eje II). F70 Retraso mental leve F71 Retraso mental moderado F72 Retraso mental grave F73 Retraso mental profundo F78 Otro retraso mental F79 Retraso mental sin especificación Cuarto carácter para especificar la extensión del deterioro añadido del comportamiento: • F7x.0 con deterioro del comportamiento mínimo o ausente • F7x.1 con deterioro del comportamiento importante que requiere atención o trata-miento • F7x.8 con otros deterioros del comporta-miento • F7x.9 sin alusión al deterioro del comporta-miento
 
-===== Diagnósticos diferenciales
+==== Diagnósticos diferenciales
 
 1. Epilepsia generalizada tipo Gran mal: • Descartar en base a diferencias con crisis conversivas. • Dada la frecuente comorbilidad, deben realizarse estudios paraclínicos. • En caso de haber alteraciones conductuales (IAE, heteroagresividad, fuga) y es epiléptico conocido, se puede plantear DD con: • Estado crepuscular postictal. • Crisis parcial compleja. • (ambos se descartan porque no existe trastorno de la conciencia en la comisión del acto).
 2. Crisis de adolescencia patológica: en el caso del RM la alteración se da en el curso longitudinal y está centrada en el déficit escolar y adaptativo social, hecho que excede el DD planteado. En la crisis de adolescencia existe: • menor duración • historia previa sin alteraciones deficitarias • generalmente hay causa desencadenante.
 3. Según HC puede plantearse DD con: Neurosis, Trastorno de la Personalidad. Neurosis: necesita una personalidad más con-formada (el oligofrénico puede usar mecanismos de defensa seudoneuróticos).
 
-===== Diagnóstico etiopatogénico
+==== Diagnóstico etiopatogénico
 
 Multifactorial.
 
@@ -110,7 +110,7 @@ Factores pre, peri, postnatales: metabólicos, complicación de embarazo, infecc
 
 Actuando sobre este terreno biológicamente o congénitamente alterado, existen elementos que nos hablan de: DEPRIVACION AMBIENTAL • alteraciones del medio familiar, violencia, alcoholismo • medio de poco estímulo • familia poco continente
 
-===== Paraclínica
+==== Paraclínica
 
 Destinada a: • Evaluar déficit • Descartar diagnósticos diferenciales • Con vistas al tratamiento • Valoración general
 
@@ -126,7 +126,7 @@ Destinada a: • Evaluar déficit • Descartar diagnósticos diferenciales • 
 
 Directamente o con Asistente Social: • Terceros dada la poca confiabilidad • Red de soporte social • Incidencia del medio en su patología y en la descompensación • Historia perinatal para orientación de etiología
 
-===== Tratamiento
+==== Tratamiento
 
 Destinado a:
 
@@ -164,6 +164,6 @@ Psicosocial
 
 Vincularemos a taller de rehabilitación que puede ser dificultoso por los trastornos conductuales. Realizaremos psicoeducación de familiares para mejorar continencia del medio, lograr con-troles clínicos periódicos y cumplimiento de la medicación. Vincularemos a la familia con ex-perto en terapia familiar para cambio de conductas de ésta que puedan incidir en las descompensaciones. Eventualmente vincularemos al pa-ciente con expertos en Retraso Mental. Vincula-remos con AS para que tenga acceso a beneficios sociales.
 
-===== Evolución y pronóstico
+==== Evolución y pronóstico
 
 PPI: bueno con tratamiento instituido, supedita-do a trastornos conductuales con auto/hetero. PVI: bueno, supeditado al psiquiátrico. PVA: sujeto a lo orgánico que tenga, en cierto modo vinculado al PPA que pensamos reservado ya que está dificultado por: • Autonomía limitada • Conductas antisociales • Continentación social y recursos económicos • Bajo umbral de reactividad para psicosis Evolución que intentamos mitigar con las medidas efectuadas.

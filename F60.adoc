@@ -1,14 +1,24 @@
-=== 18 Trastorno de la personalidad grupo B
+== F60 Trastorno de la personalidad grupo B
 
-==== Encare
+=== Notas clínicas
 
-===== En suma
+==== Trastorno esquizotípico de la personalidad
+
+.Tratamiento psicofarmacológico
+Evidencia escasa footnote:[Jakobsen, K. D., Skyum, E., Hashemi, N., Schjerning, O., Fink-Jensen, A., & Nielsen, J. (2017). Antipsychotic treatment of schizotypy and schizotypal personality disorder: a systematic review. Journal of Psychopharmacology, 31(4), 397-405.].
+- Amisulpiride: podría ser eficaz para algunos de los síntomas cognitivos (evidencia A)
+- Risperidona: dosis de 2mg mejorarían escala PANSS.
+- Antipsicóticos en genera peuden mejorar algunos síntomas psicótico-símiles (ilusiones, hostilidad, ideación paranoide)
+
+=== Encare
+
+==== En suma
 
 Destacar: MC, patrón horizontal de comportamiento.
 
-===== Agrupación sindromática
+==== Agrupación sindromática
 
-====== Síndrome conductual
+===== Síndrome conductual
 
 * Cuadro actual: IAE, heteroagresión, en un contexto de impulsividad
 * Curso de vida
@@ -16,13 +26,13 @@ Destacar: MC, patrón horizontal de comportamiento.
 
 Destacando: baja tolerancia a las frustraciones, rápido pasaje al acto.
 
-====== Otros síndromes
+===== Otros síndromes
 
 * Síndrome depresivo (disfórico).
 * Síndrome delirante.
 * Síndrome de ansiedad-angustia u otro de la serie neurótica.
 
-===== Nivel y Personalidad
+==== Nivel y Personalidad
 
 Adolescente: destacar que su personalidad no está plenamente desarrollada. Conflictividad infantil Trastornos de la atención, hiperquinesia en etapa escolar. Rasgos: pautas duraderas de percibir, relacionarse, concebir el entorno y a sí mismo que se expresan en una amplia gama de contextos sociales y personales significativos, en donde encontramos elementos de varias series (poner ejemplos de c/u):
 
@@ -38,7 +48,7 @@ En BL: fundamentalmente rasgos marcados por la inestabilidad en:
 * Identidad personal o autoimagen: múltiples carreras, trabajos, parejas.
 * Conductas: impulsividad en actividades potencialmente dañinas (drogas, alcohol). Autoagresividad: IAE.
 
-===== Diagnóstico positivo
+==== Diagnóstico positivo
 
 * Rígidos, maladaptativos, inflexibles
 * Corte longitudinal
@@ -71,31 +81,18 @@ De éste decimos que está descompensado por:
 
 Se plantea como causa de descompensación: estrés psicosocial.
 
-===== Diagnóstico diferencial
+==== Diagnóstico diferencial
 
-Con otros trastornos de la personalidad:
+* Con otros trastornos de la personalidad: si bien existen elementos histriónicos, antisociales, pensamos que no centran el cuadro clínico y no pensamos por el momento que se trate de un trastorno histriónico o antisocial de la personalidad. De cualquier modo investigaremos en reiteradas entrevistas, sabiendo que cada tipo comparte características con los restantes.
+* Psicosis tóxica
+* Trastorno de la personalidad orgánico (DSM): epilepsia parcial compleja, AP de TEC o trauma obstétrico.
+* Neurosis: egodistónica, autoplástica. La conflictiva es intrapsíquica y no interpersonal.
+* Depresión en adolescente: se puede presentar con trastornos de conducta. Crisis de adolescencia.
+* Trastorno afectivo primario
 
-Si bien existen elementos histriónicos, antisociales, pensamos que no centran el cuadro clínico y no pensamos por el momento que se trate de un trastorno histriónico o antisocial de la personalidad. De cualquier modo investigaremos en reiteradas entrevistas, sabiendo que cada tipo comparte características con los restantes.
+==== Diagnóstico etiopatogénico y psicopatológico
 
-Psicosis tóxica
-
-Trastorno de la personalidad orgánico (DSM):
-
-epilepsia parcial compleja, AP de TEC o trauma obstétrico.
-
-Neurosis:
-
-egodistónica, autoplástica. La conflictiva es intrapsíquica y no interpersonal.
-
-Depresión en adolescente
-
-Que se puede presentar con trastornos de conducta. Crisis de adolescencia.
-
-Trastorno afectivo primario
-
-===== Diagnóstico etiopatogénico y psicopatológico
-
-====== Etiopatogenia
+===== Etiopatogenia
 
 Se plantea para esta patología una etiopatogenia multifactorial.
 
@@ -116,7 +113,7 @@ AF de enfermedad depresiva o alcoholismo, que vinculan al trastorno Borderline c
 * Refuerzo positivo social inconsciente: recompensa a conductas antisociales
 * Marco social poco continente.
 
-====== Psicopatología
+===== Psicopatología
 
 Se invoca un terreno de vulnerabilidad básica del individuo para mantener un sentido estable del yo (yo fragmentado con relaciones de objeto ambivalentes). Otto Kernberg: hace hincapié en:
 
@@ -124,7 +121,7 @@ Se invoca un terreno de vulnerabilidad básica del individuo para mantener un se
 2. Utilización de mecanismos de defensa arcaicos primarios: ES PRO AC NE • Escisión • Proyección reactiva • Acting Out • Negación Escisión: división ambivalente de las personas en buenas y malas tanto del presente como del pasado (poner ejemplos) Proyección: atribución a los demás de sus propios sentimientos, no reconocidos como tales. Negación: afirma proyección y escisión. Acting-out: expresión directa mediante la acción de un deseo o conflicto inconsciente evitando el acceso a la conciencia de la idea o el afecto que la acompaña.
 3. Mantenimiento del juicio de la realidad.
 
-===== Paraclínica
+==== Paraclínica
 
 Orientada a:
 
@@ -133,36 +130,36 @@ Orientada a:
 * Valoración general
 * Con vistas al tratamiento
 
-====== Biológico
+===== Biológico
 
-Examen físico, rutinas, VIH, VDRL, estigmas de consumo de drogas. Con vistas al tratamiento con Carbamazepina: hígado y MO (descartando leucopenia, trombocitopenias, hepatopatía), test de embarazo (promiscuidad).
+Examen físico, rutinas, VIH, VDRL, estigmas de consumo de drogas. Con vistas al tratamiento con carbamazepina: hígado y MO (descartando leucopenia, trombocitopenia, hepatopatía), test de embarazo (promiscuidad).
 
-====== Psicológico
+===== Psicológico
 
-Reiteradas entrevistas para confirmar patrón de comportamiento. Una vez superado el cuadro actual. Tests de personalidad proyectivos (TAT, Rorscharch), no proyectivos (Minnesota), evaluando fortaleza yoica, mecanismos de defensa y manejo de la angustia, elementos que utilizamos con el fin de implementar una psicoterapia. Test de nivel (Weschler). 3. Social Fundamental para el diagnóstico evaluando aquellos aspectos interpersonales del trastorno. Crisis anteriores y repercusión en el paciente y en el medio, medicación recibida y respuesta a la misma. Policía, juez.
+Reiteradas entrevistas para confirmar patrón de comportamiento. Una vez superado el cuadro actual. Tests de personalidad proyectivos (TAT, Rorschach), no proyectivos (Minnesota), evaluando fortaleza yoica, mecanismos de defensa y manejo de la angustia, elementos que utilizamos con el fin de implementar una psicoterapia. Test de nivel (Weschler). 3. Social Fundamental para el diagnóstico evaluando aquellos aspectos interpersonales del trastorno. Crisis anteriores y repercusión en el paciente y en el medio, medicación recibida y respuesta a la misma. Policía, juez.
 
-===== Tratamiento
+==== Tratamiento
 
 Dirigido a:
 
 1. actuar sobre el episodio actual, previniendo nuevos IAE, procurando la remisión del cuadro depresivo y la ansiedad-angustia.
 2. a largo plazo, basado s/t en favorecer la reinserción social del paciente.
 
-====== Episodio actual
+===== Episodio actual
 
 Internación en hospital psiquiátrico por: no existencia de continencia interna, medio poco continente (riesgo de auto/heteroagresividad), riesgo de IAE por impulsividad y contexto depresivo. Puede ser compulsiva. Breve. Equipo multidisciplinario. Vigilar IAE, heteroagresividad, fugas. Visitas continentadoras. Sala individual.
 
 .Biológico
 
-Carbamazepina 200 mg c/12 hs v/o, 200 mg c/ pocos días hasta 1200-1600 mg. Actúa sobre descontrol, labilidad emocional e impulsividad. Monitoreo del polo hepático y médula ósea. Agregar si la ansiedad es o dar si existen contraindicaciones: Clonazepam, empezando con 2 mg VO c/8 hs y según tolerancia hasta 16 mg/día. Su función es sedante y ansiolítica, además de estabilizador del humor. Provee de rápida sedación. Opción: Haloperidol 1-2 mg VO, Propericiazina.
+Carbamazepina 200 mg c/12 hs v/o, 200 mg c/ pocos días hasta 1200-1600 mg. Actúa sobre descontrol, labilidad emocional e impulsividad. Monitoreo del polo hepático y médula ósea. Agregar si la ansiedad es o dar si existen contraindicaciones: Clonazepam, empezando con 2 mg VO c/8 hs y según tolerancia hasta 16 mg/día. Su función es sedante y ansiolítica, además de estabilizador del humor. Provee de rápida sedación. Opción: Haloperidol 1-2 mg VO, propericiazina.
 
 Para el síndrome depresivo: Fluoxetina 20 mg H:8 v/o. A los 2 días, agregaremos 20 mg VO h:14, monitorizando efectos secundarios frecuentes como ansiedad, insomnio y según la tolerancia iremos pudiendo llegar a 80 mg/día. Si existen AP: a largo plazo.
 
-En suma: durante su estancia en el hospital: Carbamazepina, Clonazepam y Haloperidol (de ser necesario). Si hay marcada ansiedad, nos inclinaremos por Paroxetina o Fluvoxamina como antidepresivos ya que además poseen un efecto sedante (inicio, aumentos, controles de efectos secundarios, latencia).
+En suma: durante su estancia en el hospital: Carbamazepina, Clonazepam y Haloperidol (de ser necesario). Si hay marcada ansiedad, nos inclinaremos por paroxetina o fluvoxamina como antidepresivos ya que además poseen un efecto sedante (inicio, aumentos, controles de efectos secundarios, latencia).
 
 Para el insomnio: Flunitrazepam VO 2 mg H:20 a regular según respuesta, que iremos retirando una vez controlados los parámetros del sueño, dado el > riesgo de AE en horas de la noche.
 
-Si se agita: Levomepromazina 25 mg 1 amp IM. PDA: Haloperidol 5 mg IM h:20.
+Si se agita: levomepromazina 25 mg 1 amp IM. PDA: Haloperidol 5 mg IM h:20.
 
 .Psicológico
 
@@ -172,11 +169,11 @@ Entrevistas reiteradas para afianzar el vínculo, manteniendo límites claros y 
 
 Iniciaremos psicoeducación de la familiar, informando sobre el trastorno, el pronóstico, e insistiendo en la importancia de los controles y de la terapia familiar. Otorgaremos el alta hospitalaria cuando haya retrocedido el cuadro actual.
 
-====== A largo plazo
+===== A largo plazo
 
 .Biológico
 
-Controles de medicación en policlínica, al principio semanales y luego hasta 1 x mes. Evitaremos la polifarmacia, ® en la evolución la medicación (para evitar adicción y facilitar cumplimiento) al mínimo indispensable. Mantendremos Carbamazepina a largo plazo y un tratamiento antidepresivo de 12 meses como mínimo.
+Controles de medicación en policlínica, al principio semanales y luego hasta 1 x mes. Evitaremos la polifarmacia, disminuiremos en la evolución la medicación (para evitar adicción y facilitar cumplimiento) al mínimo indispensable. Mantendremos Carbamazepina a largo plazo y un tratamiento antidepresivo de 12 meses como mínimo.
 
 .Psicológico
 
@@ -186,6 +183,6 @@ Psicoterapia de apoyo, buscando mejor nivel de funcionamiento, analizando la eve
 
 Tratamiento familiar. Grupos de adolescentes, comunidad terapéutica para jóvenes con TP, procurando la rehabilitación social. NA o AA.
 
-===== Evolución y pronóstico
+==== Evolución y pronóstico
 
 Enfermedad de evolución crónica con morbimortalidad con tendencia a disminuir en la edad adulta la inadaptación social. El cuadro actual será compensado con el tratamiento instituido y a largo plazo depende del éxito de la rehabilitación, de la adhesión al tratamiento a largo plazo y de la continencia social. Sujeto a complicaciones depresivas, episodios psicóticos breves, trastornos de conducta con consecuencias ML, consumo de sustancias y riesgo para HIV-SIDA.

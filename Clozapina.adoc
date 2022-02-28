@@ -210,7 +210,8 @@ Mayor mortalidad con el uso de antipsicóticos atípicos.
 Embarazo: B. En RN de madres tratadas con CLZ mayor riesgo de movimientos anormales, alteraciones en tono muscular, somnolencia. Uso: solo si beneficio > riesgo.
 
 Lactancia: desconocido. Se asume que pasa a la leche. Se recomienda discontinuar o suspender lactancia.
-Bibliografía
+
+== Bibliografía
 
 * Folletería del laboratorio (Leponex(r) - Sandoz).
 * Manu, P., Sarpal, D., Muir, O., Kane, J. M., & Correll, C. U. (2012). When can patients with potentially life-threatening adverse effects be rechallenged with clozapine? A systematic review of the published literature. Schizophrenia research, 134(2-3), 180-186.

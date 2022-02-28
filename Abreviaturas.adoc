@@ -1,7 +1,7 @@
-=== Abreviaturas
+== Abreviaturas
 
 AAV:: Alucinaciones auditivo-verbales
-ACV:: Accidente cerebro-vascular.
+ACV:: Accidente cerebrovascular.
 AF:: Antecedentes familiares
 AFP:: Antecedentes familiares psiquiátricos.
 AIT:: Accidente isquémico transitorio.
@@ -25,6 +25,7 @@ EPM:: Excitación psicomotriz.
 EPOC:: Enfermedad pulmonar obstructiva crónica.
 GGT:: Gamma glutamil transferasa
 HC:: Historia clínica.
+HIV:: ver VIH
 HTA:: Hipertensión arterial.
 HTEC:: Hipertensión endocraneana.
 IAE:: Intento de autoeliminación.
@@ -48,6 +49,7 @@ TC:: Tónico-clónica.
 TCA:: Trastornos de la conducta alimentaria.
 TCC:: Terapia Cognitivo Comportamental.
 TDAH:: Trastorno de déficit atencional con hiperactividad.
+TGD:: Trastornos generalizados del desarrollo
 TEC:: Traumatismo encéfalo-craneano.
 TEPT:: Trastorno por estrés postraumático
 TOD:: Teoría Organodinámica (Ey)

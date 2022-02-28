@@ -1,21 +1,21 @@
-=== F90 Trastornos hipercinéticos
+== F90 Trastornos hipercinéticos
 
-==== Notas clínicas
+=== Notas clínicas
 
-==== Encare
+=== Encare
 
-===== Paraclínica
+==== Paraclínica
 
 * Consulta con cardiólogo previo al uso
 * Controles de PA regulares
 * Periódicamente: hemograma (raro: leucopenia / anemia) en caso de tratamiento prolongado.
 
-===== Tratamiento
+==== Tratamiento
 
-====== Biológico
+===== Biológico
 
 .Metilfenidato
-Estimulante del SNC. 
+Estimulante del SNC.
 Aprobado por la FDA para el tratamiento del TDAH en niños y adultos.
 Usos no aprobados por FDA: narcolepsia, tratamiento de la depresión resistente.
 
@@ -83,6 +83,12 @@ Situaciones especiales:
 * Embarazo: categoría C. Se prefiere discontinuar.
 * Lactancia: discontinuar.
 
-====== Psicológico
+.No farmacológico
+Actúan sobre todo sobre la variable "inhibición" y menos sobre la memoria de trabajo.
+- Ejercicio físico footnote:[Lambez, B., Harwood-Gross, A., Golumbic, E. Z., & Rassovsky, Y. (2020). Non-pharmacological interventions for cognitive difficulties in ADHD: A systematic review and meta-analysis. Journal of psychiatric research, 120, 40-55.]. Es la intervención con mayor tamaño de efecto. Se recomienda ejercicio aeróbico e integrar deportes complejos (deportes con pelota, artes marciales) para mejorar la flexibilidad e inhibir la conducta impulsiva.
+- Neurofeedback: tamaño de efecto moderado.
 
-* Psicoterapia CC
+===== Psicológico
+Al igual que los tratamientos no farmacológicos la acción es sobre todo sobre la inhibición más que sobre la memoria de trabajo.
+- Psicoterapia CC: tamaño de efecto moderado.
+- Entrenamiento cognitivo: menor tamaño de efecto.

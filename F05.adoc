@@ -1,18 +1,18 @@
-=== 2 Confusión Mental
+== Confusión Mental
 
-==== Notas clínicas
+=== Notas clínicas
 
-==== Encare
+=== Encare
 
-===== En suma
+==== En suma
 
 Destacar algo de la patología orgánica (alcoholismo, infección, TEC, anciano, postoperatorio, fiebre, deshidratación, IAM, AVE, diabetes, EPOC).
 
 Destacar la agudeza de la instalación y lo fluctuante.
 
-===== Agrupación sindromática
+==== Agrupación sindromática
 
-====== Síndrome confuso-onírico
+===== Síndrome confuso-onírico
 
 El paciente se encuentra sumergido en un trastorno global y profundo de la conciencia, de instalación brusca, de x tiempo de evolución, con síntomas fluctuantes, configurando:
 
@@ -63,13 +63,13 @@ Este delirio tiene una característica peculiar que nos remite al ensueño. Se p
 
 El cuadro tiene ___ días de evolución, con alteración de las conductas basales (inversión del ritmo circadiano, anorexia).
 
-====== Síndrome somático
+===== Síndrome somático
 
 Destacar aquí todos los elementos que pueden ser causa del cuadro clínico.
 
 Destacar si existe adelgazamiento, fiebre, temblor, deshidratación, postoperatorio o preoperatorio, traumatismos, síndrome de abstinencia alcohólica, repercusión orgánica del alcoholismo (endócrino, cardiovascular, digestivo).
 
-====== Síndrome conductual
+===== Síndrome conductual
 
 Cuadro actual
 
@@ -79,13 +79,13 @@ Curso de vida
 
 Poner conductas vinculadas a consumo de alcohol y otras sustancias. Describir patrón de consumo. Destacar conductas que sean factores de riesgo par ETS.
 
-===== Personalidad y nivel
+==== Personalidad y nivel
 
 Puede presentarse en cualquier patrón de personalidad y en cualquier nivel intelectual.
 
-===== Diagnóstico positivo
+==== Diagnóstico positivo
 
-====== Nosografía clásica
+===== Nosografía clásica
 
 .Psicosis
 El paciente presenta una psicosis ya que se encuentra sumido en un mundo propio, incompartible, con el que se relaciona de una manera nueva, por él creada, del que no puede salir voluntariamente, con pérdida del juicio de realidad, con presencia de delirio, sin conciencia mórbida, estableciendo con el paciente un mal rapport.
@@ -100,7 +100,7 @@ Por el síndrome confuso-onírico. Es un diagnóstico inespecífico en lo nosogr
 .Causa
 Es un cuadro de causa orgánica, en general multifactorial, estando involucrados factores de riesgo tales como: adad (adulto mayor), consumo de sustancias, abstinencia de sustancias, psicofármacos, patología médica (fiebre, sepsis, EPOC, IAM, arritmias, ACV, AIT, TEP).
 
-===== Diagnósticos diferenciales
+==== Diagnósticos diferenciales
 
 . Otras casusas de confusión mental: no nos impresiona clínicamente por los elementos analizados, pero que descartaremos por la paraclínica: anemia carencial o por sangrado, infecciones, TEC, drogas, medicación, hepatopatía, endocrinopatía, disionías (encefalopatía por derivación porto-cava, descompensación de una hepatopatía crónica, con flapping y otros signos de hepatopatía, es por hiperamoniemia). Si debemos destacar factores de comorbilidad.
 . Otras cuadros vinculados con alcohol (si es un DASA).
@@ -115,18 +115,18 @@ Es un cuadro de causa orgánica, en general multifactorial, estando involucrados
 
 Hay que tomar en cuenta que durante la confusión mental, no se puede identificar clínicamente estructuras psicopatológicas subyacentes, por lo cual hay diagnósticos que solo se pueden realizar luego de que cede el cuadro agudo.
 
-===== Diagnóstico etiopatogénico y psicopatológico
+==== Diagnóstico etiopatogénico y psicopatológico
 
 El delirium es un cuadro de expresión clínica psiquiátrica que tiene una etiología orgánica. Es la manifestación de una noxa principalmente biológica. Es la forma inespecífica de reacción del encéfalo vulnerable ante una noxa que supera las reservas funcionales del mismo. Se produce un disblance entre las diferentes redes neuronales de los sistemas subcorticales homeostáticos y del córtex y de las funciones neuroendócrinas (electrolíticos, eje hipotálamo-hipofiso-suprarrenal y nutricionales). La causa de los síntomas se desconoce.
 
 Causas de delirium
 
 1. Tóxicas: alcohol, UISP, medicamentos (sedantes, anticolinérgicos, corticoides, antiparkinsonianos).
-2. Infecciosas: por la fiebre, por la acción del agente sobre el SNC, debido a sepsis (TBC, neumonia, meningitis, HIV, neurosífilis, EPOC, encefalitis por herpes).
+2. Infecciosas: por la fiebre, por la acción del agente sobre el SNC, debido a sepsis (IU, neumonia, meningitis, HIV, neurosífilis, encefalitis por herpes, TBC).
 3. Enfermedad vascular: ACV, AIT, IAM, ICC, arritmias, HTA, eclampsia.
 4. Endócrinas: diabetes, hipertiroidismo, hiperparatiroidismo.
 5. Metabólicas: hipoglicemia, trastornos hidroelectrolíticos.
-6. Otras: anemia carencial o por sangrado, encefalopatía por hepatopatía crónica.
+6. Otras: EPOC, anemia carencial o por sangrado, encefalopatía por hepatopatía crónica.
 
 Psicopatología
 
@@ -134,7 +134,7 @@ Para la Teoría Organodinámica de Ey, el delirium comporta una desestructuraci�
 
 Quedan en un segundo plano los determinantes psicológicos y sociales intercurrentes, si bien siempre influyen en la vulnerabilidad. Destacar patología psiquiátrica previa, trabajo (riesgo vinculado a determinadas profesiones).
 
-===== Paraclínica
+==== Paraclínica
 
 El diagnóstico es clínico.
 
@@ -144,7 +144,7 @@ La solicitaremos desde un punto de vista integral: biológico, psicológico y so
 
 Solicitaremos la historia clínica previa o su resumen para objetivar los antecedentes clínicos y de tratamiento. Entrevistaremos a terceros para clarificar los desencadenantes y antecedentes del cuadro actual.
 
-====== Biológico
+===== Biológico
 
 Realizaremos una anamnesis médica somática al paciente o terceros y un examen físico completo con énfasis en la búsqueda de estigmas de alcoholismo, signos de infección y los elementos planteados como etiológicos.
 
@@ -190,17 +190,17 @@ Algunos de estos exámenes pueden diferirse.
 
 De haber algún valor fuera del rango normal, evaluaremos la necesidad de interconsulta con especialistas (gastroenterólogo, neurólogo, cardiólogo, internista, nutricionista).
 
-====== Psicológico
+===== Psicológico
 
 Las entrevistas tienen una finalidad terapéutica y diagnóstica simultáneamente. Serán reiteradas tanto para completar el diagnóstico como para afianzar el vínculo. Superada la agudeza del cuadro actual evaluaremos las características propias del paciente y sus capacidades y motivaciones para una de las diferentes líneas de psicoterapia.
 
 Si fuera necesario realizaremos en diferido test de personalidad proyectivos (Rorschach, TAT) y no proyectivos (Minnesotta), que nos informarán sobre los mecanismos de defensa, integridad del yo, rasgos de personalidad, tolerancia a la frustración. Si fuera necesario realizaremos en diferido test de nivel.
 
-====== Social
+===== Social
 
 Realizaremos entrevistas con familiares a los efectos de valorar la repercusión del alcoholismo en: red de soporte social y económica, red de vínculos y dinámica familiar, desempeños habituales, características de los tratamientos previos y sus resultados.
 
-===== Tratamiento
+==== Tratamiento
 
 Es una urgencia médica con riesgo vital.
 

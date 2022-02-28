@@ -1,8 +1,8 @@
-=== 1. Demencias
+== Demencias
 
-==== icon:user-md[] Notas clínicas
+=== Notas clínicas
 
-===== Evaluación
+==== Evaluación
 
 Se evalúa: comprensión, juicio, pensamiento abstracto, razonamiento, capacidad de aprendizaje, alteraciones sensoriales y de la atención. Hallazgos posibles: apraxia, agnosia, afasia (funciones cognoscitivas instrumentales), reducción del flujo de ideas y deterioro en el proceso de almacenar información con alteraciones en la atención.
 
@@ -19,13 +19,13 @@ Se evalúa: comprensión, juicio, pensamiento abstracto, razonamiento, capacidad
 
 Otros síntomas psiquiátricos: insomnio, ansiedad, delirium, trastorno adaptativo mixto ansioso-depresivo. Alteraciones del sueño con inversión del ciclo sueño/vigilia.
 
-Alteraciones conductuales: raptus de violencia, extravíos, agresividad, reacciones catastróficas ante mínimos contratiempos, caídas, vagabundeo, conductas desinhibidas e inadecuadas, descuido de aspecto o aseo personal, excesiva familiaridad con extraños. Síndrome de Diógenes: tendencia a la recogida de basura (silogomanía), aislamiento, falta de higiene, oposicionsimo y retraimiento.
+Alteraciones conductuales: raptus de violencia, extravíos, agresividad, reacciones catastróficas ante mínimos contratiempos, caídas, vagabundeo, conductas desinhibidas e inadecuadas, descuido de aspecto o aseo personal, excesiva familiaridad con extraños. Síndrome de Diógenes: tendencia a la recogida de basura (silogomanía), aislamiento, falta de higiene, oposicionismo y retraimiento.
 
 Personalidad: acentuación de rasgos preexistentes (caricaturización). Deterioro social que se refleja en la vida cotidiana.
 
 Otros: síndrome de Klüver-Bucy (raro) por lesión temporal bilateral con hiperoralidad, hipersexualidad, agnosia e hiperactividad. La aparición de incontinencia urinaria es un indicador de aumento de la mortalidad en los siguientes 2-3 años.
 
-===== Memoria
+==== Memoria
 
 * Memoria inmediata sensorial (primaria): está en la mente mientas se usa; si no se codifica en la memoria secundaria se pierde. Exploración: recordar y reproducir lo presentado en 30”. Amplitud de dígitos.
 * Memoria explícita declarativa
@@ -35,7 +35,7 @@ Otros: síndrome de Klüver-Bucy (raro) por lesión temporal bilateral con hiper
 * Semántica (terciaria): repositorio de información personal o bien aprendida (conocimientos).
 * Memoria implícita, no declarativa de procedimiento
 
-===== Clasificación de demencias
+==== Clasificación de demencias
 
 .Corticales
 
@@ -62,7 +62,7 @@ A cualquier nivel: cuerpos de Lewy, degeneración corticobasal.
 
 Demencia de cuerpos de Lewy: signos extrapiramidales tempranos, deterioro temprano en la marcha, confusión aguda y alucinaciones fluctuantes, hipersensibilidad con antagonistas de la Dopamina, ausencia de respuesta con levodopa.
 
-===== Demencias corticales
+==== Demencias corticales
 
 .Alzheimer
 
@@ -103,7 +103,20 @@ Diagnóstico definitivo (NINDS-AIREN): Diagnóstico probable + evidencia histopa
 
 Alzheimer + DMI = 20%. Reúne características de ambas
 
-===== Demencias subcorticales
+.Demencia frontotemporal
+Grupo heterogéneo de trastornos que provocan neurodegeneración en áreas frontales y temporales footnote:[Convery, R., Mead, S., & Rohrer, J. D. (2019). Clinical, genetic and neuroimaging features of frontotemporal dementia. Neuropathology and applied neurobiology, 45(1), 6-18.]. Clínicamente se presentan con síntomas comportamentales, trastornos del lenguaje (afasia primaria progresiva), pudiendo haber superposición con la enfermedad de la neurona motora y trastornos parkinsonianos atípicos. Existen variantes genéticas (mutaciones en la progranulina, C9orf72 y la proteína tau asociada a microtúbulos).
+Síntomas comportamentales: cambios en la personalidad con desinhibición, apatía, falta de empatía (incapacidad de leer las emociones de otros), obsesividad (movimientos repetitivos, acumulación, rituales de limpieza), alteración en la preferencia de las comidas (atracones o preferencias idiosincráticas, preferencia por dulces). Comportamiento desinhibido: interacciones sociales embarazosas, impulsividad, gastos, juego. Falta de insight (indiferencia al déficit).
+Síntomas cognitivos: declinación de las funciones ejecutivas (planeamiento, resolución de problemas, flexibilidad mental, atención, memoria de trabajo). En general se preservan las funciones asociadas a regiones posteriores del cerebro (memoria episódica, habilidades visuoespaciales).
+Criterios internacionales: 3 de 6 síntomas:
+- Desinhibición comportamental
+- Apatía o Inercia
+- Pérdida de la empatía
+- Comportamiento compulsivo estereotipado o ritualístico
+- Hiperoralidad o cambios dietéticos
+- Déficit ejecutivo con relativa conservación de la memoria episódica
+Otros: delirios, alucinaciones multimodales, manía de inicio tardío, depresión, síntomas catatónicos, problemas autonómicos (percepción del dolor, alteración en la termoregulación). Hipersomnia.
+
+==== Demencias subcorticales
 
 Síntomas y signos específicos:
 
@@ -113,29 +126,60 @@ Síntomas y signos específicos:
 
 Ejemplo: Parkinson y Huntington
 
-===== Secundarias
+==== Secundarias
 
 Infecciones, Lúes, SIDA, traumatismos, alcoholismo, metabólicas o endocrinas, tumorales, hidrocefalia normotensiva, tóxicos o medicamentos. No existen datos que nos orienten, lo que de todos modos descartaremos por paraclínica. Son reversibles, favorecen deterioro. Datos epidemiológicos: DTA (55-60%), DV (10-20%), mixtas (10-20%), frontotemporal (5-10%), con cuerpos de Lewy (5-10%), abiotróficas [Parkinson, Huntington] (5-8%), por ingesta crónica de fármacos (1-5%), expansiva e hidrocefalia (1-5%), metabólicas (1-2%), otras (1-5%).
 
-==== icon:commenting[] Encare
+==== Prevención
+Recomendaciones de la OMS footnote:[WORLD HEALTH ORGANIZATION, et al. Risk reduction of cognitive decline and dementia: WHO guidelines. 2019.]:
 
-===== Agrupación sindromática
+.Evidencia fuerte:
+
+* Actividad física: paciente sin déficit o con déficit leve.
+* Cesación de tabaco
+* Dieta sana, balanceada
+
+.Evidencia moderada:
+* Dieta mediterránea
+* Reducción de bebidas con capacidad de daño
+* Intervenciones para disminuir sobrepeso
+
+.Evidencia baja o muy baja
+* Entrenamiento cognitivo
+* Manejo de la hipertensión (solo en relación a la demencia)
+* Manejo de la diabetes (solo en relación a la demencia)
+* Manejo de la dislipidemia
+
+.Evidencia insuficiente
+* Uso de antidepresivos para reducir riesgo de demencia
+* Uso de ayudas para la audición
+
+.Sin evidencia
+* Actividad social
+* Grupos de apoyo
+
+.No recomendado
+* Vitamina B y E, ácidos grasos poliinsaturados, suplementos diatéticos
+
+=== Encare
+
+==== Agrupación sindromática
 
 Destacar motivo de consulta
 
-====== Síndrome conductual
+===== Síndrome conductual
 
 Crisis de EPM, conductas absurdas, antisociales. IAE, en contexto de impulsividad (no mide riesgo - juicio), dependiendo de lo cognitivo. Conductas basales.
 
-======  Síndrome delirante
+=====  Síndrome delirante
 Delirio pobre, ideación paranoide, robo, vinculado a trastornos cognitivos. Manifestado en lo conductual...
 
-====== Síndrome confuso-onírico
+===== Síndrome confuso-onírico
 
-====== Síndrome depresivo
+===== Síndrome depresivo
 IAE con todos sus ítems, en contexto depresivo. Conductas basales y pragmatismos. Vinculado a lo cognitivo. Todo esto inscrito en un contexto sintomático que pasamos a analizar.
 
-====== Síndrome intelectual deficitario adquirido
+===== Síndrome intelectual deficitario adquirido
 
 Dado por un debilitamiento progresivo, global y profundo de las funciones intelectuales y las conductas sociales, desde hace... y que se manifiesta a diferentes niveles:
 
@@ -178,23 +222,23 @@ Relación estrecha con la alteración del juicio que igual destacamos por su jer
 
 Reducido al mundo intrafamiliar, sin proyección social, desde hace... alteración de pragmatismos. Destacar grado de autonomía. Este síndrome deficitario se acompaña de elementos de alteración en la esfera del humor y la afectividad: emotividad, labilidad afectiva, impulsividad, autoritarismo, falta de contención emocional. El síndrome depresivo está ligado como comorbilidad.
 
-====== Síndrome de alteración de las conductas basales y pragmatismos
+===== Síndrome de alteración de las conductas basales y pragmatismos
 
 Dado por insomnio, anorexia, pragmatismos analizados en el síndrome deficitario.
 
-====== Síndrome somático
+===== Síndrome somático
 
 CV: HTA, etc. Neurológico: TEC, motor deficitario, etc. General.
 
-===== Personalidad y nivel
+==== Personalidad y nivel
 
 Nivel: destacar empobrecimiento con balance negativo (rico que se ha empobrecido)
 
 Personalidad: premórbida vs. actual: acentuación de rasgos.
 
-===== Diagnóstico positivo
+==== Diagnóstico positivo
 
-====== Demencia
+===== Demencia
 
 Por la existencia de un síndrome deficitario intelectual adquirido con debilitamiento progresivo que interfiere con la actividad cotidiana y lleva al paciente a una pérdida de su autonomía, donde importa destacar el deterioro del juicio y las manifestaciones a nivel ético-moral, de X años de evolución, en una persona de X edad, que no presentaba previo al inicio del cuadro elementos de deterioro (+ lo orgánico).
 
@@ -202,7 +246,7 @@ CIE-10: “síndrome debido a una enfermedad del cerebro, generalmente de natura
 
 DSMIV: “presencia de múltiples déficits cognitivos (que incluyen deterioro de memoria) que se deben a los efectos fisiológicos directos de una enfermedad médica, o a efectos persistentes de una sustancia o a múltiples etiologías”.
 
-====== Modelo clínico
+===== Modelo clínico
 
 .Cortical
 Alteración de memoria; afectación de gnosias, praxias y lenguaje, habilidades visuoespaciales y cálculo; pueden haber dificultades en las funciones ejecutivas (organización, abstracción, juicio y capacidad de introspección); movimientos preservados hasta fases tardías; personalidad poco afectada (cierta pasividad o brusquedad en las reacciones); en la afectividad: cierta labilidad emocional. Pueden ser conscientes del déficit.
@@ -210,7 +254,7 @@ Alteración de memoria; afectación de gnosias, praxias y lenguaje, habilidades 
 .Subcortical
 Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión, disartria, signos bulbares, hemiparesia motora pura; inicialmente menos afectación en funciones cognoscitivas como numeración, cálculo, etc.; menor alteración de memoria visual o verbal; déficit de aprendizaje de nuevos movimientos motores o tareas; disminución de habilidades para la organización y planificación; alteraciones de la motilidad (movimientos involuntarios, corea, temblor); conservación del lenguaje por más tiempo que la forma cortical; cambios en la personalidad intensos (apatía, inercia, pérdida de la espontaneidad); alteraciones repetidas y precoces en el humor (depresión y ocasionalmente manía insulsa). Se asemeja más a un cuadro de alteración del humor, con menos evidencia de alteración de las funciones cognoscitivas. Ejemplos: Huntington, Parkinson, Parálisis Supranuclear Progresiva.
 
-====== Tipo clínico (CIE-10)
+===== Tipo clínico (CIE-10)
 
 * Demencia en la enfermedad de Alzheimer. Especificadores: de inicio precoz (<65 años)/ tardío; atípica o mixta. Diagnóstico por: presencia de cuadro demencial de comienzo insidioso y curso continuo + exclusión de otras causas + ausencia de AVE + AF DTA o Down
 * Demencia vascular . Especificadores: de inicio agudo; multiinfarto; vascular subcortical; vascular mixta cortical y subcortical; otras; sin especificar.
@@ -218,19 +262,19 @@ Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión
 * Demencias sin especificación: sin síntomas adicionales, con predominio de: ideas delirantes, alucinaciones, síntomas depresivos, síntomas mixtos.
 * Síndrome amnésico orgánico no inducido por alcohol u otras sustancias psicotropas
 
-====== Momento evolutivo
+===== Momento evolutivo
 
 * Incipiens: sólo déficit intelectual (no existe social o ético-moral)
 * Período de estado: ya constituido.
 * Terminal: deterioro importante, grave.
 
-====== Gravedad
+===== Gravedad
 
 * Leve: deterioro laboral con vida independiente.
 * Moderada: vida independiente peligrosa, supervisión, autocrítica alterada: juicio.
 * Grave: supervisión continua, no existe higiene personal mínima, juicio muy alterado, lenguaje incoherente o mudo. Nos inclinamos a.... sabiendo que el diagnóstico definitivo está sujeto a la compensación del cuadro actual, con la corrección de factores que favorecen el deterioro, incidiendo en éste.
 
-====== Complicaciones
+===== Complicaciones
 
 * Síndrome depresivo (o comorbilidad)
 * Excitación psicomotriz
@@ -238,7 +282,7 @@ Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión
 
 Que perjudica el deterioro preexistente y sobre el cual actuaremos en lo inmediato.
 
-====== CIE-10
+===== CIE-10
 
 Demencia (general)
 
@@ -255,7 +299,7 @@ Demencia tipo Alzheimer Criterio general para demencia +
 * ausencia de inicio súbito y de ACVs
 * Sin signos neurológicos focales o daño focal
 
-===== Diagnósticos diferenciales
+==== Diagnósticos diferenciales
 
 1. Cambios cognitivos de la edad avanzada (“olvidos seniles benignos”): término no bien dilucidado, disminución de memoria no vinculada a patología que aparece en > de 50 años, con pruebas de memoria con rendimiento inferior al adulto joven promedio, con tests de inteligencia normales, en ausencia de patología evidenciable. Frecuentemente se pierde la memoria de término medio.
 2. Seudodemencia depresiva: inicio relativamente abrupto, con trastornos cognitivos exagerados, con poca motivación, agotamiento ante leves esfuerzos, muchos “no se”, ejecución inconsistente en las evaluaciones, irritabilidad, insomnio. Ausencia de afasia, agnosia, apraxia. Puntean mejor en pruebas de pares asociados. Los pacientes con demencia son más sugestionables, los pacientes con SDD son más rígidos afectivamente. Tomar en cuenta que la SDD puede ser un prodromo de Alzheimer. Importa criterio temporal (primero la alteración cognitiva y luego la depresión: demencia), presencia o no de acontecimiento depresógeno, juicio conservado, AP o AF afectivos, prueba terapéutica.
@@ -268,7 +312,7 @@ Demencia tipo Alzheimer Criterio general para demencia +
 9. Enfermedad sistémica
 10. Retraso mental: según edad.
 
-===== Diagnóstico etiopatogénico y psicopatológico
+==== Diagnóstico etiopatogénico y psicopatológico
 .Fisiopatología
 Estrés oxidativo: pérdida del balance prooxidativo/antioxidativo, relacionado con procesos de envejecimiento, contribuye a cambios en el sistema colinérgico. Hay refuerzo mutuo entre el estrés oxidativo y la transmisión glutamatérgica (frente a un aumento de radicales libres, hay mayor acción glutamatérgica). Radicales libres: son especies oxigenadas altamente reactivas que contribuyen a la fagocitosis. Cuando aumentan los radicales libres, se promueve el daño neuronal. Apoptosis: muerte celular inducida por radicales libres. Excitotoxicidad: acción neurotóxica por exceso de estimulación, mediada por Glutamato. Se postula un rol en la enfermedad de Parkinson, Huntington y Alzheimer. A nivel neuroanatómico: Hallazgos macroscópicos: no hay hallazgos que sean patognomónicos. Atrofia cerebral, dilatación ventricular, reducción del volumen cerebral. Hallazgos microscópicos: placas amiloides (estructuras extracelulares con centro de proteína beta amiloide rodeado de axones y dendritas atróficas, su densidad no guarda relación con el deterioro cognitivo, son más numerosas en pacientes con demencia tipo Alzheimer, sobre todo en corteza e hipocampo), enredos neurofibrilares (estructuras intracelulares [no exclusivos de DTA] en forma de pares de filamentos helicoidales [proteína Tau que ha tenido fosforilación extrema] y restos de neurotúbulos destruidos, respuesta a eventos degenerativos tóxicos y traumáticos), degeneración granulovacuolar, cuerpos de Hirano.
 
@@ -279,7 +323,7 @@ Demencia tipo Alzheimer
 
 Etiología desconocida. Hay una reducción de las fibras colinérgicas en particular en el LT, en especial en áreas de asociación. Anatomía patológica Disminución del número de neuronas sobre todo en el hipocampo, sustancia innominada, locus coeruleus y corteza temporoparietal y frontal. Hallazgos microscópicos 1. Degeneración neurofibrilar en forma de ovillos o haces neurofibrilares, intracelulares, en las dendritas de las neuronas piramidales o en las neuronas multipolares. Son una colección de filamentos de la proteína fosforilada t, componente normal de microtúbulos que se hace anormal y excesivamente fosforilada, formando filamentos helicoidales apareados. Se ven sobre todo en el hipocampo, corteza entorrinal, subiculum y corteza (capas III y IV). 2. Placas amiloides (seniles): terminaciones axonales degeneradas y dendritas anormales que rodean una zona central de sustancia amiloide. Son extracelulares, compuestas por fibras de proteína beta-amiloide. Presentes sobre todo en hipocampo y corteza. 3. Cuerpos de Hirano: estructuras intracelulares eosinófilas, visibles al MO. 4. Degeneración vacuolar con vacuolas intracitoplasmáticas, centradas por un gránulo argirófilo. Los haces (1) y placas (2) pueden verse en ancianos no demenciados pero en menor número. La presencia de 5 o más placas x campo microscópico indica DTA. Pueden encontrarse cuerpos de Lewy en las neuronas corticales. Neurotransmisores Colinérgico: afectación especial del núcleo basal de Meynert, sustancia inominada y región sublenticular (primera fuente de las proyecciones colinérgicas) y reducción de hasta el 90% de la actividad cortical de la colinoacetiltransferasa. Serotoninérgico: pérdida neuronal en los núcleos del rafe (responsable de los cambios de conducta). Catecolaminas: pérdida neuronal en el locus coeruleus. Sistema peptidérgico: somatostatina, sustancia P, sustancia Y, vasopresina. Sistema histaminérgico y aminoacidérgico (disminución del ácido glutámico y aspártico y GABA). Factores de riesgo Historia familiar de demencia y presencia de sndrome de Down. Otros: no confirmados.
 
-===== Paraclínica
+==== Paraclínica
 
 El diagnóstico de demencia es clínico. La paraclínica estará destinada a:
 
@@ -300,11 +344,11 @@ Una vez superado el cuadro actual (depresivo, delirante, confusional) consulta c
 .Social
 Composición familiar, terceros, vínculos, red de soporte, dinámica de funcionamiento: evaluando aspectos positivos de éste. Relaciones afectivas, MSEC. AP ingesta de fármacos. Historias anteriores.
 
-===== Tratamiento
+==== Tratamiento
 
 Internar en sala de Hospital General, preferentemente aislado. Breve por las dificultades adaptativas (ruptura de referencias de orientación y afectivas). Equipo multidisciplinario... Destinado a compensar el cuadro actual, estudio completo, instrumentación de medidas que ataquen factores de riesgo. Conjuntamente con internista. Compensaremos alteraciones orgánicas para asegurar ausencia de tóxicos endógenos... minimizando agravio encefálico...
 
-====== Del cuadro actual
+===== Del cuadro actual
 
 .Cuidados generales
 
@@ -325,7 +369,11 @@ Con dosis menores a las del adulto e incrementos lentos dado la hipersensibilida
 * Delirio: Haloperidol v/o 1,5 mg c/8 hs (1,5 - 1,5 - 2,0) en solución.
 * Ansiedad: Clonazepam (sedante, control de impulsos, estabilizante del humor, pocos efectos paradójicos) 1mg v/o H:8, 2mgH:20 a regular según evolucón y no pasar de 6-8 mg/día ya que las benzodiacepinas la confusión, amnesia, efectos paradójicos, sobresedación, agravan síntomas deficitarios.
 * Depresión: ISRS por sus pocos efectos secundarios y por no ser anticolinérgico Fluoxetina 10 mg H8. Agregar a los 2-3 días 10 mg v/o H14 y esperar respuesta, pudiendo aumentar según tolerancia hasta un máximo de 40 mg/día. Sertralina: 25 mg H8 inicial, luego 50 mg/día. Latencia de 7-15 días. Atentos a efectos secundarios (ansiedad, insomnio).
-* Trastornos del sueño: Higiene del sueño: laborterapia, evitar cafeína y alcohol, caminatas, evitar sueño diurno. En caso de que éstas medidas no sean suficientes: . conciliación: • Zopiclona: ½ comp de 7,5 mg H:20 v/o • Zolpidem: 5 mg v/o H:20 . mantenimiento: • Flunitrazepam: 1 mg v/o que iremos según necesidad y retiraremos pronto.
+* Trastornos del sueño:
+** Higiene del sueño: laborterapia, evitar cafeína y alcohol, caminatas, evitar sueño diurno. En caso de que éstas medidas no sean suficientes usar tratamiento farmacológico
+** Ritmo circadiano: melatonina footnote:[Vecchierini, M. F., Kilic-Huck, U., & Quera-Salva, M. A. (2021). Melatonin (MEL) and its use in neurological diseases and insomnia: Recommendations of the French Medical and Research Sleep Society (SFRMS). Revue Neurologique, 177(3), 245-259.]
+** Conciliación:  Zopiclona: ½ comp de 7,5 mg H:20 v/o • Zolpidem: 5 mg v/o H:20
+** Mantenimiento: Flunitrazepam: 1 mg v/o que iremos según necesidad y retiraremos pronto.
 * Como favorecedores de la circulación cerebral, conjuntamente con internista, realizaremos:
 ** Nimodipina: 30 mg v/o c/8 hs, que mejora la circulación cerebral sin fenómeno de robo.
 ** Pentoxifilina: 400 mg v/o c/8hs que elasticidad de glóbulos rojos.
@@ -334,7 +382,7 @@ Al alta hospitalaria: retiro de medicación evitando polifarmacia (mínimo indis
 
 * Situaciones clínicas especiales Paciente agitado Determinar grado: perturbado / conducta inapropiada / violento. Reducir riesgos, modificar el ambiente.
 
-====== Tratamiento a largo plazo
+===== Tratamiento a largo plazo
 
 .Demencia Tipo Alzheimer
 
@@ -372,7 +420,7 @@ Intervenciones farmacológicas en trastornos no cognitivos Apatía: Metilfenidat
 
 Social: Psicoeducación, explicando la enfermedad y el pronóstico y la importancia de las medidas terapéuticas continencia y estímulo: instrucción y apoyo con conexión a grupos de Alzheimer (familiares). ambiente estable y predecible, para que el paciente excluya nuevo aprendizaje, lectura y comentario de periódicos, actividad física regular, reconocimiento de lugares. a largo plazo se podría plantear la institucionalización, efectuando un balance entre la evolución del paciente y su necesidad de supervisión continua y la continencia del medio.
 
-===== Evolución y pronóstico
+==== Evolución y pronóstico
 
 Está marcado por la enfermedad de fondo. Pensamos que el cuadro actual será controlado con el tratamiento instituido. Una vez corregido dicho cuadro, mejorará el déficit cognitivo. Si bien tal función le permite por el momento mantener cierta autonomía, nos orientamos a un pronóstico regular/malo ya que estamos:
 
@@ -389,4 +437,4 @@ Complicaciones frecuentes en DTA:
 
 Complicaciones: • episodios depresivos frecuentes, para lo cual mantendremos la medicación AD • alteración de juicio: conductas con implicancias ML Pronóstico ligado a continencia sociofamiliar. Pronóstico vital alejado: ligado a trastornos orgánicos. DMI: dependerá del control CV. En el seguimiento del paciente demente: • rastrear condiciones de comorbilidad • operar en consonancia con familiares y cuidadores • establecer medidas para mejorar la conducta / ánimo • establecer medidas para la modulación del ambiente.
 
-===== Bibliografìa
+==== Bibliografía

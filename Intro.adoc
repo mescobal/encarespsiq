@@ -1,6 +1,6 @@
-=== ¿Que es?
+== ¿Que es?
 
-Este conjunto de notas sobre encares de psiquiatría tiene su origen en la información que fui colocando en Internet desde que comencé a preparar la prueba de residencia de psiquiatría (año 1996) junto con los Dres. Elbio Paullier y Daniel Hazan. En ese momento me conmovió la solidaridad que vi entre quienes preparban la prueba y la generosidad de los postgrados, residentes y psiquiatras ya recibidos que ponían el material propio a disposición.
+Este conjunto de notas sobre encares de psiquiatría tiene su origen en la información que fui colocando en Internet desde que comencé a preparar la prueba de residencia de psiquiatría (año 1996) junto con los Dres. Elbio Paullier y Daniel Hazan. En ese momento me conmovió la solidaridad que vi entre quienes preparaban la prueba y la generosidad de los postgrados, residentes y psiquiatras ya recibidos que ponían el material propio a disposición.
 
 La construcción colectiva del conjunto de conocimientos que implica un encare era totalmente concordante con la filosofía del Software Libre footnote:[https://www.fsf.org] a la que le debemos GNU/Linux y el concepto de Copyleft. Como forma de contribuir a esa construcción colectiva, fui subiendo todo el material, junto con mis propios apuntes a un sitio: www.sitiosaludmental.com. Esto siguió durante algunos años.
 
@@ -22,16 +22,21 @@ Junto con la filosofía del Software Libre, viene el concepto de "liberar frecue
 
 WARNING: No lo impriman!!! Sale una versión nueva aproximadamente cada 15 días.
 
-==== Cambios
+=== Cambios
+
+
 Ultimos cambios:
 
-* inclusión del contenido de F32 Trastorno depresivo
-* inclusión del contenido de F23 Episodio Psicótico agudo
-* citas bibliográficas F32
-* inclusión del contenido de F44 Trastorno conversivo-disociativo
-* inclusión de Trastornos por consumo de opiáceos
+* 07/21: agrego información al encares sobre TDAH
+* 06/21: agrego cosas al encare de Trastornos del Espectro Autista
+* 05/21: cambios en el encare de F10
+* 04/21: inclusión del contenido de F32 Trastorno depresivo
+* 03/21: inclusión del contenido de F23 Episodio Psicótico agudo
+* 02/21: citas bibliográficas F32
+* 01/21: inclusión del contenido de F44 Trastorno conversivo-disociativo
+* 12/20: inclusión de Trastornos por consumo de opiáceos
 
-==== Colaboración
+=== Colaboración
 
 Estos encares fueron posibles gracias a la generosa contribución de varios colegas (entre ellos los Dres.: Eduardo Curbelo, Daniel Hazan, Jorge Panizo, Elbio Paullier). Es muy importante contar el aporte de todos. Ruego enviar toda corrección, sugerencia, aporte a mi dirección de correo. En caso de aportar modificaciones, se valorará que incluyan alguna referencia bibliográfica.
 
@@ -69,18 +74,18 @@ Estoy a favor de lo segundo, pero a su vez estoy de acuerdo con que no hay que m
 
 Al final hay una lista de las abreviaturas más usadas, así como fragmentos de texto que pueden ser usados como base para armar algunas partes de los encares que suelen tener una estructura estandarizada.
 
-=== Bibliografía
+=== Material de estudio
 
-==== Bibliografía básica
+==== Material básico
 
-Una bibliografía mínima para preparar la prueba es:
+El material mínimo para preparar la prueba es:
 
 * Un tratado de psiquiatría (quizás sea más práctico en forma de compendio). Uno de los más usados en este texto es el compendio de Kaplan & Sadock footnote:[SADOCK, Benjamin J. Kaplan & Sadock. Sinopsis de psiquiatría. Wolters Kluwer Health, 2016.].
 * El tratado clásico más popular en Uruguay (es una característica local, no está extendido en el mundo): Ey footnote:[EY, Henry; BERNARD, P. Brisset. Ch.: Tratado de Psiquiatría Editorial Toray-Masson, Barcelona, 1969.].
 * Un manual de clasificación de enfermedades mentales. Si bien entre los docentes es popular el DSM-IV footnote:[America Psychiatric Association. DSM-IV-TR: Manual diagnóstico y estadístico de los trastornos mentales. American Psychiatric Pub, 2008.], hay que recordar que todos los documentos vinculados a salud se guían por la guía de la OMS: CIE-10 footnote:[WORLD HEALTH ORGANIZATION, et al. Guía de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento. 2000.]. El DSM-5 puede no ser popular entre algunos docentes (por buenos motivos).
 * Un texto sobre psicofarmacología. Uno de los más populares es el de Stahl footnote:[STAHL, Stephen M.; STAHL, Stephen M. Stahl's essential psychopharmacology: neuroscientific basis and practical applications. Cambridge university press, 2013.].
 
-==== Bibliografía complementaria
+==== Material complementario
 
 Hay material que se usó como base en muchos de los capítulos que siguen, por lo cual no están citados en cada capítulo:
 
