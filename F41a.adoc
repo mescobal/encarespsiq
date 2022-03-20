@@ -1,4 +1,6 @@
-== Trastorno de Pánico / Ansiedad generalizada
+== Trastorno de Pánico
+
+NOTA: separo Trastorno de pánico de Trastorno de ansiedad generalizada. Voy pasando de a poco TAG al encare correspondiente
 
 === Encare
 Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digestivos), derivaciones desde otras especialidades (cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
@@ -251,9 +253,17 @@ En urgencias Alprazolam 1 mg o Diacepam 5 mg s/l. Para controlar la hiperventila
 
 *Tratamiento de base*
 
-Se recomienda la combinación de tratamiento farmacológico con psicoterapia. Se puede comenzar con benzodiacepinas + ISRS, retirando en forma progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar, luego de su período de latencia (4-8 semanas). Si bien todos los ISRS tiene una eficacia similar, se recomiendan en primer lugar los sedativos ya que tienen acción sobre la ansiedad de fondo.
+Se recomienda la combinación de tratamiento farmacológico con psicoterapia. 
 
-ISRS: Paroxetina 20-40 mg/día (10 mg no se diferencia de placebo) -> Fluvoxamina 100-200 mg/día -> Sertralina 50-100 mg/día -> Citalopram 20-40 mg/día -> Fluoxetina 20-40 mg/día.
+El tratamiento farmacológico con mejor perfil de eficacia y tolerancia es con Benzoadiacepinas, ISRS o antidepresivos tricíclicos. Se prefieren los ISRS a los ADT por mejor perfil de seguridad footnote:[Chawla, N., Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P., McKay, G. J., Attia, J., & Thakkinstian, A. (2022). Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials. bmj, 376.].
+
+Se puede comenzar con benzodiacepinas + ISRS, retirando en forma progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar, luego de su período de latencia (4-8 semanas). Si bien todos los ISRS tiene una eficacia similar, se recomiendan en primer lugar los sedativos ya que tienen acción sobre la ansiedad de fondo.
+
+ISRS : 
+
+* Por eficacia: Fluoxetina 20-40 mg/día → Fluvoxamina 100-200 mg/día → Escitalopram 10-20 mg/día → Paroxetina 20-40 mg/día → Sertralina 50-100 mg/día → Citalopram 20-40 mg/día.
+* Por tolerancia: Escitalopram → Sertralina → Fluvoxamina → Paroxetina → Citalopram → Fluoxetina.
+* Mejor perfil eficacia/tolerancia: Escitalopram.
 
 Debe comenzarse con dosis muy bajas y aumentos graduales por la sensibilidad de éstos pacientes que pueden presentar exacerbación de los síntomas si se inicia de forma brusca (iniciar con 1/4 o 1/2 comprimido de cualquier ISRS). Latencia media: 4 semanas.
 
