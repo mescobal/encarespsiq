@@ -1,7 +1,7 @@
 = Encares de Psiquiatría: Para prueba de residencia
 :author: Marcelo Escobal
 :email: marcelo.escobal@gmail.com
-:revnumber: v0.06.28
+:revnumber: v2.03.30
 :doctype: book
 :pdf-theme: libro-theme.yml
 :lang: es
@@ -60,6 +60,8 @@ include::F43.adoc[]
 include::F44.adoc[]
 
 include::F45.adoc[]
+
+include::F48.adoc[]
 
 = Trastornos asociados a disfunciones fisiológicas
 
