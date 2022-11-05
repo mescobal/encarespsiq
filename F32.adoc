@@ -457,7 +457,7 @@ La ECT será realizada por anestesista y psiquiatra, una sesión cada día por m
 .Estabilizadores del humor
 Ver encare de Manía (F31) para el uso del litio.
 
-Lamotrigina: se trata de un fármaco con efecto de estabilización del humor desde abajo con capacidad de prevención de recurrencias depresivas (no de recurrencias maníacas). Debiendo aumentarse de forma gradual por el riesgo de la presentación de un Sïndrome de Steven-Johnson, efecto secundario poco frecuente, pero potencialmente letal.
+Lamotrigina: se trata de un fármaco con efecto de estabilización del humor desde abajo con capacidad de prevención de recurrencias depresivas (no de recurrencias maníacas). Debiendo aumentarse de forma gradual por el riesgo de la presentación de rash (8% son benignos, 1:1000 pueden ser graves: Síndrome de Steven-Johnson, necrólisis epidérmica tóxica, reacción a drogas con eosinofilia y síntomas sistémicos). 
 Comenzaremos con 25 mg/día aumentando en 15 días a 50 mg, luego en 15 días a 100 mg para llegar finalmente a una dosis de 200 mg. En caso de usarse conjuntamente con divalproato, debe ajustarse la dosis de la lamotrigina a la mitad. En caso de usarla conjuntamente con carbamazepina, debe usarse el doble de dosis que lo habitual.
 
 .Otras formas clínicas

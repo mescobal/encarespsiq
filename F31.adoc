@@ -416,6 +416,10 @@ De primera elección en manías típicas (sin estados mixtos, sin ciclado rápid
 
 WARNING: Atentos a los signos de intoxicación por litio (ATeGDiF): ataxia, temblor grueso, disartria, fasciculaciones
 
+- Intoxicación leve: apatía, letargia, debilidad, temblor fino, síntomas gastrointestinales (náuseas, vómitos, diarreas).
+- Intoxicación moderada: temblor grueso, ataxia, lenguaje lento, confusión, hiperreflexia, clonus, cambios ECG inespecíficos.
+- Intoxicación grave: convulsiones, coma, shock, fasciculaciones generalizadas, alteraciones del ECG (todo tipo), arritmias, muerte footnote:[Osés, I., Burillo-Putze, G., Munné, P., Nogué, S., & Pinillos, M.A.. (2003). Intoxicaciones medicamentosas (I): Psicofármacos y antiarrítmicos. Anales del Sistema Sanitario de Navarra, 26(Supl. 1), 49-63. Recuperado en 29 de septiembre de 2022, de http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272003000200004&lng=es&tlng=es. ].
+
 Si el paciente es añoso, o con problemas renales, o sensible a efectos secundarios: comenzar con 150 mg v/o c/8.
 
 Probablemente lleguemos a un rango de dosis de 900 a 1800 mg). La posología en 1 o 2 tomas diarias no modifica la eficacia y puede minimizar algunos efectos adversos, además de favorecer el cumplimiento con el tratamiento.

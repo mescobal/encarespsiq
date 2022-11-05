@@ -1,7 +1,83 @@
-== F60 Trastorno de la personalidad grupo B
+== F60 Trastornos de la personalidad
 
 === Notas clínicas
+==== Subtipos
 
+.Grupo A
+* Paranoide (F60.0)
+** Obstinado (Compulsivo)
+** Fanático (Narcisista)
+** Querellante (Negativista)
+** Insular (Evitativo)
+** Maligno (Sádico)
+* Esquizoide (F60.1)
+** Remoto (Evitativo, Esquizotípico)
+** Lánguido (Depresivo)
+** Desafectivizado (Compulsivo)
+** Despersonalizado (Esquizotípico)
+* Esquizotípico (F21
+** Insípido (Esquizode, Depresivo, Dependiente)
+** Timorato (Evitativo, Negativista)
+.Grupo B
+* Antisocial (F60.2, Disocial)
+** Nómade (Esquizoide, Evitativo)
+** Malevolente (Sádico, Paranoide)
+** Codicioso (patrón puro)
+** Arriesgado (Histriónico)
+** Defensor de reputación (Narcisista)
+* Límite (F60.3, Inestable)
+* Histriónico (F60.4)
+** Apaciguador (Dependiente, compulsivo)
+** Vivaz (Narcisita)
+** Intempestivo (Negativista)
+** Insincero (Antisocial)
+** Teatral (puro)
+** Infantil (Límite)
+* Narcisista (F60.8, Otros)
+** Inescrupuloso (Antisocial)
+** Elitista (puro)
+** Enamorado (Histriónico)
+** Compensatorio (Negativista, Evitativo)
+.Grupo C
+* Obsesivo (F60.5, Anancástico
+** Concienzudo (Dependiente)
+** Burocrático (Narcisista)
+** Puritano (Paranoide)
+** Parsimonioso (Esquizoide)
+** Acosado (Negativista)
+* Evitativo (F60.6, Ansioso)
+** Fóbico (Dependiente)
+** Conflictuado (Negativista)
+** Hipersensitivo (Paranoide)
+** Autoabandonado (Depresivo)
+* Dependiente (F60.7)
+** Inquieto (Evitativo)
+** Desinteresado (Depresivo)
+** Inmaduro (puro)
+** Complaciente (Masoquista)
+** Ineficaz (Esquizoide)
+.Otros
+* Negativista (Pasivo-agresivo)
+** Vacilante (Límite)
+** Descontento (Depresivo)
+** Tortuoso (Dependiente)
+** Abrasivo (Sádico)
+* Sádico
+** Sin carácter (Evitativo)
+** Tiránico (Negativista)
+** Imponedor (Compulsivo)
+** Explosivo (Límite)
+* Depresivo
+** Intranquilo (Evitativo)
+** Autodespectivo (Dependiente)
+** Malhumorado (Negativista)
+** Fashion (Histriónico, Narcisista)
+** Mórbiudo (Masoquista)
+* Masoquista
+** Virtuoso (Histriónico)
+** Posesivo (Negativista)
+** Autoarruinado (Evitativo)
+** Oprimido (Depresivo)
 ==== Trastorno esquizotípico de la personalidad
 
 .Tratamiento psicofarmacológico
