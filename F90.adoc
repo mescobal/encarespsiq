@@ -13,7 +13,13 @@
 ==== Tratamiento
 
 ===== Biológico
-
+Adolescentes: 
+- primera línea: Mefilfenidato, Dexanfetamina, lisdexanfetamina
+- segunda línea: atomoxetina (si están CI los estimulantes, si no los tolera, si no respondió a 2 estimulantes distintos a dosis adecuadas)
+Adultos:
+- Primera línea: Metilfenidato, dexanfetamina, lisdexanfetamina
+- Segunda línea: Atomoxetina o guanfacina (si están CI los estimulantes, si no los tolera, si no respondió a 2 estimulantes distintos a dosis adecuadas)
+- Tecera línea: Bupropion, Clonidina, Modafinilo, Reboxetina, Venlafaxina
 .Metilfenidato
 Estimulante del SNC.
 Aprobado por la FDA para el tratamiento del TDAH en niños y adultos.

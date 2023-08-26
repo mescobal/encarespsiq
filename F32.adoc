@@ -59,6 +59,9 @@ Resistencia al tratamiento:
 . Potenciación con litio
 . Potenciación con un agonista dopaminérgico o metilfenidato
 
+==== Depresión en adolescentes
+
+- Escitalopram footnote:[EMSLIE, Graham J., et al. Escitalopram in the treatment of adolescent depression: a randomized placebo-controlled multisite trial. Journal of the American Academy of Child & Adolescent Psychiatry, 2009, vol. 48, no 7, p. 721-729.] footnote:[FINDLING, Robert L.; ROBB, Adelaide; BOSE, Anjana. Escitalopram in the treatment of adolescent depression: a randomized, double-blind, placebo-controlled extension trial. Journal of child and adolescent psychopharmacology, 2013, vol. 23, no 7, p. 468-480.]
 
 === Encare
 
@@ -426,7 +429,7 @@ Con supervisión de enfermería las 24 horas, control de hidratación, alimentac
 
 .Antidepresivos
 
-La elección estará determinada entre otras cosas por AP de respuesta a tratamientos previos. En caso de ausencia de antecedentes seleccionaremos antidepresivos según situación clínica:
+La elección estará determinada entre otras cosas por AP de respuesta a tratamientos previos. En caso de ausencia de antecedentes seleccionaremos antidepresivos según situación clínica footnote:[Cipriani, A., Furukawa, T. A., Salanti, G., Chaimani, A., Atkinson, L. Z., Ogawa, Y., ... & Geddes, J. R. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. The Lancet, 391(10128), 1357-1366.]:
 
 * Paciente sin tratamientos previos: preferimos el uso de un ISRS, tal como Sertralina 50 mg 1 comp/día, por la menor incidencia de efectos secundarios. En caso de coexistencia de ansiedad, preferimos un ISRS sedativo (Fluvoxamina, Paroxetina). En caso de tratarse de un paciente añoso: Escitalopram. Estos antidepresivos actúan mediante el bloqueo de la recaptación se serotonina produciendo a mediano plazo una regulación a la baja (desensibilización) de los autorreceptores 5HT1a (presinápticos) y 5HT1d (postinápticos) de la neurona serotoninérgica. Estaremos atentos a la aparición de efectos secundarios, sobre todo a nivel digstivo en etapas iniciales, la posibilidad de viraje en plazos medianos y la disfunción sexual (disminución de la libido, retardo en el orgasmo) a mediano/largo plazo.
 * Paciente con tratamiento previo con ISRS sin respuesta: planteamos el uso de Venlafaxina, antidepresivo con doble mecanismo (acción sobre sistema noradrenérgico y serotroninérgico). Comenzaremos con 75 mg/día, aumentando a 150 mg/día. Según respuesta puede llevarse hasta 300 mg/día.

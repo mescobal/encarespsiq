@@ -11,6 +11,15 @@ Emociones sostenidas sentidas interiormente
 .Humor patológico
 Desproporcionado al estresor o a la situación concurrente, no responde a continentación, mantenido por semanas / meses / años, juicio alterado por severa influencia del humor. Endoreactivo: demasiado intenso, disregulación permanente dada por (1) la facilidad con que se alcanza un intenso estado de humor ante un estrés y (2) persiste autónomamente cuando el estresor cesa.
 
+=== Tratamiento
+
+==== Conductas a evitar
+- En depresión: Monoterapia con antidepresivos, litio, valproato, aripiprazol, ziprasidona, donepecilo, paroxetina (excepto por ansiedad comórbida), gabapentina. No usar combinaciones: lamotrigina + acido fólico, litio + paliperidona, valproato + paliperidona / ziprasidona / gabapentina / topiramato. No usar adjunto de ziprasidona, armodafinil. Datos insuficientes: gabapentina, adjuntar AAS / Celecoxib / Levetiracetam.
+- En manía: evitar tratamiento en monoterapia con donepecilo, gabapentina, lamotrigina, nifedipina, paliperidona, risperidona, topiramato, verapamil, ziprasidona, alopurinol, omega3. Datos insuficientes: oxcabamazepina, olanzapina, risperidona + carbamazepina.
+- En mantenimiento: evitar aripiprazol + lamotrigina, memantina, pramipexol, verapamil, ADT. Evitar combinación con ADT, estabilizador + memantina. Datos insuficientes: lamotrigina, asenapina, gabapentina, topiramato.
+- Otros:
+  - Divalproato en mujeres en edad genital activa.
+  - Carbamazepina durante embarazo
 === Encare
 
 Motivos de consulta: traído por terceros (trastorno de conductas basales o complejas y pragmatismos), complicación medicolegal, abandono de medicación.
