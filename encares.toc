@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {paragraph}{Corticales}{10}{}%
+\contentsline {paragraph}{Subcorticales}{11}{}%
+\contentsline {paragraph}{Síndrome confuso-onírico}{32}{}%
+\contentsline {paragraph}{Síndrome de abstinencia}{33}{}%
+\contentsline {paragraph}{Nosografía clásica}{34}{}%
+\contentsline {paragraph}{DSM IV}{35}{}%
+\contentsline {paragraph}{Síndrome de ansiedad-angustia}{154}{}%
+\contentsline {paragraph}{Síndrome depresivo}{154}{}%

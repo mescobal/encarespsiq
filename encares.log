@@ -1,0 +1,1154 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.24)  3 SEP 2023 22:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**encares.tex
+(./encares.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count190
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+\bbl@dirlevel=\count191
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks16
+\es@quotdepth=\count192
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count193
+\l__color_backend_stack_int=\count194
+\g__color_backend_stack_int=\count195
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+))
+Package: fontawesome5 2021/06/04 v5.15.3 Font Awesome 5
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-he
+lper.sty
+Package: fontawesome5-utex-helper 2021/06/04 v5.15.3 uTeX helper for fontawesom
+e5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
+nput line 69.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd
+)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
+ input line 70.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.
+fd))) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+))
+(./encares.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `encares.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+1.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+
+[1
+
+
+] [2
+
+] (./encares.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `encares.toc'.
+
+ [3]
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [4
+
+] (./Intro.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+ [5]
+File: cc.png Graphic file (type bmp)
+<cc.png>
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+ [6]
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+ [7])
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [8] (./F00.tex
+Missing character: There is no – ("2013) in font ec-lmr10!
+[9
+
+]
+Missing character: There is no ” ("201D) in font ec-lmr10!
+Missing character: There is no ’ ("2019) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+[10]
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
+ [11]
+LaTeX Info: Redefining \. on input line 128.
+LaTeX Info: Redefining \% on input line 128.
+ [12]
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
+ [13]
+LaTeX Info: Redefining \. on input line 220.
+LaTeX Info: Redefining \% on input line 220.
+ [14]
+Missing character: There is no “ ("201C) in font ec-lmr10!
+Missing character: There is no ” ("201D) in font ec-lmr10!
+Missing character: There is no “ ("201C) in font ec-lmr10!
+Missing character: There is no ” ("201D) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 255.
+LaTeX Info: Redefining \% on input line 255.
+[15]
+Missing character: There is no “ ("201C) in font ec-lmr10!
+Missing character: There is no ” ("201D) in font ec-lmr10!
+Missing character: There is no “ ("201C) in font ec-lmr10!
+Missing character: There is no ” ("201D) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 310.
+LaTeX Info: Redefining \% on input line 310.
+[16]
+LaTeX Info: Redefining \. on input line 321.
+LaTeX Info: Redefining \% on input line 321.
+ [17]
+LaTeX Info: Redefining \. on input line 342.
+LaTeX Info: Redefining \% on input line 342.
+ [18]
+Missing character: There is no ’ ("2019) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 376.
+LaTeX Info: Redefining \% on input line 376.
+[19]
+LaTeX Info: Redefining \. on input line 390.
+LaTeX Info: Redefining \% on input line 390.
+ [20]
+LaTeX Info: Redefining \. on input line 407.
+LaTeX Info: Redefining \% on input line 407.
+ [21]
+LaTeX Info: Redefining \. on input line 443.
+LaTeX Info: Redefining \% on input line 443.
+ [22]) (./F05.tex
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [23]
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+ [24]
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
+ [25]
+LaTeX Info: Redefining \. on input line 149.
+LaTeX Info: Redefining \% on input line 149.
+ [26]
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
+ [27])
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [28] (./F10.tex
+[29
+
+]
+Missing character: There is no → ("2192) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
+[30]
+Missing character: There is no ↑ ("2191) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+[31]
+Overfull \hbox (70.8332pt too wide) in paragraph at lines 87--100
+ [] 
+ []
+
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
+[32]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+
+Overfull \hbox (2.30524pt too wide) in paragraph at lines 111--113
+[]\T1/lmr/m/n/10 .Fenómenos acom-pa-ñan-tes Ex-ci-ta-ción psi-co-mo-triz. Hu-mo
+r y afec-ti-vi-dad. Len-
+ []
+
+
+Overfull \hbox (2.98714pt too wide) in paragraph at lines 124--125
+ \T1/lmr/bx/n/10 No-so-gra-fía clá-si-ca[] \T1/lmr/m/n/10 En el ca-so de De-li-
+rio Al-cohó-li-co Subagu-do: Psi-co-sis []Agu-
+ []
+
+
+Underfull \vbox (badness 3281) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 125.
+LaTeX Info: Redefining \% on input line 125.
+ [33]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+
+Overfull \hbox (22.9829pt too wide) in paragraph at lines 139--140
+[]\T1/lmr/m/n/10 Con es-tos ele-men-tos ha-ce-mos diag-nós-ti-co de DE-LI-RIO A
+L-COHÓ-LI-CO SUBAGU-
+ []
+
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
+[34]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 180.
+LaTeX Info: Redefining \% on input line 180.
+[35]
+LaTeX Info: Redefining \. on input line 234.
+LaTeX Info: Redefining \% on input line 234.
+ [36]
+LaTeX Info: Redefining \. on input line 261.
+LaTeX Info: Redefining \% on input line 261.
+ [37]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 282.
+LaTeX Info: Redefining \% on input line 282.
+[38]
+LaTeX Info: Redefining \. on input line 317.
+LaTeX Info: Redefining \% on input line 317.
+ [39]) (./F11.tex
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+ [40]
+Overfull \hbox (0.61093pt too wide) in paragraph at lines 31--33
+\T1/lmr/m/n/10 Opioid With-dra-wal Sca-le), SOWS (Sub-jec-ti-ve Opioid With-dra
+-wal Sca-le), COWS
+ []
+
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+[41]
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
+ [42]
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
+ [43])
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+ [44] (./F20.tex [45
+
+]
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [46]
+Missing character: There is no “ ("201C) in font ec-lmr10!
+Missing character: There is no ” ("201D) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+[47]
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
+ [48]
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [49]
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [50]
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+ [51]
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
+[52]
+Missing character: There is no – ("2013) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 228.
+LaTeX Info: Redefining \% on input line 228.
+[53]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 261.
+LaTeX Info: Redefining \% on input line 261.
+[54]
+Missing character: There is no – ("2013) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 307.
+LaTeX Info: Redefining \% on input line 307.
+[55]
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 366.
+LaTeX Info: Redefining \% on input line 366.
+[56]
+LaTeX Info: Redefining \. on input line 384.
+LaTeX Info: Redefining \% on input line 384.
+ [57]
+LaTeX Info: Redefining \. on input line 411.
+LaTeX Info: Redefining \% on input line 411.
+ [58]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 461.
+LaTeX Info: Redefining \% on input line 461.
+[59]
+LaTeX Info: Redefining \. on input line 504.
+LaTeX Info: Redefining \% on input line 504.
+ [60]
+LaTeX Info: Redefining \. on input line 519.
+LaTeX Info: Redefining \% on input line 519.
+ [61]
+LaTeX Info: Redefining \. on input line 564.
+LaTeX Info: Redefining \% on input line 564.
+ [62]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 626.
+LaTeX Info: Redefining \% on input line 626.
+[63]
+LaTeX Info: Redefining \. on input line 677.
+LaTeX Info: Redefining \% on input line 677.
+ [64]
+LaTeX Info: Redefining \. on input line 709.
+LaTeX Info: Redefining \% on input line 709.
+ [65]
+Missing character: There is no – ("2013) in font ec-lmr8!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 718.
+LaTeX Info: Redefining \% on input line 718.
+[66]
+LaTeX Info: Redefining \. on input line 726.
+LaTeX Info: Redefining \% on input line 726.
+ [67]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 752.
+LaTeX Info: Redefining \% on input line 752.
+[68]) (./F22a.tex
+Missing character: There is no – ("2013) in font ec-lmr8!
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+[69]
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [70]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+[71]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+[72]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no ↓ ("2193) in font ec-lmr10!
+Missing character: There is no ↓ ("2193) in font ec-lmr10!
+
+Overfull \hbox (41.86063pt too wide) in paragraph at lines 146--147
+\T1/lmr/m/n/10 en la pre-dis-po-si-ción psi-co-ló-gi-ca de la per-so-na-li-dad 
+pre-mór-bi-da de ti-po paranoico/sensitivo-
+ []
+
+LaTeX Info: Redefining \. on input line 149.
+LaTeX Info: Redefining \% on input line 149.
+[73]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
+[74]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 200.
+LaTeX Info: Redefining \% on input line 200.
+[75]) (./F22b.tex
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [76]
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [77]) (./F23.tex
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [78]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [79]
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+ [80]
+LaTeX Info: Redefining \. on input line 136.
+LaTeX Info: Redefining \% on input line 136.
+ [81]
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
+ [82]
+LaTeX Info: Redefining \. on input line 212.
+LaTeX Info: Redefining \% on input line 212.
+ [83]
+LaTeX Info: Redefining \. on input line 257.
+LaTeX Info: Redefining \% on input line 257.
+ [84]
+LaTeX Info: Redefining \. on input line 309.
+LaTeX Info: Redefining \% on input line 309.
+
+[85])
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [86] (./F30.tex [87
+
+]
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
+ [88]
+LaTeX Info: Redefining \. on input line 188.
+LaTeX Info: Redefining \% on input line 188.
+ [89]
+LaTeX Info: Redefining \. on input line 238.
+LaTeX Info: Redefining \% on input line 238.
+ [90]
+LaTeX Info: Redefining \. on input line 287.
+LaTeX Info: Redefining \% on input line 287.
+ [91]
+LaTeX Info: Redefining \. on input line 349.
+LaTeX Info: Redefining \% on input line 349.
+ [92]
+LaTeX Info: Redefining \. on input line 423.
+LaTeX Info: Redefining \% on input line 423.
+ [93]
+LaTeX Info: Redefining \. on input line 498.
+LaTeX Info: Redefining \% on input line 498.
+ [94]
+LaTeX Info: Redefining \. on input line 525.
+LaTeX Info: Redefining \% on input line 525.
+ [95]
+LaTeX Info: Redefining \. on input line 590.
+LaTeX Info: Redefining \% on input line 590.
+ [96]
+LaTeX Info: Redefining \. on input line 670.
+LaTeX Info: Redefining \% on input line 670.
+
+[97]
+LaTeX Info: Redefining \. on input line 745.
+LaTeX Info: Redefining \% on input line 745.
+ [98]
+LaTeX Info: Redefining \. on input line 837.
+LaTeX Info: Redefining \% on input line 837.
+ [99]) (./F31.tex
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [100]
+Overfull \hbox (5.16669pt too wide) in paragraph at lines 57--58
+[]\T1/lmr/m/n/10 Contenido: re-co-no-ce-mos ideas so-bre-va-lo-ra-das, exa-ge-r
+a-das, con-di-cio-na-das afec-
+ []
+
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+[101]
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+ [102]
+LaTeX Info: Redefining \. on input line 129.
+LaTeX Info: Redefining \% on input line 129.
+ [103]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 186.
+LaTeX Info: Redefining \% on input line 186.
+[104]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 241.
+LaTeX Info: Redefining \% on input line 241.
+[105]
+LaTeX Info: Redefining \. on input line 283.
+LaTeX Info: Redefining \% on input line 283.
+ [106]
+Overfull \hbox (3.80501pt too wide) in paragraph at lines 296--297
+[]\T1/lmr/m/n/10 Realizaremos una anam-ne-sis mé-di-ca ge-ne-ral al pa-cien-te 
+y ter-ce-ros. Un examen
+ []
+
+LaTeX Info: Redefining \. on input line 315.
+LaTeX Info: Redefining \% on input line 315.
+[107]
+LaTeX Info: Redefining \. on input line 346.
+LaTeX Info: Redefining \% on input line 346.
+ [108]
+LaTeX Info: Redefining \. on input line 376.
+LaTeX Info: Redefining \% on input line 376.
+ [109]
+LaTeX Info: Redefining \. on input line 401.
+LaTeX Info: Redefining \% on input line 401.
+ [110]
+LaTeX Info: Redefining \. on input line 427.
+LaTeX Info: Redefining \% on input line 427.
+ [111]
+LaTeX Info: Redefining \. on input line 453.
+LaTeX Info: Redefining \% on input line 453.
+ [112]
+LaTeX Info: Redefining \. on input line 478.
+LaTeX Info: Redefining \% on input line 478.
+ [113]
+LaTeX Info: Redefining \. on input line 515.
+LaTeX Info: Redefining \% on input line 515.
+ [114]) (./F32.tex
+Overfull \hbox (0.5285pt too wide) in paragraph at lines 9--25
+[]\T1/lmr/m/n/10 Es un cons-truc-to clí-ni-ca-men-te útil footnote:[Agüera-Orti
+z, L., Claver-Martín,
+ []
+
+
+Overfull \hbox (3.75157pt too wide) in paragraph at lines 9--25
+\T1/lmr/m/n/10 M. D., Franco-Fernández, M. D., López-Álvarez, J., Martín-Carras
+co, M., Ramos-
+ []
+
+
+Overfull \hbox (7.7896pt too wide) in paragraph at lines 28--53
+\T1/lmr/m/n/10 AGOM, VORT|FLUO, CI-TA, ES-CI |Ma-reos|BUPR|DESV, VENL, FLUO, SE
+RT,
+ []
+
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
+[115]
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
+ [116]
+LaTeX Info: Redefining \. on input line 119.
+LaTeX Info: Redefining \% on input line 119.
+ [117]
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
+ [118]
+LaTeX Info: Redefining \. on input line 204.
+LaTeX Info: Redefining \% on input line 204.
+ [119]
+LaTeX Info: Redefining \. on input line 252.
+LaTeX Info: Redefining \% on input line 252.
+ [120]
+LaTeX Info: Redefining \. on input line 301.
+LaTeX Info: Redefining \% on input line 301.
+ [121]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+
+Overfull \hbox (7.43007pt too wide) in paragraph at lines 320--333
+\T1/lmr/m/n/10 on-set of DSM-IV di-sor-ders. Arch Gen Psy-chiatry 67, 113123. h
+ttps://10.1001/arch
+ []
+
+Missing character: There is no α ("3B1) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 348.
+LaTeX Info: Redefining \% on input line 348.
+[122]
+LaTeX Info: Redefining \. on input line 392.
+LaTeX Info: Redefining \% on input line 392.
+ [123]
+LaTeX Info: Redefining \. on input line 436.
+LaTeX Info: Redefining \% on input line 436.
+ [124]
+LaTeX Info: Redefining \. on input line 459.
+LaTeX Info: Redefining \% on input line 459.
+ [125]
+Overfull \hbox (25.5558pt too wide) in paragraph at lines 470--473
+[]\T1/lmr/m/n/10 * De-li-ran-te: agre-gar an-ti-psi-có-ti-cos, pre-fe-ren-te-me
+n-te atí-pi-cos: Ari-pi-ra-zol icon:arrow-
+ []
+
+LaTeX Info: Redefining \. on input line 504.
+LaTeX Info: Redefining \% on input line 504.
+[126])
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [127]
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [128] (./F40.tex
+Overfull \hbox (56.08382pt too wide) in paragraph at lines 3--15
+[]\T1/lmr/m/n/10 === No-tas clí-ni-cas An-sie-dad foot-no-te:[https://doi.org/1
+0.1176/appi.ajp.2020.20010057]:
+ []
+
+[129
+
+]
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+ [130]
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+ [131]
+LaTeX Info: Redefining \. on input line 198.
+LaTeX Info: Redefining \% on input line 198.
+ [132]
+LaTeX Info: Redefining \. on input line 228.
+LaTeX Info: Redefining \% on input line 228.
+ [133]
+LaTeX Info: Redefining \. on input line 278.
+LaTeX Info: Redefining \% on input line 278.
+ [134]
+LaTeX Info: Redefining \. on input line 297.
+LaTeX Info: Redefining \% on input line 297.
+ [135]) (./F40a.tex
+Missing character: There is no “ ("201C) in font ec-lmr10!
+Missing character: There is no ” ("201D) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+[136]
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [137]
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
+ [138]
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
+ [139]
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+ [140]
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+ [141]
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 245.
+LaTeX Info: Redefining \% on input line 245.
+[142]) (./F41a.tex
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [143]
+Overfull \hbox (1.08379pt too wide) in paragraph at lines 39--43
+\T1/lmr/m/n/10 ma-nen-tes), sen-so-rial, sen-si-ti-vo, neu-ro-ve-ge-ta-ti-vo. *
+ Sín-dro-me obsesivo-compulsivo
+ []
+
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+[144]
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+ [145]
+LaTeX Info: Redefining \. on input line 168.
+LaTeX Info: Redefining \% on input line 168.
+ [146]
+LaTeX Info: Redefining \. on input line 216.
+LaTeX Info: Redefining \% on input line 216.
+ [147]
+LaTeX Info: Redefining \. on input line 246.
+LaTeX Info: Redefining \% on input line 246.
+ [148]
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 273.
+LaTeX Info: Redefining \% on input line 273.
+[149]
+Overfull \hbox (7.02722pt too wide) in paragraph at lines 298--300
+[]\T1/lmr/m/n/10 .Psicológico Tra-ta-mien-to psi-co-te-ra-péu-ti-co: Te-ra-pia 
+cognitivo-comportamental:
+ []
+
+LaTeX Info: Redefining \. on input line 308.
+LaTeX Info: Redefining \% on input line 308.
+[150]) (./F41b.tex
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [151]
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no ’ ("2019) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+Missing character: There is no – ("2013) in font ec-lmr10!
+
+Overfull \hbox (0.5836pt too wide) in paragraph at lines 47--48
+[]\T1/lmr/m/n/10 Recomendaciones: du-lo-xe-ti-na >pre-ga-ba-li-na >ven-la-fa-xi
+-na >es-ci-ta-lo-pram. Al-
+ []
+
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+[152]) (./F42.tex
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [153]
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+ [154]
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [155]
+Overfull \hbox (7.2932pt too wide) in paragraph at lines 124--125
+[]\T1/lmr/m/n/10 Hay que di-fe-ren-ciar las Com-pul-sio-nes de otras ac-ti-vi-d
+a-des çom-pul-si-vas"(comer,
+ []
+
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+[156]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 210.
+LaTeX Info: Redefining \% on input line 210.
+[157]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 241.
+LaTeX Info: Redefining \% on input line 241.
+[158]
+LaTeX Info: Redefining \. on input line 276.
+LaTeX Info: Redefining \% on input line 276.
+ [159]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 301.
+LaTeX Info: Redefining \% on input line 301.
+[160]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 331.
+LaTeX Info: Redefining \% on input line 331.
+[161]) (./F43.tex) (./F44.tex
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+ [162]
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [163]
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
+ [164]
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
+ [165]
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
+ [166]
+LaTeX Info: Redefining \. on input line 252.
+LaTeX Info: Redefining \% on input line 252.
+ [167]
+LaTeX Info: Redefining \. on input line 295.
+LaTeX Info: Redefining \% on input line 295.
+ [168]
+LaTeX Info: Redefining \. on input line 324.
+LaTeX Info: Redefining \% on input line 324.
+
+[169]) (./F45.tex) (./F48.tex
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [170])
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [171]
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [172
+
+] (./F50.tex [173]
+Missing character: There is no β ("3B2) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
+[174]) (./F51.tex
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+)
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+ [175]
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+ [176
+
+] (./F60.tex
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [177]
+Overfull \hbox (10.33215pt too wide) in paragraph at lines 109--112
+[]\T1/lmr/m/n/10 * Sín-dro-me de-pre-si-vo (dis-fó-ri-co). * Sín-dro-me de-li-r
+an-te. * Sín-dro-me de ansiedad-
+ []
+
+LaTeX Info: Redefining \. on input line 144.
+LaTeX Info: Redefining \% on input line 144.
+[178]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
+[179]
+LaTeX Info: Redefining \. on input line 235.
+LaTeX Info: Redefining \% on input line 235.
+ [180]) (./F63.tex
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ [181]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+) (./F68.tex
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+ [182])
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [183]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [184
+
+] (./F70.tex [185]
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+ [186]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
+[187]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+[188]
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+)
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [189]
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+ [190
+
+] (./F84.tex [191]
+Missing character: There is no → ("2192) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+[192])
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [193]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [194
+
+] (./F90.tex
+Missing character: There is no ↑ ("2191) in font ec-lmr10!
+Missing character: There is no ↑ ("2191) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+[195]
+Missing character: There is no ↑ ("2191) in font ec-lmr10!
+Missing character: There is no ↑ ("2191) in font ec-lmr10!
+Missing character: There is no ↑ ("2191) in font ec-lmr10!
+Missing character: There is no β ("3B2) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+Missing character: There is no → ("2192) in font ec-lmr10!
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+[196]) (./F98.tex)
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [197]
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [198
+
+] (./IAE.tex) (./Estupor.tex
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+Missing character: There is no • ("2022) in font ec-lmr10!
+[199]
+Overfull \hbox (1.58308pt too wide) in paragraph at lines 17--18
+\T1/lmr/m/n/10 qui-zo-fre-nia icon:arrow-circle-right[] En pe-río-do de es-ta-d
+o icon:arrow-circle-right[]
+ []
+
+)
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+ [200] (./Fragmentos.tex) (./Abreviaturas.tex)
+Overfull \hbox (3.19516pt too wide) in paragraph at lines 3--61
+[]\T1/lmr/m/n/10 AAV:: Alu-ci-na-cio-nes auditivo-verbales ACV:: Ac-ci-den-te c
+e-re-bro-vas-cu-lar. AF::
+ []
+
+[201
+
+]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [202] (./encares.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4687 strings out of 476179
+ 71033 string characters out of 5809543
+ 388697 words of memory out of 5000000
+ 25310 multiletter control sequences out of 15000+600000
+ 514004 words of font info for 54 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 59i,8n,77p,4108b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on encares.pdf (202 pages).
