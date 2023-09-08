@@ -1,6 +1,12 @@
 \documentclass{book}
 \usepackage[spanish]{babel}
 %\usepackage[T1]{fontenc}
+\usepackage[
+backend=biber,
+style=alphabetic,
+sorting=ynt
+]{biblatex}
+\addbibresource{encares.bib}
 \usepackage{fontawesome5}
 \usepackage{graphicx}
 \usepackage{wrapfig}
@@ -56,6 +62,7 @@
 \chapter*{Otras situaciones clínicas}
 \subfile{IAE.tex}
 \subfile{Estupor.tex}
+\printbibliography
 \chapter*{Apéndice}
 \subfile{Fragmentos.tex}
 \subfile{Abreviaturas.tex}

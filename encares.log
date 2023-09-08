@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.24)  6 SEP 2023 23:42
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.24)  7 SEP 2023 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -44,7 +44,270 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count194
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count195
+\c@listtotal=\count196
+\c@listcount=\count197
+\c@liststart=\count198
+\c@liststop=\count199
+\c@citecount=\count266
+\c@citetotal=\count267
+\c@multicitecount=\count268
+\c@multicitetotal=\count269
+\c@instcount=\count270
+\c@maxnames=\count271
+\c@minnames=\count272
+\c@maxitems=\count273
+\c@minitems=\count274
+\c@citecounter=\count275
+\c@maxcitecounter=\count276
+\c@savedcitecounter=\count277
+\c@uniquelist=\count278
+\c@uniquename=\count279
+\c@refsection=\count280
+\c@refsegment=\count281
+\c@maxextratitle=\count282
+\c@maxextratitleyear=\count283
+\c@maxextraname=\count284
+\c@maxextradate=\count285
+\c@maxextraalpha=\count286
+\c@abbrvpenalty=\count287
+\c@highnamepenalty=\count288
+\c@lownamepenalty=\count289
+\c@maxparens=\count290
+\c@parenlevel=\count291
+\blx@tempcnta=\count292
+\blx@tempcntb=\count293
+\blx@tempcntc=\count294
+\c@blx@maxsection=\count295
+\c@blx@maxsegment@0=\count296
+\blx@notetype=\count297
+\blx@parenlevel@text=\count298
+\blx@parenlevel@foot=\count299
+\c@blx@sectionciteorder@0=\count300
+\blx@entrysetcounter=\count301
+\blx@biblioinstance=\count302
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language88
+\c@mincomprange=\count303
+\c@maxcomprange=\count304
+\c@mincompwidth=\count305
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count306
+\c@savedafterword=\count307
+\c@annotator=\count308
+\c@savedannotator=\count309
+\c@author=\count310
+\c@savedauthor=\count311
+\c@bookauthor=\count312
+\c@savedbookauthor=\count313
+\c@commentator=\count314
+\c@savedcommentator=\count315
+\c@editor=\count316
+\c@savededitor=\count317
+\c@editora=\count318
+\c@savededitora=\count319
+\c@editorb=\count320
+\c@savededitorb=\count321
+\c@editorc=\count322
+\c@savededitorc=\count323
+\c@foreword=\count324
+\c@savedforeword=\count325
+\c@holder=\count326
+\c@savedholder=\count327
+\c@introduction=\count328
+\c@savedintroduction=\count329
+\c@namea=\count330
+\c@savednamea=\count331
+\c@nameb=\count332
+\c@savednameb=\count333
+\c@namec=\count334
+\c@savednamec=\count335
+\c@translator=\count336
+\c@savedtranslator=\count337
+\c@shortauthor=\count338
+\c@savedshortauthor=\count339
+\c@shorteditor=\count340
+\c@savedshorteditor=\count341
+\c@labelname=\count342
+\c@savedlabelname=\count343
+\c@institution=\count344
+\c@savedinstitution=\count345
+\c@lista=\count346
+\c@savedlista=\count347
+\c@listb=\count348
+\c@savedlistb=\count349
+\c@listc=\count350
+\c@savedlistc=\count351
+\c@listd=\count352
+\c@savedlistd=\count353
+\c@liste=\count354
+\c@savedliste=\count355
+\c@listf=\count356
+\c@savedlistf=\count357
+\c@location=\count358
+\c@savedlocation=\count359
+\c@organization=\count360
+\c@savedorganization=\count361
+\c@origlocation=\count362
+\c@savedoriglocation=\count363
+\c@origpublisher=\count364
+\c@savedorigpublisher=\count365
+\c@publisher=\count366
+\c@savedpublisher=\count367
+\c@language=\count368
+\c@savedlanguage=\count369
+\c@origlanguage=\count370
+\c@savedoriglanguage=\count371
+\c@pageref=\count372
+\c@savedpageref=\count373
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count374
+\c@textcitetotal=\count375
+\c@textcitemaxnames=\count376
+\c@biburlbigbreakpenalty=\count377
+\c@biburlbreakpenalty=\count378
+\c@biburlnumpenalty=\count379
+\c@biburlucpenalty=\count380
+\c@biburllcpenalty=\count381
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count382
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/alphabetic.bbx
+File: alphabetic.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count383
+\c@bbx:relatedtotal=\count384
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/cbx/alphabetic.cbx
+File: alphabetic.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2022-02-24 L3 programming layer (loader) 
 
@@ -52,21 +315,31 @@ Package: expl3 2022-02-24 L3 programming layer (loader)
 File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count193
-\l__color_backend_stack_int=\count194
-\g__color_backend_stack_int=\count195
-\g__graphics_track_int=\count196
+\c__kernel_sys_dvipdfmx_version_int=\count385
+\l__color_backend_stack_int=\count386
+\g__color_backend_stack_int=\count387
+\g__graphics_track_int=\count388
 \l__pdf_internal_box=\box50
-\g__pdf_backend_object_int=\count197
-\g__pdf_backend_annotation_int=\count198
-\g__pdf_backend_link_int=\count199
+\g__pdf_backend_object_int=\count389
+\g__pdf_backend_annotation_int=\count390
+\g__pdf_backend_link_int=\count391
 ))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 Package: fontawesome5 2021/06/04 v5.15.3 Font Awesome 5
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-he
 lper.sty
@@ -84,10 +357,6 @@ LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
 fd))) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
@@ -108,7 +377,7 @@ File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 (/usr/local/texlive/2022/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen142
 \WF@size=\dimen143
-\c@WF@wrappedlines=\count266
+\c@WF@wrappedlines=\count392
 \WF@box=\box51
 \WF@everypar=\toks18
 Package: wrapfig 2003/01/31  v 3.6
@@ -119,57 +388,81 @@ Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 ))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count393
+\@quotereset=\count394
 (./encares.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `encares.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-2.
+8.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
 
-[1
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `encares.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'encares.bbl' found.
+
+(./encares.bbl)
+Package biblatex Info: Reference section=0 on input line 18.
+Package biblatex Info: Reference segment=0 on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+ [1
 
 
 ] [2
 
 ] (./encares.toc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
-\tf@toc=\write3
-\openout3 = `encares.toc'.
+\tf@toc=\write4
+\openout4 = `encares.toc'.
 
  [3]
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
  [4
 
 ] (./Intro.tex
@@ -177,145 +470,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 6.
+File: copyleft.png Graphic file (type bmp)
+<copyleft.png>
 
-! Improper alphabetic constant.
-<to be read again> 
-                   \protect 
-l.8 ^^I\centering
-                 
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
+Underfull \vbox (badness 1448) has occurred while \output is active []
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \protect 
-l.8 ^^I\centering
-                 
-I was expecting to see `<', `=', or `>'. Didn't.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \protect 
-l.8 ^^I\centering
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \unhbox 
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \unhbox 
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Missing endcsname inserted.
-<to be read again> 
-                   relax 
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Use of ??? doesn't match its definition.
-<argument> ???  
-                ! LaTeX3 Error: relax invalid in file name. Lost: .
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Missing endcsname inserted.
-<to be read again> 
-                   relax 
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Use of ??? doesn't match its definition.
-<argument> ???  
-                ! LaTeX3 Error: relax invalid in file name. Lost: .
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Missing endcsname inserted.
-<to be read again> 
-                   relax 
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Use of ??? doesn't match its definition.
-<argument> ???  
-                ! LaTeX3 Error: relax invalid in file name. Lost: .
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-! LaTeX Error: File `\relax ' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ^^I\includegraphics
-                       {copyleft.png}
-I could not locate the file with any of these extensions:
-.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
-,.ps,.PS,.eps,.EPS,.mps,.MPS
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (53.07pt too wide) in paragraph at lines 9--10
- [][] 
- []
-
-! Improper alphabetic constant.
-<to be read again> 
-                   \protect 
-l.10 \end{wrapfigure}
-                     
-A one-character control sequence belongs after a ` mark.
-So I'm essentially inserting \0 here.
-
-[5]
+ [5]
 File: cc.png Graphic file (type bmp)
 <cc.png>
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
- [6]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+
+[6]
+Overfull \hbox (1.90002pt too wide) in paragraph at lines 51--52
+[]\TU/lmr/m/n/10 Adaptar: remezclar, transformar
+ []
+
 LaTeX Info: Redefining \. on input line 75.
 LaTeX Info: Redefining \% on input line 75.
- [7])
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+[7]
+
+LaTeX Warning: Citation 'ey1996' on page 8 undefined on input line 81.
+
+)
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
  [8] (./F00.tex [9
 
 ]
@@ -345,8 +524,7 @@ LaTeX Info: Redefining \% on input line 321.
  [17]
 LaTeX Info: Redefining \. on input line 342.
 LaTeX Info: Redefining \% on input line 342.
-
-[18]
+ [18]
 LaTeX Info: Redefining \. on input line 376.
 LaTeX Info: Redefining \% on input line 376.
  [19]
@@ -355,7 +533,8 @@ LaTeX Info: Redefining \% on input line 390.
  [20]
 LaTeX Info: Redefining \. on input line 407.
 LaTeX Info: Redefining \% on input line 407.
- [21]
+
+[21]
 LaTeX Info: Redefining \. on input line 443.
 LaTeX Info: Redefining \% on input line 443.
  [22]) (./F05.tex
@@ -374,10 +553,9 @@ LaTeX Info: Redefining \% on input line 149.
 LaTeX Info: Redefining \. on input line 201.
 LaTeX Info: Redefining \% on input line 201.
  [27])
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
- [28] (./F10.tex
-[29
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [28] (./F10.tex [29
 
 ]
 LaTeX Info: Redefining \. on input line 56.
@@ -385,7 +563,8 @@ LaTeX Info: Redefining \% on input line 56.
  [30]
 LaTeX Info: Redefining \. on input line 76.
 LaTeX Info: Redefining \% on input line 76.
- [31]
+
+[31]
 Overfull \hbox (40.33011pt too wide) in paragraph at lines 85--98
  [] 
  []
@@ -444,8 +623,8 @@ LaTeX Info: Redefining \% on input line 104.
 LaTeX Info: Redefining \. on input line 131.
 LaTeX Info: Redefining \% on input line 131.
  [43])
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
  [44] (./F20.tex [45
 
 ]
@@ -579,8 +758,8 @@ LaTeX Info: Redefining \% on input line 255.
 LaTeX Info: Redefining \. on input line 304.
 LaTeX Info: Redefining \% on input line 304.
  [85])
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
  [86] (./F30.tex [87
 
 ]
@@ -736,11 +915,11 @@ Overfull \hbox (25.56001pt too wide) in paragraph at lines 470--473
 LaTeX Info: Redefining \. on input line 504.
 LaTeX Info: Redefining \% on input line 504.
 [126])
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [127]
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [128] (./F40.tex
 Overfull \hbox (56.15001pt too wide) in paragraph at lines 3--15
 []\TU/lmr/m/n/10 === Notas clínicas Ansiedad footnote:[https://doi.org/10.1176/
@@ -901,11 +1080,11 @@ LaTeX Info: Redefining \% on input line 322.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
  [170])
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
  [171]
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
 
 [172
 
@@ -915,11 +1094,11 @@ ex-text;!
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
 [174]) (./F51.tex)
-LaTeX Info: Redefining \. on input line 45.
-LaTeX Info: Redefining \% on input line 45.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
  [175]
-LaTeX Info: Redefining \. on input line 45.
-LaTeX Info: Redefining \% on input line 45.
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
  [176
 
 ] (./F60.tex
@@ -946,11 +1125,11 @@ LaTeX Info: Redefining \% on input line 10.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
  [182])
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
  [183]
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
  [184
 
 ] (./F70.tex
@@ -964,22 +1143,22 @@ LaTeX Info: Redefining \% on input line 121.
 LaTeX Info: Redefining \. on input line 153.
 LaTeX Info: Redefining \% on input line 153.
  [188])
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
  [189]
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
  [190
 
 ] (./F84.tex [191]
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
  [192])
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
  [193]
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
  [194
 
 ]
@@ -989,45 +1168,60 @@ ex-text;!
 LaTeX Info: Redefining \. on input line 91.
 LaTeX Info: Redefining \% on input line 91.
 [196]) (./F98.tex)
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
  [197]
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
  [198
 
 ] (./IAE.tex) (./Estupor.tex [199])
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
- [200]
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
- [201]
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
 
-[202
+LaTeX Warning: Empty bibliography on input line 65.
+
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+[200]
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+ [201]
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+ [202
 
 ] (./Fragmentos.tex) (./Abreviaturas.tex)
-Overfull \hbox (3.19002pt too wide) in paragraph at lines 3--62
+Overfull \hbox (3.19002pt too wide) in paragraph at lines 3--69
 []\TU/lmr/m/n/10 AAV:: Alucinaciones auditivo-verbales ACV:: Accidente cerebrov
 ascular. AF::
  []
 
 [203]
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
  [204] (./encares.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
-) ) 
+LaTeX Info: Redefining \sptext on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                encares
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'encares.run.xml'.
+\openout1 = `encares.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4575 strings out of 476179
- 70858 string characters out of 5809543
- 408645 words of memory out of 5000000
- 25189 multiletter control sequences out of 15000+600000
+ 12466 strings out of 476179
+ 226473 string characters out of 5809543
+ 986419 words of memory out of 5000000
+ 32993 multiletter control sequences out of 15000+600000
  472123 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,8n,77p,4108b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,77p,4108b,5002s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on encares.pdf (204 pages).
