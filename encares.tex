@@ -1,16 +1,12 @@
 \documentclass{book}
 \usepackage[spanish]{babel}
 %\usepackage[T1]{fontenc}
-\usepackage[
-backend=biber,
-style=alphabetic,
-sorting=ynt
-]{biblatex}
+\usepackage[style=numeric, refsection=chapter]{biblatex}
 \addbibresource{encares.bib}
+%\bibliographystyle{unsrt}
 \usepackage{fontawesome5}
 \usepackage{graphicx}
 \usepackage{wrapfig}
-\usepackage{subfiles}
 \title{%
 	Encares de psiquiatría \\
 	\large para prueba de residencia}
@@ -18,52 +14,51 @@ sorting=ynt
 \begin{document}
 \maketitle
 \tableofcontents
-\chapter*{Introducción}
-\subfile{Intro.tex}
-\chapter*{Trastornos mentales orgánicos}
-\subfile{F00.tex}
-\subfile{F05.tex}
-\chapter*{Trastornos por consumo de sustancias psicoactivas}
-\subfile{F10.tex}
-\subfile{F11.tex}
-\chapter*{Trastornos psicóticos}
-\subfile{F20.tex}
-\subfile{F22a.tex}
-\subfile{F22b.tex}
-\subfile{F23.tex}
-\chapter*{Trastornos del humor}
-\subfile{F30.tex}
-\subfile{F31.tex}
-\subfile{F32.tex}
-\chapter*{Trastornos de ansiedad}
-\subfile{F40.tex}
-\subfile{F40a.tex}
-\subfile{F41a.tex}
-\subfile{F41b.tex}
-\subfile{F42.tex}
-\subfile{F43.tex}
-\subfile{F44.tex}
-\subfile{F45.tex}
-\subfile{F48.tex}
-\chapter*{Trastornos asociados a disfunciones fisiológicas}
-\subfile{F50.tex}
-\subfile{F51.tex}
-\chapter*{Trastornos de la personalidad y del control de impulsos}
-\subfile{F60.tex}
-\subfile{F63.tex}
-\subfile{F68.tex}
-\chapter*{Retraso Mental}
-\subfile{F70.tex}
-\chapter*{Trastornos del desarrollo psicológico}
-\subfile{F84.tex}
-\chapter*{Trastornos de inicio en la infancia/adolescencia}
-\subfile{F90.tex}
-\subfile{F98.tex}
-\chapter*{Otras situaciones clínicas}
-\subfile{IAE.tex}
-\subfile{Estupor.tex}
-\printbibliography
-\chapter*{Apéndice}
-\subfile{Fragmentos.tex}
-\subfile{Abreviaturas.tex}
+\part{Introducción}
+\include{Intro.tex}
+\part{Trastornos mentales orgánicos}
+\include{F00.tex}	
+\include{F05.tex}
+\part{Trastornos por consumo de sustancias psicoactivas}
+\include{F10.tex}
+\include{F11.tex}
+\part{Trastornos psicóticos}
+\include{F20.tex}
+\include{F22a.tex}
+\include{F22b.tex}
+\include{F23.tex}
+\part{Trastornos del humor}
+\include{F30.tex}
+\include{F31.tex}
+\include{F32.tex}
+\part{Trastornos de ansiedad}
+\include{F40.tex}
+\include{F40a.tex}
+\include{F41a.tex}
+\include{F41b.tex}
+\include{F42.tex}
+\include{F43.tex}
+\include{F44.tex}
+\include{F45.tex}
+\include{F48.tex}
+\part{Trastornos asociados a disfunciones fisiológicas}
+\include{F50.tex}
+\include{F51.tex}
+\part{Trastornos de la personalidad y del control de impulsos}
+\include{F60.tex}
+\include{F63.tex}
+\include{F68.tex}
+\part{Retraso Mental}
+\include{F70.tex}
+\part{Trastornos del desarrollo psicológico}
+\include{F84.tex}
+\part{Trastornos de inicio en la infancia/adolescencia}
+\include{F90.tex}
+\include{F98.tex}
+\part{Otras situaciones clínicas}
+\include{IAE.tex}
+\include{Estupor.tex}
+\part{Apéndice}
+\include{Fragmentos.tex}
+\include{Abreviaturas.tex}
 \end{document}

@@ -2345,7 +2345,11 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">ey1996</bcf:citekey>
-    <bcf:citekey order="2">ey1996</bcf:citekey>
+    <bcf:citekey order="2">dsmiv1998</bcf:citekey>
+    <bcf:citekey order="3">cie102000</bcf:citekey>
+    <bcf:citekey order="4">ey1996</bcf:citekey>
+    <bcf:citekey order="5">dsmiv1998</bcf:citekey>
+    <bcf:citekey order="6">cie102000</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

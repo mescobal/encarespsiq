@@ -1,0 +1,156 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{2}
+  \datalist[entry]{nty/global//global/global}
+    \entry{dsmiv1998}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=3f66c642802f76fee00ebf8365ba9298}{%
+           family={Association},
+           familyi={A\bibinitperiod},
+           given={American\bibnamedelima Psychiatric},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{fullhash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{bibnamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{authorbibnamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{authornamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{authorfullhash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{DSM IV: manual diagnóstico y estadı́stico de los trastornos mentales}
+      \field{title}{DSM IV: manual diagnóstico y estadı́stico de los trastornos mentales}
+      \field{year}{1998}
+      \field{pages}{907\bibrangedash p}
+      \range{pages}{-1}
+    \endentry
+    \entry{ey1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a42c9dc389aa8c1484a9710eb497d24e}{%
+           family={Ey},
+           familyi={E\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Masson}%
+      }
+      \strng{namehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{fullhash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{bibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authorbibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authornamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authorfullhash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tratado de psiquiatrı́a}
+      \field{year}{1996}
+    \endentry
+    \entry{cie102000}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=8179b1fdebe9235e54501d2878c47e1b}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Médica Panamericana}%
+      }
+      \strng{namehash}{b34697b55e931105852323b3db93732d}
+      \strng{fullhash}{b34697b55e931105852323b3db93732d}
+      \strng{bibnamehash}{b34697b55e931105852323b3db93732d}
+      \strng{authorbibnamehash}{b34697b55e931105852323b3db93732d}
+      \strng{authornamehash}{b34697b55e931105852323b3db93732d}
+      \strng{authorfullhash}{b34697b55e931105852323b3db93732d}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guı́a de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
+      \field{year}{2000}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{5}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ey1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a42c9dc389aa8c1484a9710eb497d24e}{%
+           family={Ey},
+           familyi={E\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Masson}%
+      }
+      \strng{namehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{fullhash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{bibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authorbibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authornamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authorfullhash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tratado de psiquiatrı́a}
+      \field{year}{1996}
+    \endentry
+    \entry{cie102000}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=8179b1fdebe9235e54501d2878c47e1b}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Médica Panamericana}%
+      }
+      \strng{namehash}{b34697b55e931105852323b3db93732d}
+      \strng{fullhash}{b34697b55e931105852323b3db93732d}
+      \strng{bibnamehash}{b34697b55e931105852323b3db93732d}
+      \strng{authorbibnamehash}{b34697b55e931105852323b3db93732d}
+      \strng{authornamehash}{b34697b55e931105852323b3db93732d}
+      \strng{authorfullhash}{b34697b55e931105852323b3db93732d}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guı́a de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
+      \field{year}{2000}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
