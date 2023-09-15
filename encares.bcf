@@ -2481,6 +2481,69 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 15 -->
+  <bcf:bibdata section="15">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="15">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 16 -->
+  <bcf:bibdata section="16">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="16">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 17 -->
+  <bcf:bibdata section="17">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="17">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 18 -->
+  <bcf:bibdata section="18">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="18">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 19 -->
+  <bcf:bibdata section="19">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="19">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 20 -->
+  <bcf:bibdata section="20">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="20">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 21 -->
+  <bcf:bibdata section="21">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="21">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
     <bcf:sort order="1">
@@ -2548,6 +2611,15 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="8"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="11"
                 name="nty/global//global/global"
                 type="entry"
                 sortingtemplatename="nty"

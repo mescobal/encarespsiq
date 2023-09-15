@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.24)  10 SEP 2023 22:34
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.24)  13 SEP 2023 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,8 +397,8 @@ LaTeX Info: Redefining \% on input line 9.
 (./F32.aux) (./F40.aux) (./F40a.aux) (./F41a.aux) (./F41b.aux) (./F42.aux)
 (./F43.aux) (./F44.aux) (./F45.aux) (./F48.aux) (./F50.aux) (./F51.aux)
 (./F60.aux) (./F63.aux) (./F68.aux) (./F70.aux) (./F84.aux) (./F90.aux)
-(./F98.aux) (./IAE.aux) (./Estupor.aux) (./Fragmentos.aux) (./Abreviaturas.aux)
-)
+(./F98.aux) (./IAE.aux) (./Estupor.aux) (./snm.aux) (./Fragmentos.aux)
+(./Abreviaturas.aux))
 \openout1 = `encares.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -412,7 +412,8 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 4.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 14.
@@ -464,15 +465,15 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 60.
+(Font)              <7> on input line 94.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 60.
+(Font)              <5> on input line 94.
 )
 \tf@toc=\write4
 \openout4 = `encares.toc'.
 
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
  [4] [5
 
 ] [6]
@@ -506,8 +507,8 @@ LaTeX Info: Redefining \% on input line 89.
  [10] [11
 
 ]
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
  [12
 
 
@@ -557,8 +558,8 @@ LaTeX Info: Redefining \% on input line 390.
 LaTeX Warning: Empty bibliography on input line 438.
 
 )
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
  [30]
 \openout2 = `F05.aux'.
 
@@ -593,8 +594,8 @@ LaTeX Info: Redefining \% on input line 101.
 LaTeX Info: Redefining \. on input line 174.
 LaTeX Info: Redefining \% on input line 174.
  [36]) [37]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
  [38
 
 
@@ -666,8 +667,8 @@ LaTeX Info: Redefining \% on input line 57.
 LaTeX Info: Redefining \. on input line 132.
 LaTeX Info: Redefining \% on input line 132.
  [58]) [59]
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
  [60
 
 
@@ -675,46 +676,115 @@ LaTeX Info: Redefining \% on input line 26.
 ] [61] [62]
 \openout2 = `F20.aux'.
 
- (./F20.tex [63
-
-] [64] [65] [66]
-[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
-[82] [83] [84] [85] [86]) [87]
-\openout2 = `F22a.aux'.
-
- (./F22a.tex [88
-
-
-
-] [89] [90] [91]
-Overfull \hbox (41.90002pt too wide) in paragraph at lines 146--147
-\TU/lmr/m/n/10 en la predisposición psicológica de la personalidad premórbida d
-e tipo paranoico/sensitivo-
- []
-
-[92] [93]) [94] [95]
-\openout2 = `F22b.aux'.
-
- (./F22b.tex [96
-
-
-
-]) [97]
-\openout2 = `F23.aux'.
-
- (./F23.tex [98
-
-
-
-
-]
+ (./F20.tex
 Capítulo 6.
 Package biblatex Info: Reference section=0 on input line 1.
 \c@blx@maxsegment@7=\count407
 \c@blx@sectionciteorder@7=\count408
 Package biblatex Info: Reference section=7 on input line 1.
 Package biblatex Info: Setting label 'refsection:7' on input line 1.
-[99]
+[63
+
+
+]
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [64] [65]
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [66] [67]
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [68] [69]
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
+ [70] [71]
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
+ [72] [73]
+LaTeX Info: Redefining \. on input line 300.
+LaTeX Info: Redefining \% on input line 300.
+ [74] [75]
+LaTeX Info: Redefining \. on input line 372.
+LaTeX Info: Redefining \% on input line 372.
+ [76] [77]
+LaTeX Info: Redefining \. on input line 441.
+LaTeX Info: Redefining \% on input line 441.
+
+[78] [79]
+LaTeX Info: Redefining \. on input line 500.
+LaTeX Info: Redefining \% on input line 500.
+ [80] [81]
+LaTeX Info: Redefining \. on input line 603.
+LaTeX Info: Redefining \% on input line 603.
+ [82]
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+ [83]
+LaTeX Info: Redefining \. on input line 679.
+LaTeX Info: Redefining \% on input line 679.
+
+[84] [85]
+LaTeX Info: Redefining \. on input line 710.
+LaTeX Info: Redefining \% on input line 710.
+ [86] [87]
+
+LaTeX Warning: Empty bibliography on input line 722.
+
+)
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [88]
+\openout2 = `F22a.aux'.
+
+ (./F22a.tex [89
+
+
+
+]
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+ [90] [91]
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
+ [92]
+Overfull \hbox (41.90002pt too wide) in paragraph at lines 146--147
+\TU/lmr/m/n/10 en la predisposición psicológica de la personalidad premórbida d
+e tipo paranoico/sensitivo-
+ []
+
+[93]
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
+ [94]) [95]
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [96]
+\openout2 = `F22b.aux'.
+
+ (./F22b.tex [97
+
+
+
+])
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ [98]
+\openout2 = `F23.aux'.
+
+ (./F23.tex
+Capítulo 7.
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@8=\count409
+\c@blx@sectionciteorder@8=\count410
+Package biblatex Info: Reference section=8 on input line 1.
+Package biblatex Info: Setting label 'refsection:8' on input line 1.
+[99
+
+
+
+
+]
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
  [100] [101]
@@ -731,8 +801,8 @@ LaTeX Info: Redefining \% on input line 249.
 LaTeX Warning: Empty bibliography on input line 290.
 
 ) [107]
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
  [108
 
 
@@ -740,29 +810,97 @@ LaTeX Info: Redefining \% on input line 31.
 ] [109] [110]
 \openout2 = `F30.aux'.
 
- (./F30.tex [111
+ (./F30.tex
+Capítulo 8.
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@9=\count411
+\c@blx@sectionciteorder@9=\count412
+Package biblatex Info: Reference section=9 on input line 1.
+Package biblatex Info: Setting label 'refsection:9' on input line 1.
+[111
 
-] [112] [113] [114] [115] [116]
-[117] [118] [119] [120] [121] [122] [123]) [124]
+
+]
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+ [112] [113]
+LaTeX Info: Redefining \. on input line 198.
+LaTeX Info: Redefining \% on input line 198.
+ [114] [115]
+LaTeX Info: Redefining \. on input line 303.
+LaTeX Info: Redefining \% on input line 303.
+ [116] [117]
+LaTeX Info: Redefining \. on input line 435.
+LaTeX Info: Redefining \% on input line 435.
+ [118] [119]
+LaTeX Info: Redefining \. on input line 530.
+LaTeX Info: Redefining \% on input line 530.
+ [120] [121]
+LaTeX Info: Redefining \. on input line 686.
+LaTeX Info: Redefining \% on input line 686.
+ [122]
+[123]
+LaTeX Info: Redefining \. on input line 844.
+LaTeX Info: Redefining \% on input line 844.
+ [124]) [125]
 \openout2 = `F31.aux'.
 
- (./F31.tex [125
+ (./F31.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [126
+
 
 
 
 ]
-Overfull \hbox (5.15001pt too wide) in paragraph at lines 55--56
+Capítulo 9.
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@10=\count413
+\c@blx@sectionciteorder@10=\count414
+Package biblatex Info: Reference section=10 on input line 1.
+Package biblatex Info: Setting label 'refsection:10' on input line 1.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127]
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+
+[128]
+Overfull \hbox (5.15001pt too wide) in paragraph at lines 48--49
 []\TU/lmr/m/n/10 Contenido: reconocemos ideas sobrevaloradas, exageradas, condi
 cionadas afec-
  []
 
-[126] [127] [128] [129] [130] [131]
-Overfull \hbox (3.76003pt too wide) in paragraph at lines 294--295
+[129]
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+ [130] [131]
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+ [132] [133]
+LaTeX Info: Redefining \. on input line 235.
+LaTeX Info: Redefining \% on input line 235.
+ [134]
+Overfull \hbox (3.76003pt too wide) in paragraph at lines 244--245
 []\TU/lmr/m/n/10 Realizaremos una anamnesis médica general al paciente y tercer
 os. Un examen
  []
 
-[132] [133] [134] [135] [136] [137] [138]) [139]
+[135]
+LaTeX Info: Redefining \. on input line 284.
+LaTeX Info: Redefining \% on input line 284.
+ [136] [137]
+LaTeX Info: Redefining \. on input line 339.
+LaTeX Info: Redefining \% on input line 339.
+ [138] [139]
+LaTeX Info: Redefining \. on input line 388.
+LaTeX Info: Redefining \% on input line 388.
+ [140] [141]
+LaTeX Info: Redefining \. on input line 452.
+LaTeX Info: Redefining \% on input line 452.
+ [142]) [143]
 \openout2 = `F32.aux'.
 
  (./F32.tex
@@ -783,24 +921,44 @@ Overfull \hbox (7.8389pt too wide) in paragraph at lines 26--51
 
  []
 
-[140
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+[144
 
 
 
-] [141] [142] [143] [144] [145] [146]
+] [145]
+LaTeX Info: Redefining \. on input line 130.
+LaTeX Info: Redefining \% on input line 130.
+ [146] [147]
+LaTeX Info: Redefining \. on input line 208.
+LaTeX Info: Redefining \% on input line 208.
+ [148] [149]
+LaTeX Info: Redefining \. on input line 314.
+LaTeX Info: Redefining \% on input line 314.
+ [150]
 Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[147] [148] [149] [150]
+[151]
+LaTeX Info: Redefining \. on input line 398.
+LaTeX Info: Redefining \% on input line 398.
+ [152] [153]
+LaTeX Info: Redefining \. on input line 465.
+LaTeX Info: Redefining \% on input line 465.
+ [154]
 Overfull \hbox (25.56001pt too wide) in paragraph at lines 468--471
 []\TU/lmr/m/n/10 * Delirante: agregar antipsicóticos, preferentemente atípicos:
  Aripirazol icon:arrow-
  []
 
-[151]) [152] [153
+[155])
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [156] [157
 
 
 
-] [154]
+] [158]
 \openout2 = `F40.aux'.
 
  (./F40.tex
@@ -815,17 +973,17 @@ Overfull \hbox (0.47pt too wide) in paragraph at lines 3--15
 nsiedad. Mar-
  []
 
-[155
+[159
 
-] [156] [157] [158] [159] [160] [161]) [162]
+] [160] [161] [162] [163] [164] [165]) [166]
 \openout2 = `F40a.aux'.
 
- (./F40a.tex [163
+ (./F40a.tex [167
 
 
 
-] [164]
-[165] [166] [167] [168]) [169]
+] [168]
+[169] [170] [171] [172]) [173]
 \openout2 = `F41a.aux'.
 
  (./F41a.tex
@@ -834,17 +992,17 @@ Overfull \hbox (1.07002pt too wide) in paragraph at lines 37--41
 esivo-compulsivo
  []
 
-[170
+[174
 
 
 
-] [171] [172] [173] [174] [175] [176]
+] [175] [176] [177] [178] [179] [180]
 Overfull \hbox (7.04pt too wide) in paragraph at lines 296--298
 []\TU/lmr/m/n/10 .Psicológico Tratamiento psicoterapéutico: Terapia cognitivo-c
 omportamental:
  []
 
-[177]) [178]
+[181]) [182]
 \openout2 = `F41b.aux'.
 
  (./F41b.tex
@@ -853,21 +1011,21 @@ Overfull \hbox (0.61003pt too wide) in paragraph at lines 47--48
 opram. Al-
  []
 
-[179
+[183
 
 
 
-]) [180]
+]) [184]
 \openout2 = `F42.aux'.
 
  (./F42.tex
-Capítulo 7.
+Capítulo 10.
 Package biblatex Info: Reference section=0 on input line 1.
-\c@blx@maxsegment@8=\count409
-\c@blx@sectionciteorder@8=\count410
-Package biblatex Info: Reference section=8 on input line 1.
-Package biblatex Info: Setting label 'refsection:8' on input line 1.
-[181
+\c@blx@maxsegment@11=\count415
+\c@blx@sectionciteorder@11=\count416
+Package biblatex Info: Reference section=11 on input line 1.
+Package biblatex Info: Setting label 'refsection:11' on input line 1.
+[185
 
 
 
@@ -875,7 +1033,7 @@ Package biblatex Info: Setting label 'refsection:8' on input line 1.
 ]
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [182] [183]
+ [186] [187]
 Overfull \hbox (8.26003pt too wide) in paragraph at lines 116--117
 []\TU/lmr/m/n/10 Hay que diferenciar las Compulsiones de otras actividades çomp
 ulsivas”(comer,
@@ -883,92 +1041,159 @@ ulsivas”(comer,
 
 LaTeX Info: Redefining \. on input line 127.
 LaTeX Info: Redefining \% on input line 127.
-[184] [185]
+[188] [189]
 LaTeX Info: Redefining \. on input line 212.
 LaTeX Info: Redefining \% on input line 212.
- [186] [187]
+ [190] [191]
 LaTeX Info: Redefining \. on input line 260.
 LaTeX Info: Redefining \% on input line 260.
- [188] [189]
+ [192] [193]
 
 LaTeX Warning: Empty bibliography on input line 318.
 
 )
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
- [190] [191]
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [194] [195]
 \openout2 = `F43.aux'.
 
- (./F43.tex)
-LaTeX Info: Redefining \. on input line 41.
-LaTeX Info: Redefining \% on input line 41.
- [192
+ (./F43.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [196
+
 
 
 
 ]
+Capítulo 11.
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@12=\count417
+\c@blx@sectionciteorder@12=\count418
+Package biblatex Info: Reference section=12 on input line 1.
+Package biblatex Info: Setting label 'refsection:12' on input line 1.
+) [197]
 \openout2 = `F44.aux'.
 
- (./F44.tex [193
+ (./F44.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (70.36232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 198 \TU/lmr/m/sl/10 CAPÍTULO 11.  REACCIONES A ESTRÉS GRAVE Y TR
+ASTORNOS DE ADAPTACIÓN
+ []
+
+[198
+
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
- [194] [195]
-LaTeX Info: Redefining \. on input line 216.
-LaTeX Info: Redefining \% on input line 216.
- [196] [197]
-LaTeX Info: Redefining \. on input line 265.
-LaTeX Info: Redefining \% on input line 265.
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@13=\count419
+\c@blx@sectionciteorder@13=\count420
+Package biblatex Info: Reference section=13 on input line 1.
+Package biblatex Info: Setting label 'refsection:13' on input line 1.
+ [199]
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
 
-[198] [199])
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
- [200]
+Overfull \hbox (70.36232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 200 \TU/lmr/m/sl/10 CAPÍTULO 11.  REACCIONES A ESTRÉS GRAVE Y TR
+ASTORNOS DE ADAPTACIÓN
+ []
+
+[200] [201]
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
+
+Overfull \hbox (70.36232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 202 \TU/lmr/m/sl/10 CAPÍTULO 11.  REACCIONES A ESTRÉS GRAVE Y TR
+ASTORNOS DE ADAPTACIÓN
+ []
+
+[202] [203]
+LaTeX Info: Redefining \. on input line 179.
+LaTeX Info: Redefining \% on input line 179.
+
+Overfull \hbox (70.36232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 204 \TU/lmr/m/sl/10 CAPÍTULO 11.  REACCIONES A ESTRÉS GRAVE Y TR
+ASTORNOS DE ADAPTACIÓN
+ []
+
+[204] [205]
+Underfull \vbox (badness 1117) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 217.
+LaTeX Info: Redefining \% on input line 217.
+
+Overfull \hbox (70.36232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 206 \TU/lmr/m/sl/10 CAPÍTULO 11.  REACCIONES A ESTRÉS GRAVE Y TR
+ASTORNOS DE ADAPTACIÓN
+ []
+
+[206] [207])
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+
+Overfull \hbox (70.36232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 208 \TU/lmr/m/sl/10 CAPÍTULO 11.  REACCIONES A ESTRÉS GRAVE Y TR
+ASTORNOS DE ADAPTACIÓN
+ []
+
+[208] [209]
 \openout2 = `F45.aux'.
 
  (./F45.tex
-Capítulo 8.
-Package biblatex Info: Reference section=0 on input line 1.
-\c@blx@maxsegment@9=\count411
-\c@blx@sectionciteorder@9=\count412
-Package biblatex Info: Reference section=9 on input line 1.
-Package biblatex Info: Setting label 'refsection:9' on input line 1.
-) [201
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (70.36232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 210 \TU/lmr/m/sl/10 CAPÍTULO 11.  REACCIONES A ESTRÉS GRAVE Y TR
+ASTORNOS DE ADAPTACIÓN
+ []
+
+[210
 
 
 
 
 ]
+Capítulo 12.
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@14=\count421
+\c@blx@sectionciteorder@14=\count422
+Package biblatex Info: Reference section=14 on input line 1.
+Package biblatex Info: Setting label 'refsection:14' on input line 1.
+) [211]
 \openout2 = `F48.aux'.
 
  (./F48.tex)
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
- [202
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+ [212
 
 
 
-] [203
+] [213
 
 
 
-] [204]
+] [214]
 \openout2 = `F50.aux'.
 
  (./F50.tex
-Capítulo 9.
+Capítulo 13.
 Package biblatex Info: Reference section=0 on input line 1.
-\c@blx@maxsegment@10=\count413
-\c@blx@sectionciteorder@10=\count414
-Package biblatex Info: Reference section=10 on input line 1.
-Package biblatex Info: Setting label 'refsection:10' on input line 1.
+\c@blx@maxsegment@15=\count423
+\c@blx@sectionciteorder@15=\count424
+Package biblatex Info: Reference section=15 on input line 1.
+Package biblatex Info: Setting label 'refsection:15' on input line 1.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [205
+ [215
 
 
 ]
@@ -976,21 +1201,21 @@ Missing character: There is no β (U+03B2) in font [lmroman10-regular]:mapping=t
 ex-text;!
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
-[206]) [207]
+[216]) [217]
 \openout2 = `F51.aux'.
 
  (./F51.tex)
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
- [208
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+ [218
 
 
 
-] [209
+] [219
 
 
 
-] [210]
+] [220]
 \openout2 = `F60.aux'.
 
  (./F60.tex
@@ -999,98 +1224,98 @@ Overfull \hbox (10.37004pt too wide) in paragraph at lines 107--110
 rome de ansiedad-
  []
 
-[211
+[221
 
-] [212] [213] [214]) [215]
+] [222] [223] [224]) [225]
 \openout2 = `F63.aux'.
 
- (./F63.tex [216
+ (./F63.tex [226
 
 
 
 
 ]
-Capítulo 10.
+Capítulo 14.
 Package biblatex Info: Reference section=0 on input line 1.
-\c@blx@maxsegment@11=\count415
-\c@blx@sectionciteorder@11=\count416
-Package biblatex Info: Reference section=11 on input line 1.
-Package biblatex Info: Setting label 'refsection:11' on input line 1.
-[217])
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
- [218]
+\c@blx@maxsegment@16=\count425
+\c@blx@sectionciteorder@16=\count426
+Package biblatex Info: Reference section=16 on input line 1.
+Package biblatex Info: Setting label 'refsection:16' on input line 1.
+[227])
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [228]
 \openout2 = `F68.aux'.
 
  (./F68.tex
-Capítulo 11.
+Capítulo 15.
 Package biblatex Info: Reference section=0 on input line 1.
-\c@blx@maxsegment@12=\count417
-\c@blx@sectionciteorder@12=\count418
-Package biblatex Info: Reference section=12 on input line 1.
-Package biblatex Info: Setting label 'refsection:12' on input line 1.
-) [219
+\c@blx@maxsegment@17=\count427
+\c@blx@sectionciteorder@17=\count428
+Package biblatex Info: Reference section=17 on input line 1.
+Package biblatex Info: Setting label 'refsection:17' on input line 1.
+) [229
 
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
- [220
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+ [230
 
 
 
-] [221] [222]
+] [231] [232]
 \openout2 = `F70.aux'.
 
  (./F70.tex
-Capítulo 12.
+Capítulo 16.
 Package biblatex Info: Reference section=0 on input line 1.
-\c@blx@maxsegment@13=\count419
-\c@blx@sectionciteorder@13=\count420
-Package biblatex Info: Reference section=13 on input line 1.
-Package biblatex Info: Setting label 'refsection:13' on input line 1.
-[223
+\c@blx@maxsegment@18=\count429
+\c@blx@sectionciteorder@18=\count430
+Package biblatex Info: Reference section=18 on input line 1.
+Package biblatex Info: Setting label 'refsection:18' on input line 1.
+[233
 
 
 ]
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [224] [225]
+ [234] [235]
 LaTeX Info: Redefining \. on input line 124.
 LaTeX Info: Redefining \% on input line 124.
- [226])
+ [236])
 Underfull \vbox (badness 6396) has occurred while \output is active []
 
- [227]
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
+ [237]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
 
-[228] [229
+[238] [239
 
 
 
-] [230]
+] [240]
 \openout2 = `F84.aux'.
 
- (./F84.tex [231
+ (./F84.tex [241
 
-]) [232] [233
+]) [242] [243
 
 
 
-] [234]
+] [244]
 \openout2 = `F90.aux'.
 
  (./F90.tex
-Capítulo 13.
+Capítulo 17.
 Package biblatex Info: Reference section=0 on input line 1.
-\c@blx@maxsegment@14=\count421
-\c@blx@sectionciteorder@14=\count422
-Package biblatex Info: Reference section=14 on input line 1.
-Package biblatex Info: Setting label 'refsection:14' on input line 1.
-[235
+\c@blx@maxsegment@19=\count431
+\c@blx@sectionciteorder@19=\count432
+Package biblatex Info: Reference section=19 on input line 1.
+Package biblatex Info: Setting label 'refsection:19' on input line 1.
+[245
 
 
 ]
@@ -1098,54 +1323,86 @@ Missing character: There is no β (U+03B2) in font [lmroman10-regular]:mapping=t
 ex-text;!
 LaTeX Info: Redefining \. on input line 91.
 LaTeX Info: Redefining \% on input line 91.
-[236]) [237]
+[246]) [247]
 \openout2 = `F98.aux'.
 
  (./F98.tex)
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
- [238
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+ [248
 
 
 
-] [239
+] [249
 
 
 
-] [240]
+] [250]
 \openout2 = `IAE.aux'.
 
- (./IAE.tex) [241
+ (./IAE.tex) [251
 
 ]
 \openout2 = `Estupor.aux'.
 
  (./Estupor.tex
-[242
+[252
 
 
 
-]) [243] [244
+
+]
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@20=\count433
+\c@blx@sectionciteorder@20=\count434
+Package biblatex Info: Reference section=20 on input line 1.
+Package biblatex Info: Setting label 'refsection:20' on input line 1.
+ [253]) [254]
+\openout2 = `snm.aux'.
+
+ (./snm.tex
+Capítulo 18.
+Package biblatex Info: Reference section=0 on input line 1.
+\c@blx@maxsegment@21=\count435
+\c@blx@sectionciteorder@21=\count436
+Package biblatex Info: Reference section=21 on input line 1.
+Package biblatex Info: Setting label 'refsection:21' on input line 1.
+
+Underfull \vbox (badness 1762) has occurred while \output is active []
+
+ [255
 
 
 
-] [245] [246]
+
+]
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+
+[256] [257])
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [258] [259
+
+
+
+] [260]
 \openout2 = `Fragmentos.aux'.
 
- (./Fragmentos.tex) [247
+ (./Fragmentos.tex) [261
 
 ]
 \openout2 = `Abreviaturas.aux'.
 
  (./Abreviaturas.tex
-[248
+[262
 
 
 
-])
-LaTeX Info: Redefining \. on input line 64.
-LaTeX Info: Redefining \% on input line 64.
- [249] [250] (./encares.aux
+]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [263]) [264] (./encares.aux
 LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
@@ -1154,19 +1411,19 @@ LaTeX Info: Redefining \% on input line 9.
 (./F30.aux) (./F31.aux) (./F32.aux) (./F40.aux) (./F40a.aux) (./F41a.aux)
 (./F41b.aux) (./F42.aux) (./F43.aux) (./F44.aux) (./F45.aux) (./F48.aux)
 (./F50.aux) (./F51.aux) (./F60.aux) (./F63.aux) (./F68.aux) (./F70.aux)
-(./F84.aux) (./F90.aux) (./F98.aux) (./IAE.aux) (./Estupor.aux)
+(./F84.aux) (./F90.aux) (./F98.aux) (./IAE.aux) (./Estupor.aux) (./snm.aux)
 (./Fragmentos.aux) (./Abreviaturas.aux))
 Package logreq Info: Writing requests to 'encares.run.xml'.
 \openout1 = `encares.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13425 strings out of 476179
- 248953 string characters out of 5809543
- 1082193 words of memory out of 5000000
- 33817 multiletter control sequences out of 15000+600000
+ 13562 strings out of 476179
+ 251613 string characters out of 5809543
+ 1089062 words of memory out of 5000000
+ 33944 multiletter control sequences out of 15000+600000
  472147 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  60i,8n,77p,4108b,4882s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on encares.pdf (250 pages).
+Output written on encares.pdf (264 pages).
