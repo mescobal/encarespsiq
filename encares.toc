@@ -39,56 +39,57 @@
 \contentsline {paragraph}{Biológico}{114}{}%
 \contentsline {chapter}{\numberline {9}Manía}{127}{}%
 \contentsline {paragraph}{Formal}{129}{}%
-\contentsline {paragraph}{Contenido}{129}{}%
+\contentsline {paragraph}{Contenido}{130}{}%
 \contentsline {paragraph}{Crisis de manía}{131}{}%
 \contentsline {paragraph}{Forma clínica}{131}{}%
 \contentsline {paragraph}{Comprensión biológica}{134}{}%
 \contentsline {paragraph}{Comprensión psicológica}{134}{}%
 \contentsline {paragraph}{Comprensión social}{134}{}%
-\contentsline {part}{VI\hspace {1em}Trastornos de ansiedad}{157}{}%
-\contentsline {chapter}{\numberline {10}Trastorno Obsesivo-Compulsivo}{185}{}%
-\contentsline {subsubsection}{Síndrome de ansiedad-angustia}{186}{}%
-\contentsline {subsubsection}{Síndrome depresivo}{186}{}%
-\contentsline {subsubsection}{Nosografía clásica}{187}{}%
-\contentsline {paragraph}{Neurosis}{187}{}%
-\contentsline {paragraph}{Neurosis obsesiva}{187}{}%
-\contentsline {paragraph}{Descompensada}{187}{}%
-\contentsline {paragraph}{Causa de descompensación}{187}{}%
-\contentsline {subsubsection}{DSM-IV - CIE-10}{187}{}%
-\contentsline {paragraph}{Obsesiones}{188}{}%
-\contentsline {paragraph}{Compulsiones}{188}{}%
-\contentsline {paragraph}{Criterios adicionales}{188}{}%
-\contentsline {chapter}{\numberline {11}Reacciones a estrés grave y trastornos de adaptación}{197}{}%
-\contentsline {paragraph}{Rol de las benzodiacepinas}{197}{}%
-\contentsline {paragraph}{A nivel motor}{199}{}%
-\contentsline {paragraph}{A nivel sensitivo}{199}{}%
-\contentsline {paragraph}{A nivel sensorial}{199}{}%
-\contentsline {paragraph}{A nivel neurovegetativo}{200}{}%
-\contentsline {paragraph}{Trastornos mnésicos}{200}{}%
-\contentsline {paragraph}{Fuga disociativa}{200}{}%
-\contentsline {paragraph}{Estupor disociativo}{200}{}%
-\contentsline {paragraph}{Estados crepusculares}{200}{}%
-\contentsline {paragraph}{Estados segundos}{200}{}%
-\contentsline {paragraph}{Otros}{201}{}%
-\contentsline {subsubsection}{]}{201}{}%
-\contentsline {paragraph}{Neurosis histérica}{203}{}%
-\contentsline {paragraph}{Descompensada}{203}{}%
-\contentsline {paragraph}{CIE-10}{203}{}%
-\contentsline {paragraph}{DSM}{204}{}%
-\contentsline {chapter}{\numberline {12}Trastornos somatomorfos}{211}{}%
-\contentsline {part}{VII\hspace {1em}Trastornos asociados a disfunciones fisiológicas}{213}{}%
-\contentsline {chapter}{\numberline {13}Trastornos de la conducta alimentaria}{215}{}%
-\contentsline {part}{VIII\hspace {1em}Trastornos de la personalidad y del control de impulsos}{219}{}%
-\contentsline {chapter}{\numberline {14}Cleptomanía}{227}{}%
-\contentsline {subsubsection}{Síndrome de alteración del control de impulsos}{227}{}%
-\contentsline {chapter}{\numberline {15}Trastorno facticio}{229}{}%
-\contentsline {part}{IX\hspace {1em}Retraso Mental}{231}{}%
-\contentsline {chapter}{\numberline {16}Retardo mental}{233}{}%
-\contentsline {subsubsection}{Síndrome deficitario intelectual (congénito o precozmente adquirido)}{234}{}%
-\contentsline {part}{X\hspace {1em}Trastornos del desarrollo psicológico}{239}{}%
-\contentsline {part}{XI\hspace {1em}Trastornos de inicio en la infancia/adolescencia}{243}{}%
-\contentsline {chapter}{\numberline {17}Trastornos hipercinéticos}{245}{}%
-\contentsline {part}{XII\hspace {1em}Otras situaciones clínicas}{249}{}%
-\contentsline {chapter}{\numberline {18}Síndrome Neuroléptico Maligno}{255}{}%
-\contentsline {part}{XIII\hspace {1em}Apéndice}{259}{}%
-\contentsline {section}{\numberline {18.1}Abreviaturas}{262}{}%
+\contentsline {paragraph}{Tratamiento del episodio}{137}{}%
+\contentsline {part}{VI\hspace {1em}Trastornos de ansiedad}{159}{}%
+\contentsline {chapter}{\numberline {10}Trastorno Obsesivo-Compulsivo}{187}{}%
+\contentsline {subsubsection}{Síndrome de ansiedad-angustia}{188}{}%
+\contentsline {subsubsection}{Síndrome depresivo}{188}{}%
+\contentsline {subsubsection}{Nosografía clásica}{189}{}%
+\contentsline {paragraph}{Neurosis}{189}{}%
+\contentsline {paragraph}{Neurosis obsesiva}{189}{}%
+\contentsline {paragraph}{Descompensada}{189}{}%
+\contentsline {paragraph}{Causa de descompensación}{189}{}%
+\contentsline {subsubsection}{DSM-IV - CIE-10}{189}{}%
+\contentsline {paragraph}{Obsesiones}{190}{}%
+\contentsline {paragraph}{Compulsiones}{190}{}%
+\contentsline {paragraph}{Criterios adicionales}{190}{}%
+\contentsline {chapter}{\numberline {11}Reacciones a estrés grave y trastornos de adaptación}{199}{}%
+\contentsline {paragraph}{Rol de las benzodiacepinas}{199}{}%
+\contentsline {paragraph}{A nivel motor}{201}{}%
+\contentsline {paragraph}{A nivel sensitivo}{201}{}%
+\contentsline {paragraph}{A nivel sensorial}{201}{}%
+\contentsline {paragraph}{A nivel neurovegetativo}{202}{}%
+\contentsline {paragraph}{Trastornos mnésicos}{202}{}%
+\contentsline {paragraph}{Fuga disociativa}{202}{}%
+\contentsline {paragraph}{Estupor disociativo}{202}{}%
+\contentsline {paragraph}{Estados crepusculares}{202}{}%
+\contentsline {paragraph}{Estados segundos}{202}{}%
+\contentsline {paragraph}{Otros}{203}{}%
+\contentsline {subsubsection}{]}{203}{}%
+\contentsline {paragraph}{Neurosis histérica}{205}{}%
+\contentsline {paragraph}{Descompensada}{205}{}%
+\contentsline {paragraph}{CIE-10}{205}{}%
+\contentsline {paragraph}{DSM}{206}{}%
+\contentsline {chapter}{\numberline {12}Trastornos somatomorfos}{213}{}%
+\contentsline {part}{VII\hspace {1em}Trastornos asociados a disfunciones fisiológicas}{215}{}%
+\contentsline {chapter}{\numberline {13}Trastornos de la conducta alimentaria}{217}{}%
+\contentsline {part}{VIII\hspace {1em}Trastornos de la personalidad y del control de impulsos}{221}{}%
+\contentsline {chapter}{\numberline {14}Cleptomanía}{229}{}%
+\contentsline {subsubsection}{Síndrome de alteración del control de impulsos}{229}{}%
+\contentsline {chapter}{\numberline {15}Trastorno facticio}{231}{}%
+\contentsline {part}{IX\hspace {1em}Retraso Mental}{233}{}%
+\contentsline {chapter}{\numberline {16}Retardo mental}{235}{}%
+\contentsline {subsubsection}{Síndrome deficitario intelectual (congénito o precozmente adquirido)}{236}{}%
+\contentsline {part}{X\hspace {1em}Trastornos del desarrollo psicológico}{241}{}%
+\contentsline {part}{XI\hspace {1em}Trastornos de inicio en la infancia/adolescencia}{245}{}%
+\contentsline {chapter}{\numberline {17}Trastornos hipercinéticos}{247}{}%
+\contentsline {part}{XII\hspace {1em}Otras situaciones clínicas}{251}{}%
+\contentsline {chapter}{\numberline {18}Síndrome Neuroléptico Maligno}{257}{}%
+\contentsline {part}{XIII\hspace {1em}Apéndice}{265}{}%
+\contentsline {section}{\numberline {18.1}Abreviaturas}{268}{}%

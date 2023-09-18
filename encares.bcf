@@ -2441,6 +2441,8 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="10">
+    <bcf:citekey order="1">yatham2018canadian</bcf:citekey>
+    <bcf:citekey order="2">yatham2018canadian</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2540,6 +2542,8 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="21">
+    <bcf:citekey order="1">ware2018neuroleptic</bcf:citekey>
+    <bcf:citekey order="2">ware2018neuroleptic</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2620,6 +2624,15 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="11"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="21"
                 name="nty/global//global/global"
                 type="entry"
                 sortingtemplatename="nty"

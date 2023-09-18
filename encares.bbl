@@ -17,6 +17,87 @@
 \endgroup
 
 
+\refsection{10}
+  \datalist[entry]{nty/global//global/global}
+    \entry{yatham2018canadian}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=309f2adfbf5a90941d07d84b9a918866}{%
+           family={Yatham},
+           familyi={Y\bibinitperiod},
+           given={Lakshmi\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ad5d073958d43031c896b058610f1eb5}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Sidney\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b133269c4b224b5391ee2d011f559714}{%
+           family={Parikh},
+           familyi={P\bibinitperiod},
+           given={Sagar\bibnamedelima V},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=389104202a44f6384ec45b8afa60d553}{%
+           family={Schaffer},
+           familyi={S\bibinitperiod},
+           given={Ayal},
+           giveni={A\bibinitperiod}}}%
+        {{hash=da1aa93e4f204e813478cb10b5df4fc4}{%
+           family={Bond},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7334509f16444f2aed5b61b08f6c0746}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Benicio\bibnamedelima N},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=45511e77d49414d681fd34a100e19da0}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Verinder},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5a5002a1bf1c12b4bf7830667a6720df}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Benjamin\bibnamedelima I},
+           giveni={B\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=9d8c82809a48686ba9a7767ee9a7af34}{%
+           family={Rej},
+           familyi={R\bibinitperiod},
+           given={Soham},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8b3e6146241bc7958b0655941d31426a}{%
+           family={Beaulieu},
+           familyi={B\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{fullhash}{5ad1774e0591c1f53e4ed89e75b33d91}
+      \strng{bibnamehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{authorbibnamehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{authornamehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{authorfullhash}{5ad1774e0591c1f53e4ed89e75b33d91}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bipolar disorders}
+      \field{number}{2}
+      \field{title}{Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{97\bibrangedash 170}
+      \range{pages}{74}
+    \endentry
+  \enddatalist
+\endrefsection
+
 \refsection{2}
   \datalist[entry]{nty/global//global/global}
     \entry{dsmiv1998}{book}{}
@@ -94,6 +175,50 @@
       \field{labeltitlesource}{title}
       \field{title}{Guı́a de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
       \field{year}{2000}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{21}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ware2018neuroleptic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c2e7b37f49271ed851aa836c8385b97b}{%
+           family={Ware},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1854bfb690436d50264a09f47c10270d}{%
+           family={Feller},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=174b0ff37b79f8b1ce9f2641d0c014a9}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Karen\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Physicians Postgraduate Press, Inc.}%
+      }
+      \strng{namehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{fullhash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{bibnamehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{authorbibnamehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{authornamehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{authorfullhash}{5bf727497761e41f990bde4548c4b57d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The primary care companion for CNS disorders}
+      \field{number}{1}
+      \field{title}{Neuroleptic malignant syndrome: diagnosis and management}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{27030}
+      \range{pages}{1}
     \endentry
   \enddatalist
 \endrefsection
