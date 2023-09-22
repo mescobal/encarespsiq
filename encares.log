@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.24)  17 SEP 2023 12:05
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.24)  20 SEP 2023 13:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -465,9 +465,9 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 95.
+(Font)              <7> on input line 106.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 95.
+(Font)              <5> on input line 106.
 )
 \tf@toc=\write4
 \openout4 = `encares.toc'.
@@ -861,41 +861,41 @@ Package biblatex Info: Reference section=0 on input line 1.
 Package biblatex Info: Reference section=10 on input line 1.
 Package biblatex Info: Setting label 'refsection:10' on input line 1.
 [127]
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
  [128]
-Overfull \hbox (5.15001pt too wide) in paragraph at lines 51--52
+Overfull \hbox (5.15001pt too wide) in paragraph at lines 45--46
 []\TU/lmr/m/n/10 Contenido: reconocemos ideas sobrevaloradas, exageradas, condi
 cionadas afec-
  []
 
 [129]
-LaTeX Info: Redefining \. on input line 89.
-LaTeX Info: Redefining \% on input line 89.
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
  [130] [131]
-LaTeX Info: Redefining \. on input line 169.
-LaTeX Info: Redefining \% on input line 169.
+LaTeX Info: Redefining \. on input line 149.
+LaTeX Info: Redefining \% on input line 149.
  [132] [133]
-LaTeX Info: Redefining \. on input line 237.
-LaTeX Info: Redefining \% on input line 237.
+LaTeX Info: Redefining \. on input line 221.
+LaTeX Info: Redefining \% on input line 221.
  [134]
-Overfull \hbox (3.76003pt too wide) in paragraph at lines 247--248
+Overfull \hbox (3.76003pt too wide) in paragraph at lines 234--235
 []\TU/lmr/m/n/10 Realizaremos una anamnesis médica general al paciente y tercer
 os. Un examen
  []
 
 [135]
-LaTeX Info: Redefining \. on input line 286.
-LaTeX Info: Redefining \% on input line 286.
+LaTeX Info: Redefining \. on input line 269.
+LaTeX Info: Redefining \% on input line 269.
  [136] [137]
-LaTeX Info: Redefining \. on input line 336.
-LaTeX Info: Redefining \% on input line 336.
+LaTeX Info: Redefining \. on input line 321.
+LaTeX Info: Redefining \% on input line 321.
  [138] [139]
-LaTeX Info: Redefining \. on input line 385.
-LaTeX Info: Redefining \% on input line 385.
+LaTeX Info: Redefining \. on input line 366.
+LaTeX Info: Redefining \% on input line 366.
  [140] [141]
-LaTeX Info: Redefining \. on input line 436.
-LaTeX Info: Redefining \% on input line 436.
+LaTeX Info: Redefining \. on input line 410.
+LaTeX Info: Redefining \% on input line 410.
  [142] [143])
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
@@ -1424,8 +1424,8 @@ Package logreq Info: Writing requests to 'encares.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13589 strings out of 476179
- 252275 string characters out of 5809543
+ 13592 strings out of 476179
+ 252311 string characters out of 5809543
  1089175 words of memory out of 5000000
  33964 multiletter control sequences out of 15000+600000
  472147 words of font info for 56 fonts, out of 8000000 for 9000

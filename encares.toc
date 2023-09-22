@@ -38,13 +38,24 @@
 \contentsline {chapter}{\numberline {8}Trastornos del humor: generalidades}{111}{}%
 \contentsline {paragraph}{Biológico}{114}{}%
 \contentsline {chapter}{\numberline {9}Manía}{127}{}%
-\contentsline {paragraph}{Formal}{129}{}%
+\contentsline {paragraph}{Humor}{128}{}%
+\contentsline {paragraph}{Presentación}{128}{}%
+\contentsline {paragraph}{Mímica y gestualidad}{128}{}%
+\contentsline {paragraph}{Actitud}{129}{}%
+\contentsline {paragraph}{Cognición}{129}{}%
+\contentsline {paragraph}{Pensamiento}{129}{}%
+\contentsline {paragraph}{Psicomotricidad}{129}{}%
+\contentsline {paragraph}{Conductual}{129}{}%
+\contentsline {paragraph}{Formal}{130}{}%
 \contentsline {paragraph}{Contenido}{130}{}%
 \contentsline {paragraph}{Crisis de manía}{131}{}%
 \contentsline {paragraph}{Forma clínica}{131}{}%
+\contentsline {paragraph}{Diagnóstico nosológico}{132}{}%
+\contentsline {paragraph}{Diagnóstico del episodio}{132}{}%
+\contentsline {paragraph}{Diagnóstico nosológico}{132}{}%
 \contentsline {paragraph}{Comprensión biológica}{134}{}%
 \contentsline {paragraph}{Comprensión psicológica}{134}{}%
-\contentsline {paragraph}{Comprensión social}{134}{}%
+\contentsline {paragraph}{Comprensión social}{135}{}%
 \contentsline {paragraph}{Tratamiento del episodio}{137}{}%
 \contentsline {part}{VI\hspace {1em}Trastornos de ansiedad}{159}{}%
 \contentsline {chapter}{\numberline {10}Trastorno Obsesivo-Compulsivo}{187}{}%
