@@ -179,7 +179,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{21}
+\refsection{24}
   \datalist[entry]{nty/global//global/global}
     \entry{ware2018neuroleptic}{article}{}
       \name{author}{3}{}{%
@@ -219,6 +219,139 @@
       \field{year}{2018}
       \field{pages}{27030}
       \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{nty/global//global/global}
+    \entry{craig2022prevalence}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ae7e4a8d7ec17582c016da9abdd42066}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6b0931c5cf931d020aea683624a97048}{%
+           family={Hoo},
+           familyi={H\bibinitperiod},
+           given={Zhi\bibnamedelima Liang},
+           giveni={Z\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f69e143fbbb7b18418b63b95690668d5}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Toh\bibnamedelima Zeng},
+           giveni={T\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=4449404b35e864c2bb0ed3e610bc38b5}{%
+           family={Wardlaw},
+           familyi={W\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7e91a595cbd64807ac4eeb8bb4bfc547}{%
+           family={Quinn},
+           familyi={Q\bibinitperiod},
+           given={Terence\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group Ltd}%
+      }
+      \strng{namehash}{e977ff4b7d22222810b94d8ed781942b}
+      \strng{fullhash}{fa28ac45b99681213135da8e1b6058fb}
+      \strng{bibnamehash}{e977ff4b7d22222810b94d8ed781942b}
+      \strng{authorbibnamehash}{e977ff4b7d22222810b94d8ed781942b}
+      \strng{authornamehash}{e977ff4b7d22222810b94d8ed781942b}
+      \strng{authorfullhash}{fa28ac45b99681213135da8e1b6058fb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neurology, Neurosurgery \& Psychiatry}
+      \field{number}{2}
+      \field{title}{Prevalence of dementia in ischaemic or mixed stroke populations: systematic review and meta-analysis}
+      \field{volume}{93}
+      \field{year}{2022}
+      \field{pages}{180\bibrangedash 187}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{4}
+  \datalist[entry]{nty/global//global/global}
+    \entry{aldecoa2023update}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=a26453b0bfad67f83a10e2ebdfa947cc}{%
+           family={Aldecoa},
+           familyi={A\bibinitperiod},
+           given={César},
+           giveni={C\bibinitperiod}}}%
+        {{hash=327647ffa731b46aefe1fae9dbc355b6}{%
+           family={Bettelli},
+           familyi={B\bibinitperiod},
+           given={Gabriella},
+           giveni={G\bibinitperiod}}}%
+        {{hash=607c95722cc5619aea2fc9ec5d3ede6a}{%
+           family={Bilotta},
+           familyi={B\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fb8dae97944dc845bcb7820a26beed0c}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0d0cbdfb3da894298333e5bd9d69b0a4}{%
+           family={Spies},
+           familyi={S\bibinitperiod},
+           given={Claudia\bibnamedelima D},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=500245dad17abfad586ebbcfafaf3d90}{%
+           family={Aceto},
+           familyi={A\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod}}}%
+        {{hash=54207ee3608fe2ba34c925f3ef1c42a7}{%
+           family={Audisio},
+           familyi={A\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8213419d37c91e21d60de04e603dbcdc}{%
+           family={Cherubini},
+           familyi={C\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=942f62f1b4c7e5a1700213c81a117a5b}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Colm},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9bd88209846289b7d27dc67702b5e83c}{%
+           family={Dabrowski},
+           familyi={D\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{8cf3ae5e64b9d6f59c7807329d7dbc8f}
+      \strng{fullhash}{b4618e1579bcc9245b64e4d1b0765404}
+      \strng{bibnamehash}{8cf3ae5e64b9d6f59c7807329d7dbc8f}
+      \strng{authorbibnamehash}{8cf3ae5e64b9d6f59c7807329d7dbc8f}
+      \strng{authornamehash}{8cf3ae5e64b9d6f59c7807329d7dbc8f}
+      \strng{authorfullhash}{b4618e1579bcc9245b64e4d1b0765404}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Anaesthesiology| EJA}
+      \field{title}{Update of the European Society of Anaesthesiology and Intensive Care Medicine evidence-based and consensus-based guideline on postoperative delirium in adult patients}
+      \field{year}{2023}
+      \field{pages}{10\bibrangedash 1097}
+      \range{pages}{1088}
     \endentry
   \enddatalist
 \endrefsection
@@ -274,6 +407,45 @@
       \field{labeltitlesource}{title}
       \field{title}{Guı́a de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
       \field{year}{2000}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{7}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ostuzzi2022preventing}{article}{}
+      \name{author}{2}{}{%
+        {{hash=138bfa41dc280e6ad5abbf7d707a0b0c}{%
+           family={Ostuzzi},
+           familyi={O\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0a4e7a4a7bd27fefa753847a093f83cc}{%
+           family={Barbui},
+           familyi={B\bibinitperiod},
+           given={Corrado},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1cc35a2aca38b5da1393038b9d7a95cd}
+      \strng{fullhash}{1cc35a2aca38b5da1393038b9d7a95cd}
+      \strng{bibnamehash}{1cc35a2aca38b5da1393038b9d7a95cd}
+      \strng{authorbibnamehash}{1cc35a2aca38b5da1393038b9d7a95cd}
+      \strng{authornamehash}{1cc35a2aca38b5da1393038b9d7a95cd}
+      \strng{authorfullhash}{1cc35a2aca38b5da1393038b9d7a95cd}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Lancet}
+      \field{number}{10327}
+      \field{title}{Preventing relapse in schizophrenia needs better evidence}
+      \field{volume}{399}
+      \field{year}{2022}
+      \field{pages}{773\bibrangedash 775}
+      \range{pages}{3}
     \endentry
   \enddatalist
 \endrefsection

@@ -3,105 +3,118 @@
 \contentsline {chapter}{\numberline {1}¿Que es?}{7}{}%
 \contentsline {part}{II\hspace {1em}Trastornos mentales orgánicos}{13}{}%
 \contentsline {chapter}{\numberline {2}Demencias}{15}{}%
-\contentsline {subsubsection}{Del cuadro actual}{26}{}%
-\contentsline {paragraph}{Cuidados generales}{26}{}%
+\contentsline {paragraph}{A nivel intelectual}{20}{}%
+\contentsline {paragraph}{A nivel ético-moral}{21}{}%
+\contentsline {paragraph}{A nivel social}{21}{}%
+\contentsline {paragraph}{Cortical}{22}{}%
+\contentsline {paragraph}{Subcortical}{22}{}%
+\contentsline {subsubsection}{Del cuadro actual}{27}{}%
+\contentsline {paragraph}{Cuidados generales}{27}{}%
 \contentsline {paragraph}{Farmacológico}{27}{}%
-\contentsline {chapter}{\numberline {3}Confusión Mental}{31}{}%
-\contentsline {paragraph}{Síndrome confusional}{31}{}%
-\contentsline {paragraph}{Cuadro actual}{33}{}%
-\contentsline {paragraph}{Curso de vida}{33}{}%
-\contentsline {paragraph}{Psicosis}{33}{}%
-\contentsline {paragraph}{Aguda}{33}{}%
-\contentsline {paragraph}{Confusión mental}{33}{}%
-\contentsline {paragraph}{Causa}{33}{}%
-\contentsline {part}{III\hspace {1em}Trastornos por consumo de sustancias psicoactivas}{39}{}%
-\contentsline {chapter}{\numberline {4}Trastornos por consumo de alcohol}{41}{}%
-\contentsline {paragraph}{Síndrome confusional}{44}{}%
-\contentsline {paragraph}{Síndrome onírico}{45}{}%
-\contentsline {paragraph}{Síndrome de abstinencia}{45}{}%
-\contentsline {subsubsection}{DSM IV}{47}{}%
-\contentsline {chapter}{\numberline {5}Trastornos por consumo de opioides}{55}{}%
-\contentsline {subsubsection}{Biológico}{55}{}%
-\contentsline {subsubsection}{Psicológico}{56}{}%
-\contentsline {subsubsection}{Social}{56}{}%
-\contentsline {part}{IV\hspace {1em}Trastornos psicóticos}{61}{}%
-\contentsline {chapter}{\numberline {6}Esquizofrenias}{63}{}%
-\contentsline {paragraph}{Síndrome de automatismo mental}{70}{}%
-\contentsline {paragraph}{Síndrome de Influencia o control externo}{70}{}%
-\contentsline {paragraph}{Síndrome de despersonalización}{70}{}%
-\contentsline {paragraph}{Síndrome del humor y la afectividad}{70}{}%
-\contentsline {paragraph}{Trastorno Esquizoafectivo}{85}{}%
-\contentsline {chapter}{\numberline {7}Episodio Psicótico Agudo}{99}{}%
-\contentsline {paragraph}{Psicosis delirante aguda}{101}{}%
-\contentsline {paragraph}{CIE-10}{101}{}%
-\contentsline {part}{V\hspace {1em}Trastornos del humor}{109}{}%
-\contentsline {chapter}{\numberline {8}Trastornos del humor: generalidades}{111}{}%
-\contentsline {paragraph}{Biológico}{114}{}%
-\contentsline {chapter}{\numberline {9}Manía}{127}{}%
-\contentsline {paragraph}{Humor}{128}{}%
-\contentsline {paragraph}{Presentación}{128}{}%
-\contentsline {paragraph}{Mímica y gestualidad}{128}{}%
-\contentsline {paragraph}{Actitud}{129}{}%
-\contentsline {paragraph}{Cognición}{129}{}%
-\contentsline {paragraph}{Pensamiento}{129}{}%
-\contentsline {paragraph}{Psicomotricidad}{129}{}%
-\contentsline {paragraph}{Conductual}{129}{}%
-\contentsline {paragraph}{Formal}{130}{}%
-\contentsline {paragraph}{Contenido}{130}{}%
-\contentsline {paragraph}{Crisis de manía}{131}{}%
-\contentsline {paragraph}{Forma clínica}{131}{}%
-\contentsline {paragraph}{Diagnóstico nosológico}{132}{}%
-\contentsline {paragraph}{Diagnóstico del episodio}{132}{}%
-\contentsline {paragraph}{Diagnóstico nosológico}{132}{}%
-\contentsline {paragraph}{Comprensión biológica}{134}{}%
-\contentsline {paragraph}{Comprensión psicológica}{134}{}%
-\contentsline {paragraph}{Comprensión social}{135}{}%
-\contentsline {paragraph}{Tratamiento del episodio}{137}{}%
-\contentsline {chapter}{\numberline {10}Depresión}{145}{}%
-\contentsline {part}{VI\hspace {1em}Trastornos de ansiedad}{159}{}%
-\contentsline {chapter}{\numberline {11}Trastorno Obsesivo-Compulsivo}{187}{}%
-\contentsline {subsubsection}{Síndrome de ansiedad-angustia}{188}{}%
-\contentsline {subsubsection}{Síndrome depresivo}{188}{}%
-\contentsline {subsubsection}{Nosografía clásica}{189}{}%
-\contentsline {paragraph}{Neurosis}{189}{}%
-\contentsline {paragraph}{Neurosis obsesiva}{189}{}%
-\contentsline {paragraph}{Descompensada}{189}{}%
-\contentsline {paragraph}{Causa de descompensación}{189}{}%
-\contentsline {subsubsection}{DSM-IV - CIE-10}{189}{}%
-\contentsline {paragraph}{Obsesiones}{190}{}%
-\contentsline {paragraph}{Compulsiones}{190}{}%
-\contentsline {paragraph}{Criterios adicionales}{190}{}%
-\contentsline {chapter}{\numberline {12}Reacciones a estrés grave y trastornos de adaptación}{199}{}%
-\contentsline {paragraph}{Rol de las benzodiacepinas}{199}{}%
-\contentsline {paragraph}{A nivel motor}{201}{}%
-\contentsline {paragraph}{A nivel sensitivo}{201}{}%
-\contentsline {paragraph}{A nivel sensorial}{201}{}%
-\contentsline {paragraph}{A nivel neurovegetativo}{202}{}%
-\contentsline {paragraph}{Trastornos mnésicos}{202}{}%
-\contentsline {paragraph}{Fuga disociativa}{202}{}%
-\contentsline {paragraph}{Estupor disociativo}{202}{}%
-\contentsline {paragraph}{Estados crepusculares}{202}{}%
-\contentsline {paragraph}{Estados segundos}{202}{}%
-\contentsline {paragraph}{Otros}{203}{}%
-\contentsline {subsubsection}{]}{203}{}%
-\contentsline {paragraph}{Neurosis histérica}{205}{}%
-\contentsline {paragraph}{Descompensada}{205}{}%
-\contentsline {paragraph}{CIE-10}{205}{}%
-\contentsline {paragraph}{DSM}{206}{}%
-\contentsline {chapter}{\numberline {13}Trastornos somatomorfos}{213}{}%
-\contentsline {part}{VII\hspace {1em}Trastornos asociados a disfunciones fisiológicas}{215}{}%
-\contentsline {chapter}{\numberline {14}Trastornos de la conducta alimentaria}{217}{}%
-\contentsline {part}{VIII\hspace {1em}Trastornos de la personalidad y del control de impulsos}{221}{}%
-\contentsline {chapter}{\numberline {15}Cleptomanía}{229}{}%
-\contentsline {subsubsection}{Síndrome de alteración del control de impulsos}{229}{}%
-\contentsline {chapter}{\numberline {16}Trastorno facticio}{231}{}%
-\contentsline {part}{IX\hspace {1em}Retraso Mental}{233}{}%
-\contentsline {chapter}{\numberline {17}Retardo mental}{235}{}%
-\contentsline {subsubsection}{Síndrome deficitario intelectual (congénito o precozmente adquirido)}{236}{}%
-\contentsline {part}{X\hspace {1em}Trastornos del desarrollo psicológico}{241}{}%
-\contentsline {part}{XI\hspace {1em}Trastornos de inicio en la infancia/adolescencia}{245}{}%
-\contentsline {chapter}{\numberline {18}Trastornos hipercinéticos}{247}{}%
-\contentsline {part}{XII\hspace {1em}Otras situaciones clínicas}{251}{}%
-\contentsline {chapter}{\numberline {19}Síndrome Neuroléptico Maligno}{257}{}%
-\contentsline {part}{XIII\hspace {1em}Apéndice}{263}{}%
-\contentsline {section}{\numberline {19.1}Abreviaturas}{266}{}%
+\contentsline {chapter}{\numberline {3}Confusión Mental}{35}{}%
+\contentsline {paragraph}{Etiopatogenia y fisiopatología}{35}{}%
+\contentsline {paragraph}{Factores de riesgo}{35}{}%
+\contentsline {paragraph}{Medidas preventivas}{36}{}%
+\contentsline {paragraph}{Síndrome confusional}{36}{}%
+\contentsline {paragraph}{Cuadro actual}{37}{}%
+\contentsline {paragraph}{Curso de vida}{37}{}%
+\contentsline {paragraph}{Psicosis}{38}{}%
+\contentsline {paragraph}{Aguda}{38}{}%
+\contentsline {paragraph}{Confusión mental}{38}{}%
+\contentsline {paragraph}{Causa}{38}{}%
+\contentsline {part}{III\hspace {1em}Trastornos por consumo de sustancias psicoactivas}{45}{}%
+\contentsline {chapter}{\numberline {4}Trastornos por consumo de alcohol}{47}{}%
+\contentsline {paragraph}{Síndrome confusional}{50}{}%
+\contentsline {paragraph}{Síndrome onírico}{51}{}%
+\contentsline {paragraph}{Síndrome de abstinencia}{51}{}%
+\contentsline {subsubsection}{DSM IV}{53}{}%
+\contentsline {chapter}{\numberline {5}Trastornos por consumo de opioides}{61}{}%
+\contentsline {subsubsection}{Biológico}{61}{}%
+\contentsline {subsubsection}{Psicológico}{62}{}%
+\contentsline {subsubsection}{Social}{62}{}%
+\contentsline {part}{IV\hspace {1em}Trastornos psicóticos}{67}{}%
+\contentsline {chapter}{\numberline {6}Esquizofrenias}{69}{}%
+\contentsline {paragraph}{Síndrome de automatismo mental}{76}{}%
+\contentsline {paragraph}{Síndrome de Influencia o control externo}{76}{}%
+\contentsline {paragraph}{Síndrome de despersonalización}{76}{}%
+\contentsline {paragraph}{Síndrome del humor y la afectividad}{76}{}%
+\contentsline {paragraph}{Trastorno Esquizoafectivo}{91}{}%
+\contentsline {paragraph}{Biológico}{93}{}%
+\contentsline {chapter}{\numberline {7}Episodio Psicótico Agudo}{107}{}%
+\contentsline {paragraph}{Psicosis delirante aguda}{109}{}%
+\contentsline {paragraph}{CIE-10}{109}{}%
+\contentsline {part}{V\hspace {1em}Trastornos del humor}{117}{}%
+\contentsline {chapter}{\numberline {8}Trastornos del humor: generalidades}{119}{}%
+\contentsline {paragraph}{Biológico}{122}{}%
+\contentsline {chapter}{\numberline {9}Manía}{135}{}%
+\contentsline {paragraph}{Humor}{136}{}%
+\contentsline {paragraph}{Presentación}{136}{}%
+\contentsline {paragraph}{Mímica y gestualidad}{136}{}%
+\contentsline {paragraph}{Actitud}{137}{}%
+\contentsline {paragraph}{Cognición}{137}{}%
+\contentsline {paragraph}{Pensamiento}{137}{}%
+\contentsline {paragraph}{Psicomotricidad}{137}{}%
+\contentsline {paragraph}{Conductual}{137}{}%
+\contentsline {paragraph}{Formal}{138}{}%
+\contentsline {paragraph}{Contenido}{138}{}%
+\contentsline {paragraph}{Crisis de manía}{139}{}%
+\contentsline {paragraph}{Forma clínica}{139}{}%
+\contentsline {paragraph}{Diagnóstico nosológico}{140}{}%
+\contentsline {paragraph}{Diagnóstico del episodio}{140}{}%
+\contentsline {paragraph}{Diagnóstico nosológico}{140}{}%
+\contentsline {paragraph}{Comprensión biológica}{142}{}%
+\contentsline {paragraph}{Comprensión psicológica}{142}{}%
+\contentsline {paragraph}{Comprensión social}{143}{}%
+\contentsline {paragraph}{Tratamiento del episodio}{145}{}%
+\contentsline {chapter}{\numberline {10}Depresión}{153}{}%
+\contentsline {part}{VI\hspace {1em}Trastornos de ansiedad}{167}{}%
+\contentsline {chapter}{\numberline {11}Trastorno de ansiedad generalizada}{193}{}%
+\contentsline {subsubsection}{DSM IV}{193}{}%
+\contentsline {chapter}{\numberline {12}Trastorno Obsesivo-Compulsivo}{195}{}%
+\contentsline {subsubsection}{Síndrome de ansiedad-angustia}{196}{}%
+\contentsline {subsubsection}{Síndrome depresivo}{196}{}%
+\contentsline {subsubsection}{Nosografía clásica}{197}{}%
+\contentsline {paragraph}{Neurosis}{197}{}%
+\contentsline {paragraph}{Neurosis obsesiva}{197}{}%
+\contentsline {paragraph}{Descompensada}{197}{}%
+\contentsline {paragraph}{Causa de descompensación}{197}{}%
+\contentsline {subsubsection}{DSM-IV - CIE-10}{197}{}%
+\contentsline {paragraph}{Obsesiones}{198}{}%
+\contentsline {paragraph}{Compulsiones}{198}{}%
+\contentsline {paragraph}{Criterios adicionales}{198}{}%
+\contentsline {chapter}{\numberline {13}Reacciones a estrés grave y trastornos de adaptación}{207}{}%
+\contentsline {paragraph}{Rol de las benzodiacepinas}{207}{}%
+\contentsline {chapter}{\numberline {14}Trastornos conversivos y disociativos / Neurosis histérica}{209}{}%
+\contentsline {paragraph}{A nivel motor}{209}{}%
+\contentsline {paragraph}{A nivel sensitivo}{209}{}%
+\contentsline {paragraph}{A nivel sensorial}{210}{}%
+\contentsline {paragraph}{A nivel neurovegetativo}{210}{}%
+\contentsline {paragraph}{Trastornos mnésicos}{210}{}%
+\contentsline {paragraph}{Fuga disociativa}{210}{}%
+\contentsline {paragraph}{Estupor disociativo}{210}{}%
+\contentsline {paragraph}{Estados crepusculares}{210}{}%
+\contentsline {paragraph}{Estados segundos}{211}{}%
+\contentsline {paragraph}{Otros}{211}{}%
+\contentsline {subsubsection}{]}{211}{}%
+\contentsline {paragraph}{Neurosis histérica}{213}{}%
+\contentsline {paragraph}{Descompensada}{213}{}%
+\contentsline {paragraph}{CIE-10}{213}{}%
+\contentsline {paragraph}{DSM}{214}{}%
+\contentsline {chapter}{\numberline {15}Trastornos somatomorfos}{221}{}%
+\contentsline {part}{VII\hspace {1em}Trastornos asociados a disfunciones fisiológicas}{223}{}%
+\contentsline {chapter}{\numberline {16}Trastornos de la conducta alimentaria}{225}{}%
+\contentsline {part}{VIII\hspace {1em}Trastornos de la personalidad y del control de impulsos}{229}{}%
+\contentsline {chapter}{\numberline {17}Trastornos de la personalidad}{231}{}%
+\contentsline {chapter}{\numberline {18}Cleptomanía}{237}{}%
+\contentsline {subsubsection}{Síndrome de alteración del control de impulsos}{237}{}%
+\contentsline {chapter}{\numberline {19}Trastorno facticio}{239}{}%
+\contentsline {part}{IX\hspace {1em}Retraso Mental}{241}{}%
+\contentsline {chapter}{\numberline {20}Retardo mental}{243}{}%
+\contentsline {subsubsection}{Síndrome deficitario intelectual (congénito o precozmente adquirido)}{244}{}%
+\contentsline {part}{X\hspace {1em}Trastornos del desarrollo psicológico}{249}{}%
+\contentsline {part}{XI\hspace {1em}Trastornos de inicio en la infancia/adolescencia}{253}{}%
+\contentsline {chapter}{\numberline {21}Trastornos hipercinéticos}{255}{}%
+\contentsline {part}{XII\hspace {1em}Otras situaciones clínicas}{259}{}%
+\contentsline {chapter}{\numberline {22}Síndrome Neuroléptico Maligno}{265}{}%
+\contentsline {part}{XIII\hspace {1em}Apéndice}{273}{}%
+\contentsline {section}{\numberline {22.1}Abreviaturas}{276}{}%
