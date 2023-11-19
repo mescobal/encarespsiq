@@ -120,8 +120,8 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{DSM IV: manual diagnóstico y estadı́stico de los trastornos mentales}
-      \field{title}{DSM IV: manual diagnóstico y estadı́stico de los trastornos mentales}
+      \field{booktitle}{DSM IV: manual diagnóstico y estadístico de los trastornos mentales}
+      \field{title}{DSM IV: manual diagnóstico y estadístico de los trastornos mentales}
       \field{year}{1998}
       \field{pages}{907\bibrangedash p}
       \range{pages}{-1}
@@ -147,7 +147,7 @@
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Tratado de psiquiatrı́a}
+      \field{title}{Tratado de psiquiatría}
       \field{year}{1996}
     \endentry
     \entry{cie102000}{book}{}
@@ -173,13 +173,13 @@
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Guı́a de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
+      \field{title}{Guía de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
       \field{year}{2000}
     \endentry
   \enddatalist
 \endrefsection
 
-\refsection{21}
+\refsection{24}
   \datalist[entry]{nty/global//global/global}
     \entry{ware2018neuroleptic}{article}{}
       \name{author}{3}{}{%
@@ -246,7 +246,7 @@
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Tratado de psiquiatrı́a}
+      \field{title}{Tratado de psiquiatría}
       \field{year}{1996}
     \endentry
     \entry{cie102000}{book}{}
@@ -272,7 +272,7 @@
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Guı́a de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
+      \field{title}{Guía de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
       \field{year}{2000}
     \endentry
   \enddatalist

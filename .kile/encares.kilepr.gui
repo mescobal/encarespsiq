@@ -2,7 +2,7 @@
 kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=true
 kile_livePreviewTool=LivePreview-XeLaTeX
-lastDocument=snm.tex
+lastDocument=encares.tex
 
 [document-settings,item:Abreviaturas.tex]
 Bookmarks=
@@ -40,6 +40,15 @@ Indentation Mode=normal
 Mode=LaTeX
 Mode Set By User=false
 
+[document-settings,item:F42.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
 [document-settings,item:F44.tex]
 Bookmarks=
 Encoding=UTF-8
@@ -50,6 +59,15 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:F45.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:F48.tex]
 Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
@@ -180,7 +198,7 @@ open=false
 order=-1
 
 [item:F41b.tex]
-open=true
+open=false
 order=1
 
 [item:F42.tex]
@@ -192,11 +210,11 @@ open=false
 order=-1
 
 [item:F44.tex]
-open=true
+open=false
 order=5
 
 [item:F45.tex]
-open=true
+open=false
 order=2
 
 [item:F48.tex]
@@ -204,7 +222,7 @@ open=false
 order=-1
 
 [item:F50.tex]
-open=true
+open=false
 order=3
 
 [item:F51.tex]
@@ -216,7 +234,7 @@ open=false
 order=-1
 
 [item:F60.tex]
-open=true
+open=false
 order=4
 
 [item:F63.tex]
@@ -264,7 +282,7 @@ open=true
 order=0
 
 [item:snm.tex]
-open=true
+open=false
 order=6
 
 [view-settings,view=0,item:Abreviaturas.tex]
@@ -292,11 +310,19 @@ TextFolding={"checksum":"699dbf9bba454a84781191c8b101d93c227fb693","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F41b.tex]
-CursorColumn=109
-CursorLine=26
+CursorColumn=18
+CursorLine=43
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"6fb1ba3d08182dec861d374983d38f467d0fb5cb","ranges":[]}
+TextFolding={"checksum":"65ca6fa3f0ff8b69c4a3a86a367a5ecf863a85b7","ranges":[]}
+ViMarks=
+
+[view-settings,view=0,item:F42.tex]
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=false
+JumpList=
+TextFolding={"checksum":"a0ae70b96755e00b24eb958fadf9b0a5e60d11c3","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F44.tex]
@@ -308,27 +334,35 @@ TextFolding={"checksum":"793a68969d9dbfe9a54c4145ae64afb3b8c69458","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F45.tex]
-CursorColumn=0
-CursorLine=0
+CursorColumn=18
+CursorLine=10
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"40a4e70300d134277b86cf426babd34f206770ae","ranges":[]}
+TextFolding={"checksum":"41a55e6b83046c5cd17532072e7610c20254b685","ranges":[]}
+ViMarks=
+
+[view-settings,view=0,item:F48.tex]
+CursorColumn=12
+CursorLine=18
+Dynamic Word Wrap=true
+JumpList=
+TextFolding={"checksum":"40f5636a76756dddada093b32693962e23f96228","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F50.tex]
-CursorColumn=0
-CursorLine=0
+CursorColumn=18
+CursorLine=82
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"33b8668605068fcbc4ca744655151c88c067eedf","ranges":[]}
+TextFolding={"checksum":"b70dcc0f5da128784d15b59f6a27561b503e34d8","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F60.tex]
-CursorColumn=0
-CursorLine=90
-Dynamic Word Wrap=false
+CursorColumn=327
+CursorLine=217
+Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"9468b7e62aa62d7a3d79a72d83a0cdb8f35bdb63","ranges":[]}
+TextFolding={"checksum":"e405db15e7d98b3cddd752bdcfc658bc974152f2","ranges":[{"endColumn":24,"endLine":107,"flags":2,"startColumn":0,"startLine":103},{"endColumn":112,"endLine":114,"flags":2,"startColumn":0,"startLine":110},{"endColumn":32,"endLine":122,"flags":2,"startColumn":0,"startLine":117}]}
 ViMarks=
 
 [view-settings,view=0,item:Intro.tex]
@@ -340,17 +374,17 @@ TextFolding={"checksum":"a7447c9f05a3aa20b1416769c3251da9d1bec0b2","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:encares.tex]
-CursorColumn=0
-CursorLine=0
+CursorColumn=9
+CursorLine=43
 Dynamic Word Wrap=false
 JumpList=
 TextFolding={"checksum":"c2302f808e19b4954550c6d8250eb66a9c87b452","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:snm.tex]
-CursorColumn=0
-CursorLine=0
+CursorColumn=11
+CursorLine=5
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"92ced0e36886a8e30f6c483725b7cce66cc5a660","ranges":[]}
+TextFolding={"checksum":"c640ec326f45d872350bfe85b22c25df7e3378bd","ranges":[]}
 ViMarks=

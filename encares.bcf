@@ -2562,6 +2562,24 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="22">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 23 -->
+  <bcf:bibdata section="23">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="23">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 24 -->
+  <bcf:bibdata section="24">
+    <bcf:datasource type="file" datatype="bibtex" glob="false">encares.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="24">
     <bcf:citekey order="1" intorder="1">ware2018neuroleptic</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
@@ -2651,7 +2669,43 @@
                 uniquenametemplatename="global"
                 labelalphanametemplatename="global">
   </bcf:datalist>
-  <bcf:datalist section="22"
+  <bcf:datalist section="13"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="16"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="17"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="18"
+                name="nty/global//global/global"
+                type="entry"
+                sortingtemplatename="nty"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="24"
                 name="nty/global//global/global"
                 type="entry"
                 sortingtemplatename="nty"
