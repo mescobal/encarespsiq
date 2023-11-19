@@ -1,5 +1,6 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'encares.blg'
+<<<<<<< HEAD
 [64] biber:340> INFO - === mar oct 10, 2023, 15:03:21
 [76] Biber.pm:419> INFO - Reading 'encares.bcf'
 [130] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
@@ -75,3 +76,95 @@
 [354] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
 [355] bbl.pm:660> INFO - Writing 'encares.bbl' with encoding 'UTF-8'
 [359] bbl.pm:763> INFO - Output to encares.bbl
+=======
+[69] biber-darwin:340> INFO - === Wed Oct 25, 2023, 11:21:36
+[87] Biber.pm:418> INFO - Reading 'encares.bcf'
+[172] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[172] Biber.pm:972> INFO - Found 0 citekeys in bib section 1
+[172] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[172] Biber.pm:972> INFO - Found 3 citekeys in bib section 2
+[172] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[172] Biber.pm:972> INFO - Found 1 citekeys in bib section 3
+[172] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[173] Biber.pm:972> INFO - Found 1 citekeys in bib section 4
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[173] Biber.pm:972> INFO - Found 2 citekeys in bib section 5
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 6
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[173] Biber.pm:972> INFO - Found 1 citekeys in bib section 7
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 8
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 9
+[173] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 1 citekeys in bib section 10
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 11
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 12
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 13
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 14
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 15
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 16
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 17
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:972> INFO - Found 0 citekeys in bib section 18
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 19
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 20
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 21
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 22
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 23
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[175] Biber.pm:972> INFO - Found 1 citekeys in bib section 24
+[175] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[318] Biber.pm:4383> INFO - Processing section 2
+[329] Biber.pm:4574> INFO - Looking for bibtex file 'encares.bib' for section 2
+[330] bibtex.pm:1713> INFO - LaTeX decoding ...
+[343] bibtex.pm:1518> INFO - Found BibTeX data source 'encares.bib'
+[387] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[387] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[387] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[390] Biber.pm:4383> INFO - Processing section 3
+[390] Biber.pm:4574> INFO - Looking for bibtex file 'encares.bib' for section 3
+[404] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[404] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[404] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[406] Biber.pm:4383> INFO - Processing section 4
+[406] Biber.pm:4574> INFO - Looking for bibtex file 'encares.bib' for section 4
+[426] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[426] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[426] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[428] Biber.pm:4383> INFO - Processing section 5
+[428] Biber.pm:4574> INFO - Looking for bibtex file 'encares.bib' for section 5
+[442] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[442] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[442] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[444] Biber.pm:4383> INFO - Processing section 7
+[444] Biber.pm:4574> INFO - Looking for bibtex file 'encares.bib' for section 7
+[455] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[455] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[455] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[456] Biber.pm:4383> INFO - Processing section 10
+[456] Biber.pm:4574> INFO - Looking for bibtex file 'encares.bib' for section 10
+[476] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[476] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[477] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[478] Biber.pm:4383> INFO - Processing section 24
+[478] Biber.pm:4574> INFO - Looking for bibtex file 'encares.bib' for section 24
+[490] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[490] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[490] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[492] bbl.pm:654> INFO - Writing 'encares.bbl' with encoding 'UTF-8'
+[499] bbl.pm:757> INFO - Output to encares.bbl
+>>>>>>> 2814d448a52b74d1b484a682ac9ce7dc5944bc22
