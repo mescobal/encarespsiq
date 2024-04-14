@@ -17,8 +17,8 @@
 \endgroup
 
 
-\refsection{10}
-  \datalist[entry]{nty/global//global/global}
+\refsection{11}
+  \datalist[entry]{none/global//global/global}
     \entry{yatham2018canadian}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -83,8 +83,8 @@
       \strng{authorbibnamehash}{26a943470b8cdfca94e295615d9c3456}
       \strng{authornamehash}{26a943470b8cdfca94e295615d9c3456}
       \strng{authorfullhash}{5ad1774e0591c1f53e4ed89e75b33d91}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Bipolar disorders}
@@ -98,33 +98,149 @@
   \enddatalist
 \endrefsection
 
+\refsection{12}
+  \datalist[entry]{none/global//global/global}
+    \entry{yatham2018canadian}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=309f2adfbf5a90941d07d84b9a918866}{%
+           family={Yatham},
+           familyi={Y\bibinitperiod},
+           given={Lakshmi\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ad5d073958d43031c896b058610f1eb5}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Sidney\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b133269c4b224b5391ee2d011f559714}{%
+           family={Parikh},
+           familyi={P\bibinitperiod},
+           given={Sagar\bibnamedelima V},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=389104202a44f6384ec45b8afa60d553}{%
+           family={Schaffer},
+           familyi={S\bibinitperiod},
+           given={Ayal},
+           giveni={A\bibinitperiod}}}%
+        {{hash=da1aa93e4f204e813478cb10b5df4fc4}{%
+           family={Bond},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7334509f16444f2aed5b61b08f6c0746}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Benicio\bibnamedelima N},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=45511e77d49414d681fd34a100e19da0}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Verinder},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5a5002a1bf1c12b4bf7830667a6720df}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Benjamin\bibnamedelima I},
+           giveni={B\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=9d8c82809a48686ba9a7767ee9a7af34}{%
+           family={Rej},
+           familyi={R\bibinitperiod},
+           given={Soham},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8b3e6146241bc7958b0655941d31426a}{%
+           family={Beaulieu},
+           familyi={B\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{fullhash}{5ad1774e0591c1f53e4ed89e75b33d91}
+      \strng{bibnamehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{authorbibnamehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{authornamehash}{26a943470b8cdfca94e295615d9c3456}
+      \strng{authorfullhash}{5ad1774e0591c1f53e4ed89e75b33d91}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bipolar disorders}
+      \field{number}{2}
+      \field{title}{Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{97\bibrangedash 170}
+      \range{pages}{74}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{17}
+  \datalist[entry]{none/global//global/global}
+    \entry{starcevic2017no}{article}{}
+      \name{author}{1}{}{%
+        {{hash=32457467364c81040369036f254f31de}{%
+           family={Starcevic},
+           familyi={S\bibinitperiod},
+           given={Vladan},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{32457467364c81040369036f254f31de}
+      \strng{fullhash}{32457467364c81040369036f254f31de}
+      \strng{bibnamehash}{32457467364c81040369036f254f31de}
+      \strng{authorbibnamehash}{32457467364c81040369036f254f31de}
+      \strng{authornamehash}{32457467364c81040369036f254f31de}
+      \strng{authorfullhash}{32457467364c81040369036f254f31de}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australasian Psychiatry}
+      \field{number}{4}
+      \field{title}{No role for benzodiazepines in posttraumatic stress disorder? A surplus of certainty despite scarce evidence}
+      \field{volume}{25}
+      \field{year}{2017}
+      \field{pages}{339\bibrangedash 341}
+      \range{pages}{3}
+    \endentry
+  \enddatalist
+\endrefsection
+
 \refsection{2}
-  \datalist[entry]{nty/global//global/global}
-    \entry{dsmiv1998}{book}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{sadock2015kaplan}{book}{}
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{1}{}{%
-        {{hash=3f66c642802f76fee00ebf8365ba9298}{%
-           family={Association},
-           familyi={A\bibinitperiod},
-           given={American\bibnamedelima Psychiatric},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ea9f5c83e1c1cc73223f1afef2d02267}{%
+           family={Sadock},
+           familyi={S\bibinitperiod},
+           given={Benjamin\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
-      \strng{fullhash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
-      \strng{bibnamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
-      \strng{authorbibnamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
-      \strng{authornamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
-      \strng{authorfullhash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \list{publisher}{1}{%
+        {Wolters Kluwer Barcelona}%
+      }
+      \strng{namehash}{3c516c9fc631f8c7fb8bc45c9722145a}
+      \strng{fullhash}{3c516c9fc631f8c7fb8bc45c9722145a}
+      \strng{bibnamehash}{3c516c9fc631f8c7fb8bc45c9722145a}
+      \strng{authorbibnamehash}{3c516c9fc631f8c7fb8bc45c9722145a}
+      \strng{authornamehash}{3c516c9fc631f8c7fb8bc45c9722145a}
+      \strng{authorfullhash}{3c516c9fc631f8c7fb8bc45c9722145a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{DSM IV: manual diagnóstico y estadístico de los trastornos mentales}
-      \field{title}{DSM IV: manual diagnóstico y estadístico de los trastornos mentales}
-      \field{year}{1998}
-      \field{pages}{907\bibrangedash p}
-      \range{pages}{-1}
+      \field{title}{Kaplan \& Sadock sinopsis de psiquiatría}
+      \field{volume}{10}
+      \field{year}{2015}
     \endentry
     \entry{ey1996}{book}{}
       \name{author}{1}{}{%
@@ -143,12 +259,38 @@
       \strng{authorbibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
       \strng{authornamehash}{a42c9dc389aa8c1484a9710eb497d24e}
       \strng{authorfullhash}{a42c9dc389aa8c1484a9710eb497d24e}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Tratado de psiquiatría}
       \field{year}{1996}
+    \endentry
+    \entry{dsmiv1998}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=3f66c642802f76fee00ebf8365ba9298}{%
+           family={Association},
+           familyi={A\bibinitperiod},
+           given={American\bibnamedelima Psychiatric},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{fullhash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{bibnamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{authorbibnamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{authornamehash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \strng{authorfullhash}{c43fcc06c34cc7bf7b2b2c70c9f53924}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{DSM IV: manual diagnóstico y estadístico de los trastornos mentales}
+      \field{title}{DSM IV: manual diagnóstico y estadístico de los trastornos mentales}
+      \field{year}{1998}
+      \field{pages}{907\bibrangedash p}
+      \range{pages}{-1}
     \endentry
     \entry{cie102000}{book}{}
       \true{moreauthor}
@@ -169,62 +311,115 @@
       \strng{authorbibnamehash}{b34697b55e931105852323b3db93732d}
       \strng{authornamehash}{b34697b55e931105852323b3db93732d}
       \strng{authorfullhash}{b34697b55e931105852323b3db93732d}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Guía de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
       \field{year}{2000}
     \endentry
+    \entry{stahl2021stahl}{book}{}
+      \name{author}{1}{}{%
+        {{hash=eb807bfdd63c03babcc1df9c2ace483a}{%
+           family={Stahl},
+           familyi={S\bibinitperiod},
+           given={Stephen\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{eb807bfdd63c03babcc1df9c2ace483a}
+      \strng{fullhash}{eb807bfdd63c03babcc1df9c2ace483a}
+      \strng{bibnamehash}{eb807bfdd63c03babcc1df9c2ace483a}
+      \strng{authorbibnamehash}{eb807bfdd63c03babcc1df9c2ace483a}
+      \strng{authornamehash}{eb807bfdd63c03babcc1df9c2ace483a}
+      \strng{authorfullhash}{eb807bfdd63c03babcc1df9c2ace483a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stahl's essential psychopharmacology: neuroscientific basis and practical applications}
+      \field{year}{2021}
+    \endentry
+    \entry{procyshyn2023clinical}{book}{}
+      \name{author}{3}{}{%
+        {{hash=fae4a81f414a489b4f721fb3456d2283}{%
+           family={Procyshyn},
+           familyi={P\bibinitperiod},
+           given={Ric\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8b29e38bcdbf85286edbe47b76001efe}{%
+           family={Bezchlibnyk-Butler},
+           familyi={B\bibinithyphendelim B\bibinitperiod},
+           given={Kalyna\bibnamedelima Z},
+           giveni={K\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=581d4a8563d4d6a874d8c37df3651d5b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima D},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hogrefe Publishing GmbH}%
+      }
+      \strng{namehash}{38d4be2d4dab0cf5afec178a88e1c969}
+      \strng{fullhash}{38d4be2d4dab0cf5afec178a88e1c969}
+      \strng{bibnamehash}{38d4be2d4dab0cf5afec178a88e1c969}
+      \strng{authorbibnamehash}{38d4be2d4dab0cf5afec178a88e1c969}
+      \strng{authornamehash}{38d4be2d4dab0cf5afec178a88e1c969}
+      \strng{authorfullhash}{38d4be2d4dab0cf5afec178a88e1c969}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clinical handbook of psychotropic drugs}
+      \field{year}{2023}
+    \endentry
   \enddatalist
 \endrefsection
 
-\refsection{24}
-  \datalist[entry]{nty/global//global/global}
-    \entry{ware2018neuroleptic}{article}{}
-      \name{author}{3}{}{%
-        {{hash=c2e7b37f49271ed851aa836c8385b97b}{%
-           family={Ware},
-           familyi={W\bibinitperiod},
-           given={Michael\bibnamedelima R},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=1854bfb690436d50264a09f47c10270d}{%
-           family={Feller},
-           familyi={F\bibinitperiod},
-           given={David\bibnamedelima B},
-           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=174b0ff37b79f8b1ce9f2641d0c014a9}{%
-           family={Hall},
-           familyi={H\bibinitperiod},
-           given={Karen\bibnamedelima L},
-           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+\refsection{27}
+  \datalist[entry]{none/global//global/global}
+    \entry{baker2007diagnosis}{article}{}
+      \name{author}{2}{}{%
+        {{hash=07b168d24ebaf57e07e09925382effde}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b1ce5921783c60cb86494054c2240af4}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={EJ},
+           giveni={E\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Physicians Postgraduate Press, Inc.}%
+        {British Medical Journal Publishing Group}%
       }
-      \strng{namehash}{5bf727497761e41f990bde4548c4b57d}
-      \strng{fullhash}{5bf727497761e41f990bde4548c4b57d}
-      \strng{bibnamehash}{5bf727497761e41f990bde4548c4b57d}
-      \strng{authorbibnamehash}{5bf727497761e41f990bde4548c4b57d}
-      \strng{authornamehash}{5bf727497761e41f990bde4548c4b57d}
-      \strng{authorfullhash}{5bf727497761e41f990bde4548c4b57d}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \strng{namehash}{731975c7ae172446ce769347fc995353}
+      \strng{fullhash}{731975c7ae172446ce769347fc995353}
+      \strng{bibnamehash}{731975c7ae172446ce769347fc995353}
+      \strng{authorbibnamehash}{731975c7ae172446ce769347fc995353}
+      \strng{authornamehash}{731975c7ae172446ce769347fc995353}
+      \strng{authorfullhash}{731975c7ae172446ce769347fc995353}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The primary care companion for CNS disorders}
-      \field{number}{1}
-      \field{title}{Neuroleptic malignant syndrome: diagnosis and management}
-      \field{volume}{20}
-      \field{year}{2018}
-      \field{pages}{27030}
-      \range{pages}{1}
+      \field{journaltitle}{Bmj}
+      \field{number}{7617}
+      \field{title}{Diagnosis and management of chronic fatigue syndrome or myalgic encephalomyelitis (or encephalopathy): summary of NICE guidance}
+      \field{volume}{335}
+      \field{year}{2007}
+      \field{pages}{446\bibrangedash 448}
+      \range{pages}{3}
     \endentry
   \enddatalist
 \endrefsection
 
 \refsection{3}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
     \entry{craig2022prevalence}{article}{}
       \name{author}{5}{}{%
         {{hash=ae7e4a8d7ec17582c016da9abdd42066}{%
@@ -262,8 +457,8 @@
       \strng{authorbibnamehash}{e977ff4b7d22222810b94d8ed781942b}
       \strng{authornamehash}{e977ff4b7d22222810b94d8ed781942b}
       \strng{authorfullhash}{fa28ac45b99681213135da8e1b6058fb}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Neurology, Neurosurgery \& Psychiatry}
@@ -277,8 +472,52 @@
   \enddatalist
 \endrefsection
 
+\refsection{30}
+  \datalist[entry]{none/global//global/global}
+    \entry{ware2018neuroleptic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c2e7b37f49271ed851aa836c8385b97b}{%
+           family={Ware},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1854bfb690436d50264a09f47c10270d}{%
+           family={Feller},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=174b0ff37b79f8b1ce9f2641d0c014a9}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Karen\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Physicians Postgraduate Press, Inc.}%
+      }
+      \strng{namehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{fullhash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{bibnamehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{authorbibnamehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{authornamehash}{5bf727497761e41f990bde4548c4b57d}
+      \strng{authorfullhash}{5bf727497761e41f990bde4548c4b57d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The primary care companion for CNS disorders}
+      \field{number}{1}
+      \field{title}{Neuroleptic malignant syndrome: diagnosis and management}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{27030}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+
 \refsection{4}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
     \entry{aldecoa2023update}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -343,8 +582,8 @@
       \strng{authorbibnamehash}{8cf3ae5e64b9d6f59c7807329d7dbc8f}
       \strng{authornamehash}{8cf3ae5e64b9d6f59c7807329d7dbc8f}
       \strng{authorfullhash}{b4618e1579bcc9245b64e4d1b0765404}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{European Journal of Anaesthesiology| EJA}
@@ -357,31 +596,7 @@
 \endrefsection
 
 \refsection{5}
-  \datalist[entry]{nty/global//global/global}
-    \entry{ey1996}{book}{}
-      \name{author}{1}{}{%
-        {{hash=a42c9dc389aa8c1484a9710eb497d24e}{%
-           family={Ey},
-           familyi={E\bibinitperiod},
-           given={Henri},
-           giveni={H\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Masson}%
-      }
-      \strng{namehash}{a42c9dc389aa8c1484a9710eb497d24e}
-      \strng{fullhash}{a42c9dc389aa8c1484a9710eb497d24e}
-      \strng{bibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
-      \strng{authorbibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
-      \strng{authornamehash}{a42c9dc389aa8c1484a9710eb497d24e}
-      \strng{authorfullhash}{a42c9dc389aa8c1484a9710eb497d24e}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Tratado de psiquiatría}
-      \field{year}{1996}
-    \endentry
+  \datalist[entry]{none/global//global/global}
     \entry{cie102000}{book}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -401,18 +616,42 @@
       \strng{authorbibnamehash}{b34697b55e931105852323b3db93732d}
       \strng{authornamehash}{b34697b55e931105852323b3db93732d}
       \strng{authorfullhash}{b34697b55e931105852323b3db93732d}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Guía de bolsillo de la clasificación CIE-10: clasificación de los trastornos mentales y del comportamiento}
       \field{year}{2000}
     \endentry
+    \entry{ey1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a42c9dc389aa8c1484a9710eb497d24e}{%
+           family={Ey},
+           familyi={E\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Masson}%
+      }
+      \strng{namehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{fullhash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{bibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authorbibnamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authornamehash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \strng{authorfullhash}{a42c9dc389aa8c1484a9710eb497d24e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tratado de psiquiatría}
+      \field{year}{1996}
+    \endentry
   \enddatalist
 \endrefsection
 
 \refsection{7}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
     \entry{ostuzzi2022preventing}{article}{}
       \name{author}{2}{}{%
         {{hash=138bfa41dc280e6ad5abbf7d707a0b0c}{%
@@ -435,8 +674,8 @@
       \strng{authorbibnamehash}{1cc35a2aca38b5da1393038b9d7a95cd}
       \strng{authornamehash}{1cc35a2aca38b5da1393038b9d7a95cd}
       \strng{authorfullhash}{1cc35a2aca38b5da1393038b9d7a95cd}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Lancet}

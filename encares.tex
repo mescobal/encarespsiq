@@ -1,18 +1,23 @@
-\documentclass{book}
-\usepackage[spanish]{babel}
-%\usepackage[T1]{fontenc}
+%\documentclass{book}
+\documentclass{scrbook}
+\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[style=numeric, refsection=chapter]{biblatex}
-\usepackage{csquotes}
+\usepackage{lmodern}
+\usepackage[spanish]{babel}
+\usepackage[backend=biber,
+	style=numeric,
+	refsection=chapter,
+	sorting=none]{biblatex}
+%\usepackage[style=numeric,refsection=chapter]{biblatex}
 \addbibresource{encares.bib}
+\usepackage{csquotes}
 %\bibliographystyle{unsrt}
 \usepackage{fontawesome5}
 \usepackage{graphicx}
 \usepackage{wrapfig}
-\title{%
-	Encares de psiquiatría \\
-	\large para prueba de residencia}
+\title{Encares de psiquiatría}
 \author{M. Escobal}
+\date{Ver: 24.04}
 \begin{document}
 \maketitle
 \tableofcontents
