@@ -2,7 +2,7 @@
 kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=true
 kile_livePreviewTool=LivePreview-XeLaTeX
-lastDocument=F90.tex
+lastDocument=encares.tex
 
 [document-settings,item:Abreviaturas.tex]
 Bookmarks=
@@ -23,6 +23,15 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:F32.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:F40.tex]
 Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
@@ -196,7 +205,7 @@ order=-1
 
 [item:F40.tex]
 open=false
-order=-1
+order=0
 
 [item:F40a.tex]
 open=false
@@ -318,6 +327,14 @@ JumpList=
 TextFolding={"checksum":"8e40448c95e7dac5930974202f2aa5ea12526f5f","ranges":[]}
 ViMarks=
 
+[view-settings,view=0,item:F40.tex]
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=true
+JumpList=
+TextFolding={"checksum":"700f157801bc34ebf506f61149d0f45de1224259","ranges":[]}
+ViMarks=
+
 [view-settings,view=0,item:F41b.tex]
 CursorColumn=13
 CursorLine=3
@@ -359,11 +376,11 @@ TextFolding={"checksum":"40f5636a76756dddada093b32693962e23f96228","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F50.tex]
-CursorColumn=9
+CursorColumn=0
 CursorLine=60
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"e76a8cba0060f316d34a4faf0accf90330376913","ranges":[]}
+TextFolding={"checksum":"8fd6f10dc2162507d1a563d5b546f72f3e69f887","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F60.tex]
@@ -375,11 +392,11 @@ TextFolding={"checksum":"e405db15e7d98b3cddd752bdcfc658bc974152f2","ranges":[{"e
 ViMarks=
 
 [view-settings,view=0,item:F90.tex]
-CursorColumn=0
+CursorColumn=15
 CursorLine=57
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"dc0b324c39b0155eb88a8f2e8062e121d98c4138","ranges":[]}
+TextFolding={"checksum":"767f9441f74fb0bbf8633022fc970796de414d2a","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:Intro.tex]
@@ -387,15 +404,15 @@ CursorColumn=0
 CursorLine=6
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"a7447c9f05a3aa20b1416769c3251da9d1bec0b2","ranges":[]}
+TextFolding={"checksum":"9be8f6c1f94f18a45e27dc85f6c45aa25b8f520c","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:encares.tex]
 CursorColumn=9
-CursorLine=24
+CursorLine=42
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"56afd7a84ca5337ba3f233086d0831b0545b128d","ranges":[]}
+TextFolding={"checksum":"1acda81d4bcbad3998d385a8be0d6b21cfeb5430","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:snm.tex]

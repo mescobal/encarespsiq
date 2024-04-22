@@ -1,0 +1,74 @@
+%\documentclass{book}
+\documentclass{scrbook}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+%\usepackage[spanish]{babel}
+\usepackage[backend=biber,
+	style=numeric,
+	refsection=chapter,
+	sorting=none]{biblatex}
+%\usepackage[style=numeric,refsection=chapter]{biblatex}
+\addbibresource{encares.bib}
+\usepackage{csquotes}
+%\bibliographystyle{unsrt}
+\usepackage{fontawesome5}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\title{Encares de psiquiatría}
+\author{M. Escobal}
+\date{Ver: 24.04}
+\begin{document}
+\maketitle
+\tableofcontents
+\part{Introducción}
+\include{Intro.tex}
+\part{Trastornos mentales orgánicos}
+\include{F00.tex}	
+\include{F05.tex}
+\part{Trastornos por consumo de sustancias psicoactivas}
+\include{F10.tex}
+\include{F11.tex}
+\part{Trastornos psicóticos}
+\include{F20.tex}
+\include{F22a.tex}
+\include{F22b.tex}
+\include{F23.tex}
+\part{Trastornos del humor}
+\include{F30.tex}
+\include{F31.tex}
+\include{F32.tex}
+\part{Trastornos de ansiedad}
+\include{F40.tex}
+\include{F40a.tex}
+\include{F41a.tex}
+\include{F41b.tex}
+\include{F42.tex}
+\include{F43.tex}
+\include{F44.tex}
+\include{F45.tex}
+\include{F48.tex}
+\part{Trastornos asociados a disfunciones fisiológicas}
+\include{F50.tex}
+\include{F51.tex}
+\part{Trastornos de la personalidad y del control de impulsos}
+\include{F60.tex}
+\include{F63.tex}
+\include{F68.tex}
+\part{Retraso Mental}
+\include{F70.tex}
+\part{Trastornos del desarrollo psicológico}
+\include{F84.tex}
+\part{Trastornos de inicio en la infancia/adolescencia}
+\include{F90.tex}
+\include{F93.tex}
+\include{F98.tex}
+\part{Otras situaciones clínicas}
+\include{IAE.tex}
+\include{Estupor.tex}
+\include{snm.tex}
+\part{Apéndice}
+\include{Fragmentos.tex}
+\include{Abreviaturas.tex}
+\end{document}
