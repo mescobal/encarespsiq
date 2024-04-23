@@ -5,7 +5,7 @@ preparar la prueba de residencia de psiquiatría (año 1996). En ese momento me 
 
 La construcción colectiva del conjunto de conocimientos que implica un encare era totalmente concordante con la filosofía del Software Libre footnote:[https://www.fsf.org] a la que le debemos GNU/Linux y el concepto de Copyleft. Como forma de contribuir a esa construcción colectiva, fui subiendo todo el material, junto con mis propios apuntes a un sitio web que ya no existe.
 
-image:copyleft.png[image]
+image::copyleft.png[float="right"]
 
 Hace algunos años atrás, me comentaron acerca de la existencia del "Libro de las estrellitas". Alguien, siguiendo la misma filosofía, imprimió los encares, los encuadernó y puso a disposición en una fotocopiadora frente al Hospital de Clínicas. Alguien (no se si fue la misma persona) adornó la tapa con estrellitas.
 
@@ -37,7 +37,7 @@ Estos encares fueron posibles gracias a la generosa contribución de varios cole
 
 Todo el contenido tiene licencia Creative Commons (Atribución - Compartir igual) 4.0 Internacional footnote:[http://creativecommons.org/licenses/by-sa/4.0/] .
 
-image:cc.png[image]
+image::cc.png[cc, float="right", align="center"]
 
 Esto significa que se puede:
 
@@ -53,13 +53,13 @@ Bajo los siguientes términos:
 
 El encare es (parece obvio pero hay que decirlo) sobre un paciente. Es una prueba CLINICA. No es un "fill in the blanks". Hay que "ver" al paciente y luego hacer el encare. Por lo tanto:
 
-* No hablar en el aire. Adaptarlo al paciente. 
+* No hablar en el aire. Adaptarlo al paciente.
 * Ver criterios del tribunal.
 * Tomarse el tiempo de escritura/exposición: de nada sirve saber, si no se expone o escribe en el tiempo estipulado.
 
 Notas con respecto a DSM y proceso diagnóstico: recordar que el DSM y la CIE son manuales de clasificación. Primero hay que hacer un diagnóstico y luego ver en que categoría entra ese diagnóstico. Es frecuente ver la orientación de un encare hacia una categoría diagnóstica, pero se encara un paciente, no un diagnóstico. Los pacientes reales suelen desafiar las clasificaciones.
 
-Notas con respecto a mezclar nosografías: aquí hay dos posturas antagónicas. Para algunos es pecado mezclar nosografías y lo penalizan con la descalificación. Para otros, prescindir de algunas nosografías es un empobrecimiento de la psiquiatría.
+Notas con respecto a mezclar nosografías: aquí hay dos posturas antagónicas. Para algunos es pecado y lo penalizan con la descalificación. Para otros, prescindir de algunas nosografías es un empobrecimiento de la psiquiatría.
 
 Estoy a favor de lo segundo, pero a su vez estoy de acuerdo con que no hay que mezclar. Si planteamos un diagnóstico siguiendo una nosografía, no podemos plantear diagnósticos diferenciales siguiendo otra. El problema es que la alternativa (mantener dos diagnósticos y 2 grupos de diferenciales, por ejemplo) consume mucho tiempo.
 

@@ -104,80 +104,44 @@ Cambio a metadone o buprenorfina: planificado (no antes de 24 horas libre de med
 .Mujeres 
 Embarazo: si hay dependencia física deben recibir metadona o buprenorfina y no solo retiro de medicación con manejo de abstinencia. Debe comenzarse el tratamiento de forma precoz en el embarazo. Se recomienda hospitalización, en especial en el primer trimestre.
 
-Metadona: en internación, 20-30 mg, sin exceder los 40 mg en el primer
-día. Dosis incrementales de 5-10 mg cada 3-6 horas según sea necesario
-para tratar la abstinencia. El emabrazo afecta la farmacocinética de la
-metadona. A medida que avanza la edad gestacional los niveles de
-metadona bajan (aumenta el clearance). Puede requerir aumento de dosis
-y/o la frecuencia (en 2 tomas es más efectivo y tiene menos efectos
-secundarios).
+Metadona: en internación, 20-30 mg, sin exceder los 40 mg en el primer día. Dosis incrementales de 5-10 mg cada 3-6 horas según sea necesario para tratar la abstinencia. El emabrazo afecta la farmacocinética de la metadona. A medida que avanza la edad gestacional los niveles de metadona bajan (aumenta el clearance). Puede requerir aumento de dosis y/o la frecuencia (en 2 tomas es más efectivo y tiene menos efectos secundarios).
 
-Buprenorfina (alternativa a la metadona): comenzar cuando hayan sintomas
-de abstinencia leves-moderados, antes de que sean severos (6 horas
-aproximadamente luego de la última dosis de un opiode de acción corta y
-24-48 horas luego de un opioide de acción prolongada). Se recomienda
-hospitalización. Luego de la inducción aumentos de 5-10 mg x semana. No
-requiere de ajuste de dosis. No se recomienda la discontinuación antes
-de una cesárea electiva ya que aumenta el riesgo de abstinencia fetal.
+Buprenorfina (alternativa a la metadona): comenzar cuando hayan sintomas de abstinencia leves-moderados, antes de que sean severos (6 horas aproximadamente luego de la última dosis de un opiode de acción corta y 24-48 horas luego de un opioide de acción prolongada). Se recomienda hospitalización. Luego de la inducción aumentos de 5-10 mg x semana. No requiere de ajuste de dosis. No se recomienda la discontinuación antes de una cesárea electiva ya que aumenta el riesgo de abstinencia fetal.
 
 Debe incluirse a obstetra en el equipo.
 
-Embarazo durante el tratamiento con naltrexona: discontinuarla. Puede
-continuarse si hay alto riesgo de recaída y con consentimiento
-informado.
+Embarazo durante el tratamiento con naltrexona: discontinuarla. Puede continuarse si hay alto riesgo de recaída y con consentimiento informado.
 
-Lactancia: se recomienda estimular la lactancia durante el tratamiento
-con metadona o buprenorfina.
+Lactancia: se recomienda estimular la lactancia durante el tratamiento con metadona o buprenorfina.
 
 .Dolor
 
-En los pacientes con dolor es importante contar con un correcto
-diagnóstico y que se identifiquen alternativas de tratamiento
-(acetaminofeno, AINEs).
+En los pacientes con dolor es importante contar con un correcto diagnóstico y que se identifiquen alternativas de tratamiento (acetaminofeno, AINEs).
 
-Metadona: los pacientes pueden requerir dosis adicionales de opioides
-además de la dosis diaria de matadona para el manejo del dolor agudo
-severo. Pueden requerir opioides de acción corta adicionales para el
-manejo del dolor postoperatorio.
+Metadona: los pacientes pueden requerir dosis adicionales de opioides además de la dosis diaria de matadona para el manejo del dolor agudo severo. Pueden requerir opioides de acción corta adicionales para el manejo del dolor postoperatorio.
 
-Buprenorfina: se peude aumentar transitoriamente para el dolor moderado
-agudo. Para el dolor severo agudo se recomienda discontinuar
-buprenorfina y comenzar con un opioide alta potencia (como fentanil).
-Debe controlarse al paciente para evaluar si necesita intervenciones
-adicionales (tales como anestesia regional). La decisión de discontinuar
-la buprenorfina antes de una cirugía electiva debe ser hecha en conjunto
-con anestesista. De hacerlo debe ser 24-36 horas antes de la cirugía
-recomenzando en el postoperatorio luego de que no se necesite analgesia
-con agonistas opioides postoperatoria.
+Buprenorfina: se peude aumentar transitoriamente para el dolor moderado agudo. Para el dolor severo agudo se recomienda discontinuar buprenorfina y comenzar con un opioide alta potencia (como fentanil). Debe controlarse al paciente para evaluar si necesita intervenciones adicionales (tales como anestesia regional). La decisión de discontinuar la buprenorfina antes de una cirugía electiva debe ser hecha en conjunto con anestesista. De hacerlo debe ser 24-36 horas antes de la cirugía recomenzando en el postoperatorio luego de que no se necesite analgesia con agonistas opioides postoperatoria.
 
-Naltrexona: los pacientes con naltrexona no responen a la analgesia con
-opioides del modo usual. Se recomienza usar AINEs para dolor leve y
-ketorolac por períodos cortos en dolor moderado-severo. La naltrexona
-oral debe discontinuarse 72 horas antes de una cirugía.
+Naltrexona: los pacientes con naltrexona no responen a la analgesia con opioides del modo usual. Se recomienza usar AINEs para dolor leve y ketorolac por períodos cortos en dolor moderado-severo. La naltrexona oral debe discontinuarse 72 horas antes de una cirugía.
 
-.Adolescentes Buprenofrina está aprobado para >= 16 años.
+.Adolescentes 
 
-.Comorbilidad psiquiátrica Evaluar existencia de riesgo suicida.
-Controlar de forma más estricta a pacientes con antecedentes de IAEs.
+Buprenofrina está aprobado para >= 16 años.
 
-.Población carcelaria Se recomienda tratamiento de forma independiente
-de la duración de la sentencia. Debe iniciarse la farmacoterpia al menos
-30 días antes de la salida de prisión.
+.Comorbilidad psiquiátrica
 
-.Sobredosis En caso de sobredosis debe adminstrarse naloxona (indicado
-también en embarazadas con sobredosis). Se recomienda psicoeducación a
-familiares en el manejo de la naloxona y dar prescripciones con
-indicaciones de administración en caso de sobredosis.
+Evaluar existencia de riesgo suicida. Controlar de forma más estricta a pacientes con antecedentes de IAEs.
 
-=== Bibliografía * Nielsen, S., Larance, B., & Lintzeris, N. (2017).
-Opioid agonist treatment for patients with dependence on prescription
-opioids. Jama, 317(9), 967-968. * Nielsen, S., Larance, B., Degenhardt,
-L., Gowing, L., Kehler, C., & Lintzeris, N. (2016). Opioid agonist
-treatment for pharmaceutical opioid dependent people. Cochrane Database
-of Systematic Reviews, (5). * Center for Substance Abuse Treatment.
-Medication-Assisted Treatment for Opioid Addiction in Opioid Treatment
-Programs. Rockville (MD): Substance Abuse and Mental Health Services
-Administration (US); 2005. * Veilleux, J. C., Colvin, P. J., Anderson,
-J., York, C., & Heinz, A. J. (2010). A review of opioid dependence
-treatment: pharmacological and psychosocial interventions to treat
-opioid addiction. Clinical psychology review, 30(2), 155-166.
+.Población carcelaria 
+
+Se recomienda tratamiento de forma independiente de la duración de la sentencia. Debe iniciarse la farmacoterapia al menos 30 días antes de la salida de prisión.
+
+.Sobredosis 
+
+En caso de sobredosis debe adminstrarse naloxona (indicado también en embarazadas con sobredosis). Se recomienda psicoeducación a familiares en el manejo de la naloxona y dar prescripciones con indicaciones de administración en caso de sobredosis.
+
+=== Bibliografía 
+
+* Nielsen, S., Larance, B., & Lintzeris, N. (2017). Opioid agonist treatment for patients with dependence on prescription opioids. Jama, 317(9), 967-968. * Nielsen, S., Larance, B., Degenhardt, L., Gowing, L., Kehler, C., & Lintzeris, N. (2016). Opioid agonist treatment for pharmaceutical opioid dependent people. Cochrane Database of Systematic Reviews, (5). 
+* Center for Substance Abuse Treatment. Medication-Assisted Treatment for Opioid Addiction in Opioid Treatment Programs. Rockville (MD): Substance Abuse and Mental Health Services Administration (US); 2005. 
+* Veilleux, J. C., Colvin, P. J., Anderson, J., York, C., & Heinz, A. J. (2010). A review of opioid dependence treatment: pharmacological and psychosocial interventions to treat opioid addiction. Clinical psychology review, 30(2), 155-166.
