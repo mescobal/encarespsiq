@@ -13,6 +13,8 @@
 
 include::Intro.adoc[]
 
+include::Semiología.adoc[]
+
 = Trastornos mentales orgánicos
 
 include::F00.adoc[]
