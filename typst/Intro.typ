@@ -19,7 +19,7 @@ Junto con la filosofía del Software Libre, viene el concepto de "liberar frecue
 - Etapa 2: (4%) eliminar información duplicada.
 - Etapa 3: (2%) actualizar información obsoleta (primero tratamiento y luego etiopatogenia)
 - Etapa 4: (2%) pulir estructura / diagramación.
-- Etapa 5: #fa-icon("battery-empty") (0%) actualizar sistemas de clasificación.
+- Etapa 5: (0%) actualizar sistemas de clasificación.
 
 ==== Cambios
 
@@ -73,8 +73,7 @@ Al final hay una lista de las abreviaturas más usadas, así como fragmentos de 
 
 El material mínimo para preparar una prueba es:
 
-- Un tratado de psiquiatría (quizás sea más práctico en forma de compendio). Uno de los más usados en este texto es el compendio de
-Kaplan & Sadock .
+- Un tratado de psiquiatría (quizás sea más práctico en forma de compendio). Uno de los más usados en este texto es el compendio de Kaplan & Sadock .
 - El tratado clásico más popular en Uruguay (es una característica local, no está extendido en el mundo): Ey.
 - Un manual de clasificación de enfermedades mentales. Si bien entre los docentes es popular el DSM-IV , hay que recordar que todos los documentos vinculados a salud se guían por la guía de la OMS: CIE-10. El DSM-5 puede no ser popular entre algunos docentes (por buenos motivos).
 - Un texto sobre psicofarmacología. Uno de los más populares es el de Stahl .

@@ -6,17 +6,21 @@
 :toc-levels: 0
 :toc:¨*/
 #import "@preview/fontawesome:0.2.0": *
-#import "lib.typ": *
 #set text(lang: "es")
-#set par(justify: true)
+#set page(paper:"a4", margin: 1in, numbering:"1")
+#set par(leading: 0.55em, first-line-indent: 1.8em, justify: true)
+#set text(font: "New Computer Modern")
+#show raw: set text(font: "New Computer Modern Mono")
+#show par: set block(spacing: 0.55em)
+#show heading: set block(above: 1.4em, below: 1em)
 
 = Encares de psiquiatría
 = Introducción
 
 #include "Intro.typ"
-/*
-#include "Semiología.typ"
 
+#include "Semiología.typ"
+/*
 = Trastornos mentales orgánicos
 
 #include "F00.typ"

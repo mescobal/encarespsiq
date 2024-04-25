@@ -29,16 +29,16 @@ Tiene un componente de observación de paciente (examen del estado mental) y tam
 
 Tiene múltiples formatos y diferentes formas de ordenarlo, pero siempre contempla más o menos los mismos ítems.
 
-* Presentación:
-** Ingreso a la entrevista
-** Aspecto general, biotipo
-** Arreglo personal: autocuidado, concordancia con contexto sociocultural, ornamentación (en vestimenta y en el cuerpo), tipo de vestimenta.
-* Actitud: colaboración activa/pasiva, negativismo.
-* Fascies, mímica y gestualidad
-* Rapport
-* Conciencia
-* Pensamiento
-* Humor y afectividad
-* Psicomotricidad
-* Estado cognitivo
+- Presentación:
+  - Ingreso a la entrevista
+  - Aspecto general, biotipo
+  - Arreglo personal: autocuidado, concordancia con contexto sociocultural, ornamentación (en vestimenta y en el cuerpo), tipo de vestimenta.
+- Actitud: colaboración activa/pasiva, negativismo.
+- Fascies, mímica y gestualidad
+- Rapport
+- Conciencia
+- Pensamiento
+- Humor y afectividad
+- Psicomotricidad
+- Estado cognitivo
 
