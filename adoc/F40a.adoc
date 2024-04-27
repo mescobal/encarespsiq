@@ -3,20 +3,24 @@
 === Notas clínicas
 
 ==== Definición
-Temor ante situaciones que requieren exposición social: iniciar o mantener conversaciones, participar en pequeños grupos, tener citas, hablar con figuras de autoridad, asistir a fiestas. Percepción del temor como irracional o exagera-do. Preocupación por la posibilidad de estar en una situación embarazosa o que los demás le vean como ansioso, débil, “loco”. Temor a que los demás se den cuenta de que sus manos tiemblan. Temor a no poder articular correctamente las palabras. Pueden evitar: comer, beber, escribir en público. Síntomas de ansiedad ante la exposición: palpitaciones, temblores, sudoración, molestias gastrointestinales, diarrea, tensión muscular, rubor. Temor a evaluaciones indirectas (exámenes). De forma típica aparece en la adolescencia (rango 5 a 35 años) con el antecedente de timidez o inhibición social en la infancia. La aparición puede estar marcada por algún su-ceso vivido como humillante.
 
-===== Curso
+Temor ante situaciones que requieren exposición social: iniciar o mantener conversaciones, participar en pequeños grupos, tener citas, hablar con figuras de autoridad, asistir a fiestas. Percepción del temor como irracional o exagera-do. Preocupación por la posibilidad de estar en una situación embarazosa o que los demás le vean como ansioso, débil, "loco". Temor a que los demás se den cuenta de que sus manos tiemblan. Temor a no poder articular correctamente las palabras. Pueden evitar: comer, beber, escribir en público. Síntomas de ansiedad ante la exposición: palpitaciones, temblores, sudoración, molestias gastrointestinales, diarrea, tensión muscular, rubor. Temor a evaluaciones indirectas (exámenes). De forma típica aparece en la adolescencia (rango 5 a 35 años) con el antecedente de timidez o inhibición social en la infancia. La aparición puede estar marcada por algún su-ceso vivido como humillante.
+
+==== Curso
+
 Crónico o continuo (puede oscilar por circunstancias ambientales, por ejemplo: disminución del temor ante conversaciones con personas del sexo opuesto que desaparece luego de casarse; cambio de puesto laboral que obliga a interactuar con público).
 
 Examen psiquiátrico Dificultad para sostener la mirada. Comprobación de manifestaciones objetivas de ansiedad (rubor, manos pegajosas y frías, temblor, voz vacilante). Afectación de pragmatismos.
 
 ==== Epidemiología
 
-Prevalencia: 3-13%. Síntoma más frecuente: temor a hablar en público. Prevalencia a 6 meses: 2-3% de población general. En estudios epidemiológicos: mujeres > hombres. En mues-tras clínicas: hombres > mujeres (causa de variación: desconocida). Prevalencia de aproximadamente un 10% en pacientes con otro trastorno de ansiedad. Mujeres con FS tienen más probabilidades de desarrollar una Agorafobia.
+Prevalencia: 3-13%. Síntoma más frecuente: temor a hablar en público.
+
+Prevalencia a 6 meses: 2-3% de población general. En estudios epidemiológicos: mujeres > hombres. En muestras clínicas: hombres > mujeres (causa de variación: desconocida). Prevalencia de aproximadamente un 10% en pacientes con otro trastorno de ansiedad. Mujeres con FS tienen más probabilidades de desarrollar una Agorafobia.
 
 === Encare
 
-==== Agrupación sindromática
+==== Agupración sindromática
 
 ===== Síndrome fóbico
 
@@ -50,23 +54,20 @@ Secundario a la sintomatología de ansiedad (o en comorbilidad).
 
 Nivel: cualquiera (independencia de ejes I y II).
 
-Personalidad: susceptibilidad a la crítica aumentada, susceptibilidad a la valoración negativa por parte de los demás. Temor al rechazo. Dificultad para autoafirmarse y baja autoestima.
+Personalidad: susceptibilidad a la crítica aumentada, susceptibilidad a la valoración negativa por parte de los demás. Temor al rechazo.
+
+Dificultad para autoafirmarse y baja autoestima.
 
 ==== Diagnóstico positivo
 
 ===== Nosografía Clásica
 
-Neurosis
-Neurosis fóbica
-
-Gravedad
-
+.Neurosis
+.Neurosis fóbica
+.Gravedad
 Leve-moderada-grave- incapacitante.
-
-Descompensada
-
+.Descompensada
 Por:
-
 * Síndrome de ansiedad angustia
 * Depresión (disfórica)
 * Exacerbación de síntomas
@@ -94,7 +95,7 @@ Requiere:
 
 A. Dos criterios:
 1. Miedo marcado a ser foco de atención o miedo a comportarse de un modo que sería embarazoso o humillante.
-2. Evitación notable de ser el centro de atención, o de situacio-nes en las cuales hay miedo de comportarse de un modo que sería embarazoso o humillante.
+2. Evitación notable de ser el centro de atención, o de situaciones en las cuales hay miedo de comportarse de un modo que sería embarazoso o humillante.
 B. Uno de los síntomas siguientes: ruborización, temor a vomitar, necesidad imperiosa o temor a orinar o defecar.
 C. Malestar significativo.
 D. Los síntomas se limitan a las situaciones temidas o a la contemplación de las mismas.
@@ -102,25 +103,23 @@ E. Exclusión de: trastornos mentales orgánicos, esquizofrenia, trastornos afec
 
 ==== Diagnósticos diferenciales
 
-Nosografía clásica
+.Nosografía clásica
 
-1. Neurosis de angustia: no existen conductas de evitación ni tranquilización. En la NF los elementos de AA son subsidiarios al síndrome fóbi-co que aparece descompensando. En la NA no existen mecanismos de defensa estructurados.
+1. Neurosis de angustia: no existen conductas de evitación ni tranquilización. En la NF los elementos de AA son subsidiarios al
+síndrome fóbico que aparece descompensando. En la NA no existen mecanismos de defensa estructurados.
 2. Otras neurosis.
-3. Fobia sintomática de Trastorno de la Persona-lidad.
+3. Fobia sintomática de Trastorno de la Personalidad.
 4. Crisis de angustia: descartar origen orgánico:
-
 * Hiperglicemia
 * Feocromocitoma
 * Prolapso de válvula mitral (comorbilidad)
 * Hipertiroidismo
-* Drogas: abstinencia (barbitúricos, benzodia-cepinas), intoxicación (anfetaminas y simi-lares)
-
+* Drogas: abstinencia (barbitúricos, benzodiacepinas), intoxicación (anfetaminas y similares)
 5. Si hay un So depresivo: Trastorno afectivo primario
 
 DSM / CIE-10
 
 Los diagnósticos diferenciales son diferentes dado que estos sistemas clasificatorios permiten acumular diagnósticos en uno o más ejes. Los principales diagnósticos diferenciales son:
-
 . Entre los diferentes trastornos de ansiedad:
 .. Agorafobia con/sin crisis de pánico: aparición de crisis de angustia inesperada que no se limitan al contexto de interacciones sociales. En la Fobia Social no hay crisis inesperadas recidivantes. Si se cumplen ambos criterios, pueden diagnosticarse a la vez.
 .. Fobia específica: x ej. evitación limitada a situaciones aisladas (ascensores).
@@ -146,7 +145,6 @@ Algunos autores proponen un modelo vulnerabilidad-estrés, citando una predispos
 Los factores genéticos son más importantes en el subtipo de FS generalizada. EL riesgo para familiares de pacientes con FSG es 10 veces mayor. Hay alta concordancia entre gemelos monocigóticos. Los familiares de primer grado de pacientes con fobia social tiene 3 veces más probabilidades de tenerlas que los familiares de personas sanas. Para el caso de la fobia social, diversos autores postulan la existencia de alteraciones en sistemas de neurotransmisión (adrenérgico, serotoninérgico y dopaminérgico), basado en la eficacia de fármacos.
 
 .Pruebas de estimulación:
-
 * Lactato: similar respuesta que en controles, lo que indicaría ausencia de alteraciones en quimiorreceptores (a diferencia del Tras-torno de Pánico).
 * CO2: Mayor respuesta que controles, pero menor que pacientes con TP.
 * Colecistoquinina (CCK): resultados contra-dictorios.
@@ -171,7 +169,6 @@ Basada en la eficacia de los ISRS. Los sujetos con FS expuestos a Fenfluramina (
 
 .Neuroimagen
 Los estudios sugieren la presencia de circuitos neurales específicos involucrados en la Fobia Social:
-
 * cíngulo anterior
 * córtex prefrontal dorsolateral derecho y córtex parietal izquierdo (involucrados en la planificación de respuestas afectivas y consciencia de la posición del cuerpo).
 * córtex orbitofrontal.
@@ -184,7 +181,9 @@ Por otro lado hay estudios que muestran una mayor disminución del volumen del p
 Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún impulso in-consciente prohibido (pulsiones genitales edípicas incestuosas) está luchando para expresarse en forma consciente, con falla del mecanismo de Represión (mecanismo destinado a mantener la pulsión fuera de la representación consciente), lo que lleva al Yo al uso de mecanismos de defensa auxiliares:
 
 * Desplazamiento: separa el afecto de la re-presentación prohibida y lo desplaza a una situación u objeto en el exterior, aparente-mente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
-* Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado. La reactivación del conflicto sobrepasa los me-canismos de defensa ya estructurados y se mani-fiesta como angustia. Se trata de una regresión y fijación a etapa edípi-ca del desarrollo psicosexual, vinculado a inten-sa angustia de castración (el impulso sexual continuaría teniendo una marcada connotación incestuosa en el adulto por lo que la activación sexual tiende a transformarse en ansiedad que de forma característica es un miedo a la castración).
+* Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado.
+
+La reactivación del conflicto sobrepasa los mecanismos de defensa ya estructurados y se manifiesta como angustia. Se trata de una regresión y fijación a etapa edípica del desarrollo psicosexual, vinculado a intensa angustia de castración (el impulso sexual continuaría teniendo una marcada connotación incestuosa en el adulto por lo que la activación sexual tiende a transformarse en ansiedad que de forma característica es un miedo a la castración).
 
 .Teoría Cognitivo-comportamental
 
@@ -200,14 +199,17 @@ El diagnóstico es clínico.
 
 ===== Biológico
 
-Examen físico completo: neurológico, signos de intoxicación por psicoestimulantes (midriasis, PA, pulso), tiroides, CV (eventual EcoCG, ECG, para uso de AD y buscando trastornos de la con-ducción). Paraclínica general. Con interés académico: los individuos con Fobia Social tienen menos probabilidades de padecer una crisis de angustia en respuesta a la perfusión de lactato sódico o a la inhalación de CO2.
+Examen físico completo: neurológico, signos de intoxicación por psicoestimulantes (midriasis, PA, pulso), tiroides, CV (eventual EcoCG, ECG, para uso de AD y buscando trastornos de la conducción).
+
+Paraclínica general. Con interés académico: los individuos con Fobia Social tienen menos probabilidades de padecer una crisis de angustia en respuesta a la perfusión de lactato sódico o a la inhalación de CO2.
 
 ===== Psicológico
 
 Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorscharch), no proyectivos (Minnesota), evaluando:
 
 * Fortaleza yoica
-* Elementos para el análisis de los mecanismos de defensa • Implementación de psicoterapia Tests de nivel (Weschler)..
+* Elementos para el análisis de los mecanismos de defensa, Implementación de psicoterapia
+* Tests de nivel (Weschler)..
 
 ===== Social
 
@@ -216,7 +218,9 @@ Familiares y terceros. Valoración de red de so-porte. Otros: para el seguimient
 ==== Tratamiento
 
 * Ambulatorio con control en policlínica
-* Hospitalizar según entidad de síndromes asociados (ej. depresión) Objetivos del tratamiento:
+* Hospitalizar según entidad de síndromes asociados (ej. depresión)
+
+Objetivos del tratamiento:
 * Alivio de afectos y cogniciones vinculadas al temor
 * Reducción de la ansiedad anticipatoria
 * Atenuar el comportamiento de evitación
@@ -230,18 +234,22 @@ Familiares y terceros. Valoración de red de so-porte. Otros: para el seguimient
 Primera línea: beta bloqueantes:
 
 * Propranolol 20-40 mg 30 minutos antes de la previsible exposición.
-* Atenolol 50-100 mg 1 hora antes. Segunda línea: benzodiacepinas, dosis de 5-15 mg de equivalentes Diazepam.
+* Atenolol 50-100 mg 1 hora antes.
+
+Segunda línea: benzodiacepinas, dosis de 5-15 mg de equivalentes Diazepam.
 
 .Fobia social generalizada o difusa
-Si bien el fármaco mejor estudiado y con mayo-res índices de eficacia es la Fenelzina, su manejo complicado (con contraindicaciones y restricciones) lo relegan a un segundo plano.
+Si bien el fármaco mejor estudiado y con mayores índices de eficacia es la Fenelzina, su manejo complicado (con contraindicaciones y restricciones) lo relegan a un segundo plano.
 
 Primera línea: Paroxetina 20 - 60 mg/día > Sertralina > Fluvoxamina (orden según calidad de evidencia en estudios realizados)
 
 Segunda línea: Fenelzina 45-90 mg/día, inician-do con 15 mg/día, aumentando hasta 45-60 mg/día, esperando 4 semanas y luego, según resultados y tolerancia puede aumentarse hasta.
 
-Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la terapia única con BZD es de eficacia dudosa o limitada). Opciones: Clorimipramina, Moclobemida.
+Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la terapia única con BZD es de eficacia dudosa o limitada).
 
-En casos de fobia generalizada se mantendrá el tratamiento hasta 12 meses luego de remisión sintomática, a las dosis con las que se logró me-joría. Luego pueden disminuirse de forma progresiva, si aparece recidiva se vuelve a las dosis eficaces que se mantendrán por 12 meses más. Tratamientos superiores al año podrían estar indicados en: pacientes con síntomas significativos persistentes, presencia de comorbilidad, inicio precoz con TP por Evitación severo y pacientes con historia previa de recaídas.
+Opciones: Clorimipramina, Moclobemida.
+
+En casos de fobia generalizada se mantendrá el tratamiento hasta 12 meses luego de remisión sintomática, a las dosis con las que se logró mejoría. Luego pueden disminuirse de forma progresiva, si aparece recidiva se vuelve a las dosis eficaces que se mantendrán por 12 meses más. Tratamientos superiores al año podrían estar indicados en: pacientes con síntomas significativos persistentes, presencia de comorbilidad, inicio precoz con TP por Evitación severo y pacientes con historia previa de recaídas.
 
 ===== Psicológico
 
@@ -283,8 +291,7 @@ El pronóstico depende de:
 * Edad de comienzo del tratamiento
 * Continuidad del tratamiento
 * Nivel intelectual
-* Nivel socioeconómico
-* Comorbilidad (depresión, alcoholismo, TP)
+* Nivel socioeconómico * Comorbilidad (depresión, alcoholismo, TP)
 * Antecedentes familiares (predictor negativo para el caso de la fobia social).
 
 Evaluación de resultados del tratamiento :
@@ -293,4 +300,4 @@ Evaluación de resultados del tratamiento :
 * Disfunción: Escala de Discapacidad de Sheehan.
 * Evolución general: CGI.
 
-Se define respuesta como una reducción del 50% o más en las escalas usadas. Remisión completa se define como la resolución completa de los síntomas por un período de por lo menos 3 meses.
+Se define respuesta como una reducción del 50
