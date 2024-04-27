@@ -452,10 +452,10 @@ ViMarks=
 
 [view-settings,view=0,item:F20.tex]
 CursorColumn=0
-CursorLine=404
+CursorLine=481
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"96a21115b7a20dc531a8d670a30dd63701718a81","ranges":[]}
+TextFolding={"checksum":"5ff643af41c2456b28e87fea0abae627113b094e","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F40.tex]
