@@ -15,11 +15,11 @@ Junto con la filosofía del Software Libre, viene el concepto de "liberar frecue
 
 === Etapas del trabajo
 
-* Etapa 1 (actualmente en curso): (40%) juntar el contenido de "El libro de las estrellitas" con otros encares (añejos) que tengo en la computadora. La información que puede resultar útil es: la estructura del encare, las nociones clásicas y alguna nota clínica. La parte de tratamiento y las nociones más biológicas pueden estar groseramente desactualizadas. Hay mucha información duplicada / redundante / obsoleta.
-* Etapa 2: (4%) eliminar información duplicada.
-* Etapa 3: (2%) actualizar información obsoleta (primero tratamiento y luego etiopatogenia)
-* Etapa 4: (2%) pulir estructura / diagramación.
-* Etapa 5: (0%) actualizar sistemas de clasificación.
+* Etapa 1 (actualmente en curso): icon:battery-half[] (40%) juntar el contenido de "El libro de las estrellitas" con otros encares (añejos) que tengo en la computadora. La información que puede resultar útil es: la estructura del encare, las nociones clásicas y alguna nota clínica. La parte de tratamiento y las nociones más biológicas pueden estar groseramente desactualizadas. Hay mucha información duplicada / redundante / obsoleta.
+* Etapa 2: icon:battery-quarter[] (4%) eliminar información duplicada.
+* Etapa 3: icon:battery-quarter[] (2%) actualizar información obsoleta (primero tratamiento y luego etiopatogenia)
+* Etapa 4: icon:battery-quarter[] (2%) pulir estructura / diagramación.
+* Etapa 5: icon:battery-empty[] (0%) actualizar sistemas de clasificación.
 
 ==== Cambios
 

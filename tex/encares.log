@@ -1,32 +1,32 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.22)  26 APR 2024 21:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.24)  30 APR 2024 22:48
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **encares.tex
 (./encares.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
+L3 programming layer <2024-03-14>
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/scrbook.cls
 Document Class: scrbook 2023/07/07 v3.41 KOMA-Script document class (book)
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
 
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/scrlfile-hook.st
+y
 Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+))) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
@@ -34,7 +34,7 @@ Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
 Already applied: [0000/00/00] Usage of raw or classic option list on input line
  368.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2023/07/07 v3.41 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip48
 \scr@dte@tocline@numbox=\box51
@@ -46,14 +46,13 @@ Class scrbook Info: File `scrsize11pt.clo' used instead of
 (scrbook)           file `scrsize11.clo' to setup font sizes on input line 2691
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
 File: scrsize11pt.clo 2023/07/07 v3.41 KOMA-Script font size class option (11pt
 )
-)
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2023/07/07 v3.41 KOMA-Script package (type area)
 \ta@bcor=\skip49
-\ta@div=\count187
+\ta@div=\count188
 \ta@hblk=\skip50
 \ta@vblk=\skip51
 \ta@temp=\skip52
@@ -76,13 +75,13 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \baselineskip   = 13.6pt
 (typearea)              on input line 1799.
 )
-\c@part=\count188
-\c@chapter=\count189
-\c@section=\count190
-\c@subsection=\count191
-\c@subsubsection=\count192
-\c@paragraph=\count193
-\c@subparagraph=\count194
+\c@part=\count189
+\c@chapter=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
 \scr@dte@chapter@maxnumwidth=\skip54
 Class scrbook Info: using compatibility default `afterindent=bysign'
 (scrbook)           for `\chapter on input line 5990.
@@ -121,47 +120,47 @@ Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lof' on input line 7242.
 \scr@dte@figure@maxnumwidth=\skip63
-\c@figure=\count195
+\c@figure=\count196
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 7259.
 \scr@dte@table@maxnumwidth=\skip64
-\c@table=\count196
+\c@table=\count197
 Class scrbook Info: Redefining `\numberline' on input line 7430.
 \bibindent=\dimen140
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count197
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/04/20 v24.4 The Babel package
+\babel@savecnt=\count198
 \U@D=\dimen141
-\l@unhyphenated=\language12
+\l@unhyphenated=\language25
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count198
+\bbl@dirlevel=\count199
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks18
-\es@quotdepth=\count199
+\es@quotdepth=\count266
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/babel/locale/es/babel-span
+ish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 )
-(/usr/share/texmf/tex/latex/lm/lmodern.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -196,93 +195,93 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count266
+\etb@tempcnta=\count267
 )
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count267
+\lrq@indent=\count268
 
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count268
-\c@listtotal=\count269
-\c@listcount=\count270
-\c@liststart=\count271
-\c@liststop=\count272
-\c@citecount=\count273
-\c@citetotal=\count274
-\c@multicitecount=\count275
-\c@multicitetotal=\count276
-\c@instcount=\count277
-\c@maxnames=\count278
-\c@minnames=\count279
-\c@maxitems=\count280
-\c@minitems=\count281
-\c@citecounter=\count282
-\c@maxcitecounter=\count283
-\c@savedcitecounter=\count284
-\c@uniquelist=\count285
-\c@uniquename=\count286
-\c@refsection=\count287
-\c@refsegment=\count288
-\c@maxextratitle=\count289
-\c@maxextratitleyear=\count290
-\c@maxextraname=\count291
-\c@maxextradate=\count292
-\c@maxextraalpha=\count293
-\c@abbrvpenalty=\count294
-\c@highnamepenalty=\count295
-\c@lownamepenalty=\count296
-\c@maxparens=\count297
-\c@parenlevel=\count298
-\blx@tempcnta=\count299
-\blx@tempcntb=\count300
-\blx@tempcntc=\count301
-\c@blx@maxsection=\count302
-\blx@maxsegment@0=\count303
-\blx@notetype=\count304
-\blx@parenlevel@text=\count305
-\blx@parenlevel@foot=\count306
-\blx@sectionciteorder@0=\count307
-\blx@sectionciteorderinternal@0=\count308
-\blx@entrysetcounter=\count309
-\blx@biblioinstance=\count310
+\c@tabx@nest=\count269
+\c@listtotal=\count270
+\c@listcount=\count271
+\c@liststart=\count272
+\c@liststop=\count273
+\c@citecount=\count274
+\c@citetotal=\count275
+\c@multicitecount=\count276
+\c@multicitetotal=\count277
+\c@instcount=\count278
+\c@maxnames=\count279
+\c@minnames=\count280
+\c@maxitems=\count281
+\c@minitems=\count282
+\c@citecounter=\count283
+\c@maxcitecounter=\count284
+\c@savedcitecounter=\count285
+\c@uniquelist=\count286
+\c@uniquename=\count287
+\c@refsection=\count288
+\c@refsegment=\count289
+\c@maxextratitle=\count290
+\c@maxextratitleyear=\count291
+\c@maxextraname=\count292
+\c@maxextradate=\count293
+\c@maxextraalpha=\count294
+\c@abbrvpenalty=\count295
+\c@highnamepenalty=\count296
+\c@lownamepenalty=\count297
+\c@maxparens=\count298
+\c@parenlevel=\count299
+\blx@tempcnta=\count300
+\blx@tempcntb=\count301
+\blx@tempcntc=\count302
+\c@blx@maxsection=\count303
+\blx@maxsegment@0=\count304
+\blx@notetype=\count305
+\blx@parenlevel@text=\count306
+\blx@parenlevel@foot=\count307
+\blx@sectionciteorder@0=\count308
+\blx@sectionciteorderinternal@0=\count309
+\blx@entrysetcounter=\count310
+\blx@biblioinstance=\count311
 \labelnumberwidth=\skip65
 \labelalphawidth=\skip66
 \biblabelsep=\skip67
@@ -293,88 +292,88 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip72
 \blx@bcfin=\read3
 \blx@bcfout=\write3
-\blx@langwohyphens=\language13
-\c@mincomprange=\count311
-\c@maxcomprange=\count312
-\c@mincompwidth=\count313
+\blx@langwohyphens=\language26
+\c@mincomprange=\count312
+\c@maxcomprange=\count313
+\c@mincompwidth=\count314
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count314
-\c@savedafterword=\count315
-\c@annotator=\count316
-\c@savedannotator=\count317
-\c@author=\count318
-\c@savedauthor=\count319
-\c@bookauthor=\count320
-\c@savedbookauthor=\count321
-\c@commentator=\count322
-\c@savedcommentator=\count323
-\c@editor=\count324
-\c@savededitor=\count325
-\c@editora=\count326
-\c@savededitora=\count327
-\c@editorb=\count328
-\c@savededitorb=\count329
-\c@editorc=\count330
-\c@savededitorc=\count331
-\c@foreword=\count332
-\c@savedforeword=\count333
-\c@holder=\count334
-\c@savedholder=\count335
-\c@introduction=\count336
-\c@savedintroduction=\count337
-\c@namea=\count338
-\c@savednamea=\count339
-\c@nameb=\count340
-\c@savednameb=\count341
-\c@namec=\count342
-\c@savednamec=\count343
-\c@translator=\count344
-\c@savedtranslator=\count345
-\c@shortauthor=\count346
-\c@savedshortauthor=\count347
-\c@shorteditor=\count348
-\c@savedshorteditor=\count349
-\c@labelname=\count350
-\c@savedlabelname=\count351
-\c@institution=\count352
-\c@savedinstitution=\count353
-\c@lista=\count354
-\c@savedlista=\count355
-\c@listb=\count356
-\c@savedlistb=\count357
-\c@listc=\count358
-\c@savedlistc=\count359
-\c@listd=\count360
-\c@savedlistd=\count361
-\c@liste=\count362
-\c@savedliste=\count363
-\c@listf=\count364
-\c@savedlistf=\count365
-\c@location=\count366
-\c@savedlocation=\count367
-\c@organization=\count368
-\c@savedorganization=\count369
-\c@origlocation=\count370
-\c@savedoriglocation=\count371
-\c@origpublisher=\count372
-\c@savedorigpublisher=\count373
-\c@publisher=\count374
-\c@savedpublisher=\count375
-\c@language=\count376
-\c@savedlanguage=\count377
-\c@origlanguage=\count378
-\c@savedoriglanguage=\count379
-\c@pageref=\count380
-\c@savedpageref=\count381
+\c@afterword=\count315
+\c@savedafterword=\count316
+\c@annotator=\count317
+\c@savedannotator=\count318
+\c@author=\count319
+\c@savedauthor=\count320
+\c@bookauthor=\count321
+\c@savedbookauthor=\count322
+\c@commentator=\count323
+\c@savedcommentator=\count324
+\c@editor=\count325
+\c@savededitor=\count326
+\c@editora=\count327
+\c@savededitora=\count328
+\c@editorb=\count329
+\c@savededitorb=\count330
+\c@editorc=\count331
+\c@savededitorc=\count332
+\c@foreword=\count333
+\c@savedforeword=\count334
+\c@holder=\count335
+\c@savedholder=\count336
+\c@introduction=\count337
+\c@savedintroduction=\count338
+\c@namea=\count339
+\c@savednamea=\count340
+\c@nameb=\count341
+\c@savednameb=\count342
+\c@namec=\count343
+\c@savednamec=\count344
+\c@translator=\count345
+\c@savedtranslator=\count346
+\c@shortauthor=\count347
+\c@savedshortauthor=\count348
+\c@shorteditor=\count349
+\c@savedshorteditor=\count350
+\c@labelname=\count351
+\c@savedlabelname=\count352
+\c@institution=\count353
+\c@savedinstitution=\count354
+\c@lista=\count355
+\c@savedlista=\count356
+\c@listb=\count357
+\c@savedlistb=\count358
+\c@listc=\count359
+\c@savedlistc=\count360
+\c@listd=\count361
+\c@savedlistd=\count362
+\c@liste=\count363
+\c@savedliste=\count364
+\c@listf=\count365
+\c@savedlistf=\count366
+\c@location=\count367
+\c@savedlocation=\count368
+\c@organization=\count369
+\c@savedorganization=\count370
+\c@origlocation=\count371
+\c@savedoriglocation=\count372
+\c@origpublisher=\count373
+\c@savedorigpublisher=\count374
+\c@publisher=\count375
+\c@savedpublisher=\count376
+\c@language=\count377
+\c@savedlanguage=\count378
+\c@origlanguage=\count379
+\c@savedoriglanguage=\count380
+\c@pageref=\count381
+\c@savedpageref=\count382
 \shorthandwidth=\skip73
 \shortjournalwidth=\skip74
 \shortserieswidth=\skip75
@@ -392,46 +391,46 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count382
-\c@textcitetotal=\count383
-\c@textcitemaxnames=\count384
-\c@biburlbigbreakpenalty=\count385
-\c@biburlbreakpenalty=\count386
-\c@biburlnumpenalty=\count387
-\c@biburlucpenalty=\count388
-\c@biburllcpenalty=\count389
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count383
+\c@textcitetotal=\count384
+\c@textcitemaxnames=\count385
+\c@biburlbigbreakpenalty=\count386
+\c@biburlbreakpenalty=\count387
+\c@biburlnumpenalty=\count388
+\c@biburlucpenalty=\count389
+\c@biburllcpenalty=\count390
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count390
+\c@smartand=\count391
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count391
-\c@bbx:relatedtotal=\count392
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count392
+\c@bbx:relatedtotal=\count393
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -447,86 +446,89 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-01-22 L3 programming layer (loader) 
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-03-14 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count393
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count394
 \l__pdf_internal_box=\box53
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2024-01-22 L3 programming layer (loader) 
+(biblatex)             2024-03-14 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2023-10-10 L3 Experimental document command parser
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-03-14 L3 Experimental document command parser
 )
-Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count394
-\csq@gtype=\count395
-\csq@glevel=\count396
-\csq@qlevel=\count397
-\csq@maxlvl=\count398
-\csq@tshold=\count399
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+)) (/usr/local/texlive/2024basic/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count395
+\csq@gtype=\count396
+\csq@glevel=\count397
+\csq@qlevel=\count398
+\csq@maxlvl=\count399
+\csq@tshold=\count400
 \csq@ltx@everypar=\toks21
 
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontawesome5/fontawesome5.st
+y
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e
+.sty
+Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-help
-er.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontawesome5/fontawesome5-ge
+neric-helper.sty
 Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
 tawesome5
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)
-)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontawesome5/fontawesome5-ma
+pping.def)))
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
 )
-(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen144
 \WF@size=\dimen145
-\c@WF@wrappedlines=\count400
+\c@WF@wrappedlines=\count401
 \WF@box=\box54
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
@@ -538,19 +540,9 @@ Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 22
 .
 
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./encares.aux
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
- (./Intro.aux)
-(./F00.aux) (./F05.aux) (./F10.aux) (./F11.aux) (./F20.aux) (./F22a.aux)
-(./F22b.aux) (./F23.aux) (./F30.aux) (./F31.aux) (./F32.aux) (./F40.aux)
-(./F40a.aux) (./F41a.aux) (./F41b.aux) (./F42.aux) (./F43.aux) (./F44.aux)
-(./F45.aux) (./F48.aux) (./F50.aux) (./F51.aux) (./F60.aux) (./F63.aux)
-(./F68.aux) (./F70.aux) (./F84.aux) (./F90.aux) (./F93.aux) (./F98.aux)
-(./IAE.aux) (./Estupor.aux) (./snm.aux) (./Fragmentos.aux) (./Abreviaturas.aux)
-)
+) (./encares.aux)
 \openout1 = `encares.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -571,8 +563,8 @@ LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
-File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -586,56 +578,57 @@ Package biblatex Info: ... file 'encares.bbl' found.
 Package biblatex Info: Reference section=0 on input line 22.
 Package biblatex Info: Reference segment=0 on input line 22.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2024basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count401
+\scratchcounter=\count402
 \scratchdimen=\dimen146
 \scratchbox=\box55
-\nofMPsegments=\count402
-\nofMParguments=\count403
+\nofMPsegments=\count403
+\nofMParguments=\count404
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count404
+\MPscratchCnt=\count405
 \MPscratchDim=\dimen147
-\MPnumerator=\count405
-\makeMPintoPDFobject=\count406
+\MPnumerator=\count406
+\makeMPintoPDFobject=\count407
 \everyMPtoPDFconversion=\toks24
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
 4.
-
-(/usr/share/texmf/tex/latex/lm/t1lmss.fd
+ (/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
 4.
 
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
 4.
 
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
 24.
 
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
 24.
 
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -648,226 +641,36 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-ec.enc}] [2
+{/usr/local/texlive/2024basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/us
+r/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] [2
 
 
 ]
-\blx@maxsegment@1=\count407
-\blx@sectionciteorder@1=\count408
+\blx@maxsegment@1=\count408
+\blx@sectionciteorder@1=\count409
 Package biblatex Info: Reference section=1 on input line 24.
 Package biblatex Info: Setting label 'refsection:1' on input line 24.
 
-(./encares.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-Package tocbasic Info: Using my definition of `\numberline' on input line 2.
-Package tocbasic Info: Using my definition of `\numberline' on input line 3.
-Package tocbasic Info: Using my definition of `\numberline' on input line 4.
-Package tocbasic Info: Using my definition of `\numberline' on input line 5.
-Package tocbasic Info: Using my definition of `\numberline' on input line 14.
-Package tocbasic Info: Using my definition of `\numberline' on input line 24.
-Package tocbasic Info: Using my definition of `\numberline' on input line 25.
-Package tocbasic Info: Using my definition of `\numberline' on input line 30.
-Package tocbasic Info: Using my definition of `\numberline' on input line 34.
-Package tocbasic Info: Using my definition of `\numberline' on input line 35.
-Package tocbasic Info: Using my definition of `\numberline' on input line 42.
-Package tocbasic Info: Using my definition of `\numberline' on input line 44.
-
-Overfull \hbox (1.09496pt too wide) detected at line 44
- \T1/lmss/bx/n/10.95 105
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 47.
-
-Overfull \hbox (2.82745pt too wide) detected at line 47
- \T1/lmss/bx/n/12 115
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 48.
-
-Overfull \hbox (1.09496pt too wide) detected at line 48
- \T1/lmss/bx/n/10.95 117
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 50.
-
-Overfull \hbox (1.09496pt too wide) detected at line 50
- \T1/lmss/bx/n/10.95 133
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 71.
-
-Overfull \hbox (1.09496pt too wide) detected at line 71
- \T1/lmss/bx/n/10.95 151
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 76.
-
-Overfull \hbox (2.82745pt too wide) detected at line 76
- \T1/lmss/bx/n/12 167
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 85.
-
-Overfull \hbox (1.09496pt too wide) detected at line 85
- \T1/lmss/bx/n/10.95 195
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 87.
-
-Overfull \hbox (1.09496pt too wide) detected at line 87
- \T1/lmss/bx/n/10.95 197
- []
-
-[3]
-Package tocbasic Info: Using my definition of `\numberline' on input line 99.
-
-Overfull \hbox (1.09496pt too wide) detected at line 99
- \T1/lmss/bx/n/10.95 207
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 101.
-
-Overfull \hbox (1.09496pt too wide) detected at line 101
- \T1/lmss/bx/n/10.95 211
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 116.
-
-Overfull \hbox (1.09496pt too wide) detected at line 116
- \T1/lmss/bx/n/10.95 221
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 117.
-
-Overfull \hbox (1.09496pt too wide) detected at line 117
- \T1/lmss/bx/n/10.95 223
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 118.
-
-Overfull \hbox (2.82745pt too wide) detected at line 118
- \T1/lmss/bx/n/12 225
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 119.
-
-Overfull \hbox (1.09496pt too wide) detected at line 119
- \T1/lmss/bx/n/10.95 227
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 120.
-
-Overfull \hbox (3.19928pt too wide) detected at line 120
-\T1/lmss/bx/n/12 VIII. 
- []
-
-
-Overfull \hbox (2.82745pt too wide) detected at line 120
- \T1/lmss/bx/n/12 233
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 121.
-
-Overfull \hbox (1.09496pt too wide) detected at line 121
- \T1/lmss/bx/n/10.95 235
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 130.
-
-Overfull \hbox (1.09496pt too wide) detected at line 130
- \T1/lmss/bx/n/10.95 241
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 132.
-
-Overfull \hbox (1.09496pt too wide) detected at line 132
- \T1/lmss/bx/n/10.95 243
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 133.
-
-Overfull \hbox (2.82745pt too wide) detected at line 133
- \T1/lmss/bx/n/12 245
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 134.
-
-Overfull \hbox (1.09496pt too wide) detected at line 134
- \T1/lmss/bx/n/10.95 247
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 136.
-
-Overfull \hbox (2.82745pt too wide) detected at line 136
- \T1/lmss/bx/n/12 253
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 137.
-
-Overfull \hbox (2.82745pt too wide) detected at line 137
- \T1/lmss/bx/n/12 257
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 139.
-
-Overfull \hbox (1.09496pt too wide) detected at line 139
- \T1/lmss/bx/n/10.95 263
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 140.
-
-Overfull \hbox (1.09496pt too wide) detected at line 140
- \T1/lmss/bx/n/10.95 267
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 141.
-
-Overfull \hbox (2.82745pt too wide) detected at line 141
- \T1/lmss/bx/n/12 269
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 142.
-
-Overfull \hbox (1.09496pt too wide) detected at line 142
- \T1/lmss/bx/n/10.95 275
- []
-
-Package tocbasic Info: Using my definition of `\numberline' on input line 143.
-
-Overfull \hbox (3.19928pt too wide) detected at line 143
-\T1/lmss/bx/n/12 XIII. 
- []
-
-
-Overfull \hbox (2.82745pt too wide) detected at line 143
- \T1/lmss/bx/n/12 281
- []
-
-)
+No file encares.toc.
 \tf@toc=\write4
 \openout4 = `encares.toc'.
 
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
- [4]
+[3] [4
+
+
+]
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 25.
-[5
-
-
-] [6]
+[5] [6]
 \openout2 = `Intro.aux'.
 
  (./Intro.tex
 chapter 1.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@2=\count409
-\blx@sectionciteorder@2=\count410
+\blx@maxsegment@2=\count410
+\blx@sectionciteorder@2=\count411
 Package biblatex Info: Reference section=2 on input line 1.
 Package biblatex Info: Setting label 'refsection:2' on input line 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -880,21 +683,22 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 4.
-<copyleft.png, id=25, 100.375pt x 75.28125pt>
+<copyleft.png, id=24, 100.375pt x 75.28125pt>
 File: copyleft.png Graphic file (type png)
 <use copyleft.png>
 Package pdftex.def Info: copyleft.png  used on input line 8.
 (pdftex.def)             Requested size: 100.37474pt x 75.28105pt.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
 nput line 17.
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
-[7
+
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
+e0.fd) [7
 
 
 
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./co
-pyleft.png>]
-<cc.png, id=36, 88.33pt x 31.11626pt>
+{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.
+enc} <./copyleft.png>]
+<cc.png, id=35, 88.33pt x 31.11626pt>
 File: cc.png Graphic file (type png)
 <use cc.png>
 Package pdftex.def Info: cc.png  used on input line 37.
@@ -923,26 +727,27 @@ Package scrkbase Info: You've told me to use the font selection of the element
  (./F00.tex
 chapter 2.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@3=\count411
-\blx@sectionciteorder@3=\count412
+\blx@maxsegment@3=\count412
+\blx@sectionciteorder@3=\count413
 Package biblatex Info: Reference section=3 on input line 1.
 Package biblatex Info: Setting label 'refsection:3' on input line 1.
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
 .
-(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [15
 
 
 
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
+{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
- [16{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}]
-[17]
+ [16{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+ [17]
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
- [18] [19]
+ [18]
+[19]
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
  [20] [21]
@@ -966,8 +771,8 @@ LaTeX Info: Redefining \% on input line 420.
 ]
 \openout2 = `F05.aux'.
 
-
-(./F05.tex [32
+ (./F05.tex
+[32
 
 
 
@@ -976,8 +781,8 @@ LaTeX Info: Redefining \% on input line 420.
 ]
 chapter 3.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@4=\count413
-\blx@sectionciteorder@4=\count414
+\blx@maxsegment@4=\count414
+\blx@sectionciteorder@4=\count415
 Package biblatex Info: Reference section=4 on input line 1.
 Package biblatex Info: Setting label 'refsection:4' on input line 1.
 [33]
@@ -1011,8 +816,8 @@ Package scrkbase Info: You've told me to use the font selection of the element
  (./F10.tex
 chapter 4.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@5=\count415
-\blx@sectionciteorder@5=\count416
+\blx@maxsegment@5=\count416
+\blx@sectionciteorder@5=\count417
 Package biblatex Info: Reference section=5 on input line 1.
 Package biblatex Info: Setting label 'refsection:5' on input line 1.
 [45
@@ -1056,8 +861,8 @@ LaTeX Info: Redefining \% on input line 331.
 ]
 chapter 5.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@6=\count417
-\blx@sectionciteorder@6=\count418
+\blx@maxsegment@6=\count418
+\blx@sectionciteorder@6=\count419
 Package biblatex Info: Reference section=6 on input line 1.
 Package biblatex Info: Setting label 'refsection:6' on input line 1.
 [59]
@@ -1087,8 +892,8 @@ Package scrkbase Info: You've told me to use the font selection of the element
  (./F20.tex
 chapter 6.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@7=\count419
-\blx@sectionciteorder@7=\count420
+\blx@maxsegment@7=\count420
+\blx@sectionciteorder@7=\count421
 Package biblatex Info: Reference section=7 on input line 1.
 Package biblatex Info: Setting label 'refsection:7' on input line 1.
 
@@ -1114,52 +919,49 @@ LaTeX Info: Redefining \% on input line 33.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
 nput line 42.
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-[69{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
-LaTeX Info: Redefining \. on input line 85.
-LaTeX Info: Redefining \% on input line 85.
-
-[70] [71]
-LaTeX Info: Redefining \. on input line 125.
-LaTeX Info: Redefining \% on input line 125.
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
+e2.fd) [69{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/fontawesome5
+/fa5free2.enc}]
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+ [70] [71]
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
  [72] [73]
-LaTeX Info: Redefining \. on input line 180.
-LaTeX Info: Redefining \% on input line 180.
+LaTeX Info: Redefining \. on input line 190.
+LaTeX Info: Redefining \% on input line 190.
  [74] [75]
-LaTeX Info: Redefining \. on input line 228.
-LaTeX Info: Redefining \% on input line 228.
+LaTeX Info: Redefining \. on input line 238.
+LaTeX Info: Redefining \% on input line 238.
  [76] [77]
-LaTeX Info: Redefining \. on input line 283.
-LaTeX Info: Redefining \% on input line 283.
- [78]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 297.
+nput line 294.
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-[79{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}]
-LaTeX Info: Redefining \. on input line 325.
-LaTeX Info: Redefining \% on input line 325.
-
-[80] [81]
-LaTeX Info: Redefining \. on input line 390.
-LaTeX Info: Redefining \% on input line 390.
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
+e3.fd)
+LaTeX Info: Redefining \. on input line 300.
+LaTeX Info: Redefining \% on input line 300.
+ [78{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5fr
+ee3.enc}] [79]
+LaTeX Info: Redefining \. on input line 353.
+LaTeX Info: Redefining \% on input line 353.
+ [80] [81]
+LaTeX Info: Redefining \. on input line 428.
+LaTeX Info: Redefining \% on input line 428.
  [82] [83]
-LaTeX Info: Redefining \. on input line 466.
-LaTeX Info: Redefining \% on input line 466.
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
  [84] [85]
-LaTeX Info: Redefining \. on input line 527.
-LaTeX Info: Redefining \% on input line 527.
- [86] [87]
-LaTeX Info: Redefining \. on input line 555.
-LaTeX Info: Redefining \% on input line 555.
- [88]) [89] [90
+LaTeX Info: Redefining \. on input line 520.
+LaTeX Info: Redefining \% on input line 520.
+ [86]) [87] [88
 
 
-] [91]
+] [89]
 \openout2 = `F22a.aux'.
 
- (./F22a.tex
-[92
+
+(./F22a.tex [90
 
 
 
@@ -1168,39 +970,39 @@ LaTeX Info: Redefining \% on input line 555.
 ]
 chapter 7.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@8=\count421
-\blx@sectionciteorder@8=\count422
+\blx@maxsegment@8=\count422
+\blx@sectionciteorder@8=\count423
 Package biblatex Info: Reference section=8 on input line 1.
 Package biblatex Info: Setting label 'refsection:8' on input line 1.
-[93]
+[91]
 LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
- [94] [95]
+ [92] [93]
 LaTeX Info: Redefining \. on input line 104.
 LaTeX Info: Redefining \% on input line 104.
- [96] [97]
+ [94] [95]
 LaTeX Info: Redefining \. on input line 149.
 LaTeX Info: Redefining \% on input line 149.
- [98] [99]
+ [96] [97]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 192.
 LaTeX Info: Redefining \% on input line 192.
- [100])
-[101]
+ [98])
+[99]
 \openout2 = `F22b.aux'.
 
  (./F22b.tex
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
- [102
+ [100
 
 
 
-]) [103]
+]) [101]
 \openout2 = `F23.aux'.
 
- (./F23.tex [104
+ (./F23.tex [102
 
 
 
@@ -1209,27 +1011,27 @@ LaTeX Info: Redefining \% on input line 38.
 ]
 chapter 8.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@9=\count423
-\blx@sectionciteorder@9=\count424
+\blx@maxsegment@9=\count424
+\blx@sectionciteorder@9=\count425
 Package biblatex Info: Reference section=9 on input line 1.
 Package biblatex Info: Setting label 'refsection:9' on input line 1.
-[105]
+[103]
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
- [106] [107]
+ [104] [105]
 LaTeX Info: Redefining \. on input line 116.
 LaTeX Info: Redefining \% on input line 116.
- [108] [109]
+ [106] [107]
 LaTeX Info: Redefining \. on input line 176.
 LaTeX Info: Redefining \% on input line 176.
- [110] [111]
+ [108] [109]
 LaTeX Info: Redefining \. on input line 265.
 LaTeX Info: Redefining \% on input line 265.
- [112]
+ [110]
 
 LaTeX Warning: Empty bibliography on input line 290.
 
-) [113] [114
+) [111] [112
 
 
 
@@ -1239,50 +1041,50 @@ part V.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 38.
-[115] [116]
+[113] [114]
 \openout2 = `F30.aux'.
 
  (./F30.tex
 chapter 9.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@10=\count425
-\blx@sectionciteorder@10=\count426
+\blx@maxsegment@10=\count426
+\blx@sectionciteorder@10=\count427
 Package biblatex Info: Reference section=10 on input line 1.
 Package biblatex Info: Setting label 'refsection:10' on input line 1.
-[117
+[115
 
 
 
 ]
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
- [118] [119]
+ [116] [117]
 LaTeX Info: Redefining \. on input line 210.
 LaTeX Info: Redefining \% on input line 210.
- [120]
+ [118]
 Underfull \vbox (badness 1509) has occurred while \output is active []
 
- [121]
+ [119]
 LaTeX Info: Redefining \. on input line 314.
 LaTeX Info: Redefining \% on input line 314.
 
-[122] [123]
+[120] [121]
 LaTeX Info: Redefining \. on input line 457.
 LaTeX Info: Redefining \% on input line 457.
- [124] [125]
+ [122] [123]
 LaTeX Info: Redefining \. on input line 549.
 LaTeX Info: Redefining \% on input line 549.
- [126] [127]
+ [124] [125]
 LaTeX Info: Redefining \. on input line 702.
 LaTeX Info: Redefining \% on input line 702.
- [128] [129])
+ [126] [127])
 LaTeX Info: Redefining \. on input line 39.
 LaTeX Info: Redefining \% on input line 39.
- [130] [131]
+ [128] [129]
 \openout2 = `F31.aux'.
 
  (./F31.tex
-[132
+[130
 
 
 
@@ -1291,52 +1093,52 @@ LaTeX Info: Redefining \% on input line 39.
 ]
 chapter 10.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@11=\count427
-\blx@sectionciteorder@11=\count428
+\blx@maxsegment@11=\count428
+\blx@sectionciteorder@11=\count429
 Package biblatex Info: Reference section=11 on input line 1.
 Package biblatex Info: Setting label 'refsection:11' on input line 1.
-[133]
+[131]
 LaTeX Info: Redefining \. on input line 44.
 LaTeX Info: Redefining \% on input line 44.
- [134] [135]
+ [132] [133]
 LaTeX Info: Redefining \. on input line 81.
 LaTeX Info: Redefining \% on input line 81.
- [136] [137]
+ [134] [135]
 LaTeX Info: Redefining \. on input line 163.
 LaTeX Info: Redefining \% on input line 163.
- [138] [139]
+ [136] [137]
 LaTeX Info: Redefining \. on input line 225.
 LaTeX Info: Redefining \% on input line 225.
- [140] [141]
+ [138] [139]
 LaTeX Info: Redefining \. on input line 274.
 LaTeX Info: Redefining \% on input line 274.
- [142] [143]
+ [140] [141]
 LaTeX Info: Redefining \. on input line 325.
 LaTeX Info: Redefining \% on input line 325.
- [144]
-[145]
+ [142]
+[143]
 LaTeX Info: Redefining \. on input line 374.
 LaTeX Info: Redefining \% on input line 374.
- [146] [147]
+ [144] [145]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
 nput line 396.
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+(/usr/local/texlive/2024basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
+e1.fd)
 LaTeX Info: Redefining \. on input line 422.
 LaTeX Info: Redefining \% on input line 422.
-
-[148{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
-[149])
+ [146{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5f
+ree1.enc}] [147])
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
- [150]
+ [148]
 \openout2 = `F32.aux'.
 
  (./F32.tex
 chapter 11.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@12=\count429
-\blx@sectionciteorder@12=\count430
+\blx@maxsegment@12=\count430
+\blx@sectionciteorder@12=\count431
 Package biblatex Info: Reference section=12 on input line 1.
 Package biblatex Info: Setting label 'refsection:12' on input line 1.
 
@@ -1345,7 +1147,7 @@ Overfull \hbox (15.22397pt too wide) in paragraph at lines 24--49
 ORT, MIRT|CITA,
  []
 
-[151
+[149
 
 
 
@@ -1354,13 +1156,13 @@ ORT, MIRT|CITA,
 ]
 LaTeX Info: Redefining \. on input line 70.
 LaTeX Info: Redefining \% on input line 70.
- [152] [153]
+ [150] [151]
 LaTeX Info: Redefining \. on input line 148.
 LaTeX Info: Redefining \% on input line 148.
- [154] [155]
+ [152] [153]
 LaTeX Info: Redefining \. on input line 229.
 LaTeX Info: Redefining \% on input line 229.
- [156] [157]
+ [154] [155]
 Overfull \hbox (0.27774pt too wide) in paragraph at lines 303--316
 \T1/lmr/m/n/10.95 * Fac-to-res ex-ter-na-li-zan-tes: por ejem-plo con-su-mo de 
 sus-tan-cias foot-no-te:[Compton, W.M.,
@@ -1368,26 +1170,26 @@ sus-tan-cias foot-no-te:[Compton, W.M.,
 
 LaTeX Info: Redefining \. on input line 325.
 LaTeX Info: Redefining \% on input line 325.
-[158]
+[156]
 Underfull \vbox (badness 1472) has occurred while \output is active []
 
- [159]
+ [157]
 LaTeX Info: Redefining \. on input line 387.
 LaTeX Info: Redefining \% on input line 387.
 
-[160] [161]
+[158] [159]
 LaTeX Info: Redefining \. on input line 444.
 LaTeX Info: Redefining \% on input line 444.
- [162]
+ [160]
 Overfull \hbox (8.9753pt too wide) in paragraph at lines 446--449
 \T1/lmr/m/n/10.95 right[] Olan-za-pi-na icon:arrow-right[] Ris-pe-ri-do-na icon
 :arrow-right[] Ha-lo-pe-ri-dol. * Agitada-
  []
 
-[163])
+[161])
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
- [164] [165] [166
+ [162] [163] [164
 
 
 
@@ -1397,64 +1199,64 @@ part VI.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 42.
-[167] [168]
+[165] [166]
 \openout2 = `F40.aux'.
 
  (./F40.tex
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@13=\count431
-\blx@sectionciteorder@13=\count432
+\blx@maxsegment@13=\count432
+\blx@sectionciteorder@13=\count433
 Package biblatex Info: Reference section=13 on input line 1.
 Package biblatex Info: Setting label 'refsection:13' on input line 1.
- [169
+ [167
 
 
 
-] [170] [171] [172] [173] [174] [175] [176] [177])
-[178]
+] [168] [169] [170] [171] [172] [173] [174] [175])
+[176]
 \openout2 = `F40a.aux'.
 
  (./F40a.tex
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@14=\count433
-\blx@sectionciteorder@14=\count434
+\blx@maxsegment@14=\count434
+\blx@sectionciteorder@14=\count435
 Package biblatex Info: Reference section=14 on input line 1.
 Package biblatex Info: Setting label 'refsection:14' on input line 1.
 
 Underfull \vbox (badness 4467) has occurred while \output is active []
 
- [179
+ [177
 
 
 
 
 
 ]
-[180] [181] [182] [183] [184] [185]) [186]
+[178] [179] [180] [181] [182] [183]) [184]
 \openout2 = `F41a.aux'.
 
- (./F41a.tex [187
+ (./F41a.tex [185
 
 
 
-] [188] [189]
-[190] [191]
+] [186] [187]
+[188] [189]
 Overfull \hbox (31.60402pt too wide) in paragraph at lines 270--271
 []\T1/lmr/m/n/10.95 Benzodiacepinas: Al-pra-zo-lam li-be-ra-ción pro-lon-ga-da 
 1-2 mg/día en to-ma úni-ca ->Clonazepam
  []
 
-[192] [193]) [194]
+[190] [191]) [192]
 \openout2 = `F41b.aux'.
 
  (./F41b.tex
 chapter 12.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@15=\count435
-\blx@sectionciteorder@15=\count436
+\blx@maxsegment@15=\count436
+\blx@sectionciteorder@15=\count437
 Package biblatex Info: Reference section=15 on input line 1.
 Package biblatex Info: Setting label 'refsection:15' on input line 1.
-[195
+[193
 
 
 
@@ -1466,17 +1268,17 @@ LaTeX Warning: Empty bibliography on input line 44.
 
 LaTeX Info: Redefining \. on input line 46.
 LaTeX Info: Redefining \% on input line 46.
-[196]
+[194]
 \openout2 = `F42.aux'.
 
  (./F42.tex
 chapter 13.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@16=\count437
-\blx@sectionciteorder@16=\count438
+\blx@maxsegment@16=\count438
+\blx@sectionciteorder@16=\count439
 Package biblatex Info: Reference section=16 on input line 1.
 Package biblatex Info: Setting label 'refsection:16' on input line 1.
-[197
+[195
 
 
 
@@ -1485,44 +1287,44 @@ Package biblatex Info: Setting label 'refsection:16' on input line 1.
 ]
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
- [198] [199]
+ [196] [197]
 LaTeX Info: Redefining \. on input line 146.
 LaTeX Info: Redefining \% on input line 146.
- [200] [201]
+ [198] [199]
 LaTeX Info: Redefining \. on input line 232.
 LaTeX Info: Redefining \% on input line 232.
- [202] [203]
+ [200] [201]
 LaTeX Info: Redefining \. on input line 274.
 LaTeX Info: Redefining \% on input line 274.
- [204] [205])
+ [202] [203])
 
 LaTeX Warning: Empty bibliography on input line 318.
 
 LaTeX Info: Redefining \. on input line 47.
 LaTeX Info: Redefining \% on input line 47.
-[206]
+[204]
 \openout2 = `F43.aux'.
 
  (./F43.tex
 chapter 14.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@17=\count439
-\blx@sectionciteorder@17=\count440
+\blx@maxsegment@17=\count440
+\blx@sectionciteorder@17=\count441
 Package biblatex Info: Reference section=17 on input line 1.
 Package biblatex Info: Setting label 'refsection:17' on input line 1.
-[207
+[205
 
 
 
 
 
-] [208
+] [206
 
 
-]) [209]
+]) [207]
 \openout2 = `F44.aux'.
 
- (./F44.tex [210
+ (./F44.tex [208
 
 
 
@@ -1531,46 +1333,46 @@ Package biblatex Info: Setting label 'refsection:17' on input line 1.
 ]
 chapter 15.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@18=\count441
-\blx@sectionciteorder@18=\count442
+\blx@maxsegment@18=\count442
+\blx@sectionciteorder@18=\count443
 Package biblatex Info: Reference section=18 on input line 1.
 Package biblatex Info: Setting label 'refsection:18' on input line 1.
-[211]
+[209]
 LaTeX Info: Redefining \. on input line 44.
 LaTeX Info: Redefining \% on input line 44.
- [212]
+ [210]
 Overfull \hbox (4.83968pt too wide) in paragraph at lines 67--70
 []\T1/lmr/m/n/10.95 * Mal ma-ne-jo de la agre-si-vi-dad * Tras-tor-nos de la es
 -fe-ra se-xual * De-pen-dien-te/inmaduro 
  []
 
-[213]
+[211]
 LaTeX Info: Redefining \. on input line 121.
 LaTeX Info: Redefining \% on input line 121.
- [214] [215]
+ [212] [213]
 LaTeX Info: Redefining \. on input line 179.
 LaTeX Info: Redefining \% on input line 179.
- [216] [217]
+ [214] [215]
 LaTeX Info: Redefining \. on input line 232.
 LaTeX Info: Redefining \% on input line 232.
- [218] [219])
+ [216] [217])
 LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
- [220]
+ [218]
 \openout2 = `F45.aux'.
 
  (./F45.tex
 chapter 16.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@19=\count443
-\blx@sectionciteorder@19=\count444
+\blx@maxsegment@19=\count444
+\blx@sectionciteorder@19=\count445
 Package biblatex Info: Reference section=19 on input line 1.
 Package biblatex Info: Setting label 'refsection:19' on input line 1.
 )
 
 LaTeX Warning: Empty bibliography on input line 11.
 
-[221
+[219
 
 
 
@@ -1579,7 +1381,7 @@ LaTeX Warning: Empty bibliography on input line 11.
 ]
 \openout2 = `F48.aux'.
 
- (./F48.tex [222
+ (./F48.tex [220
 
 
 
@@ -1588,8 +1390,8 @@ LaTeX Warning: Empty bibliography on input line 11.
 ]
 chapter 17.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@20=\count445
-\blx@sectionciteorder@20=\count446
+\blx@maxsegment@20=\count446
+\blx@sectionciteorder@20=\count447
 Package biblatex Info: Reference section=20 on input line 1.
 Package biblatex Info: Setting label 'refsection:20' on input line 1.
 
@@ -1598,44 +1400,44 @@ Overfull \hbox (30.63184pt too wide) in paragraph at lines 17--18
 fe-nó-me-nos hip-na-gó-gi-cos/hipnopómpicos,
  []
 
-[223])
+[221])
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [224]
+ [222]
 part VII.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 52.
-[225
+[223
 
 
 
 
-] [226]
+] [224]
 \openout2 = `F50.aux'.
 
  (./F50.tex
 chapter 18.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@21=\count447
-\blx@sectionciteorder@21=\count448
+\blx@maxsegment@21=\count448
+\blx@sectionciteorder@21=\count449
 Package biblatex Info: Reference section=21 on input line 1.
 Package biblatex Info: Setting label 'refsection:21' on input line 1.
-[227
+[225
 
 
 
 ]
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [228])
+ [226])
 
 LaTeX Warning: Empty bibliography on input line 83.
 
-[229{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}]
+[227{/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
 \openout2 = `F51.aux'.
 
- (./F51.tex [230
+(./F51.tex [228
 
 
 
@@ -1643,12 +1445,11 @@ LaTeX Warning: Empty bibliography on input line 83.
 
 ]
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@22=\count449
-\blx@sectionciteorder@22=\count450
+\blx@maxsegment@22=\count450
+\blx@sectionciteorder@22=\count451
 Package biblatex Info: Reference section=22 on input line 1.
 Package biblatex Info: Setting label 'refsection:22' on input line 1.
-)
-[231] [232
+) [229] [230
 
 
 
@@ -1658,20 +1459,20 @@ part VIII.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 55.
-[233] [234]
+[231] [232]
 \openout2 = `F60.aux'.
 
  (./F60.tex
 chapter 19.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@23=\count451
-\blx@sectionciteorder@23=\count452
+\blx@maxsegment@23=\count452
+\blx@sectionciteorder@23=\count453
 Package biblatex Info: Reference section=23 on input line 1.
 Package biblatex Info: Setting label 'refsection:23' on input line 1.
 
 Underfull \vbox (badness 1681) has occurred while \output is active []
 
- [235
+ [233
 
 
 
@@ -1679,26 +1480,26 @@ Underfull \vbox (badness 1681) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
 
-[236] [237]
+[234] [235]
 LaTeX Info: Redefining \. on input line 183.
 LaTeX Info: Redefining \% on input line 183.
- [238] [239])
+ [236] [237])
 
 LaTeX Warning: Empty bibliography on input line 225.
 
 LaTeX Info: Redefining \. on input line 56.
 LaTeX Info: Redefining \% on input line 56.
-[240]
+[238]
 \openout2 = `F63.aux'.
 
  (./F63.tex
 chapter 20.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@24=\count453
-\blx@sectionciteorder@24=\count454
+\blx@maxsegment@24=\count454
+\blx@sectionciteorder@24=\count455
 Package biblatex Info: Reference section=24 on input line 1.
 Package biblatex Info: Setting label 'refsection:24' on input line 1.
-) [241
+) [239
 
 
 
@@ -1707,23 +1508,23 @@ Package biblatex Info: Setting label 'refsection:24' on input line 1.
 ]
 LaTeX Info: Redefining \. on input line 57.
 LaTeX Info: Redefining \% on input line 57.
- [242]
+ [240]
 \openout2 = `F68.aux'.
 
  (./F68.tex
 chapter 21.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@25=\count455
-\blx@sectionciteorder@25=\count456
+\blx@maxsegment@25=\count456
+\blx@sectionciteorder@25=\count457
 Package biblatex Info: Reference section=25 on input line 1.
 Package biblatex Info: Setting label 'refsection:25' on input line 1.
-) [243
+) [241
 
 
 
 
 
-] [244
+] [242
 
 
 
@@ -1733,27 +1534,27 @@ part IX.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 59.
-[245] [246]
+[243] [244]
 \openout2 = `F70.aux'.
 
  (./F70.tex
 chapter 22.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@26=\count457
-\blx@sectionciteorder@26=\count458
+\blx@maxsegment@26=\count458
+\blx@sectionciteorder@26=\count459
 Package biblatex Info: Reference section=26 on input line 1.
 Package biblatex Info: Setting label 'refsection:26' on input line 1.
-[247
+[245
 
 
 
 ]
 LaTeX Info: Redefining \. on input line 70.
 LaTeX Info: Redefining \% on input line 70.
- [248] [249]
+ [246] [247]
 LaTeX Info: Redefining \. on input line 128.
 LaTeX Info: Redefining \% on input line 128.
- [250]) [251] [252
+ [248]) [249] [250
 
 
 
@@ -1763,49 +1564,49 @@ part X.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 61.
-[253] [254]
+[251] [252]
 \openout2 = `F84.aux'.
 
- (./F84.tex [255
+ (./F84.tex [253
 
-]) [256]
+]) [254]
 part XI.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 63.
-[257
+[255
 
 
 
 
-] [258]
+] [256]
 \openout2 = `F90.aux'.
 
  (./F90.tex
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@27=\count459
-\blx@sectionciteorder@27=\count460
+\blx@maxsegment@27=\count460
+\blx@sectionciteorder@27=\count461
 Package biblatex Info: Reference section=27 on input line 1.
 Package biblatex Info: Setting label 'refsection:27' on input line 1.
- [259
+ [257
 
 
 
-] [260] [261])
+] [258] [259])
 
 LaTeX Warning: Empty bibliography on input line 106.
 
-[262]
+[260]
 \openout2 = `F93.aux'.
 
  (./F93.tex
 chapter 23.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@28=\count461
-\blx@sectionciteorder@28=\count462
+\blx@maxsegment@28=\count462
+\blx@sectionciteorder@28=\count463
 Package biblatex Info: Reference section=28 on input line 1.
 Package biblatex Info: Setting label 'refsection:28' on input line 1.
-[263
+[261
 
 
 
@@ -1814,13 +1615,13 @@ Package biblatex Info: Setting label 'refsection:28' on input line 1.
 ])
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
- [264] [265
+ [262] [263
 
 
 ]
 \openout2 = `F98.aux'.
 
- (./F98.tex [266
+ (./F98.tex [264
 
 
 
@@ -1829,11 +1630,11 @@ LaTeX Info: Redefining \% on input line 38.
 ]
 chapter 24.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@29=\count463
-\blx@sectionciteorder@29=\count464
+\blx@maxsegment@29=\count464
+\blx@sectionciteorder@29=\count465
 Package biblatex Info: Reference section=29 on input line 1.
 Package biblatex Info: Setting label 'refsection:29' on input line 1.
-) [267] [268
+) [265] [266
 
 
 
@@ -1843,15 +1644,15 @@ part XII.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 67.
-[269] [270]
+[267] [268]
 \openout2 = `IAE.aux'.
 
- (./IAE.tex) [271
+ (./IAE.tex) [269
 
 ]
 \openout2 = `Estupor.aux'.
 
- (./Estupor.tex [272
+ (./Estupor.tex [270
 
 
 
@@ -1859,21 +1660,21 @@ Package scrkbase Info: You've told me to use the font selection of the element
 
 ]
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@30=\count465
-\blx@sectionciteorder@30=\count466
+\blx@maxsegment@30=\count466
+\blx@sectionciteorder@30=\count467
 Package biblatex Info: Reference section=30 on input line 1.
 Package biblatex Info: Setting label 'refsection:30' on input line 1.
- [273]) [274]
+ [271]) [272]
 \openout2 = `snm.aux'.
 
  (./snm.tex
 chapter 25.
 Package biblatex Info: Reference section=0 on input line 1.
-\blx@maxsegment@31=\count467
-\blx@sectionciteorder@31=\count468
+\blx@maxsegment@31=\count468
+\blx@sectionciteorder@31=\count469
 Package biblatex Info: Reference section=31 on input line 1.
 Package biblatex Info: Setting label 'refsection:31' on input line 1.
-[275
+[273
 
 
 
@@ -1882,13 +1683,13 @@ Package biblatex Info: Setting label 'refsection:31' on input line 1.
 ]
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
- [276] [277])
+ [274] [275])
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
- [278] [279
+ [276] [277
 
 
-] [280
+] [278
 
 
 
@@ -1898,19 +1699,19 @@ part XIII.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 71.
-[281] [282]
+[279] [280]
 \openout2 = `Fragmentos.aux'.
 
- (./Fragmentos.tex) [283
+ (./Fragmentos.tex) [281
 
 ]
 \openout2 = `Abreviaturas.aux'.
 
- (./Abreviaturas.tex [284
+ (./Abreviaturas.tex [282
 
 
 
-] [285]) [286]
+] [283]) [284]
 (./encares.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
@@ -1924,33 +1725,48 @@ LaTeX Info: Redefining \% on input line 10.
 (./Fragmentos.aux) (./Abreviaturas.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                encares
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'encares.run.xml'.
 \openout1 = `encares.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19673 strings out of 476047
- 396860 string characters out of 5792075
- 1938975 words of memory out of 5000000
- 41244 multiletter control sequences out of 15000+600000
- 634578 words of font info for 83 fonts, out of 8000000 for 9000
- 85 hyphenation exceptions out of 8191
- 108i,9n,107p,10929b,2069s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Fr
-ee-Solid.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
-2.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr
-/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/publi
-c/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmsy10.pfb>
-Output written on encares.pdf (286 pages, 838491 bytes).
+ 19552 strings out of 475555
+ 398782 string characters out of 5777674
+ 1941493 words of memory out of 5000000
+ 41343 multiletter control sequences out of 15000+600000
+ 631579 words of font info for 82 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 108i,9n,107p,10929b,1937s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/fontawesome5/Font
+Awesome5Free-Solid.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/pub
+lic/lm/lmmi10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/l
+m/lmr10.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr1
+2.pfb></usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr5.pfb><
+/usr/local/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/lo
+cal/texlive/2024basic/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/tex
+live/2024basic/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/20
+24basic/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024bas
+ic/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2024basic/te
+xmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024basic/texmf
+-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on encares.pdf (284 pages, 830407 bytes).
 PDF statistics:
- 1012 PDF objects out of 1200 (max. 8388607)
- 685 compressed objects within 7 object streams
+ 1006 PDF objects out of 1200 (max. 8388607)
+ 681 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

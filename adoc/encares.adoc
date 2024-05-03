@@ -1,7 +1,7 @@
 = Encares de psiquiatría
 :author: M. Escobal
 :email: marcelo.escobal@gmail.com
-:revnumber: v4.04.22
+:revnumber: v4.05.01
 :doctype: book
 :lang: es
 :icons: font
