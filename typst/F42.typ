@@ -39,8 +39,8 @@ ejecutadas de acuerdo a determinadas reglas, sin finalidad objetiva pero
 con sentido conjuratorio para el paciente, que disminuye la ansiedad,
 que toman la forma de:
 
-* Actos: lavarse las manos, tocar objetos. * Ritos o ceremoniales: actos
-encadenados (de limpieza o de verificación) * Rituales mentales
+- Actos: lavarse las manos, tocar objetos. - Ritos o ceremoniales: actos
+encadenados (de limpieza o de verificación) - Rituales mentales
 conjuratorios: rituales que funcionan en el interior del aparato
 psíquico. Se lo califica de leve, moderado o grave de acuerdo a la
 alteración de los pragmatismos, pérdida de tiempo o interferencia con la
@@ -52,7 +52,7 @@ Dado por una ansiedad difusa y permanente, que no se puede neutralizar a
 pesar de las compulsiones y vinculado a las obsesiones. Dado en dos
 vertientes:
 
-* Vivencial: expectativa aprensiva o sensación de peligro inminente *
+- Vivencial: expectativa aprensiva o sensación de peligro inminente -
 Somática: tensión motora, hiperactividad autonómica, vigilancia y
 control.
 
@@ -66,13 +66,13 @@ Nivel: generalmente bueno.
 
 Personalidad
 
-* Conflictiva infantil * Enuresis * Onicofagia * Terrores nocturnos *
+- Conflictiva infantil - Enuresis - Onicofagia - Terrores nocturnos -
 Sonambulismo
 
 Rasgos neuróticos globales:
 
-* Mal manejo de la agresividad * Trastornos en la esfera sexual * Fatiga
-por sus conflictos * Dependiente, inmaduro
+- Mal manejo de la agresividad - Trastornos en la esfera sexual - Fatiga
+por sus conflictos - Dependiente, inmaduro
 
 Rasgos de carácter obsesivo: inhibidos, prudentes, puntuales, rigurosos
 en el tratamiento de convenciones sociales, tendencia a la duda,
@@ -145,8 +145,8 @@ leve/moderado/grave según limitaciones sociales.
 
 Decimos que está descompensada por:
 
-* Ansiedad-angustia * Depresión neurótica * Exacerbación de síntomas con
-falla de mecanismos de defensa * Llevando a una alteración de conductas
+- Ansiedad-angustia - Depresión neurótica - Exacerbación de síntomas con
+falla de mecanismos de defensa - Llevando a una alteración de conductas
 basales y pragmatismos
 
 ====== Causa de descompensación
@@ -184,10 +184,10 @@ bien son claramente excesivos.
 
 ====== Criterios adicionales
 
-* En algún momento el individuo lo percibió como excesivo e irracional.
-* Malestar clínicamente significativo o pérdida de tiempo (> 1 hora/día)
-o interferencia con pragmatismos. * El contenido de las obsesiones no se
-limita a otro trastorno del eje I. * Descartar sustancias o enfermedad
+- En algún momento el individuo lo percibió como excesivo e irracional.
+- Malestar clínicamente significativo o pérdida de tiempo (> 1 hora/día)
+o interferencia con pragmatismos. - El contenido de las obsesiones no se
+limita a otro trastorno del eje I. - Descartar sustancias o enfermedad
 médica.
 
 Especificadores: "con poca conciencia de enfermedad".
@@ -416,14 +416,14 @@ conducción, extrasístoles.
 Reiteradas entrevistas para mayor acercamiento a la conflictividad del
 paciente, evaluando:
 
-* Significado de los síntomas para el paciente. * Refuerzo de las
-conductas por parte de personas allegadas * Hasta qué punto ha
+- Significado de los síntomas para el paciente. - Refuerzo de las
+conductas por parte de personas allegadas - Hasta qué punto ha
 organizado su vida alrededor de sus síntomas
 
 Solicitaremos psicodiagnóstico. Tests de personalidad proyectivos y no
 proyectivos, test de nivel (Weschler), evaluando:
 
-* Fortaleza yoica * Mecanismos de defensa y manejo de la angustia *
+- Fortaleza yoica - Mecanismos de defensa y manejo de la angustia -
 Implementación de psicoterapia Esperamos un perfil con picos en las
 escalas de psicastenia y quizás depresión y trastornos psicosexuales. En
 los proyectivos: detalle minucioso en detrimento del conjunto, dudas,
@@ -447,7 +447,7 @@ Ambulatorio, se controlará en policlínica con frecuencia para mejor
 continentación por el monto de angustia, ya que no pasa al acto.
 Destinado a:
 
-* Yugular el cuadro actual * Compensar la enfermedad de fondo
+- Yugular el cuadro actual - Compensar la enfermedad de fondo
 
 ===== Biológico
 
@@ -509,8 +509,7 @@ puede realizarse un nuevo ensayo terapéutico.
 Casos especiales:
 
 • En un TOC de tipo "Simetría" refractario podría realizarse un ensayo
-terapéutico con IMAO (con precauciones ante interacciones medicamentosas
-/ dietéticas).
+terapéutico con IMAO (con precauciones ante interacciones medicamentosas / dietéticas).
 
 • En un TOC en el contexto de un Trastorno de Tics (Gilles de la
 Tourette), puede obtenerse una mejor respuesta asociando un ISRS a
@@ -567,9 +566,9 @@ manejo. Kaplan: 15% curación, 45% mejoría, 40% igual o empeoran.
 
 Elementos de buen pronóstico:
 
-* poca antigüedad de los síntomas
-* desencadenantes ambientales
-* buena adaptación social
+- poca antigüedad de los síntomas
+- desencadenantes ambientales
+- buena adaptación social
 
 NOTAS Fobias límite u obsesiones fóbicas Lo temido no es la situación
 real sino la idea de la situación. Al principio pueden ser más tipo

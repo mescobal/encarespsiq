@@ -18,24 +18,24 @@ persiste autónomamente cuando el estresor cesa.
 
 ===== Conductas a evitar
 
-* En depresión: Monoterapia con antidepresivos, litio, valproato,
+- En depresión: Monoterapia con antidepresivos, litio, valproato,
 aripiprazol, ziprasidona, donepecilo, paroxetina (excepto por ansiedad
 comórbida), gabapentina. No usar combinaciones: lamotrigina + acido
 fólico, litio + paliperidona, valproato + paliperidona / ziprasidona /
 gabapentina / topiramato. No usar adjunto de ziprasidona, armodafinil.
 Datos insuficientes: gabapentina, adjuntar AAS / Celecoxib /
 Levetiracetam.
-* En manía: evitar tratamiento en monoterapia con donepecilo,
+- En manía: evitar tratamiento en monoterapia con donepecilo,
 gabapentina, lamotrigina, nifedipina, paliperidona, risperidona,
 topiramato, verapamil, ziprasidona, alopurinol, omega3. Datos
 insuficientes: oxcabamazepina, olanzapina, risperidona + carbamazepina.
-* En mantenimiento: evitar aripiprazol + lamotrigina, memantina,
+- En mantenimiento: evitar aripiprazol + lamotrigina, memantina,
 pramipexol, verapamil, ADT. Evitar combinación con ADT, estabilizador +
 memantina. Datos insuficientes: lamotrigina, asenapina, gabapentina,
 topiramato.
-* Otros:
-** Divalproato en mujeres en edad genital activa.
-** Carbamazepina durante embarazo
+- Otros:
+-- Divalproato en mujeres en edad genital activa.
+-- Carbamazepina durante embarazo
 
 === Encare
 
@@ -162,14 +162,14 @@ espontánea), memoria y orientación.
 
 ====== Contenido
 
-* Temática: megalomaníaca (capacidades especiales, identidad grandiosa,
+- Temática: megalomaníaca (capacidades especiales, identidad grandiosa,
 riqueza, misión especial), mística, filiatoria, erótica, persecutoria,
-de envidia. * Mecanismo: principalmente intuitivo, pero puede ser
-imaginativo, interpretativo, alucinatorio. * Sistematización: mala
-sistematización: con escaso orden, coherencia y claridad. * Conductas:
+de envidia. - Mecanismo: principalmente intuitivo, pero puede ser
+imaginativo, interpretativo, alucinatorio. - Sistematización: mala
+sistematización: con escaso orden, coherencia y claridad. - Conductas:
 le genera conductas (compras, gastos, sexo, violencia, robos, consumo de
 sustancias, alcohol). Se configura un delirio móvil, cambiante,
-desorganizado. * Congruencia: puede ser congruente o incongruente con el
+desorganizado. - Congruencia: puede ser congruente o incongruente con el
 estado de ánimo expansivo.
 
 ===== Síndrome de ansiedad-angustia
@@ -233,30 +233,30 @@ Las diferentes formas clínicas son un continuo dinámico, según
 fluctuaciones de superficialización o pofundización de la alteración de
 conciencia.
 
-* Manía franca (simple o aguda): es el cuadro clásico. Carece de delirio
+- Manía franca (simple o aguda): es el cuadro clásico. Carece de delirio
 y alucinaciones. Pero como la imaginación está exaltada puede darse, en
 las formas con más desestructuración de la conciencia, ideas de
 convicción subdelirantes o fabulatorias, como un delirio en estado
 naciente que no se consolida dada la gran hiperactividad y aceleración
 de los procesos mentales.
-* Manía delirante: al desestructurarse la conciencia más profundamente
+- Manía delirante: al desestructurarse la conciencia más profundamente
 se pasa a esta forma clínica. En ella se reconoce un delirio, una
 "experiencia delirante", aunque no de las características de la
 "experiencia delirante primaria" de la PDA. Este es cambiante, móvil,
 mínimamente sistematizado. Es un delirio verbalizado más que vivido
 (como en las PDA).
-* Furor maníaco: es el grado máximo de exaltación psicomotriz. Se
+- Furor maníaco: es el grado máximo de exaltación psicomotriz. Se
 presenta como una exaltación de la expresión principalmente motora, con
 oscurecimiento de la conciencia. Puede haber rechazo del alimento y
 signos orgánicos graves de agotamiento, deshidratación e hipertermia.
-* Estados mixtos: en todo episodio coexisten elementos maníacos y
+- Estados mixtos: en todo episodio coexisten elementos maníacos y
 depresivos, pero en ocasiones esta mezcla es un rasgo principal del
 cuadro.
-* Hipomanía: caracterizada por la fuga de temas (la idea llega a
+- Hipomanía: caracterizada por la fuga de temas (la idea llega a
 desarrollarse o formar un tema), un humor jovial, eufórico, hiperactivo,
 con múltiples iniciativas y proyectos que no llegan a finalizar,
 prodigalidad, hipersexualidad. Menor deterioro funcional.
-* Manía confusa: desorientación TE, alteraciones mnésicas, trastornos
+- Manía confusa: desorientación TE, alteraciones mnésicas, trastornos
 del pensamiento.
 
 ====== Diagnóstico nosológico
@@ -285,9 +285,9 @@ hiperactividad, EDM con irritabilidad.
 
 Especificadores del episodio
 
-* Gravedad: leve, moderado, grave, con/sin síntomas psicóticos. * Curso:
-en curso, remisión parcial / total. * Síntomas psicóticos: congruentes /
-no congruentes con el estado de ánimo. * Síntomas catatónicos. * Inicio:
+- Gravedad: leve, moderado, grave, con/sin síntomas psicóticos. - Curso:
+en curso, remisión parcial / total. - Síntomas psicóticos: congruentes /
+no congruentes con el estado de ánimo. - Síntomas catatónicos. - Inicio:
 inicio en postparto.
 
 Episodio Hipomaníaco Requiere: A y B: igual que manía, pero duración de
@@ -341,8 +341,8 @@ con/sin patrón estacional . con/sin recuperación interepisódica total.
 
 Promotores del ciclado:
 
-* Hipotiroidismo subclínico * Sustancias/alcohol * Alteraciones del
-ciclo sueño/vigilia * Fármacos: antidepresivos, corticoides * Lesiones
+- Hipotiroidismo subclínico - Sustancias/alcohol - Alteraciones del
+ciclo sueño/vigilia - Fármacos: antidepresivos, corticoides - Lesiones
 cerebrales
 
 ==== Diagnóstico diferencial
@@ -482,15 +482,15 @@ infecciosos.
 
 Solicitaremos exámenes de valoración general:
 
-* Metabólica: glicemia, perfil lipídico (para establecer línea de base
+- Metabólica: glicemia, perfil lipídico (para establecer línea de base
 ante el eventual uso de fármacos con repercusión metabólica).
-* Hematológica: hemograma, crasis
-* Renal: función renal, ionograma (con calcio)
-* Hepática: perfil hepático
-* Infecciosa: HIV, VDRL y si la situación clínica lo determina: HVB, HVC
-* Tóxica: screening de sustancias psicoactivas en orina
-* Endócrina: función tiroidea
-* Cardiovascular: ECG
+- Hematológica: hemograma, crasis
+- Renal: función renal, ionograma (con calcio)
+- Hepática: perfil hepático
+- Infecciosa: HIV, VDRL y si la situación clínica lo determina: HVB, HVC
+- Tóxica: screening de sustancias psicoactivas en orina
+- Endócrina: función tiroidea
+- Cardiovascular: ECG
 
 Si es pertinente: test de embarazo. Si hay amenorrea: prolactinemia.
 
@@ -609,38 +609,38 @@ Tratamiento de la fase aguda, busca la remisión de síntomas específicos.
 
 Por niveles de evidencia:
 
-* Primera línea en monoterapia: litio, quetiapina, divalproato,
+- Primera línea en monoterapia: litio, quetiapina, divalproato,
 asenapina, paliperidona, risperidona, cariprazina.
-* Primera línea en combinación: quetiapina + litio/divalproato,
+- Primera línea en combinación: quetiapina + litio/divalproato,
 risperidona + litio/divalproato, aripiprazol + litio/divalproato,
 asenapina + litio/divalproato.
-* Segunda línea: olanzapina, carbamazepina, olanzapina +
+- Segunda línea: olanzapina, carbamazepina, olanzapina +
 litio/divalproato, litio + divalproato, ziprasidona, haloperidol, ECT.
 
 Por situación clínica:
 
-* Manía típica (eufórica) sin síntomas psicóticos: Litio (o Divalproato)
+- Manía típica (eufórica) sin síntomas psicóticos: Litio (o Divalproato)
 + benzodiacepina + antipsicótico atípico DVP + Litio Cambiar de
 antipsicótico DVP + Li + CBZ ECT
-* Manía mixta (disfórica): Divalproato mismo esquema que manía típica.
-* Hipomanía: mismo esquema que manía eufórica (con menos énfasis en el
+- Manía mixta (disfórica): Divalproato mismo esquema que manía típica.
+- Hipomanía: mismo esquema que manía eufórica (con menos énfasis en el
 uso de antipsicóticos).
-* Manía con síntomas psicóticos: Divalproato (o Litio) + AAP (o CAP)
+- Manía con síntomas psicóticos: Divalproato (o Litio) + AAP (o CAP)
 cambiar AAP o + BZD DVP + LI cambiar AAP o AAP + CAP ECT DVP + LI + CBZ
 (o agregar Clozapina)
-* Manía en paciente con ciclado rápido: DVP DVP + (LI o CBZ) + AAP DVP +
+- Manía en paciente con ciclado rápido: DVP DVP + (LI o CBZ) + AAP DVP +
 LI + CBZ Clozapina Lamotrigina Gabapentina ECT
-* Depresión en bipolar (no psicótica - no ciclos rápidos) sin medicación
+- Depresión en bipolar (no psicótica - no ciclos rápidos) sin medicación
 previa moderado: Li +AD
-* Depresión en bipolar (no psicótica - no ciclos rápidos) sin medicación
+- Depresión en bipolar (no psicótica - no ciclos rápidos) sin medicación
 previa severo: LI (o DVP) + AD LI + DVP.
-* Si estaba con estabilizador: maximizar estabilizador como primer paso
+- Si estaba con estabilizador: maximizar estabilizador como primer paso
 Li + DVP + AD o Lamotrigina + AD si no tenía (o cambiarlo).
-* Si hay refractariedad en la depresión: ECT T3 Otros estabilizadores
+- Si hay refractariedad en la depresión: ECT T3 Otros estabilizadores
 Clozapina o estimulante o fototerapia.
-* Episodio depresivo psicótico: igual pauta, con más énfasis en
+- Episodio depresivo psicótico: igual pauta, con más énfasis en
 antipsicóticos atípicos (ECT a cualquier altura del algoritmo).
-* Depresión en paciente con ciclado rápido: DVP + (Li o CBZ o
+- Depresión en paciente con ciclado rápido: DVP + (Li o CBZ o
 Lamotrigina) + AD cambio de AD T3/T4 o AAP Gabapentina o Clozapina o
 Fototerapia -> ECT.
 
@@ -656,13 +656,13 @@ sobre receptores GABA.
 
 Excitación psicomotriz
 
-* Primera línea: lorazepam IM (2 mg IM a repetir). En Uruguay no
+- Primera línea: lorazepam IM (2 mg IM a repetir). En Uruguay no
 contamos con: loxapina inhalada, aripiprazol IM, , olanzapina IM.
-* Segunda línea: haloperidol IM (5 mg/dosis, máximo: 15 mg/día),
+- Segunda línea: haloperidol IM (5 mg/dosis, máximo: 15 mg/día),
 haloperidol + midazolam (7.5 mg/dosis, máximo: 15 mg/día). En Uruguay no
 contamos con: asenapina SL, prometazina IM, risperidona TDO, ziprasidona
 IM.
-* Tercera línea: haloperidol VO (5 mg/dosis, máximo: 15 mng/día),
+- Tercera línea: haloperidol VO (5 mg/dosis, máximo: 15 mng/día),
 quetiapina VO (dosis variable), risperidona VO (2 mg/dosis). En Uruguay
 no contamos con loxapina IM.
 
@@ -779,11 +779,11 @@ fasciculaciones.
 Atentos a los signos de intoxicación por litio (ATeGDiF): ataxia,
 temblor grueso, disartria, fasciculaciones
 
-* Intoxicación leve: apatía, letargia, debilidad, temblor fino, síntomas
+- Intoxicación leve: apatía, letargia, debilidad, temblor fino, síntomas
 gastrointestinales (náuseas, vómitos, diarreas).
-* Intoxicación moderada: temblor grueso, ataxia, lenguaje lento,
+- Intoxicación moderada: temblor grueso, ataxia, lenguaje lento,
 confusión, hiperreflexia, clonus, cambios ECG inespecíficos.
-* Intoxicación grave: convulsiones, coma, shock, fasciculaciones
+- Intoxicación grave: convulsiones, coma, shock, fasciculaciones
 generalizadas, alteraciones del ECG (todo tipo), arritmias, muerte
 footnote:[Osés, I., Burillo-Putze, G., Munné, P., Nogué, S., & Pinillos,
 M.A.. (2003). Intoxicaciones medicamentosas (I): Psicofármacos y
@@ -869,10 +869,10 @@ de sustancias.
 
 Tratamiento de mantenimiento:
 
-* Primera línea. Nivel 1: Quetiapina, Litio, Lamotrigina. Nivel 3:
+- Primera línea. Nivel 1: Quetiapina, Litio, Lamotrigina. Nivel 3:
 Lurasidona + Litio/Divalproato. Nivel 4: Lurasidona, Lamotrigina
 adjunto.
-* Segunda línea. Nivel 1: Divalproato. Nivel 4: ECT.
+- Segunda línea. Nivel 1: Divalproato. Nivel 4: ECT.
 
 ===== Psicológico
 
@@ -981,9 +981,9 @@ la población general. Se registra un 15% de suicidio consumado.
 
 Elementos de mal pronóstico
 
-* Presencia de comorbilidad (deterioro cognitivo, consumo de sustancias)
-* Alta frecuencia de episodios
-* Estresores ambientales / psicosociales
+- Presencia de comorbilidad (deterioro cognitivo, consumo de sustancias)
+- Alta frecuencia de episodios
+- Estresores ambientales / psicosociales
 
 ==== En suma
 

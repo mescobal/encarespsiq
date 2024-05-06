@@ -8,8 +8,8 @@
 
 ===== Síndrome delirante
 
-* Temática: fantástica, megalomaníaca, persecutoria. * Mecanismo:
-imaginativo, alucinatorio, intuitivo. * Sistematización pobre (no existe
+- Temática: fantástica, megalomaníaca, persecutoria. - Mecanismo:
+imaginativo, alucinatorio, intuitivo. - Sistematización pobre (no existe
 tema central, fantasía a temas múltiples renovados).
 
 Edad de comienzo: 30-45 años, con conservación de facultades fuera del
@@ -116,8 +116,8 @@ Igual que en esquizofrenia.
 
 Enfatizar pragmatismos conservados:
 
-* rescatar núcleos más sanos * no se pretende yugular completamente el
-delirio * minimizar la interferencia del delirio con la vida cotidiana
+- rescatar núcleos más sanos - no se pretende yugular completamente el
+delirio - minimizar la interferencia del delirio con la vida cotidiana
 
 ==== Evolución y pronóstico
 

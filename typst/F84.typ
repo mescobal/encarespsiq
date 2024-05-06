@@ -47,10 +47,10 @@ hiporreactividad a estímulos sensoriales . Síntomas presentes en las
 primeras fases del desarrollo . Deterioro clínicamente significativo .
 Descartar RM (pueden ser comórbidos)
 
-Especificadores: * Con o sin déficit intelectual * Con o sin deterioro
-del lenguaje * Asociado o no afección médica / genética /factor
-ambiental * Asociado a otro trastorno del neurodesarrollo / mental / del
-comoportamiento * Gravedad (según grado de ayuda requerida: 3, 2, 1)
+Especificadores: - Con o sin déficit intelectual - Con o sin deterioro
+del lenguaje - Asociado o no afección médica / genética /factor
+ambiental - Asociado a otro trastorno del neurodesarrollo / mental / del
+comoportamiento - Gravedad (según grado de ayuda requerida: 3, 2, 1)
 
 ===== CIE-10
 
@@ -86,15 +86,15 @@ la vinculación en la infancia.
 
 No se requieren para el diagnóstico pero suelen estar presentes:
 
-* torpeza motora * capacidades especiales vinculadas a interés
+- torpeza motora - capacidades especiales vinculadas a interés
 específico.
 
 .Otros
 
-* Autismo atípico: no se cumplen algunos de los criterios. * Síndrome de
+- Autismo atípico: no se cumplen algunos de los criterios. - Síndrome de
 Rett: niñas. Inicio normal, luego pérdida de funciones y retraso en
-crecimiento cefálico que aparece entre los 7m y 2 años. * Otro trastorno
-desintegrativo de la infancia: inicio normal → pérdida de funciones. *
+crecimiento cefálico que aparece entre los 7m y 2 años. - Otro trastorno
+desintegrativo de la infancia: inicio normal → pérdida de funciones. -
 Trastorno hipercinético asociado a RM y movimientos estereotipados.
 
 ==== Diagnóstico diferencial

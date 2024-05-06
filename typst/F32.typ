@@ -12,18 +12,18 @@ Psychogeriatric Association. Frontiers in psychiatry, 11, 380.]. Otros
 conceptos clínicos útiles: depresión de inicio tardío, depresión de
 causa vascular. Depresión en el adulto mayor:
 
-* Mayores niveles de ansiedad.
-* Mayores niveles de síntomas hipocondríacos
-* Más asociado a ideación suicida
-* Más impacto en el funcionamiento.
-* Asociado a transición de autonomía a dependencia
-* La demencia es un factor de riesgo significativo
-* Las enfermedades somáticas graves son un factor de riesgo
+- Mayores niveles de ansiedad.
+- Mayores niveles de síntomas hipocondríacos
+- Más asociado a ideación suicida
+- Más impacto en el funcionamiento.
+- Asociado a transición de autonomía a dependencia
+- La demencia es un factor de riesgo significativo
+- Las enfermedades somáticas graves son un factor de riesgo
 significativo para el suicidio en varones más que en mujeres
-* Tratamiento de primera línea: ISRS. Realizar antes rutinas y ECG.
+- Tratamiento de primera línea: ISRS. Realizar antes rutinas y ECG.
 Considerar duales. La latencia del antidepresivo es mayor que en los más
 jóvenes.
-* Si hay síntomas psicóticos, hay mayor riesgo de demencia y de
+- Si hay síntomas psicóticos, hay mayor riesgo de demencia y de
 suicidio.
 
 Depresión psicótica en adultos mayores: antidepresivos (duales) +
@@ -68,21 +68,13 @@ litio . Potenciación con un agonista dopaminérgico o metilfenidato
 
 ==== Depresión en adolescentes
 
-- Escitalopram footnote:[EMSLIE, Graham J., et al. Escitalopram in the
-treatment of adolescent depression: a randomized placebo-controlled
-multisite trial. Journal of the American Academy of Child & Adolescent
-Psychiatry, 2009, vol. 48, no 7, p. 721-729.]] footnote:[FINDLING,
-Robert L.; ROBB, Adelaide; BOSE, Anjana. Escitalopram in the treatment
-of adolescent depression: a randomized, double-blind, placebo-controlled
-extension trial. Journal of child and adolescent psychopharmacology,
-2013, vol. 23, no 7, p. 468-480.]
+- Escitalopram #footnote[EMSLIE, Graham J., et al. Escitalopram in the treatment of adolescent depression: a randomized placebo-controlled multisite trial. Journal of the American Academy of Child & Adolescent Psychiatry, 2009, vol. 48, no 7, p. 721-729.] #footnote[FINDLING, Robert L.; ROBB, Adelaide; BOSE, Anjana. Escitalopram in the treatment of adolescent depression: a randomized, double-blind, placebo-controlled extension trial. Journal of child and adolescent psychopharmacology, 2013, vol. 23, no 7, p. 468-480.]
 
 === Encare
 
 ==== En suma
 
-Paciente de X años, procedente de MSEC X, con AF de trastornos afectivos
-/ alcoholismo / suicidio, con AP de X, que es traído por una cuadro
+Paciente de X años, procedente de MSEC X, con AF de trastornos afectivos / alcoholismo / suicidio, con AP de X, que es traído por una cuadro
 centrado en la esfera afectiva.
 
 ==== Agrupación sindromática
@@ -136,18 +128,18 @@ indefinidamente.
 global de las fuerzas que orientan el campo de la conciencia, dado en:
 Presentación:
 
-* Presentación: abatimiento, postura encorvada, inmóvil, cabizbajo.
-Descuido del aspecto personal, desaliño. * Actitud de colaboración
-pasiva, disminución de iniciativa verbal. * FMYG: Pobreza gestual.
-hipomimia, hipogestualidad. Rostro marmóreo. * Impresiona distante *
+- Presentación: abatimiento, postura encorvada, inmóvil, cabizbajo.
+Descuido del aspecto personal, desaliño. - Actitud de colaboración
+pasiva, disminución de iniciativa verbal. - FMYG: Pobreza gestual.
+hipomimia, hipogestualidad. Rostro marmóreo. - Impresiona distante -
 Inercia: disminución de movilidad espontánea, fatiga ("todo es un
-esfuerzo"). * Clinofilia
+esfuerzo"). - Clinofilia
 
 TIP: AAAC: Apatía, Astenia, Anhedonia, Clinofilia
 
-* Apatía: disminución de interés * Astenia: fatiga psíquica y física *
+- Apatía: disminución de interés - Astenia: fatiga psíquica y física -
 Anhedonia: incapacidad para obtener y experimentar placer (de intención
-y/o realización) * Clinofilia
+y/o realización) - Clinofilia
 
 .Síntomas de subtipos de depresión: Dentro del síndrome depresivo, hay
 una serie de síntomas que apuntan a un subgrupo de depresiones con
@@ -184,9 +176,9 @@ elementos de humor en más y en menos.
 
 .Catalogar síndrome depresivo:
 
-* X tiempo de evolución, con inicio brusco/insidioso * reactivo
-(atípico) o no reactivo a estímulos externos * con ritmo circadiano
-(polo matinal o no) * intensidad: leve, moderado, grave.
+- X tiempo de evolución, con inicio brusco/insidioso - reactivo
+(atípico) o no reactivo a estímulos externos - con ritmo circadiano
+(polo matinal o no) - intensidad: leve, moderado, grave.
 
 ===== Síndrome de ansiedad-angustia
 
@@ -303,20 +295,20 @@ ideas de muerte, la reticencia a manifestarlos es frecuente.
 
 .Forma clínica
 
-* Simple: IPM + poco DM ("con conciencia"). Predomina la IPM con
+- Simple: IPM + poco DM ("con conciencia"). Predomina la IPM con
 tendencia a la inacción, inercia, astenia. Dolor moral escaso o falta.
 Tiene cierta conciencia mórbida (pero sin llegar a configurar una
-depresión "neurótica" o "reactiva"). * Franca: IPM + DM (dolor moral).
-Inicio progresivo con o sin desencadenante. * Estuporosa: gran IPM.
+depresión "neurótica" o "reactiva"). - Franca: IPM + DM (dolor moral).
+Inicio progresivo con o sin desencadenante. - Estuporosa: gran IPM.
 Paciente espontáneamente inmóvil, en mutismo, no come, no hace gestos,
 reactividad disminuida (inhibición extrema con vigilia conservada).
 Fascies marmóreo con expresión de dolor/desespero (facilita el DD con
 otras etiologías). Riesgo de muerte por deshidratación/inanición. Ver
-encare de "Estupor". * Ansiosa: inquietud , búsqueda de muerte: riesgo
+encare de "Estupor". - Ansiosa: inquietud , búsqueda de muerte: riesgo
 de IAE. Cuadro dominado por agitación, ansiedad MIDI, psicomotricidad
 aumentada (caminar, frotarse las manos, zapatear, moverse, gritar,
-golpearse, correr, frotarse las manos, sollozar, gemir). * Delirante: Sº
-depresivo + Sº delirante. * Estados mixtos: presencia simultánea o
+golpearse, correr, frotarse las manos, sollozar, gemir). - Delirante: Sº
+depresivo + Sº delirante. - Estados mixtos: presencia simultánea o
 rápidamente alternante de síntomas depresivos y síntomas de exaltación
 del humor. Clínicamente: turbulencia, agitación, perplejidad,
 irritabilidad / disforia.
@@ -336,8 +328,8 @@ Para DSM IV: Episodio Depresivo Mayor + especificadores.
 
 Especificadores principales:
 
-* Gravedad: L/M/G * Con síntomas psicóticos: congruentes / incongruentes
-con el estado de ánimo. * En remisión parcial / total (2 meses sin
+- Gravedad: L/M/G - Con síntomas psicóticos: congruentes / incongruentes
+con el estado de ánimo. - En remisión parcial / total (2 meses sin
 síntomas)
 
 TIP: Síntomas catatónicos: CINEMIA
@@ -345,31 +337,31 @@ TIP: Síntomas catatónicos: CINEMIA
 Especificadores de síntomas catatónicos: 2 o + de 5 síntomas dominando
 el cuadro (CINEMIA):
 
-* Catalepsia / Inmovilidad motora: incluye flexibilidad cérea o estupor.
+- Catalepsia / Inmovilidad motora: incluye flexibilidad cérea o estupor.
 Inercia, actitudes de pasividad y automatismo (latencia en respuestas,
-obediencia automática, sugestionabilidad) (CI). * Negativismo:
+obediencia automática, sugestionabilidad) (CI). - Negativismo:
 resistencia inmotivada a órdenes, mantenimiento de postura rígida ante
 intentos de ser movido. Mutismo. Oposicionismo (al interrogatorio, a la
-alimentación) (N) * Ecolalia / ecopraxia / estereotipias (actos motores
-reiterativos / en el lenguaje: verbigeración)(E) * Manierismos:
+alimentación) (N) - Ecolalia / ecopraxia / estereotipias (actos motores
+reiterativos / en el lenguaje: verbigeración)(E) - Manierismos:
 tonalidad de afectación teatral, pudiendo llegar al pateticismo.
-Sonrisas inmotivadas / posturas extrañas. (M) * Impulsiones (I). Actos
+Sonrisas inmotivadas / posturas extrañas. (M) - Impulsiones (I). Actos
 en cortocircuito, insensibles a estímulos externos, sobre los cuales el
-paciente no puede dar cuenta. Pueden ser impulsiones verbales. *
+paciente no puede dar cuenta. Pueden ser impulsiones verbales. -
 Agitación motora: hiperactividad sin propósito aparente, no influida por
 factores externos (A)
 
 Especificadores de síntomas melancólicos:
 
-A. Anhedonia y/o humor no reactivo B. 3 o + de 6: * Cualidad distintiva
-del estado de ánimo. * Peoría matutina (polo matinal) * Depertar precoz
-(2 horas antes de lo habitual) * Inhibición o agitación psicomotriz *
-Anorexia significativa / pérdida de peso * Culpa excesiva o inapropiada
+A. Anhedonia y/o humor no reactivo B. 3 o + de 6: - Cualidad distintiva
+del estado de ánimo. - Peoría matutina (polo matinal) - Depertar precoz
+(2 horas antes de lo habitual) - Inhibición o agitación psicomotriz -
+Anorexia significativa / pérdida de peso - Culpa excesiva o inapropiada
 
 Especificadores de síntomas atípicos:
 
-A. Humor reactivo B. 2 o + de 4 * Aumento de peso o apetito *
-Hipersomnia * Abatimiento (pesadez plúmbea) * Patrón de larga duración
+A. Humor reactivo B. 2 o + de 4 - Aumento de peso o apetito -
+Hipersomnia - Abatimiento (pesadez plúmbea) - Patrón de larga duración
 de sensibilidad al rechazo interpersonal (con afectación de
 pragmatismos) C. Exclusión: síntomas melancólicos o síntomas
 catatónicos.
@@ -386,7 +378,7 @@ Importante al plantear el tratamiento.
 
 Otros especificadores:
 
-* Crónico: > 2 años * Postparto: inicio < 4 semanas luego del parto *
+- Crónico: > 2 años - Postparto: inicio < 4 semanas luego del parto -
 Curso longitudinal: con o sin recuperación interepisódica total.
 
 .Diagnóstico nosológico
@@ -456,15 +448,15 @@ Ansiosas: diferencial con neurosis.
 ===== Etiopatogenia
 
 Se postulan 3 factores que interactúan en la patogénesis de la depresión
-footnote:[]: * Factores internalizantes: por ejemplo genética y
+footnote:[]: - Factores internalizantes: por ejemplo genética y
 neuroticismo footnote:[Sullivan, P.F., Neale, M.C., Kendler, K.S., 2000.
 Genetic epidemiology of major depression: review and meta-analysis. Am J
-Psychiatry 157, 1552–1562. https:// 10.1176/appi.ajp.157.10.1552.]. *
+Psychiatry 157, 1552–1562. https:// 10.1176/appi.ajp.157.10.1552.]. -
 Factores externalizantes: por ejemplo consumo de sustancias
 footnote:[Compton, W.M., Conway, K.P., Stinson, F.S., Grant, B.F., 2006.
 Changes in the prevalence of major depression and comorbid substance use
 disorders in the United States between 1991-1992 and 2001-2002. Am J
-Psychiatry 163, 2141–2147. https://10.1176/ajp.2006.163.12.2141. ]. *
+Psychiatry 163, 2141–2147. https://10.1176/ajp.2006.163.12.2141. ]. -
 Eventos adversos: por ejemplo trauma y pérdida parental footnote:[Green,
 J.G., McLaughlin, K.A., Berglund, P.A., Gruber, M.J., Sampson, N.A.,
 Zaslavsky, A.M., Kessler, R.C., 2010. Childhood adversities and adult
@@ -472,12 +464,12 @@ psychiatric disorders in the national comorbidity survey replication I:
 associations with first onset of DSM-IV disorders. Arch Gen Psychiatry
 67, 113–123. https://10.1001/arch genpsychiatry.2009.186.].
 
-.Biológico * Hereditario: importante penetrancia genética. *
+.Biológico - Hereditario: importante penetrancia genética. -
 Neurotransmisores: alteración en sistemas noradrenérgicos y/o
-serotoninérgicos en SNC, basado en criterios farmacológicos. *
+serotoninérgicos en SNC, basado en criterios farmacológicos. -
 Neuroendócrinos: alteraciones en niveles de cortisol con alteraciones a
-nivel del eje HHSR e Hipófiso-tiroideo. * Edad: disminución de defensas
-psicológicas + factores biológicos: * Embarazo/parto, climaterio. *
+nivel del eje HHSR e Hipófiso-tiroideo. - Edad: disminución de defensas
+psicológicas + factores biológicos: - Embarazo/parto, climaterio. -
 Mecanismos inflamatorios: factor de necrosis tumoral alfa(TNF-alfa),
 interleuquinas. Se postula que la inflamación podría alterar la barrera
 hematoencefálica con entrada de moléculas inflamatorias y células
@@ -517,9 +509,9 @@ Superyó sádico que se manifiesta como depresión.
 
 Estructura positiva y negativa:
 
-* Negativa: pérdida de adaptación a las exigencias del presente con
+- Negativa: pérdida de adaptación a las exigencias del presente con
 falta de proyección al futuro. El sujeto se halla inmerso en el pasado.
-* Positiva: contiene la producción subdelirante.
+- Positiva: contiene la producción subdelirante.
 
 Binswanger y Ey insistieron en la estructura temporal (tiempo subjetivo)
 de la melancolía (según TOD: 1º nivel de desestructuración de la
@@ -548,20 +540,20 @@ social.
 
 Luego de una valoración clínica general del paciente y según hallazgos:
 
-* Consulta con especialistas según hallazgos clínicos. * Interconsulta
+- Consulta con especialistas según hallazgos clínicos. - Interconsulta
 con cardiólogo en caso de plantearse tratamiento con AP con potencial
-alteración del intervalo QT. * Estudios imagenológicos, según la
-clínica: TAC, RNM, SPECT, PET. * Rutinas: hemograma, glicemia,
-ionograma, función renal, funcional y enzimograma hepático, HIV, VDRL. *
-Dosificación de drogas en sangre y orina * Estudio de hormonas
-tiroideas: T3, T4 y TSH * Descartar contraindicaciones relativas de ECT:
+alteración del intervalo QT. - Estudios imagenológicos, según la
+clínica: TAC, RNM, SPECT, PET. - Rutinas: hemograma, glicemia,
+ionograma, función renal, funcional y enzimograma hepático, HIV, VDRL. -
+Dosificación de drogas en sangre y orina - Estudio de hormonas
+tiroideas: T3, T4 y TSH - Descartar contraindicaciones relativas de ECT:
 IAM reciente, arritmias inestables (ECG, cardiólogo), aneurisma de aorta
 (RxTx), HTEC por proceso expansivo (examen neurológico con fondo de
 ojo). En pacientes añosos: valoración cognitiva basal.
 
 Marcadores de endogenicidad de la depresión (con fines académicos, no se
-piden de rutina): * Dosificación de TSH a la estimulación con TRH: donde
-esperamos encontrar una respuesta plana. * Hipnograma: donde esperamos
+piden de rutina): - Dosificación de TSH a la estimulación con TRH: donde
+esperamos encontrar una respuesta plana. - Hipnograma: donde esperamos
 encontrar una disminución de la latencia REM, con aumento de actividad
 REM, disminución del tiempo to-tal de sueño con despertares frecuentes.
 De ser negativo no descarta endogenicidad, pero de ser positivo apoya
@@ -586,10 +578,10 @@ De ser necesario: test de nivel, estudio neuropsicológico.
 
 Entrevistas con terceros para:
 
-* objetivar adaptabilidad a las pérdidas * explicar medidas terapéuticas
+- objetivar adaptabilidad a las pérdidas - explicar medidas terapéuticas
 a efectuar, riesgos y beneficios de ECT, consentimiento informado por
-escrito. Comienzo del proceso de psicoeducación. * evaluación de red de
-soporte social * valorar funcionamiento premórbido e intercrítico así
+escrito. Comienzo del proceso de psicoeducación. - evaluación de red de
+soporte social - valorar funcionamiento premórbido e intercrítico así
 como existencia de corte existencial.
 
 ==== Tratamiento
@@ -612,9 +604,9 @@ Internación en sala psiquiátrica de hospital general / hospital
 psiquiátrico (formas más graves), con acompañante a permanencia,
 fundamentado en:
 
-* Se trata de una urgencia psiquiátrica que coloca al paciente en un
-riesgo de muerte por auto-eliminación. * Presencia de síntomas
-psicóticos * Repercusión somática: anorexia, adelgazamiento * Necesidad
+- Se trata de una urgencia psiquiátrica que coloca al paciente en un
+riesgo de muerte por auto-eliminación. - Presencia de síntomas
+psicóticos - Repercusión somática: anorexia, adelgazamiento - Necesidad
 de reversión rápida del cuadro.
 
 Con supervisión de enfermería las 24 horas, control de hidratación,
@@ -636,7 +628,7 @@ efficacy and acceptability of 21 antidepressant drugs for the acute
 treatment of adults with major depressive disorder: a systematic review
 and network meta-analysis. The Lancet, 391(10128), 1357-1366.]:
 
-* Paciente sin tratamientos previos: preferimos el uso de un ISRS, tal
+- Paciente sin tratamientos previos: preferimos el uso de un ISRS, tal
 como Sertralina 50 mg 1 comp/día, por la menor incidencia de efectos
 secundarios. En caso de coexistencia de ansiedad, preferimos un ISRS
 sedativo (Fluvoxamina, Paroxetina). En caso de tratarse de un paciente
@@ -647,7 +639,7 @@ a la baja (desensibilización) de los autorreceptores 5HT1a
 Estaremos atentos a la aparición de efectos secundarios, sobre todo a
 nivel digstivo en etapas iniciales, la posibilidad de viraje en plazos
 medianos y la disfunción sexual (disminución de la libido, retardo en el
-orgasmo) a mediano/largo plazo. * Paciente con tratamiento previo con
+orgasmo) a mediano/largo plazo. - Paciente con tratamiento previo con
 ISRS sin respuesta: planteamos el uso de Venlafaxina, antidepresivo con
 doble mecanismo (acción sobre sistema noradrenérgico y
 serotroninérgico). Comenzaremos con 75 mg/día, aumentando a 150 mg/día.
@@ -655,12 +647,12 @@ Según respuesta puede llevarse hasta 300 mg/día.
 
 Depresión bipolar:
 
-* Primera línea. Nivel 1: Quetiapina, Lurasidona + Litio/Divalproato.
+- Primera línea. Nivel 1: Quetiapina, Lurasidona + Litio/Divalproato.
 Nivel de evidencia 2: Litio, Lamotrigina, Lurasidona
-* Segunda línea. Nivel 1: Sertralina/Bupropion (adjuntos), Cariprazina.
+- Segunda línea. Nivel 1: Sertralina/Bupropion (adjuntos), Cariprazina.
 Nivel 2: Divalproato, Olanzapina/Fluoxetina. Nivel 4: ECT.
 
-* Paciente bipolar: planteamos de primera línea el uso de
+- Paciente bipolar: planteamos de primera línea el uso de
 estabilizadores del humor (Lamotrigina, Litio) con o sin combinación con
 antipsicóticos atípicos (Aripiprazol). En caso de que haya que usar un
 antidepresivo, preferimos el uso de Bupropion 150 mg LP, 1 comp/día, ya
@@ -684,10 +676,10 @@ Por tratarse de icon:paperclip[] estamos ante una indicación formal de
 ECT (depresión mayor con síntomas melancólicos, catatónicos o
 psicóticos; melancolía ansiosa) ya que:
 
-* El tratamiento farmacológico tiene latencia de al menos 15 días *
-Ansioso: pasaje al acto con máximo riesgo vital * Las ideas de muerte
-pueden no manifestarse por reticencia * Para provocar alivio sintomático
-al intenso sufrimiento del paciente * La posibilidad de AE durante el
+- El tratamiento farmacológico tiene latencia de al menos 15 días -
+Ansioso: pasaje al acto con máximo riesgo vital - Las ideas de muerte
+pueden no manifestarse por reticencia - Para provocar alivio sintomático
+al intenso sufrimiento del paciente - La posibilidad de AE durante el
 tratamiento con antidepresivos una vez mejorada la inhibición con
 persistencia de dolor moral y las ideas de AE
 
@@ -723,10 +715,10 @@ dosis que lo habitual.
 
 .Otras formas clínicas
 
-* Delirante: agregar antipsicóticos, preferentemente atípicos:
+- Delirante: agregar antipsicóticos, preferentemente atípicos:
 Aripirazol icon:arrow-right[] Olanzapina icon:arrow-right[] Risperidona
-icon:arrow-right[] Haloperidol. * Agitada-ansiosa: preferentemente ISRS
-sedativo (Fluvoxamina). ECT si la agitación es intensa. * Bipolares: ver
+icon:arrow-right[] Haloperidol. - Agitada-ansiosa: preferentemente ISRS
+sedativo (Fluvoxamina). ECT si la agitación es intensa. - Bipolares: ver
 encare correspondiente.
 
 .Síntomas accesorios
@@ -772,14 +764,14 @@ espaciarán hasta ser mensuales.
 
 Realizaremos entrevistas diarias orientadas a:
 
-* Continentar al paciente sin provocar fatiga (para el paciente la
+- Continentar al paciente sin provocar fatiga (para el paciente la
 entrevista representa un esfuerzo psíquico)
-* Generar y consolidar el vínculo terapéutico con el paciente y la
+- Generar y consolidar el vínculo terapéutico con el paciente y la
 familia
-* Psicoeducación: generar conciencia de la importancia de la adhesión al
+- Psicoeducación: generar conciencia de la importancia de la adhesión al
 tratamiento como determinante del pronóstico a mediano y largo plazo. Se
 educará acerca de signos y síntomas de recaída.
-* Evaluar evolución del tratamiento
+- Evaluar evolución del tratamiento
 
 Realizaremos apoyo psicológico para reelaboración de pérdidas.
 
@@ -818,8 +810,8 @@ depresión no tratada disminuye la expectativa y la calidad de vida.
 
 PPA:
 
-* orgánico: AF/AP IAE, edad * psiquiátrico: situaciones adversas, falta
-de elaboración de pérdidas, sentimiento de abandono. * social:
+- orgánico: AF/AP IAE, edad - psiquiátrico: situaciones adversas, falta
+de elaboración de pérdidas, sentimiento de abandono. - social:
 aislamiento, pérdida de roles, relaciones interpersonales
 
 Hay una tendencia a la pérdida de la reactividad en los episodios con

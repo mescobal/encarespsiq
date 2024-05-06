@@ -4,36 +4,36 @@
 
 ==== Subtipos
 
-.Grupo A * Paranoide (F60.0) ** Obstinado (Compulsivo) ** Fanático
-(Narcisista) ** Querellante (Negativista) ** Insular (Evitativo) **
-Maligno (Sádico) * Esquizoide (F60.1) ** Remoto (Evitativo,
-Esquizotípico) ** Lánguido (Depresivo) ** Desafectivizado (Compulsivo)
-** Despersonalizado (Esquizotípico) * Esquizotípico (F21 ** Insípido
-(Esquizode, Depresivo, Dependiente) ** Timorato (Evitativo, Negativista)
-.Grupo B * Antisocial (F60.2, Disocial) ** Nómade (Esquizoide,
-Evitativo) ** Malevolente (Sádico, Paranoide) ** Codicioso (patrón puro)
-** Arriesgado (Histriónico) ** Defensor de reputación (Narcisista) *
-Límite (F60.3, Inestable) * Histriónico (F60.4) ** Apaciguador
-(Dependiente, compulsivo) ** Vivaz (Narcisita) ** Intempestivo
-(Negativista) ** Insincero (Antisocial) ** Teatral (puro) ** Infantil
-(Límite) * Narcisista (F60.8, Otros) ** Inescrupuloso (Antisocial) **
-Elitista (puro) ** Enamorado (Histriónico) ** Compensatorio
-(Negativista, Evitativo) .Grupo C * Obsesivo (F60.5, Anancástico **
-Concienzudo (Dependiente) ** Burocrático (Narcisista) ** Puritano
-(Paranoide) ** Parsimonioso (Esquizoide) ** Acosado (Negativista) *
-Evitativo (F60.6, Ansioso) ** Fóbico (Dependiente) ** Conflictuado
-(Negativista) ** Hipersensitivo (Paranoide) ** Autoabandonado
-(Depresivo) * Dependiente (F60.7) ** Inquieto (Evitativo) **
-Desinteresado (Depresivo) ** Inmaduro (puro) ** Complaciente
-(Masoquista) ** Ineficaz (Esquizoide) .Otros * Negativista
-(Pasivo-agresivo) ** Vacilante (Límite) ** Descontento (Depresivo) **
-Tortuoso (Dependiente) ** Abrasivo (Sádico) * Sádico ** Sin carácter
-(Evitativo) ** Tiránico (Negativista) ** Imponedor (Compulsivo) **
-Explosivo (Límite) * Depresivo ** Intranquilo (Evitativo) **
-Autodespectivo (Dependiente) ** Malhumorado (Negativista) ** Fashion
-(Histriónico, Narcisista) ** Mórbiudo (Masoquista) * Masoquista **
-Virtuoso (Histriónico) ** Posesivo (Negativista) ** Autoarruinado
-(Evitativo) ** Oprimido (Depresivo) ==== Trastorno esquizotípico de la
+.Grupo A - Paranoide (F60.0) -- Obstinado (Compulsivo) -- Fanático
+(Narcisista) -- Querellante (Negativista) -- Insular (Evitativo) --
+Maligno (Sádico) - Esquizoide (F60.1) -- Remoto (Evitativo,
+Esquizotípico) -- Lánguido (Depresivo) -- Desafectivizado (Compulsivo)
+-- Despersonalizado (Esquizotípico) - Esquizotípico (F21 -- Insípido
+(Esquizode, Depresivo, Dependiente) -- Timorato (Evitativo, Negativista)
+.Grupo B - Antisocial (F60.2, Disocial) -- Nómade (Esquizoide,
+Evitativo) -- Malevolente (Sádico, Paranoide) -- Codicioso (patrón puro)
+-- Arriesgado (Histriónico) -- Defensor de reputación (Narcisista) -
+Límite (F60.3, Inestable) - Histriónico (F60.4) -- Apaciguador
+(Dependiente, compulsivo) -- Vivaz (Narcisita) -- Intempestivo
+(Negativista) -- Insincero (Antisocial) -- Teatral (puro) -- Infantil
+(Límite) - Narcisista (F60.8, Otros) -- Inescrupuloso (Antisocial) --
+Elitista (puro) -- Enamorado (Histriónico) -- Compensatorio
+(Negativista, Evitativo) .Grupo C - Obsesivo (F60.5, Anancástico --
+Concienzudo (Dependiente) -- Burocrático (Narcisista) -- Puritano
+(Paranoide) -- Parsimonioso (Esquizoide) -- Acosado (Negativista) -
+Evitativo (F60.6, Ansioso) -- Fóbico (Dependiente) -- Conflictuado
+(Negativista) -- Hipersensitivo (Paranoide) -- Autoabandonado
+(Depresivo) - Dependiente (F60.7) -- Inquieto (Evitativo) --
+Desinteresado (Depresivo) -- Inmaduro (puro) -- Complaciente
+(Masoquista) -- Ineficaz (Esquizoide) .Otros - Negativista
+(Pasivo-agresivo) -- Vacilante (Límite) -- Descontento (Depresivo) --
+Tortuoso (Dependiente) -- Abrasivo (Sádico) - Sádico -- Sin carácter
+(Evitativo) -- Tiránico (Negativista) -- Imponedor (Compulsivo) --
+Explosivo (Límite) - Depresivo -- Intranquilo (Evitativo) --
+Autodespectivo (Dependiente) -- Malhumorado (Negativista) -- Fashion
+(Histriónico, Narcisista) -- Mórbiudo (Masoquista) - Masoquista --
+Virtuoso (Histriónico) -- Posesivo (Negativista) -- Autoarruinado
+(Evitativo) -- Oprimido (Depresivo) ==== Trastorno esquizotípico de la
 personalidad
 
 .Tratamiento psicofarmacológico Evidencia escasa footnote:[Jakobsen, K.
@@ -56,16 +56,16 @@ Destacar: MC, patrón horizontal de comportamiento.
 
 ===== Síndrome conductual
 
-* Cuadro actual: IAE, heteroagresión, en un contexto de impulsividad *
-Curso de vida * Conductas basales y pragmatismos
+- Cuadro actual: IAE, heteroagresión, en un contexto de impulsividad -
+Curso de vida - Conductas basales y pragmatismos
 
 Destacando: baja tolerancia a las frustraciones, rápido pasaje al acto.
 
 ===== Otros síndromes
 
-* Síndrome depresivo (disfórico)
-* Síndrome delirante.
-* Síndrome de ansiedad-angustia u otro de la serie neurótica.
+- Síndrome depresivo (disfórico)
+- Síndrome delirante.
+- Síndrome de ansiedad-angustia u otro de la serie neurótica.
 
 ===== Nivel y Personalidad
 
@@ -76,30 +76,30 @@ relacionarse, concebir el entorno y a sí mismo que se expresan en una
 amplia gama de contextos sociales y personales significativos, en donde
 encontramos elementos de varias series (poner ejemplos de c/u):
 
-* Histriónicos
-* Dependientes
-* Paranoicos
-* Antisociales, etc.
+- Histriónicos
+- Dependientes
+- Paranoicos
+- Antisociales, etc.
 
 En BL: fundamentalmente rasgos marcados por la inestabilidad en:
 
-* Relaciones interpersonales (ejemplo: admiración - devaluación)
-* Afectividad: cambios rápidos de estado (depresión - irritabilidad).
+- Relaciones interpersonales (ejemplo: admiración - devaluación)
+- Afectividad: cambios rápidos de estado (depresión - irritabilidad).
 Cólera inadecuada y excesiva y falta de control de los impulsos, con
 heteroagresividad (ejemplos). Sentimiento crónico de vacuidad o
 abatimiento.
-* Identidad personal o autoimagen: múltiples carreras, trabajos,
+- Identidad personal o autoimagen: múltiples carreras, trabajos,
 parejas.
-* Conductas: impulsividad en actividades potencialmente dañinas (drogas,
+- Conductas: impulsividad en actividades potencialmente dañinas (drogas,
 alcohol). Autoagresividad: IAE.
 
 ==== Diagnóstico positivo
 
-* Rígidos, maladaptativos, inflexibles
-* Corte longitudinal
-* Malestar subjetivo
-* Egosintónico, aloplástico
-* Contacto interpersonal
+- Rígidos, maladaptativos, inflexibles
+- Corte longitudinal
+- Malestar subjetivo
+- Egosintónico, aloplástico
+- Contacto interpersonal
 
 ===== Trastorno de personalidad
 
@@ -130,10 +130,10 @@ tipo fronterizo o límite (del DSM)
 
 De éste decimos que está descompensado por:
 
-* Crisis conversiva
-* Síndrome depresivo disfórico (por suma de fracasos)
-* IAE c/ del monto de impulsividad
-* Síndrome de ansiedad-angustia
+- Crisis conversiva
+- Síndrome depresivo disfórico (por suma de fracasos)
+- IAE c/ del monto de impulsividad
+- Síndrome de ansiedad-angustia
 
 ===== Causa de descompensación
 
@@ -141,16 +141,16 @@ Se plantea como causa de descompensación: estrés psicosocial.
 
 ==== Diagnóstico diferencial
 
-* Con otros trastornos de la personalidad: si bien existen elementos
+- Con otros trastornos de la personalidad: si bien existen elementos
 histriónicos, antisociales, pensamos que no centran el cuadro clínico y
 no pensamos por el momento que se trate de un trastorno histriónico o
 antisocial de la personalidad. De cualquier modo investigaremos en
 reiteradas entrevistas, sabiendo que cada tipo comparte características
-con los restantes. * Psicosis tóxica * Trastorno de la personalidad
+con los restantes. - Psicosis tóxica - Trastorno de la personalidad
 orgánico (DSM): epilepsia parcial compleja, AP de TEC o trauma
-obstétrico. * Neurosis: egodistónica, autoplástica. La conflictiva es
-intrapsíquica y no interpersonal. * Depresión en adolescente: se puede
-presentar con trastornos de conducta. Crisis de adolescencia. *
+obstétrico. - Neurosis: egodistónica, autoplástica. La conflictiva es
+intrapsíquica y no interpersonal. - Depresión en adolescente: se puede
+presentar con trastornos de conducta. Crisis de adolescencia. -
 Trastorno afectivo primario
 
 ==== Diagnóstico etiopatogénico y psicopatológico
@@ -169,11 +169,11 @@ Borderline con los trastornos depresivos
 
 .Psicosocial
 
-* Adolescente con padres antisociales * Carencia afectiva * Pérdida
-temprana del vínculo con sus padres * Perturbación del medio,
-alcoholismo, violencia, prostitución * Maltrato reiterado * Alteraciones
-importantes a nivel del curso de vida * Refuerzo positivo social
-inconsciente: recompensa a conductas antisociales * Marco social poco
+- Adolescente con padres antisociales - Carencia afectiva - Pérdida
+temprana del vínculo con sus padres - Perturbación del medio,
+alcoholismo, violencia, prostitución - Maltrato reiterado - Alteraciones
+importantes a nivel del curso de vida - Refuerzo positivo social
+inconsciente: recompensa a conductas antisociales - Marco social poco
 continente.
 
 ===== Psicopatología
@@ -198,8 +198,8 @@ juicio de la realidad.
 
 Orientada a:
 
-* Confirmar diagnóstico de tipo * Descartar diagnósticos diferenciales *
-Valoración general * Con vistas al tratamiento
+- Confirmar diagnóstico de tipo - Descartar diagnósticos diferenciales -
+Valoración general - Con vistas al tratamiento
 
 ===== Biológico
 

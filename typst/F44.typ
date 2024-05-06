@@ -13,7 +13,7 @@ psicológica/intrapsíquico dado por:
 
 ====== A nivel motor
 
-* Crisis de excitación psicomotriz que motivan el ingreso, de X tiempo
+- Crisis de excitación psicomotriz que motivan el ingreso, de X tiempo
 de evolución, paroxísticas, con movimiento de los 4 miembros, con caída
 al suelo, rotura de objetos, emisión de gritos, en presencia de público,
 con o sin pérdida de conocimiento, sin incontinencia esfinteriana ni
@@ -21,28 +21,28 @@ sopor postcrítico, sin mordedura de lengua, sin cianosis. Relata crisis
 mostrando indiferencia hacia ésta, frecuencia diaria, duración,
 desencadenada por conflicto emocional (ejemplo). Por lo que la
 calificamos de crisis conversiva, expresión atenuada de la gran crisis
-de Charcot. * Manifestaciones deficitarias permanentes de X duración: **
+de Charcot. - Manifestaciones deficitarias permanentes de X duración: --
 Astasia-abasia: incapacidad de andar y mantenerse de pie, quedando la
 posibilidad de realización de movimientos activos que no sean de
-deambulación. ** Parálisis y contracción localizadas: sin
+deambulación. -- Parálisis y contracción localizadas: sin
 sistematización anatómica. Incluye afonía por parálisis de músculos
-fonadores. ** Movimientos anormales.
+fonadores. -- Movimientos anormales.
 
 ====== A nivel sensitivo
 
-* Anestesia: sin sistematización anatómica, en bota, en guante,
-hemicuerpo. * Puntos hiperestésicos * Algias, con impotencia funcional
+- Anestesia: sin sistematización anatómica, en bota, en guante,
+hemicuerpo. - Puntos hiperestésicos - Algias, con impotencia funcional
 desproporcionada
 
 ====== A nivel sensorial
 
-* Visuales: obnubilación, diplopía, ceguera (con las características de:
-reducción concéntrica del campo visual y diplopía monocular). *
+- Visuales: obnubilación, diplopía, ceguera (con las características de:
+reducción concéntrica del campo visual y diplopía monocular). -
 Auditivos
 
 ====== A nivel neurovegetativo
 
-* Espasmos de músculo liso y esfínteres, faringe, vómitos, respiratorio,
+- Espasmos de músculo liso y esfínteres, faringe, vómitos, respiratorio,
 vesical, vaginal
 
 Crisis de inhibición psicomotriz ("ataques catalépticos", "sueño
@@ -129,15 +129,15 @@ IAE.
 
 El cuadro tienen las siguientes características:
 
-* Factor desencadenante: relación temporal entre un estímulo estresante
-y el inicio del síndrome, reactivo. * Beneficio secundario (3° para el
+- Factor desencadenante: relación temporal entre un estímulo estresante
+y el inicio del síndrome, reactivo. - Beneficio secundario (3° para el
 psicoanálisis): le permite evitar un perjuicio u obtener un beneficio
-del entorno. * Intencionalidad inconsciente: el síntoma no es
-voluntario, simboliza un deseo inconsciente. * Inicio súbito, posterior
+del entorno. - Intencionalidad inconsciente: el síntoma no es
+voluntario, simboliza un deseo inconsciente. - Inicio súbito, posterior
 a una crisis de ansiedad que suele cesar con la instalación del síntoma
-* Representa el concepto que la paciente tiene sobre el trastorno
-somático * Bella indiferencia hacia el síntoma * Contexto biográfico y
-actual que le da sentido al síntoma * Recurrencia en el tiempo
+- Representa el concepto que la paciente tiene sobre el trastorno
+somático - Bella indiferencia hacia el síntoma - Contexto biográfico y
+actual que le da sentido al síntoma - Recurrencia en el tiempo
 
 ==== Personalidad y nivel
 
@@ -151,45 +151,45 @@ Historia de conflictiva infantil.
 
 Rasgos neuróticos globales (yo débil)
 
-* Mal manejo de la agresividad * Trastornos de la esfera sexual *
+- Mal manejo de la agresividad - Trastornos de la esfera sexual -
 Dependiente/inmaduro
 
 Rasgos histéricos/personalidad histérica
 
-* Egocentrismo
-* Histrionismo: hiperexpresividad, dramatismo, fantasía mitomanía
-* Labilidad emocional
-* Sugestionabilidad plasticidad: autosugestión, sugestión externa
-* Dependencia
-* Erotización de los vínculos
-* Trastornos sexuales
-* Superficialidad de vínculos
-* Poco interés por lo intelectual
-* Baja tolerancia a las frustraciones
-* Manipulación del entorno
-* Acting-out con escasa o nula previsión de sus actos
+- Egocentrismo
+- Histrionismo: hiperexpresividad, dramatismo, fantasía mitomanía
+- Labilidad emocional
+- Sugestionabilidad plasticidad: autosugestión, sugestión externa
+- Dependencia
+- Erotización de los vínculos
+- Trastornos sexuales
+- Superficialidad de vínculos
+- Poco interés por lo intelectual
+- Baja tolerancia a las frustraciones
+- Manipulación del entorno
+- Acting-out con escasa o nula previsión de sus actos
 
 En la entrevista destacar:
 
-* bella indiferencia
-* impresionsimo, teatralidad, sugestionabilidad
-* intento de manipulación o manejo de la entrevista
-* puerilidad
-* erotización o intento de seducción durante la entrevista
+- bella indiferencia
+- impresionsimo, teatralidad, sugestionabilidad
+- intento de manipulación o manejo de la entrevista
+- puerilidad
+- erotización o intento de seducción durante la entrevista
 
 Siguiendo nosografía propuesta por DSM, puede estar asociados a rasgos
 histriónicos: patrón de excesiva emotividad y búsqueda de atención con 5
 o más de:
 
-* incomodidad si no es el centro
-* erotización de los vínculos (comportamiento sexualmente seductor o
+- incomodidad si no es el centro
+- erotización de los vínculos (comportamiento sexualmente seductor o
 provocador)
-* expresión emocional superficial y cambiante
-* uso del aspecto físico para llamar la atención
-* forma de hablar excesivamente subjetiva y carente de matices
-* teatralidad, dramatización
-* sugestionabilidad
-* considera sus relaciones más íntimas de lo que son
+- expresión emocional superficial y cambiante
+- uso del aspecto físico para llamar la atención
+- forma de hablar excesivamente subjetiva y carente de matices
+- teatralidad, dramatización
+- sugestionabilidad
+- considera sus relaciones más íntimas de lo que son
 
 TIP: El TP Histriónico se asocia a: Trastorno de Somatización, Trastorno
 Conversivo/Disociativo, otros trastornos del grupo B.
@@ -211,11 +211,11 @@ sociofamiliar-laboral, intensidad y duración de los síntomas.
 
 Por:
 
-* Síndrome depresivo
-* Ansiedad angustia
-* Exacerbación de síntomas con falla de mecanismos de defensa
-* Crisis conversiva o estado conversivo
-* IAE Causa de descompensación: estrés psicosocial situación vital que
+- Síndrome depresivo
+- Ansiedad angustia
+- Exacerbación de síntomas con falla de mecanismos de defensa
+- Crisis conversiva o estado conversivo
+- IAE Causa de descompensación: estrés psicosocial situación vital que
 es incapaz de asumir (matrimonio, hijo, episodio conflictivo
 intrafamiliar, frustraciones afectivas, situación de abandono o
 rechazo).
@@ -228,21 +228,21 @@ Las posibilidades diagnósticas (CIE) son:
 
 F44 Trastornos disociativos (de conversión)
 
-* F44.0 Amnesia disociativa
-* F44.1 Fuga disociativa
-* F44.2 Estupor disociativo
-* F44.3 Trastornos de trance y de posesión
-* F44.4 Trastornos disociativos de la motilidad
-* F44.5 Convulsiones disociativas
-* F44.6 Anestesias y pérdidas sensoriales disociativas
-* F44.7 Trastornos disociativos (de conversión) mixtos
-* F44.8 Otros trastornos disociativos (de conversión)
-* F44.80 Síndrome de Ganser
-* F44.81 Trastorno de personalidad múltiple
-* F44.82 Trastornos disociativos (de conversión) transitorios de la
+- F44.0 Amnesia disociativa
+- F44.1 Fuga disociativa
+- F44.2 Estupor disociativo
+- F44.3 Trastornos de trance y de posesión
+- F44.4 Trastornos disociativos de la motilidad
+- F44.5 Convulsiones disociativas
+- F44.6 Anestesias y pérdidas sensoriales disociativas
+- F44.7 Trastornos disociativos (de conversión) mixtos
+- F44.8 Otros trastornos disociativos (de conversión)
+- F44.80 Síndrome de Ganser
+- F44.81 Trastorno de personalidad múltiple
+- F44.82 Trastornos disociativos (de conversión) transitorios de la
 infancia o adolescencia
-* F44.88 Otros trastornos disociativos (de conversión)
-* F44.9 Trastorno disociativo (de conversión) sin especificación
+- F44.88 Otros trastornos disociativos (de conversión)
+- F44.9 Trastorno disociativo (de conversión) sin especificación
 Recordar que para el DSM pueden o no coexistir un Trastorno de
 Conversión (eje I), un Trastorno Disociativo (eje I) y un Trastorno
 Histriónico de la Personalidad (eje II).
@@ -260,24 +260,24 @@ En general es un diagnóstico con un criterio positivo, varios criterios
 de exclusión y el requerimiento de qyue haya un malestar "clínicamente
 significativo".
 
-* Trastorno de conversión ** Inclusión: Síntoma o déficit motor
+- Trastorno de conversión -- Inclusión: Síntoma o déficit motor
 voluntario / sensorial que sugiere enfermedad neurológica + factor
-psicológico asociado (con desencadenante o conflicto previo) **
+psicológico asociado (con desencadenante o conflicto previo) --
 Exclusión: Trastorno Facticio, Simulación, enfermedad médica o
-sustancias ** Especificadores: con síntoma o déficit motor / con crisis
+sustancias -- Especificadores: con síntoma o déficit motor / con crisis
 y convulsiones / con síntoma o déficit sensorial / de presentación mixta
-* Amnesia disociativa ** Inclusión: uno o más episodios con incapacidad
+- Amnesia disociativa -- Inclusión: uno o más episodios con incapacidad
 para recordar información personal importante (generalmente traumático)
-** Exclusión: (no aparece exclusivamente en...) Trastorno de Identidad
-Disociativo, Fuga Disociativa, TEPT u otros. * Fuga disociativa: **
+-- Exclusión: (no aparece exclusivamente en...) Trastorno de Identidad
+Disociativo, Fuga Disociativa, TEPT u otros. - Fuga disociativa: --
 Inclusión: amnesia + desplazamiento geográfico + confusión sobre la
 identidad personal o asunción de una nueva identidad (parcial o
-completa) ** Exclusión: (no aparece exclusivamente en...) Trastorno de
-Identidad Disociativo, enfermedad médica, sustancias. * Trastorno de
-Identidad Disociativo: ** Inclusión: presencia de 2 o más identidades o
+completa) -- Exclusión: (no aparece exclusivamente en...) Trastorno de
+Identidad Disociativo, enfermedad médica, sustancias. - Trastorno de
+Identidad Disociativo: -- Inclusión: presencia de 2 o más identidades o
 estados de personalidad + al menos 2 de estas identidades controlan de
 forma recurrente el comportamiento del individuo + amnesia disociativa.
-** Exclusión: efecto fisiológico directo de una sustancia, enfermedad
+-- Exclusión: efecto fisiológico directo de una sustancia, enfermedad
 médica.
 
 : el encare de un trastorno somatomorfo puede tener algunos puntos en
@@ -330,9 +330,9 @@ Para el psicoanálisis, comporta una regresión y fijación a la fase edípica d
 Importa destacar que la sintomatología es involuntaria pero cargada de intencionalidad inconsciente. Del diagnóstico psicopatológico
 jerarquizamos los siguientes aspectos:
 
-* Presenta como beneficio primario la disminución de la angustia o la anulación de ésta manteniéndola fuera del campo de la conciencia. 
-* Presenta como beneficio secundario el manejo del entorno con lo que se gratifican las necesidades de dependencia de la paciente, condiciona la evolución de la dolencia, ganancia de tipo narcisista. La histeria se modela en función de la respuesta, adaptándose al deseo del otro). Se acompaña de "belle indiference" que es la indiferencia con respecto al síntoma. Este mecanismo implica el uso de mecanismos de defensa como la represión y la conversión. 
-* Identificación con antecesor u otro enfermo 
+- Presenta como beneficio primario la disminución de la angustia o la anulación de ésta manteniéndola fuera del campo de la conciencia. 
+- Presenta como beneficio secundario el manejo del entorno con lo que se gratifican las necesidades de dependencia de la paciente, condiciona la evolución de la dolencia, ganancia de tipo narcisista. La histeria se modela en función de la respuesta, adaptándose al deseo del otro). Se acompaña de "belle indiference" que es la indiferencia con respecto al síntoma. Este mecanismo implica el uso de mecanismos de defensa como la represión y la conversión. 
+- Identificación con antecesor u otro enfermo 
 
 Con respecto al desarrollo de la personalidad, el Yo histérico no ha logrado una organización estable conforme a una identificación de su propia persona. El papel que toma como rol oculta a su persona. Hay una gran psicoplasticidad (histrionismo) con erotización de la conducta y los vínculos, produciéndose una "falsificación" de la existencia. Se sustituye el principio de realidad por el deseo y la fantasía (pensamiento imaginario). El cuerpo pasa a ser escenario de los conflictos (disposición conversiva).
 
@@ -348,20 +348,20 @@ de vista: biológico, psicológico y social.
 
 ===== Biológico
 
-* Consulta con internista con EF completo, con énfasis en lo neurológico
+- Consulta con internista con EF completo, con énfasis en lo neurológico
 (campo visual, pares craneanos, sensibilidad, fuerzas, reflejos),
 incluyendo Fondo de Ojo. Despistaremos entidades de diagnóstico clínico
 como Esclerosis Múltiple. Buscaremos signos focales, elementos de
 síndrome frontal, polineuropatía sensitiva y motora, flapping, rueda
 dentada, hiperreflexia, hiptertensión endocraneana, síndrome cerebelos,
-etc. También buscaremos estigmas de UISP ode OH. * EEG: para despistar
+etc. También buscaremos estigmas de UISP ode OH. - EEG: para despistar
 foco epiléptico (con registro prolongado, con deprivación de sueño y
-estimulación con hiperpnea y fotoestimulación). * Rx cráneo: valorando
-repercusión de múltiples caídas. * Valoración general: hemograma,
+estimulación con hiperpnea y fotoestimulación). - Rx cráneo: valorando
+repercusión de múltiples caídas. - Valoración general: hemograma,
 glicemia, azoemia, creatininemia, orina completa, ionograma., funcional
-y enzimograma hepático. * Infeccioso: HIV; VDRL, serología para
-hepatitis. * Test de beta-HCG descartando embarazo (adolescente con
-reagudización de sintomatología). * Función tiroidea. * Tóxicos en
+y enzimograma hepático. - Infeccioso: HIV; VDRL, serología para
+hepatitis. - Test de beta-HCG descartando embarazo (adolescente con
+reagudización de sintomatología). - Función tiroidea. - Tóxicos en
 orina.
 
 Interconsultas con especialistas según hallazgos.
@@ -373,8 +373,8 @@ la agudeza del cuadro evaluaremos características propias del paciente,
 sus capacidades y motivaciones para la psicoterapia. De ser necesario
 realizaremos tests:
 
-* Tests de Personalidad: proyectivos (TAT, Rorschach), no proyectivos
-(MMPI). * Tests de Nivel (Wechsler).
+- Tests de Personalidad: proyectivos (TAT, Rorschach), no proyectivos
+(MMPI). - Tests de Nivel (Wechsler).
 
 En función de los hallazgos seleccionaremos el tipo de psicoterapia.
 
@@ -397,10 +397,10 @@ Indagar VD e historia de AS.
 
 Sintomático y etiológico. Objetivo: compensar el cuadro actual, tratamiento enfermedad de fondo con profilaxis de recidivas y complicaciones. El tratamiento será dinámico, adaptándose a la evolución clínica. El tratamiento salvo excepciones se realizará de forma ambulatoria: evitar la internación dentro de lo posible. Esta será indicada cuando:
 
-* Hay un IAE o alteraciones comportamentales que impliquen riesgo para sí o terceros. 
-* Se necesita aislamiento del foco conflictivo para combatir el beneficio secundario que refuerza la sintomatología (complicidad familiar inconsciente) 
-* Si el medio es poco continente y el cuadro es grave 
-* Para el tratamiento y control del síndrome depresivo y evitar sus complicaciones
+- Hay un IAE o alteraciones comportamentales que impliquen riesgo para sí o terceros. 
+- Se necesita aislamiento del foco conflictivo para combatir el beneficio secundario que refuerza la sintomatología (complicidad familiar inconsciente) 
+- Si el medio es poco continente y el cuadro es grave 
+- Para el tratamiento y control del síndrome depresivo y evitar sus complicaciones
 
 De internarse será breve por alta sugestionabilidad que hace que se alimente de las patologías de otros y la elevada tendencia a realizar un manejo del medio. Solo deberán autorizarse acompañantes más aptos, poco involucrado con los beneficios secundarios
 
@@ -410,12 +410,12 @@ De internarse será breve por alta sugestionabilidad que hace que se alimente de
 
 Tratamiento sintomático
 
-* Crisis: aislamiento con protección hasta que remita. Eventualmente puede usarse una benzodiacepina IM (Lorazepam 2mg i/m). Se debe
+- Crisis: aislamiento con protección hasta que remita. Eventualmente puede usarse una benzodiacepina IM (Lorazepam 2mg i/m). Se debe
 psicoeducar a la familia con respecto a las crisis para evitar que sean consideradas producto de una simulación. 
-* Ansiedad-angustia: Diazepam para disminuir el monto de ansiedad (5-5-10) a regular según evolución (opciones: Clonazepam, Bromazepam, Alprazolam [segunda línea por potencial generación de dependencia]). 
-* Depresión - ansiedad: ISRS -> sedativos (Paroxetina, Fluvoxamina) o no-sedativos (Sertralina, Citalopram, Fluoxetina) a dosis estándar. 
-* En caso de Disforia Histeroide, posibilidad de uso de IMAO: Moclobemida 300-600 mg/día (comp 150 mg) 
-* Síntomas seudoperceptivos: hay autores que plantean uso de NL a bajas dosis para síntomas seudoperceptivos: Haloperidol 1 mg/día. Otros autores que afirman que los NL están contraindicados, ya que la aparición de efectos secundarios puede agravar el cuadro preexistente. También se postula alto grado de imprevisibilidad en la respuesta al psicofármaco, incluso con reacciones paradojales
+- Ansiedad-angustia: Diazepam para disminuir el monto de ansiedad (5-5-10) a regular según evolución (opciones: Clonazepam, Bromazepam, Alprazolam [segunda línea por potencial generación de dependencia]). 
+- Depresión - ansiedad: ISRS -> sedativos (Paroxetina, Fluvoxamina) o no-sedativos (Sertralina, Citalopram, Fluoxetina) a dosis estándar. 
+- En caso de Disforia Histeroide, posibilidad de uso de IMAO: Moclobemida 300-600 mg/día (comp 150 mg) 
+- Síntomas seudoperceptivos: hay autores que plantean uso de NL a bajas dosis para síntomas seudoperceptivos: Haloperidol 1 mg/día. Otros autores que afirman que los NL están contraindicados, ya que la aparición de efectos secundarios puede agravar el cuadro preexistente. También se postula alto grado de imprevisibilidad en la respuesta al psicofármaco, incluso con reacciones paradojales
 
 .Psicológico
 
@@ -454,6 +454,6 @@ PVI y PPI: bueno con el tratamiento instituido (excepto por la posibilidad de le
 
 PVA y PPA: depende de:
 
-* Personalidad premórbida 
-* Situación ambiental 
-* Adhesión a psicoterapia
+- Personalidad premórbida 
+- Situación ambiental 
+- Adhesión a psicoterapia

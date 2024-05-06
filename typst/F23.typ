@@ -31,22 +31,22 @@ del pensamiento de ideas mórbidas incompartibles, irreductibles a la
 lógica, carentes de juicio de realidad, que le generan conductas, por lo
 que las catalogamos como ideas delirantes. Este delirio es:
 
-* Politemático: persecutorio, megalomaníaco, transformación corporal
+- Politemático: persecutorio, megalomaníaco, transformación corporal
 (sexual, envenenamiento, influencia, riqueza, potencia), elementos del
 Síndrome de influencia, automatismo mental, despersonalización. Destacar
-peligrosidad si corresponde. * A mecanismo múltiple: intuitivo,
-interpretativo, alucinatorio. ** Intuitivo: inmediatez irreflexiva, se
+peligrosidad si corresponde. - A mecanismo múltiple: intuitivo,
+interpretativo, alucinatorio. -- Intuitivo: inmediatez irreflexiva, se
 le presenta como verdad revelada ("de pronto me di cuenta que...").
-Aceptado sin crítica ni razonamiento. ** Alucinatorio: AAV, visuales,
+Aceptado sin crítica ni razonamiento. -- Alucinatorio: AAV, visuales,
 cenestésicas, táctiles, motoras (puede estar dentro de un SAM, siendo un
 elemento de mal pronóstico). Si hay alucinaciones olfativas plantear en
-DD causa orgánica (epilepsia temporal con crisis uncinadas). **
-Imaginativo: fantástico, basado en ficciones. ** Interpretativo: por
-inferencias y deducciones erróneas a partir de un hecho real. * Mal
+DD causa orgánica (epilepsia temporal con crisis uncinadas). --
+Imaginativo: fantástico, basado en ficciones. -- Interpretativo: por
+inferencias y deducciones erróneas a partir de un hecho real. - Mal
 sistematizado: sus componentes no guardan una lógica. Presente
 movilidad, carácter cambiante, mínima organización. Carente de hilo
 argumental: expresado sin orden, coherencia y claridad. Sin marcado
-poder de convicción. * Estructura: polimorfa.
+poder de convicción. - Estructura: polimorfa.
 
 Conductas generadas por el delirio.
 
@@ -54,12 +54,12 @@ Características del delirio: PAFaInVif
 
 Características del delirio:
 
-* Polimorfo: politemático, a mecanismo múltiple. * Adhesión: el paciente
-no puede desprenderse del contenido del delirio. * Fascinación: paciente
-fascinado por la experiencia. * Inefabilidad: hay incapacidad de
+- Polimorfo: politemático, a mecanismo múltiple. - Adhesión: el paciente
+no puede desprenderse del contenido del delirio. - Fascinación: paciente
+fascinado por la experiencia. - Inefabilidad: hay incapacidad de
 organizar el discurso delirante, no da cuenta del origen de la
-experiencia. * Vivido: el delirio es más vivido y actuado que relatado
-(sensible y actual). * Fluctuante, cambiante.
+experiencia. - Vivido: el delirio es más vivido y actuado que relatado
+(sensible y actual). - Fluctuante, cambiante.
 
 El delirio está constituido desde el inicio, sin trabajo elaborativo
 delirante (d’emblée), con intensificación parahípnica.
@@ -144,31 +144,31 @@ orden.
 En primer lugar, con otras psicosis de instalación aguda que se pueden
 presentar con delirio:
 
-* Manía delirante: AP y AF afectivos. Comparten el debut temprano, la
+- Manía delirante: AP y AF afectivos. Comparten el debut temprano, la
 existencia de una desestructuración de la conciencia, pudiendo haber
 inquietud motora, verborrea e ideación megalomaníaca en ambas. Pero en
 la PDA predomina el trastorno delirante sobre la afectación del humor,
 siendo la afectividad cambiante, oscilante, congruente con la temática
-delirante. No existe actitud lúdica ni verdadera con fuga de ideas. *
+delirante. No existe actitud lúdica ni verdadera con fuga de ideas. -
 Melacolía delirante (en caso de tener ideas con contenido depresivo). Lo
 descartamos por la ausencia de un síndrome depresivo. En la depresión
 suele haber un inicio más progresivo, centrado en el humor en menos, con
 IPM, DM y el delirio es TOMOPOADIR. En la PDA predomina el delirio pos
-sobre la alteración del humor. * Causa orgánica o medicamentosa:
+sobre la alteración del humor. - Causa orgánica o medicamentosa:
 descartaremos por la clínica y paraclínica, no existiendo datos en la
 historia (tiene más peso en un > 40 años, sin AF ni AP psiquiátricos).
-** Tóxica: intoxicación, uso o abstinencia de estimulantes del SNC,
+-- Tóxica: intoxicación, uso o abstinencia de estimulantes del SNC,
 alcohol, cocaína, anfetaminas, fenciclidina, alucinógenos,
 antidepresivos, corticoides, clonidina, otros medicamentos (isoniazida,
 AINEs, digitálicos, anticolinérgicos, L-Dopa, suspensión brusca de
-IMAO). Absinencia de OH, BZD. ** Endocrinológica: hipertiroidismo,
-Cushing. ** Metabólica: porfiria aguda, encefalopatía hepática, hipo /
-hipercalcemia. Enfermedad de Wilson. ** Nutricionales: pelagra, déficit
-de tiamina, déficit B12. ** Neurológica: tumores, TEC, hematoma
+IMAO). Absinencia de OH, BZD. -- Endocrinológica: hipertiroidismo,
+Cushing. -- Metabólica: porfiria aguda, encefalopatía hepática, hipo /
+hipercalcemia. Enfermedad de Wilson. -- Nutricionales: pelagra, déficit
+de tiamina, déficit B12. -- Neurológica: tumores, TEC, hematoma
 subdural, epilepsia (crisis parciales complejas), esclerosis múltiple,
-corea (Huntington), vascular. Demencias (Alzheimer, Pick). Ictus. **
+corea (Huntington), vascular. Demencias (Alzheimer, Pick). Ictus. --
 Infecciosa: meningitis, encefalopatía por HIV, encefalitis virales.
-Neurosífilis. ** Autoinmune: LES * Confusión mental o Delirium.
+Neurosífilis. -- Autoinmune: LES - Confusión mental o Delirium.
 Comparten la dificultad para ordenar la experiencia consciente actual,
 los falsos reconocimientos. Alejado por la falta de estructura onírica
 en el delirio, ausencia de perplejidad y ausencia de causa orgánica
@@ -338,7 +338,7 @@ agudas) en pacientes varones, jóvenes. En caso se puede plantear asociar
 antiparkinsonianos de entrada. Similares consideraciones en caso de AF
 de enfermedad de Parkinson o de AP de reacciones extrapiramidales.
 
-* Si no lo controlamos de éste modo, agregaremos un antiparkinsoniano de
+- Si no lo controlamos de éste modo, agregaremos un antiparkinsoniano de
 síntesis como el Biperideno 2 mg v/o H8 H14. Si hay distonías agudas:
 Biperideno 2 mg i/m c/8 hs que en 2-3 días se pasa a v/o.
 
@@ -375,9 +375,9 @@ amp im.
 
 Entrevistas diarias para:
 
-* promover alianza terapéutica * configurando un marco continentador y
-de apoyo * evaluando si hay la crítica del delirio. * investigando y
-reforzando aspectos sanos * evaluando facto desencadenante y estresores
+- promover alianza terapéutica - configurando un marco continentador y
+de apoyo - evaluando si hay la crítica del delirio. - investigando y
+reforzando aspectos sanos - evaluando facto desencadenante y estresores
 ambientales
 
 Valorar la posibilidad de psicoterapia una vez superado el cuadro
@@ -398,9 +398,9 @@ recaídas.
 
 Se efectuará una vez logrado:
 
-* Remisión total o considerable de la sintomatología delirante *
-Aparición de crítica * Normalización de las CB, la afectividad y el
-autocuidado * Ausencia de ideación suicida
+- Remisión total o considerable de la sintomatología delirante -
+Aparición de crítica - Normalización de las CB, la afectividad y el
+autocuidado - Ausencia de ideación suicida
 
 Una vez lograda la remisión otorgaremos el alta hospitalaria con
 Haloperidol 5 mg v/o H8 y H20 (con la dosis con que se obtuvo mejoría)
@@ -424,61 +424,61 @@ Pensamos obtener la remisión del cuadro actual con el tratamiento
 instituido. El pronóstico dependerá de la adhesión al tratamiento y
 controles pautados.
 
-* PVI: sujeto a riesgos vitales que impliquen sus conductas delirantes.
-Posibilidad de instalación de depresión postpsicótica. * PPI y PPA:
+- PVI: sujeto a riesgos vitales que impliquen sus conductas delirantes.
+Posibilidad de instalación de depresión postpsicótica. - PPI y PPA:
 puede ser variable.
 
 Evolución:
 
 50% evolucionan favorablemente 50% restante:
 
-* intermitente con repetición de episodios similares * evolución a
-cuadros afectivos * evolución a psicosis crónica tipo esquizofrenia
+- intermitente con repetición de episodios similares - evolución a
+cuadros afectivos - evolución a psicosis crónica tipo esquizofrenia
 
 Este paciente presenta elementos de buen/mal pronóstico:
 
 Buen pronóstico:
 
-* profunda alteración de la conciencia. Gran desestructuración (cuanto
+- profunda alteración de la conciencia. Gran desestructuración (cuanto
 más confuso mejor pronóstico)
-* brusquedad del inicio delirio
-* breve duración de las crisis
-* polimorfismo
-* buena respuesta al tratamiento
-* trastornos del humor
-* intensamente vivenciado
-* AP de cuadro similares breves con buena respuesta
-* reactividad del cuadro
-* AP de RAP grupo B, sobre todo histriónicos (dramatización,
+- brusquedad del inicio delirio
+- breve duración de las crisis
+- polimorfismo
+- buena respuesta al tratamiento
+- trastornos del humor
+- intensamente vivenciado
+- AP de cuadro similares breves con buena respuesta
+- reactividad del cuadro
+- AP de RAP grupo B, sobre todo histriónicos (dramatización,
 teatralidad).
-* riqueza imaginativa
-* alteración de CB
+- riqueza imaginativa
+- alteración de CB
 
 Mal pronóstico:
 
-* automatismo mental importante
-* presencia de elementos de SDD
-* sistematización del delirio
-* duración de las crisis
-* elementos centrados en la corporeidad / hipocondríacos
-* resistencia a la terapéutica o abandonos de tratamientos
-* AP de RAP grupo A (s/t esquizoide)
-* aplanamiento afectivo
-* AF de psicosis crónica
-* persistencia de estresores ambientales / mala continentación
+- automatismo mental importante
+- presencia de elementos de SDD
+- sistematización del delirio
+- duración de las crisis
+- elementos centrados en la corporeidad / hipocondríacos
+- resistencia a la terapéutica o abandonos de tratamientos
+- AP de RAP grupo A (s/t esquizoide)
+- aplanamiento afectivo
+- AF de psicosis crónica
+- persistencia de estresores ambientales / mala continentación
 socio-familiar
 
 ===== Notas psicosis puerperal
 
 En caso de psicosis puerperal:
 
-* riesgo inicial 1/500 primíparas * en lo subsiguientes partos: 1/3
+- riesgo inicial 1/500 primíparas - en lo subsiguientes partos: 1/3
 
 Depresión puerperal no psicótica = 10-15
 
 Etiología:
 
-* hormonal * factores psicosociales: estrés, cambios vitales por
+- hormonal - factores psicosociales: estrés, cambios vitales por
 emabrazo (matrimonio, roles). Psicoanálisis: pérdida narcisita del yo
 independiente.
 

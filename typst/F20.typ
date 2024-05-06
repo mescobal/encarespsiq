@@ -4,149 +4,102 @@
 
 ==== Historia
 
-===== Hebefrenia de Hecker Eclosión en la pubertad. Su estado terminal
-permite calificarlo como "estupidez" hebefrénica. Tendencia a la
-actividad exagerada y a menudo extravagante, conducta errática y absurda
-con tendencia al vagabundeo, extravagancias, de carácter cambiante,
-relato pueril (humoradas bobas, elucubraciones fantásticas pueriles).
-Anomalías en la construcción de frases, modo de expresión y lenguaje
-descendido bastante por debajo del nivel de educación alcanzado
-previamente. Propensión a desbordes verbales, frases huecas y ampulosas.
+===== Hebefrenia de Hecker
+Eclosión en la pubertad. Su estado terminal permite calificarlo como "estupidez" hebefrénica. 
+Tendencia a la actividad exagerada y a menudo extravagante, conducta errática y absurda con tendencia al vagabundeo, extravagancias, de carácter cambiante, relato pueril (humoradas bobas, elucubraciones fantásticas pueriles).
+Anomalías en la construcción de frases, modo de expresión y lenguaje descendido bastante por debajo del nivel de educación alcanzado previamente. Propensión a desbordes verbales, frases huecas y ampulosas.
 Aparición precoz de "debilitamiento intelectual".
 
-===== Catatonía de Kahlbaum Recibe el nombre de su alteración motora :
-"locura del tono muscular". Síntomas psíquicos: patetismo (exaltación
-teatral, forma de éxtasis religioso trágico). Discordancia entre la
-expresión afectiva y el contenido del discurso. Verbigeración: emisión
-repetida de palabras y frases desprovistas de significación. Mutismo:
-síntoma opuesto al anterior. Negativismo. Síntomas somáticos.
-Flexibilidad cérea. Accesos epileptiformes o histeriformes.
+===== Catatonía de Kahlbaum
+Recibe el nombre de su alteración motora: "locura del tono muscular".
 
-===== Kraepelin y la demencia precoz Considera que la enfermedad mental
-se individualiza y define por su evolución: el verdadero diagnóstico es
-el que permite un pronóstico preciso, sólo la evolución puede confirmar
-el diagnóstico y por lo tanto fundamentarlo (la enfermedad sólo puede
-ser definida por su estado terminal). Demencia precoz : estado mórbido
-que implica un menoscabo marcado de la vida afectiva y de la voluntad
-que evoluciona hacia una disgregación completa de la personalidad.
-Pérdida de la dirección sobre la voluntad y la capacidad de actuar en
-forma independiente. Pérdida de la unidad interna de las actividades del
-intelecto, de las emociones y de la voluntad (en sí mismas y entre unas
-y otras). Equivale a la pérdida de la coordinación intrapsíquica de
-Stransky y al trastorno de las asociaciones de Bleuler.
+Síntomas psíquicos: patetismo (exaltación teatral, forma de éxtasis religioso trágico). Discordancia entre la
+expresión afectiva y el contenido del discurso.
 
-==== Formas clínicas * Hebefrénica : postpuberal, puerilismo, pasividad,
-comportamiento inadecuado, acentuada disgregación de la personalidad. *
-Catatónica * Paranoide : gran actividad delirante alucinatoria.
+Verbigeración: emisión repetida de palabras y frases desprovistas de significación.
+
+Mutismo: síntoma opuesto al anterior.
+
+Negativismo.
+
+Síntomas somáticos.
+
+Flexibilidad cérea.
+
+Accesos epileptiformes o histeriformes.
+
+===== Kraepelin y la demencia precoz
+Considera que la enfermedad mental se individualiza y define por su evolución: el verdadero diagnóstico es el que permite un pronóstico preciso, sólo la evolución puede confirmar el diagnóstico y por lo tanto fundamentarlo (la enfermedad sólo puede ser definida por su estado terminal). Demencia precoz : estado mórbido que implica un menoscabo marcado de la vida afectiva y de la voluntad que evoluciona hacia una disgregación completa de la personalidad. 
+
+Pérdida de la dirección sobre la voluntad y la capacidad de actuar en forma independiente. Pérdida de la unidad interna de las actividades del intelecto, de las emociones y de la voluntad (en sí mismas y entre unas y otras). Equivale a la pérdida de la coordinación intrapsíquica de Stransky y al trastorno de las asociaciones de Bleuler.
+
+==== Formas clínicas - Hebefrénica : postpuberal, puerilismo, pasividad,
+comportamiento inadecuado, acentuada disgregación de la personalidad. -
+Catatónica - Paranoide : gran actividad delirante alucinatoria.
 
 Forma paranoide atenuada : Parafrenia
 
 Parafrenias: no presentan empobrecimiento afectivo ni trastorno de la
 voluntad / armonía interna de la vida psíquica bastante conservada /
-inicio en la vida media / desarrollo lento y continuo de persecución y
+inicio en la vida media / desarrollo lento y continuo de persecución y1
 de exaltación.
 
-* Sistemática : inicio insidioso de un delirio de persecución progresivo
-+ ideas de exaltación sin decaimiento de la personalidad. Luego se
-agregan alucinaciones auditivas e ideas de in-fluencia. Pragmatismo
-laboral conservado * Expansiva: megalomanía exuberante con exaltación
-del humor, erotomanía (s/t en mujeres), también ideación delirante
-mística, aparición más precoz de alucinaciones y alteración pragmática
-pero se conserva un comportamiento dócil y razonable sin desintegración
-de la personalidad. * Confabulatoria : seudorecuerdos, experiencia
-delirante de índole extraordinaria, ideas de persecución,
-reinterpretación de su biografía, descendencia de la realeza o
-personajes históricos. * Fantástica: delirios exuberantes,
-extraordinarios, inconexos y cambiantes, ideas de persecución, viajes
-extraordinarios. Independencia nosográfica controvertida: un seguimiento
-en 1921 comprobó que 40% desarrollaron signos claros de demencia precoz
-/ cobró fuerza la idea de que sería una variante de la esquizofrenia que
-compromete menos la personalidad por su edad de comienzo tardía
+- Sistemática : inicio insidioso de un delirio de persecución progresivo + ideas de exaltación sin decaimiento de la personalidad. Luego se agregan alucinaciones auditivas e ideas de influencia. Pragmatismo
+laboral conservado 
+- Expansiva: megalomanía exuberante con exaltación del humor, erotomanía (s/t en mujeres), también ideación delirante mística, aparición más precoz de alucinaciones y alteración pragmática pero se conserva un comportamiento dócil y razonable sin desintegración de la personalidad.
+- Confabulatoria : seudorecuerdos, experiencia delirante de índole extraordinaria, ideas de persecución, reinterpretación de su biografía, descendencia de la realeza o personajes históricos. 
+- Fantástica: delirios exuberantes, extraordinarios, inconexos y cambiantes, ideas de persecución, viajes extraordinarios.
+
+Independencia nosográfica controvertida: un seguimiento en 1921 comprobó que 40% desarrollaron signos claros de demencia precoz. Cobró fuerza la idea de que sería una variante de la esquizofrenia que compromete menos la personalidad por su edad de comienzo tardía
 
 ==== Bleuler y la esquizofrenia
 
-Introduce el término en 1911 Diferencia c/ Kraepelin: privilegio del
-cuadro de estado intentando determinar los elementos de éste que
-permiten hacer el diagnóstico precozmente sin necesidad de esperar la
-evolución. Critica concepto de Demencia Precoz: no todos llegan a
-deterioro, si llega no siempre lo hace precozmente. Pone de relieve la
-escisión (Spaltung) como trastorno fundamental de la esquizofrenia / en
-su opinión la escisión de las funciones psíquicas es una de las
-características + relevantes / concepto ya presente en la obra de otros
-autores : Stransky (ataxia intrapsíquica), Chaslin (locura discordante).
-Pese a utilizar el término en singular para él es evidente que se trata
-de un grupo que incluye varias enfermedades. Concepto que vuelve +
-imprecisos los límites con los trastornos de la personalidad y con la
-normalidad, permitiendo que los pacientes sean considerados personas
-menos extrañas y + cercanas a la experiencia normal (esquizofrenia
-latente). Definición : grupo de psicosis cuyo curso es a veces crónico y
-a veces está marcado por ataques intermitentes, pudiendo detenerse o
-retroceder en cualquier etapa, pero que no permite una completa
-restitutio ad integrum. Presenta un tipo específico de alteración del
-pensamiento, afectos y relación con el mundo exterior que no aparece en
-ningún otro trastorno bajo esta forma particular. Trastorno en la unidad
-de la persona: insuficiente integración de los diferentes impulsos, las
-ideas se elaboran parcialmente y se pone en relación de una manera
-ilógica a fragmentos de ellas para constituir una nueva idea. Alteración
-en el proceso de asociación: opera c/ meros fragmentos de ideas y
-conceptos llevando a asociaciones extrañas e imprevisibles; bloqueo:
-detención o cese del flujo de pensamiento en el intento de pasar a otra
-idea, afloran nuevas ideas que ni el paciente ni el observador pueden
-relacionar con la corriente anterior de pensamiento. No hay una
-alteración 1ª de percepción, orientación ni memoria. Afectividad :
-carente de expresión emocional, res-puestas afectivas exageradas,
-inadecuada. Síntomas accesorios que tienen su carácter esquizofrénico
-específico: delirios, alucinaciones, confusión, estupor, manía,
-melancolía, síntomas catatónicos.
+Introduce el término en 1911 Diferencia c/ Kraepelin: privilegio del cuadro de estado intentando determinar los elementos de éste que permiten hacer el diagnóstico precozmente sin necesidad de esperar la evolución. 
+Critica concepto de Demencia Precoz: no todos llegan a deterioro, si llega no siempre lo hace precozmente. Pone de relieve la escisión (Spaltung) como trastorno fundamental de la esquizofrenia.
+En su opinión la escisión de las funciones psíquicas es una de las características más relevantes, concepto ya presente en la obra de otros autores : Stransky (ataxia intrapsíquica), Chaslin (locura discordante).
+Pese a utilizar el término en singular para él es evidente que se trata de un grupo que incluye varias enfermedades. Concepto que vuelve más imprecisos los límites con los trastornos de la personalidad y con la normalidad, permitiendo que los pacientes sean considerados personas menos extrañas y cercanas a la experiencia normal (esquizofrenia latente).
 
-==== Síntomas fundamentales
+Definición : grupo de psicosis cuyo curso es a veces crónico y a veces está marcado por ataques intermitentes, pudiendo detenerse o retroceder en cualquier etapa, pero que no permite una completa restitutio ad integrum. Presenta un tipo específico de alteración del pensamiento, afectos y relación con el mundo exterior que no aparece en ningún otro trastorno bajo esta forma particular.
+Trastorno en la unidad de la persona: insuficiente integración de los diferentes impulsos, las ideas se elaboran parcialmente y se pone en relación de una manera ilógica a fragmentos de ellas para constituir una nueva idea. 
+Alteración en el proceso de asociación: opera con meros fragmentos de ideas y conceptos llevando a asociaciones extrañas e imprevisibles; bloqueo: detención o cese del flujo de pensamiento en el intento de pasar a otra idea, afloran nuevas ideas que ni el paciente ni el observador pueden relacionar con la corriente anterior de pensamiento.
+No hay una alteración primaria de la percepción, orientación ni memoria. Afectividad : carente de expresión emocional, res-puestas afectivas exageradas, inadecuada.
+Síntomas accesorios que tienen su carácter esquizofrénico específico: delirios, alucinaciones, confusión, estupor, manía, melancolía, síntomas catatónicos.
 
-Presentes en todos los casos y durante todos los períodos de la
-enfermedad.
+===== Síntomas fundamentales
+
+Presentes en todos los casos y durante todos los períodos de la enfermedad.
 
 TIP: AAAA: asociación, afectividad, ambivalencia, autismo
 
-===== Trastorno de la Asociación
+====== Trastorno de la Asociación
 
-Rotura del hilo asociación por lo que el pensamiento se hace ilógico, el
-pensamiento opera con ideas o conceptos no relacionados o que tienen
-relación insuficiente con la idea principal, y que por lo tanto deberían
-ser excluidos del proceso mental. Bloqueo : pérdida de todos los
-procesos asociativos, actividad asociativa parece hacer un alto brusco y
-completo: "cierre de una llave de paso". Al reanudarse la corriente de
-pensamiento las ideas que sur-gen guardan escasa o nula relación con las
-preceden-tes, a veces el paciente lo atribuye a influencia extraña.
-Conexiones accidentales, condensaciones, asociación por el sonido,
-asociaciones intermedias, persistencia de la idea (estereotipias)
+Rotura del hilo asociación por lo que el pensamiento se hace ilógico, el pensamiento opera con ideas o conceptos no relacionados o que tienen relación insuficiente con la idea principal, y que por lo tanto deberían ser excluidos del proceso mental.
 
-===== Trastorno de la Afectividad
+Bloqueo : pérdida de todos los procesos asociativos, actividad asociativa parece hacer un alto brusco y
+completo: "cierre de una llave de paso".
+Al reanudarse la corriente de pensamiento las ideas que surgen guardan escasa o nula relación con las precedentes, a veces el paciente lo atribuye a influencia extraña. 
+Conexiones accidentales, condensaciones, asociación por el sonido, asociaciones intermedias, persistencia de la idea (estereotipias).
 
-Más grave : desaparición de las emociones / - grave : indiferencia
-afectiva Alteración en la coherencia de la manifestación afectiva /
-inadecuada o incongruente en relación al relato / alteración en la
-modulación afectiva (afectos aparecen rezagados con la idea y pueden
-prolongarse patológicamente)
+====== Trastorno de la Afectividad
 
-===== Ambivalencia
+Más grave : desaparición de las emociones. Menos grave : indiferencia afectiva Alteración en la coherencia de la manifestación afectiva, inadecuada o incongruente en relación al relato.
+Alteración en la modulación afectiva (afectos aparecen rezagados con la idea y pueden prolongarse patológicamente)
 
-Otorga a los contenidos psíquicos un índice positivo y otro negativo al
-mismo tiempo Afectiva : coexistencia simultánea de sentimientos
-agradables y desagradables Voluntad (ambitendencia) : actos que no
-alcanzan su finalidad Intelectual
+====== Ambivalencia
 
-===== Autismo
+Otorga a los contenidos psíquicos un índice positivo y otro negativo al mismo tiempo.
+Afectiva : coexistencia simultánea de sentimientos agradables y desagradables.
+Voluntad (ambitendencia) : actos que no alcanzan su finalidad.
 
-Desapego de la realidad junto al predominio, absoluto o relativo, de la
-vida interior / equivale a Freud (autoerotismo), Janet (pérdida de la
-función de lo real) + graves: suspenden contacto con el mundo exterior y
-se encierran en sus deseos o se ocupan de las tribulaciones de sus ideas
-persecutorias. - graves: mantienen capacidad de desenvolverse en el
-mundo exterior pero ni la evidencia ni la lógica influyen sobre sus
-esperanzas o ideas delirantes. A veces los pacientes perciben la
-desviación de su pensamiento hacia uno autista experimentándolo como
-penoso.
+====== Autismo
 
-==== Síntomas accesorios
+Desapego de la realidad junto al predominio, absoluto o relativo, de la vida interior. Equivale a Freud (autoerotismo), Janet (pérdida de la función de lo real).
+
+Formas más graves: suspenden contacto con el mundo exterior y se encierran en sus deseos o se ocupan de las tribulaciones de sus ideas persecutorias.
+
+Formas menos graves: mantienen capacidad de desenvolverse en el mundo exterior pero ni la evidencia ni la lógica influyen sobre sus esperanzas o ideas delirantes.
+
+===== Síntomas accesorios
 
 Pueden faltar en ciertos períodos o nunca estar presentes / otras veces
 pueden dominar el cuadro clínico. Pueden aparecer también en otras
@@ -157,9 +110,9 @@ familiar y requiriendo la atención psiquiátrica. síndrome delirante
 alucinatorio / alteración de len-guaje y escritura / síntomas somáticos
 y catatónicos / síndrome de alteración de conciencia
 
-Subgrupos
+===== Subgrupos
 
-Paranoide
+===== Paranoide
 
 Inicio x lo general gradual, desrealización y despersonalización,
 autorreferencia (relaciona c/ él sucesos completamente neutros). Al
@@ -169,19 +122,19 @@ de EPM. En otras, inicio súbito: ``rayo en cielo despejado'', buscar
 siempre prodromos sutiles, oscilaciones prominentes a línea de base y
 alejamiento de ésta, ideas persecutorias, de grandeza, eróticas.
 
-Catatónico
+===== Catatónico
 
 Por lo gral inicio por EPM / pasaje de estupor a estados catalépticos /
 tb puede empezar x sd paranoide / raro curso crónico, por lo general
 periódico
 
-Hebefrenia
+===== Hebefrenia
 
 Característica tendencia al deterioro y la "demencia" / para Bleuler la
 cuestión de la edad es irrelevante / sería una categoría residual donde
 previa-mente hay que descartar otros subtipos
 
-Simple
+===== Simple
 
 Debilitamiento afectivo e intelectual progresivo / deterioro de la
 voluntad, capac de trabajo y cuidado de sí mismos / evolucionan a
@@ -189,94 +142,33 @@ voluntad, capac de trabajo y cuidado de sí mismos / evolucionan a
 ambición e iniciativa Se encuentran poco en hospitales : vagabundos,
 jornaleros, criados / excéntricos, salvadores del mundo
 
-Minkowski
+==== Minkowski
 
-Considera que la perturbación esencial de la esquizofrenia es la pérdida
-de contacto vital con la realidad, no el trastorno asociativo.
-Esquizoidismo vs sintonía Vínculo entre los temperamentos y las
-constituciones y su relación con la patología / previo al inicio
-manifiesto de la psicosis, en el pasado del individuo, se proyectan los
-rasgos esenciales de ésta : las cosas son así porque ya lo eran
-anteriormente Conceptos emparentados c/ esquizofrenia latente de Bleuler
-y esquizoidismo de Kretschmer Actitud respecto al ambiente : rasgo
-esencial para dx diferencial entre las dos grandes entidades
-nosográficas descritas por Kraepelin Espectro esquizofrénico se mueve
-entre los dos polos : hiperestesia / anestesia afectiva : "no es
-demasiado sensible o demasiado frío, sino que es las dos cosas a la vez"
-El maníaco depresivo permanece sintónico respecto al ambiente mientras
-que el esquizofrénico ya no lo es (incapaz de vibrar al unísono c/ el
-ambiente y permanecer en contacto c/ la realidad) El contacto vital con
-la realidad Tanto en Kraepelin como en Bleuler hay una fusión de formas
-clínicas diversas en una misma noción / introduce el concepto de pérdida
-de contacto vital c/ la realidad como perturbación fundamental La
-enfermedad no ataca tal o cual función, sino a su cohesión, a su juego
-armonioso de conjunto : así lo revelan Chaslin (discordancia), Stransky
-(ataxia intrapsíquica), Kraepelin (pérdida de la unidad interior),
-Bleuler (esquizofrenia) Metáforas : "máquina sin combustible" (Chaslin)
-/ "libro desprovisto de encuadernación" cuyas páginas están mezcladas y
-en desorden, pero sin que ninguna falte (Anglade) La noción de autismo,
-fact referentes a las relac c/ el ambiente, la ausencia de fines reales,
-de ideas directrices y de contacto afectivo convergen hacia la noción de
-pérdida de contacto vital c/ la realidad El autismo 1. PENSAMIENTO
-autístico : no trata de adaptarse a la realidad, por el contrario, está
-apartado de ésta / opuesto al pensamiento realista que trata de
-adaptarse a la realidad tratando de alcanzar el máximo de valor
-pragmático "No busca ni ser comunicado a los demás de una manera
-comprensible, ni dirigir la conducta conforme a las exigencias de la
-realidad...Sólo tiene un alcance subjetivo; sirve sólo al individuo y
-única-mente cuando está apartado de la realidad; así puede hacer uso
-libremente de signos y de procedimientos especiales, que pueden volverlo
-más rápido, más cómodo, más apropiado a los caracteres particulares de
-los complejos que expresa" Mecanismo similar al de los sueños / da
-preferencia a su mundo imaginario en detrimento de la realidad, lo que
-se traduce exteriormente por una actitud de hostilidad, pasividad e
-inmovilidad respecto al ambiente 2. no son seres pasivos y replegados
-sobre sí mismos, también OBRAN y esa actividad lleva un sello
-profundamente mórbido que por sí sola traduce la perturbación
-esquizofrénica Realiza su acto o su obra en el mundo ambiente, sin
-preocuparse de las exigencias de éste, como si en realidad ese mundo no
-existiera en absoluto El autismo radica en la pérdida de contacto vital
-c/ la realidad El ciclo de la actividad personal Impulso personal :
-"agresión y retirada" del ambiente c/ post integración a la realidad
-Cuando se quiere crear algo absolutamente personal y no se quiere más
-que eso, la obra no se integra a la realidad y no se hace más
-revolucionaria o más original, sino que se degrada y no es sino el gesto
-de un enfermo Ruptura del contacto íntimo con el devenir ambiente,
-opuesto a la sintonía presente en PMD Formas (todos carecen de
-finalidad) Actos sin proyección en el mañana Actos atiesados Actos en
-cortocircuito o al margen Actos que no tratan de terminar Egocentrismo
-activo . tendencia a hacer del propio yo el campo de una actividad
-incesante
+Considera que la perturbación esencial de la esquizofrenia es la pérdida de contacto vital con la realidad, no el trastorno asociativo.
+Esquizoidismo vs sintonía Vínculo entre los temperamentos y las constituciones y su relación con la patología / previo al inicio manifiesto de la psicosis, en el pasado del individuo, se proyectan los rasgos esenciales de ésta : las cosas son así porque ya lo eran anteriormente Conceptos emparentados c/ esquizofrenia latente de Bleuler y esquizoidismo de Kretschmer
+
+El maníaco depresivo permanece sintónico respecto al ambiente mientras que el esquizofrénico ya no lo es (incapaz de vibrar al unísono c/ el ambiente y permanecer en contacto vital con la realidad).
+
+La enfermedad no ataca tal o cual función, sino a su cohesión, a su juego armonioso de conjunto : así lo revelan Chaslin (discordancia), Stransky (ataxia intrapsíquica), Kraepelin (pérdida de la unidad interior), Bleuler (esquizofrenia) Metáforas : "máquina sin combustible" (Chaslin) / "libro desprovisto de encuadernación" cuyas páginas están mezcladas y en desorden, pero sin que ninguna falte (Anglade).
+
+===== El autismo
+No trata de adaptarse a la realidad, por el contrario, está apartado de ésta / opuesto al pensamiento realista que trata de adaptarse a la realidad tratando de alcanzar el máximo de valor pragmático "No busca ni ser comunicado a los demás de una manera comprensible, ni dirigir la conducta conforme a las exigencias de la realidad. Sólo tiene un alcance subjetivo; sirve sólo al individuo y únicamente cuando está apartado de la realidad; así puede hacer uso libremente de signos y de procedimientos especiales, que pueden volverlo más rápido, más cómodo, más apropiado a los caracteres particulares de los complejos que expresa"
 
 Crow
 
-Subtipos no son identificados por el cuadro clínico de estado sino por
-otras medidas clínicas o biológicas como la respuesta al tratamiento o
-la evidencia de alteraciones estructurales del cerebro Sínt (+) :
-alucinaciones / delirio / trast formales del pensam (buena respuesta a
-NL) Sínt (-) : aplanam afectivo / pobreza del discurso / apatía /
-retraimiento social (resp nula o pobre a NL) Escalas para determinar
-ambos tipos de sínt : SANS - SAPS / PANSS Crow : en crónicos : resist a
-los efectos de drogas de tipo anfetamínico / trast cognitivos / aumento
-del tamaño ventricular en la TAC / marcados sínt negativos 1980 : (a) sd
-tipo I : "esquizofrenia aguda" : sínt (+) / alt en transmisión
-dopaminérgica / potencialmente reversibles / predictores de buena
-respuesta al tto NL / pueden ser seguidos x el desarrollo de sd tipo II
-o presentarse combinados (b) sd tipo II : "estado defectual" : sínt (-)
-/ asoc a trast cognitivos y cambios estructurales del cerebro / por lo
-gral indican irreversibilidad y mala evolución a largo plazo / pobre
-resp a NL Andreasen : esquizofrenia (+) / (-) : pobreza del discurso,
-del afecto y del contenido del pensam, retardo psicomotor y anhedonia /
-mixta / creó escalas SANS y SAPS Carpenter : diferencia sg deficitarios
-1º de 2º a otra condición ya que los considera como inespecíficos
-Criterios dx para esquizofr deficitaria : 1. Se cumplen los criterios
-para Esquizofrenia 2. sínt deficitarios : afecto restringido / <
-fluctuaciones emocionales / pobreza del discurso con < interés y
-curiosidad / < sent de finalidad / < impulso social 3. no totalmente
-explicados por : autoprotección frente a los sínt (+) / depresión -
-ansiedad - disforia / fármacos / deprivación ambiental 4. criterio
-longitudinal : 2 de los síntomas están presentes en los 12 meses previos
-B.
+Subtipos no son identificados por el cuadro clínico de estado sino por otras medidas clínicas o biológicas como la respuesta al tratamiento o la evidencia de alteraciones estructurales del cerebro
+
+Síntomas (+): alucinaciones / delirio / trast formales del pensam (buena respuesta a NL) 
+
+Síntomas (-): aplanamiento afectivo / pobreza del discurso / apatía / retraimiento social (resp nula o pobre a NL)
+
+Escalas para determinar ambos tipos de sínt : SANS - SAPS / PANSS
+
+Crow : en crónicos : resistencia a los efectos de drogas de tipo anfetamínico / trast cognitivos / aumento del tamaño ventricular en la TAC / marcados sínt negativos 1980 :
+
+(a) sd tipo I : "esquizofrenia aguda" : sínt (+) / alt en transmisión dopaminérgica / potencialmente reversibles / predictores de buena respuesta al tto NL / pueden ser seguidos x el desarrollo de sd tipo II o presentarse combinados
+
+(b) sd tipo II : "estado defectual" : sínt (-) / asoc a trast cognitivos y cambios estructurales del cerebro / por lo gral indican irreversibilidad y mala evolución a largo plazo / pobre resp a NL Andreasen : esquizofrenia (+) / (-) : pobreza del discurso, del afecto y del contenido del pensam, retardo psicomotor y anhedonia / mixta / creó escalas SANS y SAPS
 
 === Encare
 
@@ -284,164 +176,68 @@ B.
 
 ===== Síndrome disociativo-discordante
 
-Ambos términos son equivalentes, intentan poner orden a un "caos" y
-califican el mismo fenómeno mórbido que consiste en la descomposición o
-ruptura de la vida psíquica con pérdida de la integración armónica de
-los campos constitutivos de la persona, afectando conducta,
-humor-afectividad y pensamiento, que se manifiesta al observador por 4
-síntomas capitales:
+Ambos términos son equivalentes y califican el mismo fenómeno mórbido que consiste en la descomposición (ruptura, disociación) de la vida psíquica, con pérdida de la integración armónica de los campos constitutivos de la persona, afectando conducta, humor-afectividad y pensamiento, que se manifiesta al observador por 4 síntomas capitales:
 
-Impenetrabilidad: hermetismo y tonalidad enigmática que caracteriza al
-desorganizado mundo del sujeto por lo cual no se encuentra sentido a sus
-expresiones. Desapego: vuelta del sujeto sobre sí mismo, con abandono a
-la ensoñación interior , en la cual afectos e intereses no se vuelcan en
-la realidad. Ambos síntomas (impenetrabilidad y desapego) evocan la
-retracción a un mundo autista. Ambivalencia: antagonismo simultáneo y
-sucesivo de 2 experiencias contradictorias sin que el paciente capte
-contradicción alguna, objetivable por terceros, lo que configura una
-ambivalencia psicótica. Extravagancia: carácter insólito, bizarro e
-incomprensible para el observador de conductas, palabras y afectos
-expresados.
+- Impenetrabilidad: hermetismo y tonalidad enigmática que caracteriza al desorganizado mundo del sujeto por lo cual no se encuentra sentido a sus expresiones. Pensamiento oscuro, enmarañado, incoherente, caótico, con pérdida de la secuencia asociativa lógica, con pararrespuestas, alteraciones fonéticas, sintácticas y semánticas, neologismos. Reacciones afectivas incomprensibles, inmotivadas, respuestas emocionales paradojales.
 
-Se manifiestan en: pensamiento, afecto y conducta. Pensamiento
-Impenetrabilidad: pensamiento: oscuro, enmaraña-do, incoherente,
-caótico, con pérdida de la secuencia asociativa lógica que nos muestra
-un trastorno asociativo a este nivel, junto a las pararrespuestas,
-alteraciones fonéticas, sintácticas y semánticas (neologismos).
+- Desapego: vuelta del sujeto sobre sí mismo, con abandono  a la ensoñación interior , en la cual afectos e intereses no se vuelcan en la realidad. Ambos síntomas (impenetrabilidad y desapego) evocan la retracción a un mundo autista. A nivel del lenguaje, se produce un desvío de su legítima función, no estando destinado a establecer contacto con el entrevistador. Incapacidad de vibrar con el relato, dificultad en el encuentro. Indiferencia. Grado máximo dedesapego: -atimormia- (desinterés afectivo, apariencia desvitalizada, inercia aparente, interrupción del continuo intercambio entre el mundo y el sujeto).
 
-Desapego: este "modo" de pensamiento responde a un simbolismo mágico
-interno, que lleva al lenguaje a un desvío de su legítima función, no
-estando destinado a establecer contacto con el entrevistador.
+- Ambivalencia: antagonismo simultáneo y sucesivo de 2 experiencias contradictorias sin que el paciente capte contradicción alguna, objetivable por terceros, lo que configura una ambivalencia psicótica. Ambitendencia: ambivalencia conductual.
 
-Extravagancia: en las explicaciones que da a su motivo de ingreso.
+- Extravagancia: carácter insólito, bizarro e incomprensible para el observador de conductas, palabras y afectos expresados. Manifestaciones paradójicas y desconcertantes.
 
-Ambivalencia: su relato está poblado de contradicciones.
 
-: IDEA: Impenetrabilidad Desapego Extravagancia Ambivalencias
+TIP: IDEA: Impenetrabilidad Desapego Extravagancia Ambivalencias
 
-Estas alteraciones nos muestran una ataxia intrapsíquica, hecho
-fundamental de la discordancia del pensamiento, en la cual, pese a la no
-existencia de un déficit intelectual, está profundamente alterado el uso
-y la eficacia de sus operaciones intelectuales. Afectividad
-Impenetrabilidad: se manifiesta por las relaciones afectivas
-incomprensibles (bruscas reacciones emocionales, calma inexplicable) que
-escapan a toda comprensión de su motivación psicológica. Las expresiones
-provienen de un mundo interior hermético, resultando enigmáticas al
-observador. Resp emocionales paradojales
+Estas alteraciones nos muestran una ataxia intrapsíquica, hecho fundamental de la discordancia del pensamiento, en la cual, pese a la no existencia de un déficit intelectual, está profundamente alterado el uso y la eficacia de sus operaciones intelectuales. 
 
-Desapego: se manifiesta por la incapacidad de vibrar con el relato, la
-dificultad en el encuentro, la indiferencia. Atimormia: desinterés
-afectivo, apariencia desvitalizada, inercia aparente, interrupción del
-continuo intercambio entre el mundo y el sujeto. Intento de negar la
-afectividad, de destruir su significación (grado máximo de desapego).
+===== Síndrome catatónico
 
-Extravagancia: está dada por las manifestaciones paradójicas y
-absolutamente desconcertantes: odio feroz por un niño pequeño, deseo
-incontrolable de poseer un piano en una casa chica, pánico ante una
-corbata azul.
+Máximo de discordancia en la psicomotricidad. CINE MIE 
 
-Ambivalencia: se observa en la presencia simultánea de deseos de abrazar
-y escapar de su novia. Conductas: Impenetrabilidad: en cuanto a su
-motivación psicológica.
-
-Desapego: actos desvitalizados, ruptura con el de-venir ambiente,
-acciones absolutamente personales, "obrar autístico"
-
-Extravagancia: muestra liberación de pulsiones (conductas alimentarias,
-excrementos, sexuales)
-
-Ambivalencia: con ambitendencia síndrome catatónico Destacamos en la
-psicomotricidad: elementos cata-tónicos (catatonismo).
-
-síndrome catatónico: máximo de discordancia en la psicomotricidad. CINE
-MIE Catalepsia: plasticidad, rigidez, fijación de actos o perseverancia
-de actitudes (impuestas o espontáneas), flexibilidad cérea.
-
-Inercia: actitudes de pasividad y automatismo, latencia en las
-respuestas, obediencia automática. Sugestionabilidad: ecomimia,
-ecopraxia, ecolalia.
-
-Negativismo: conductas de rechazo, mutismo, oposición al entrevistador,
-rechazo de alimentos.
-
-Estupor: máximo de inhibición psicomotriz. Perdida de la iniciativa
-motriz sobre el cual se instalan impulsiones, episodios excitomotrices
-heteroagresivos en cortocircuito: ® de reactividad al entorno se
-caracteriza por lo enigmático y absurdo.
-
-Manierismos: tonalidad de afectación teatral, pateticismo: paramimias,
-risas inmotivadas.
-
-Impulsiones: actos incoercibles que escapan al control del paciente:
-hetero o autoagresivos,defenestración, fugas, verbales. Son imnotivados,
-incompartibles.
-
-Estereotipias: conductas caracterizadas por la iteración: de
-movimientos, de actitudes, lenguaje (verbigeración), de conductas.
+Catalepsia:: plasticidad, rigidez, fijación de actos o perseverancia de actitudes (impuestas o espontáneas), flexibilidad cérea.
+Inercia:: actitudes de pasividad y automatismo, latencia en las respuestas, obediencia automática. Sugestionabilidad: ecomimia, ecopraxia, ecolalia.
+Negativismo:: conductas de rechazo, mutismo, oposición al entrevistador, rechazo de alimentos.
+Estupor:: máximo de inhibición psicomotriz. Perdida de la iniciativa motriz sobre el cual se instalan impulsiones, episodios excitomotrices heteroagresivos en cortocircuito: disminución de reactividad al entorno se caracteriza por lo enigmático y absurdo.
+Manierismos:: tonalidad de afectación teatral, pateticismo: paramimias, risas inmotivadas.
+Impulsiones:: actos incoercibles que escapan al control del paciente: hetero o autoagresivos,defenestración, fugas, verbales. Son imnotivados, incompartibles.
+Estereotipias:: conductas caracterizadas por la iteración: de movimientos, de actitudes, lenguaje (verbigeración), de conductas.
 
 ===== Síndrome delirante o síndrome de alteración del pensamiento
 
-En lo formal: incoherente, sin finalidad, con pérdida de la secuencia
-asociativa lógica. Interceptación: alto brusco y completo de la
-actividad asociativa. Conexiones accidentales, asociación por el sonido.
-Estereotipias (persistencia de la idea). Fading mental.
+En lo formal: incoherente, sin finalidad, con pérdida de la secuencia asociativa lógica. Interceptación: alto brusco y completo de la actividad asociativa. Conexiones accidentales, asociación por el sonido. Estereotipias (persistencia de la idea). Fading mental.
 
-En el contenido: conformando un síndrome delirante que se manifiesta por
-ideas mórbidas incompartibles, irreductibles a la lógica, carentes de
-juicio de realidad y que le generan conductas.
+En el contenido: conformando un síndrome delirante que se manifiesta por ideas mórbidas incompartibles, irreductibles a la lógica, carentes de juicio de realidad y que le generan conductas.
 
-A temática: persecutoria, de daño y perjuicio, mística, megalomaníaca,
-transformación corporal, higiene, influencia, posesión.
+A temática:: persecutoria, de daño y perjuicio, mística, megalomaníaca, transformación corporal, higiene, influencia, posesión.
+A mecanismo:: intuitivo (se le aparece como verdad revelada), interpretativo (percepciones reales que el paciente interpreta a la luz de sus propias convicciones), alucinatorio (eco, robo, adivinación, enunciación de comentarios o actos, anticipación de actos, órdenes).
+Sistematización:: mala. Sus componentes no guardan una lógica, presentan movilidad, carácter cambiante y mínima organización, sin progreso discursivo, carencia de hilo argumental, por lo cual decimos que corresponde a una estructura paranoide.
 
-A mecanismo: intuitivo (se le aparece como verdad revelada),
-interpretativo (percepciones reales que el paciente interpreta a la luz
-de sus propias convicciones), alucinatorio (eco, robo, adivinación,
-enunciación de comentarios o actos, anticipación de actos, órdenes).
-
-Mal sistematizado: sus componentes no guardan una lógica, presentan
-movilidad, carácter cambiante y mínima organización, sin progreso
-discursivo, carencia de hilo argumental, por lo cual decimos que
-corresponde a una estructura paranoide.
-
-En lo conductual: conductas generadas por el delirio (auto y
-heteroagresividad, etc.)
+En lo conductual: conductas generadas por el delirio (auto y heteroagresividad, etc.)
 
 Dentro del síndrome delirante puede formarse un:
 
-====== Síndrome de automatismo mental
+===== Síndrome de automatismo mental
 
-Dado por la pérdida de la intimidad del espacio intrapsíquico, en su
-forma de triple automatismo, conformado por fenómenos de desdoblamiento
-alucinatorio del pensamiento que se imponen a la conciencia del sujeto a
-pesar de su yo, dado a nivel: - Sensorial: sensaciones parásitas
-(alucinaciones psicosensoriales, visuales, cenestésicas, táctiles,
-gustativas). Fenómenos sensoriales puros, anideicos. - Triple
-automatismo: motor, ideico e ideoverbal (elocución, ideación,
-formulación ideoverbal espontánea, articulación verbal forzada) -
-Desdoblamiento mecánico del pensamiento: eco del pensamiento, eco de la
-lectura, comentario de actos. Pueden ser anticipados, simultáneos o
-retardados con respecto al acto. - Pequeño automatismo mental:
-emancipación de abstracciones, "nebulosa anticipada de un pensamiento
-indiscernible"
+Dado por la pérdida de la intimidad del espacio intrapsíquico, en su forma de triple automatismo, conformado por fenómenos de desdoblamiento alucinatorio del pensamiento que se imponen a la conciencia del sujeto a pesar de su yo, dado a nivel: 
+Sensorial:: sensaciones parásitas (alucinaciones psicosensoriales, visuales, cenestésicas, táctiles, gustativas). Fenómenos sensoriales puros, anideicos.
+Triple automatismo:: motor, ideico e ideoverbal (elocución, ideación, formulación ideoverbal espontánea, articulación verbal forzada) 
+Desdoblamiento mecánico del pensamiento:: eco del pensamiento, eco de la lectura, comentario de actos. Pueden ser anticipados, simultáneos o retardados con respecto al acto. 
+Pequeño automatismo mental:: emancipación de abstracciones, "nebulosa anticipada de un pensamiento indiscernible"
 
-====== Síndrome de Influencia o control externo
+===== Síndrome de Influencia o control externo
 
 El individuo se siente manejado, influido por fuerzas externas a él.
 
-====== Síndrome de despersonalización
+===== Síndrome de despersonalización
 
-Pérdida del sentido de familiaridad de la persona consigo misma y con el
-entorno, que afecta la integridad somática corporal, la identidad y la
-conciencia del yo y que acompaña a la expresión de extrañeza e incluso
-de cambio total del mundo exterior.
+Pérdida del sentido de familiaridad de la persona consigo misma y con el entorno, que afecta la integridad somática corporal, la identidad y la conciencia del yo y que acompaña a la expresión de extrañeza e incluso de cambio total del mundo exterior.
 
-* Alteración del esquema corporal: alucinaciones somatognósticas,
-ilusión de desplazamiento o distorsión, metamorfosis segmentarias,
-miembros fantasmas. * Desrealización: cambio de ambiente, falta de
-familiaridad con el ambiente. * Desanimación: sentimiento de vacuidad,
-sin vida. * Tendencia al autoanálisis (signo del espejo).
+- Alteración del esquema corporal: alucinaciones somatognósticas, ilusión de desplazamiento o distorsión, metamorfosis segmentarias, miembros fantasmas.
+- Desrealización: cambio de ambiente, falta de familiaridad con el ambiente.
+- Desanimación: sentimiento de vacuidad, sin vida. - Tendencia al autoanálisis (signo del espejo).
 
-====== Síndrome del humor y la afectividad
+===== Síndrome del humor y la afectividad
 
 Humor oscilante, lábil, humor inadecuado, inadaptado (discordancia).
 Exaltación, oscilante de acuerdo al contenido temático. Ansiedad.
@@ -455,71 +251,51 @@ Déficit de rendimiento como persona social (CB y Prg).
 
 ===== Síndrome conductual
 
-Conductas que motivan el ingreso: impulsión catatónica, comando
-alucinatorio, IAE. Se objetiva en conducas basales y pragmatismos.
+Conductas que motivan el ingreso: impulsión catatónica, comando alucinatorio, IAE. 
 
 ==== Personalidad y nivel
 
 Nivel: buen nivel y rendimiento, hasta que se produce un corte.
 
-Personalidad premórbida: deben confirmarse datos con terceros ya que no
-es un paciente confiable. Esquizoide. Corte existencial: cambio de
-conductas con introducción lenta en un mundo cada vez más personal que
-lo lleva en X tiempo a un deterioro social.
+Personalidad premórbida: deben confirmarse datos con terceros ya que no es un paciente confiable. Esquizoide. Corte existencial: cambio de conductas con introducción lenta en un mundo cada vez más personal que lo lleva en X tiempo a un deterioro social.
 
 ==== Diagnóstico positivo
 
-ps crónica – tipo esquizofrenia – tipo clínico – descompensada por... –
-causa de descompensación
+===== Esquizofrenia
 
-Psicosis: por hallarse el paciente sumido en un mundo propio,
-incompartible, con el que se relaciona de una forma nieva, por él
-creada, del cual no puede salir voluntariamente, por haber perdido el
-juicio de realidad, la presencia de un delirio, por el mal rapport y la
-carencia de conciencia de morbidez.
+Psicosis: icon:paste[] 
 
-Psicosis crónica: por tratarse de un trastorno perdurable de X años de
-evolución que ha modificado el sistema de la personalidad llevando a una
-transformación delirante del yo y su mundo constituyendo-se el paciente
-en un ser delirante, siendo el delirio más relatado que vivido, no
-existiendo elementos de agudeza tales como alteración de la conciencia y
-oscilaciones del humor.
+Psicosis crónica: icon:paste[]
 
-Esquizofrenia: síndrome disociativo-discordante o elementos de síndrome
-catatónico, impregnado de elementos disociativos discordantes.síndrome
-delirante de estructura paranoide expresado sin calor afectivo. Corte
-existencial a los X años con ruptura histórico-biográfica. Curso
-progresivo deteriorante con elementos de retracción a un mundo autista.
-Además: edad, AF de esquizofrenia, leptosómico, personalidad previa
-esquizoide.
+Esquizofrenia: síndrome disociativo-discordante o elementos de síndrome catatónico, impregnado de elementos disociativos discordantes. Síndrome delirante de estructura paranoide expresado sin calor afectivo. Corte existencial a los X años con ruptura histórico-biográfica. Curso progresivo deteriorante con elementos de retracción a un mundo autista.
 
-En período de estado: por estar el SDD ya instalado, porque su relación
-con el mundo no ha claudicado en su totalidad.
+Además: edad, AF de esquizofrenia, leptosómico, personalidad previa esquizoide.
 
-Tipo clínico:
+===== Estadío
 
-A. Hebefrénico: Adolescente o adulto joven (15-25 años), SDD, jovialidad
-pueril, desorganización conductual, irresponsables, imprevisibles,
-rápido deterioro, no predomina el delirio (transitorio y fragmentario).
-B. Catatónico: Según el síndrome catatónico. Cuadro de inercia sobre el
-que sobrevienen bruscos brotes de impulsividad. Estuporosa (reacciones
-violentas), agitada (violencia extrema), catanonismo (discordancia PM).
-C. Paranoide: > 20 años (adulto joven), cuadro centrado en el delirio
-paranoide, aunque existen elementos DD, pese al tipo de evolución no
-existe deterioro marcado. D. Simple: Pérdida insidiosa del interés o
-motivación, ambición o iniciativa. E. Indiferenciado CIE-10, DSM, sin
-claro predominio de ningún tipo.
+En período de estado: por estar el SDD ya instalado, porque su relación con el mundo no ha claudicado en su totalidad.
 
-Según el caso clasificar con criterios de esquizofr (+) ó (-) Estado
-Descompensada: por presentar alteración de las conductas basales,
-empeoramiento en pragmatismos, oscilaciones o alteraciones del humor.
-Está descompensado debido a: . aumento de productividad delirante con
-elementos paranoides, de influencia. . incremento en el monto de
-agresividad: impulsión catatónica. . exacerbación de sintomatología:
-delirante, catatónica. trastornos conductuales.
+===== Tipo clínico
 
-Causa de descompensación: . abandono de medicación . stress psicosocial
-. evento vital desfavorable
+A. Hebefrénico: Adolescente o adulto joven (15-25 años), SDD, jovialidad pueril, desorganización conductual, irresponsables, imprevisibles, rápido deterioro, no predomina el delirio (transitorio y fragmentario).
+B. Catatónico: Según el síndrome catatónico. Cuadro de inercia sobre el que sobrevienen bruscos brotes de impulsividad. Estuporosa (reacciones violentas), agitada (violencia extrema), catanonismo (discordancia PM).
+C. Paranoide: > 20 años (adulto joven), cuadro centrado en el delirio paranoide, aunque existen elementos DD, pese al tipo de evolución no existe deterioro marcado. 
+D. Simple: Pérdida insidiosa del interés o motivación, ambición o iniciativa.
+E. Indiferenciado CIE-10, DSM, sin claro predominio de ningún tipo.
+
+Según el caso clasificar con criterios de esquizofr (+) ó (-) Estado Descompensada: por presentar alteración de las conductas basales, empeoramiento en pragmatismos, oscilaciones o alteraciones del humor.
+
+Está descompensado debido a:
+
+- aumento de productividad delirante con elementos paranoides, de influencia.
+- incremento en el monto de agresividad: impulsión catatónica.
+- exacerbación de sintomatología: delirante, catatónica. trastornos conductuales.
+
+Causa de descompensación:
+
+- abandono de medicación
+- stress psicosocial
+- evento vital desfavorable
 
 DSM IV . 2 ó más : delirios / alucinaciones / discurso desorganizado /
 comportamiento desorganizado o catatónico / sínt negativos (aplanamiento
@@ -535,28 +311,13 @@ delirante, esquizoafectivo, trast médico, sust)
 
 ==== Diagnóstico diferencial
 
-Con PDA: consideramos que se trata de un brote delirante,
-descompensación aguda de una enferme-dad crónica. Hay SDD, hay períodos
-intercríticos no libres de síntomas, presenta un curso progresivo
-deteriorante. Con EPA en determinada patología.
-
-Con causas orgánicas de delirio: consumo de sustancias.
-
-Con otros delirios crónicos:
-
-A. Paranoia: que descartamos ya que la paranoia presenta un delirio
-sistematizado, expresado con calor afectivo, de estructura paranoica y
-en la cual no existe una evolución deficitaria con retirada a un mundo
-autista como en nuestro paciente.
-
-B. Parafrenia: que descartamos porque la parafrenia se caracteriza por
-un pensamiento paralógico, fantástico, a mecanismo imaginativo, pero s/t
-por el mantenimiento de los pragmatismos, sin deterioro, con la
-característica bipolaridad con la que coexisten el polo delirante y el
-polo adaptado a la realidad (edad 30-35 años).
-
-Puede plantearse con Psicosis Infantil (DSM : trast gralizado del
-desarrollo) si se sospecha inicio muy temprano.
+- Con PDA: consideramos que se trata de un brote delirante, descompensación aguda de una enfermedad crónica. Hay SDD, hay períodos intercríticos no libres de síntomas, presenta un curso progresivo deteriorante. 
+- Con EPA en determinada patología.
+- Con causas orgánicas de delirio: consumo de sustancias.
+- Con otros delirios crónicos:
+-- Paranoia: que descartamos ya que la paranoia presenta un delirio sistematizado, expresado con calor afectivo, de estructura paranoica y en la cual no existe una evolución deficitaria con retirada a un mundo autista como en nuestro paciente.
+-- Parafrenia: que descartamos porque la parafrenia se caracteriza por un pensamiento paralógico, fantástico, a mecanismo imaginativo, pero s/t por el mantenimiento de los pragmatismos, sin deterioro, con la característica bipolaridad con la que coexisten el polo delirante y el polo adaptado a la realidad (edad 30-35 años).
+- Puede plantearse con Psicosis Infantil (DSM : trast gralizado del desarrollo) si se sospecha inicio muy temprano.
 
 RM : 3 veces más frec que en población gral
 
@@ -566,73 +327,68 @@ Otros: depresión psicótica, neurosis (obsesiva)
 
 ==== Diagnóstico etiopatogénico y psicopatológico
 
+===== Etiopatogenia
+
 Es una enfermedad multifactorial:
 
-Biológicos Genéticos: familiares de primer grado riesgo aumentado para
-el desarrollo de la enfermedad. Biotipológicos: leptosómico de
-Kretschmer. Bioquímicos: alteración/disregulación dopaminérgica en el
-sistema mesolimbo-cortical ( de sensibilidad de receptores
-postsinápticos de dopamina) que explicarían la acción de los
-neurolépticos. También se postula alteración a nivel de los receptores
-de serotonina que explicaría la acción de neurolépticos de nueva
-generación. Anatómicos: vinculados a formas deficitarias, con anomalías
-estructurales inespecíficas en la TAC y RNM con de ventrículos laterales
-/ PET y SPECT ( utilización de glucosa por el cerebro y valorac del
-flujo sanguíneo ) muestran hipoactividad en lób frontal y act anormal en
-varias á del cerebro Psicológicos Personalidad premórbida esquizoide
-(OJO) Social Lo que haya en su historia personal que actuaría en un
-terreno vulnerable. Factores de relación con el medio familiar, más
-vinculado a las recaídas que al debut.
+Biológicos
 
-En la causa de descompensación: • Abandono de medicación • Empuje
-evolutivo de la enfermedad • Estrés psicosocial
+Genéticos: familiares de primer grado riesgo aumentado para el desarrollo de la enfermedad.
 
-Psicopatología
+Biotipológicos: leptosómico de Kretschmer.
 
-Para el psicoanálisis, significa una regresión (regresión narcisista de
-la libido) y fijación a etapas pre-genitales del desarrollo psicosexual,
-con utilización de mecanismos de defensa psicóticos, de negación de la
-realidad proyectando la angustia en el delirio. Se trataría de una
-pérdida de la autonomía narcisista del yo, vinculada a una falla en las
-identificaciones primarias.
+Bioquímicos: alteración/disregulación dopaminérgica en el sistema mesolimbo-cortical ( de sensibilidad de receptores postsinápticos de dopamina) que explicarían la acción de los neurolépticos. También se postula alteración a nivel de los receptores de serotonina que explicaría la acción de neurolépticos de nueva generación.
 
-Para Jaspers, la esquizofrenia es un proceso que cambia la estructura
-con fragmentación y creación de nuevo estado de personalidad con ruptura
-histórico-biográfica de la existencia.
+Anatómicos: vinculados a formas deficitarias, con anomalías estructurales inespecíficas en la TAC y RNM con de ventrículos laterales / PET y SPECT ( utilización de glucosa por el cerebro y valorac del flujo sanguíneo ) muestran hipoactividad en lób frontal y act anormal en varias áreas del cerebro
+
+Psicológicos
+
+Personalidad premórbida esquizoide
+
+Social: lo que haya en su historia personal que actuaría en un terreno vulnerable. Factores de relación con el medio familiar, más vinculado a las recaídas que al debut.
+
+En la causa de descompensación:
+
+- Abandono de medicación
+- Empuje evolutivo de la enfermedad
+- Estrés psicosocial
+
+===== Psicopatología
+
+Para el psicoanálisis, significa una regresión (regresión narcisista de la libido) y fijación a etapas pre-genitales del desarrollo psicosexual, con utilización de mecanismos de defensa psicóticos, de negación de la realidad proyectando la angustia en el delirio. Se trataría de una pérdida de la autonomía narcisista del yo, vinculada a una falla en las identificaciones primarias.
+
+Para Jaspers, la esquizofrenia es un proceso que cambia la estructura con fragmentación y creación de nuevo estado de personalidad con ruptura histórico-biográfica de la existencia.
 
 ==== Paraclínica
 
-El diagnóstico es clínico. Historia anterior: corroborar curso de la
-enferme-dad, rendimiento pragmático / tratamientos recibidos y
-res-puesta a ellos, grado de adhesión al tratamiento, comunicación con
-el psiquiatra tratante.
+El diagnóstico es clínico. Historia anterior: corroborar curso de la enfermedad, rendimiento pragmático / tratamientos recibidos y respuesta a ellos, grado de adhesión al tratamiento, comunicación con el psiquiatra tratante.
 
-Biológico: valoración general, s/t neurológica y fondo de ojo. TAC:
-aspecto estructurales.
+===== Biológico
 
-Valoración pre-ECT para descartar contraindicaciones:
+Valoración general, s/t neurológica y fondo de ojo. 
 
-ECG y consulta con cardiólogo para descartar IAM reciente y arritmias
-inestables.
+TAC: aspecto estructurales.
 
-Examen neurológico completo con fondo de ojo para descartar hipertensión
-endocraneana por masa supratentorial.
+Valoración pre-ECT para descartar contraindicaciones: ECG y consulta con cardiólogo para descartar IAM reciente y arritmias inestables.
+
+Examen neurológico completo con fondo de ojo para descartar hipertensión endocraneana por masa supratentorial.
 
 RxTx FyP para descartar aneurisma de aorta.
 
-Psicológico: profundizar en los datos aportados por el paciente.
-Superado el cuadro actual: test de personalidad proyectivos y no
-proyectivos, test de nivel. Apreciaremos el grado de psicoticismo, así
-como ansiedades primitivas.
+===== Psicológico
 
-Social: adquiere jerarquía y empezar por él si sólo hay datos aportados
-por el paciente. Consentimiento informado para la realización de ECT.
+Profundizar en los datos aportados por el paciente.
+
+Superado el cuadro actual: test de personalidad proyectivos y no proyectivos, test de nivel. Apreciaremos el grado de psicoticismo, así como ansiedades primitivas.
+
+===== Social
+Adquiere jerarquía y empezar por él si sólo hay datos aportados por el paciente. Consentimiento informado para la realización de ECT.
+
 Despejar temores, explicar riesgos, beneficios y efectos secundarios.
-Historias anteriores, medicación recibida y respuesta a ella, períodos
-intercríticos con nivel de adaptabilidad socio-familiar. Vínculos con
-los otros familiares, funcionamiento dentro del hogar. Impulsiones.
-Valoración de la red de apoyo psicosocial (A.S. – citar flia) y manejo
-de recursos emocionales de la flia c/ vistas al alta
+
+Historias anteriores, medicación recibida y respuesta a ella, períodos intercríticos con nivel de adaptabilidad socio-familiar. Vínculos con los otros familiares, funcionamiento dentro del hogar. Impulsiones.
+
+Valoración de la red de apoyo psicosocial (A.S. – citar flia) y manejo de recursos emocionales de la flia con vistas al alta
 
 ==== Tratamiento
 
@@ -658,7 +414,7 @@ nutrición.
 
 .Biológico
 
-* (NOTA) según situación clínica valorar inicio c/ APS típicos o
+- (NOTA) según situación clínica valorar inicio c/ APS típicos o
 atípicos
 
 Haloperidol: neuroléptico incisivo, antidelirante, 5 mg i/m c/12 hs (H
@@ -722,8 +478,8 @@ CLOZAPINA
 
 Criterios de administración
 
-* NO RESPUESTA : al menos 6 semanas de prueba terapéutica previa con 2
-antipsicóticos convencionales de clases diferentes. * INTOLERANCIA :
+- NO RESPUESTA : al menos 6 semanas de prueba terapéutica previa con 2
+antipsicóticos convencionales de clases diferentes. - INTOLERANCIA :
 reacciones adversas intratables provocadas por APS convencionales.
 
 Mecanismo de acción :< afinidad D2 que los clásicos / bloq D1
@@ -880,225 +636,32 @@ más bajo potencial evolutivo autista (las hebefrénicas son más rápidas).
 
 En lo vital alejado:
 
-* menor expectativa de vida por mayor morbi-mortalidad que población
-general (tabaquismo intenso) * IAE frecuente en contexto discordante •
+- menor expectativa de vida por mayor morbi-mortalidad que población
+general (tabaquismo intenso) - IAE frecuente en contexto discordante •
 IAE por de frecuencia de depresiones • efectos secundarios del
 tratamiento biológico
 
 Elementos de mal pronóstico:
 
-* Menor edad de comienzo: ley de masividad * Bajo nivel intelectual *
-Inicio insidioso * MSEC deficitario * Múltiples internaciones previas
-(sobre todo que sean más de 3 recaídas). * Funcionamiento premórbido
-alterado * AF esquizofrénicos * Aplanamiento afectivo u otros síntomas
-negativos * Forma clínica hebefrénica o catatónica * Poca colaboración
-familiar * Perfil de adhesión pobre al tratamiento / antecedentes de
-abandono de la medicación * Consulta tardía * Mala respuesta a la
+- Menor edad de comienzo: ley de masividad - Bajo nivel intelectual -
+Inicio insidioso - MSEC deficitario - Múltiples internaciones previas
+(sobre todo que sean más de 3 recaídas). - Funcionamiento premórbido
+alterado - AF esquizofrénicos - Aplanamiento afectivo u otros síntomas
+negativos - Forma clínica hebefrénica o catatónica - Poca colaboración
+familiar - Perfil de adhesión pobre al tratamiento / antecedentes de
+abandono de la medicación - Consulta tardía - Mala respuesta a la
 terapéutica
 
-Elementos de buen pronóstico: * Comienzo agudo * Buena adaptación social
-premórbida * Coexistencia de alteraciones afectivas (cuadros
+Elementos de buen pronóstico: - Comienzo agudo - Buena adaptación social
+premórbida - Coexistencia de alteraciones afectivas (cuadros
 depresivos). En caso de ser prominentes, considerar diagnóstico
 diferencial con Trastorno Esquizoafectivo.
 
 === Encare
 
-==== Agrupación sindromática
-
-===== Síndrome disociativo-discordante
-
-Ambos términos son equivalentes y califican el mismo fenómeno mórbido
-que consiste en la descomposición segregativa (ruptura, disociación) de
-la vida psíquica con pérdida de la integración armónica de los campos
-constitutivos de la persona, involucrando conductas, humor, afectividad
-y pensamiento, que se manifiesta al observador por 4 síntomas capitales
-(IDEA):
-
-• Impenetrabilidad: hermetismo y tonalidad enigmática que caracteriza al
-desorganizado mundo del sujeto por lo cual no se encuentra sentido a sus
-expresiones.
-
-• Desapego: vuelta del sujeto sobre sí mismo, con abandono a la
-ensoñación interior, en la cual afectos e intereses no se vuelcan en la
-realidad. Ambos síntomas (impenetrabilidad y desapego) evocan la
-retracción a un mundo autista.
-
-• Extravagancia: carácter insólito, bizarro e incomprensible para el
-observador de conductas, palabras y afectos expresados.
-
-• Ambivalencia: antagonismo simultáneo / sucesivo de 2 experiencias
-contradictorias sin que el paciente capte contradicción alguna
-objetivable por terceros, lo que configura una ambivalencia psicótica.
-
-Estos síntomas se manifiestan en: pensamiento, afecto y conducta.
-
-Pensamiento
-
-Impenetrabilidad: pensamiento: oscuro, enmarañado, incoherente, caótico,
-con pérdida de la secuencia asociativa lógica que nos muestra un
-trastorno asociativo a este nivel, junto a las pararrespuestas,
-alteraciones fonéticas, sintácticas y semánticas (neologismos).
-
-Desapego: este "modo" de pensamiento responde a un simbolismo mágico
-interno, que lleva al lenguaje a un desvío de su legítima función, no
-estando destinado a establecer contacto con el entrevistador.
-
-Extravagancia: en las explicaciones que da a su motivo de ingreso.
-
-Ambivalencia: su relato está poblado de contradicciones.
-
-Estas alteraciones nos muestran una ataxia intrapsíquica, hecho
-fundamental de la discordancia del pensamiento, en la cual, pese a la
-inexistencia de un déficit intelectual, está profundamente alterado el
-uso y la eficacia de sus operaciones intelectuales.
-
-Afectividad
-
-Impenetrabilidad: se manifiesta por las relaciones afectivas
-incomprensibles (bruscas reacciones emocionales, calma inexplicable) que
-escapan a toda comprensión de su motivación psicológica. Las expresiones
-provienen de un mundo interior hermético, resultando enigmáticas al
-observador. Respuestas emocionales paradojales.
-
-Desapego: se manifiesta por la incapacidad de vibrar con el relato, la
-dificultad en el encuentro, la indiferencia. Atimormia: desinterés
-afectivo, apariencia desvitalizada, inercia aparente, interrupción del
-continuo intercambio entre el mundo y el sujeto. Intento de negar la
-afectividad, de destruir su significación (grado máximo de desapego).
-
-Extravagancia: está dada por las manifestaciones paradójicas y
-absolutamente desconcertantes: "odio feroz por un niño pequeño, deseo
-incontrolable de poseer un piano en una casa chica, pánico ante una
-corbata azul" (de Ey, textual).
-
-Ambivalencia: se observa en la presencia simultánea de deseos de abrazar
-y escapar de su novia (ejemplo de la historia clínica).
-
-Conductas
-
-Impenetrabilidad: en cuanto a su motivación psicológica.
-
-Desapego: actos desvitalizados, ruptura con el devenir del ambiente,
-acciones absolutamente personales, "obrar autístico".
-
-Extravagancia: muestra liberación de pulsiones (conductas alimentarias,
-sexuales, etc.).
-
-Ambivalencia: con ambitendencia.
-
-===== Síndrome catatónico
-
-Máximo de discordancia en la psicomotricidad. CINE MIE
-
-Catalepsia: plasticidad, rigidez, fijación de actos o perseverancia de
-actitudes (impuestas o espontáneas), flexibilidad cérea.
-
-Inercia: actitudes de pasividad y automatismo, latencia en las
-respuestas, obediencia automática.
-
-Sugestibilidad: ecomimia, ecopraxia, ecolalia.
-
-Negativismo: conductas de rechazo, mutismo, oposición al interrogador,
-rechazo de alimentos.
-
-Estupor: máximo de inhibición psicomotriz. Perdida de la iniciativa
-motriz sobre el cual se instalan impulsiones, episodios excitomotrices
-heteroagresivos en cortocircuito. Disminución de reactividad al entorno
-se caracteriza por lo enigmático y absurdo.
-
-Manierismos: tonalidad de afectación teatral, pateticismo: paramimias,
-risas inmotivadas.
-
-Impulsiones: actos incoercibles que escapan al control del paciente:
-hetero o autoagresivos, defenestración, fugas, verbales. Son
-inmotivados, incompartibles.
-
-Estereotipias: conductas caracterizadas por la iteración: de
-movimientos, de actitudes, lenguaje (verbigeración), de conductas.
-
-===== Síndrome delirante o síndrome de alteración del pensamiento
-
-En lo formal: incoherente, sin finalidad, con pérdida de la secuencia
-asociativa lógica. Interceptación: alto brusco y completo de la
-actividad asociativa. Conexiones accidentales, asociación por el sonido.
-Estereotipias (persistencia de la idea). Fading mental. En el contenido:
-conformando un síndrome delirante que se manifiesta en lo vivencial por
-ideas mórbidas incompartibles, irreductibles a la lógica, carentes de
-juicio de realidad y que le generan conductas. A temática: persecutoria,
-de daño y perjuicio, mística, megalomaníaca, transformación corporal,
-higiene, influencia, posesión. A mecanismo: intuitivo (se le aparece
-como verdad revelada), interpretativo (percepciones reales que el
-paciente interpreta a la luz de sus propias convicciones), alucinatorio
-(eco, robo, adivinación, enunciación de comentarios o actos,
-anticipación de actos, órdenes). Mal sistematizado: sus componentes no
-guardan una lógica, presentan movilidad, carácter cambiante y mínima
-organización, sin progreso discursivo, carencia de hilo argumental, por
-lo cual decimos que corresponde a una estructura paranoide. En lo
-conductual: conductas generadas por el delirio (auto y
-heteroagresividad, etc.)
-
-Dentro del síndrome delirante puede formarse un: síndrome de automatismo
-mental Dado por la pérdida de la intimidad del espacio intrapsíquico, en
-su forma de triple automatismo, conformado por fenómenos de
-desdoblamiento alucinatorio del pensamiento que se imponen a la
-conciencia del sujeto a pesar de su yo, dado a nivel: Ideoverbal: por
-alucinaciones acústico-verbales que enuncian y comentan actos y
-pensamientos, eco del pensamiento y de la lectura, robo y adivinación
-del pensamiento, estribillos verbales, juegos verbales, jaculatorias
-fortuitas, psitacismo. Pequeño automatismo: interpretación,
-parasitismos, coacción. Ideación impuesta, telepatía, mentismo
-xenopático. Sensorial-sensitivo: parasitación de las percepciones.
-Alucinaciones: visuales, gustativas, olfativas, cenestésicas.
-Psicomotor: impresiones cinestésicas de imposición de movimientos,
-articulación verbal forzada. Dada la jerarquía se puede individualizar:
-síndrome de Influencia o control externo: el individuo se siente
-manejado, influido por fuerzas externas a él. síndrome de
-despersonalización Pérdida del sentido de familiaridad de la persona
-consigo misma y con el entorno, que afecta la integridad somática
-corporal, la identidad y la conciencia del yo y que acompaña a la
-expresión de extrañeza e incluso de cambio total del mundo exterior. .
-Alteración del esquema corporal: alucinaciones somatognósticas, ilusión
-de desplazamiento o distorsión, metamorfosis segmentarias, miembros
-fantasmas. . Desrealización: cambio de ambiente, falta de familiaridad
-con el ambiente. . Desanimación: sentimiento de vacuidad, sin vida. .
-Tendencia al autoanálisis (signo del espejo).
-
-síndrome del humor y la afectividad Humor oscilante, lábil, humor
-inadecuado, inadaptado (discordancia). Exaltación, oscilante de acuerdo
-al contenido temático. Ansiedad.
-
-===== Síndrome deficitario social
-
-En el corte longitudinal pragmatismos. Retracción social de X evolución,
-con abandono de metas y proyectos de futuro, con pérdida de relación con
-sus amigos y familia con deterioro en su actividad como ser social.
-Déficit de rendimiento como persona social (CB y Pragmatismos).
-
-===== Síndrome conductual
-
-Conductas que motivan el ingreso: impulsión catatónica, comando
-alucinatorio. Se objetiva en conductas basales y pragmatismos.
-
-==== Personalidad y nivel
-
-Nivel: buen nivel y rendimiento, hasta que se produce un corte.
-Personalidad premórbida: deben confirmarse datos con terceros ya que no
-es un paciente confiable. Esquizoide. Corte existencial: cambio de
-conductas con introducción lenta en un mundo cada vez más personal que
-lo lleva en X tiempo a un deterioro social.
-
 ==== Diagnóstico positivo
 
 ===== Nosografía clásica
-
-.Psicosis Ver definición.
-
-.Psicosis crónica Por tratarse de un trastorno perdurable de X años de
-evolución que ha modificado el sistema de la personalidad llevando a una
-transformación delirante del yo y su mundo constituyéndose el paciente
-en un ser delirante, siendo el delirio más relatado que vivido, no
-existiendo elementos de agudeza tales como alteración de la conciencia y
-oscilaciones del humor.
 
 .Esquizofrenia Síndrome disociativo-discordante o elementos de síndrome
 catatónico, impregnado de elementos disociativos discordantes. síndrome
@@ -1278,7 +841,7 @@ las recaídas que al debut.
 
 Causa de descompensación:
 
-* abandono de medicación * empuje evolutivo de la enfermedad * estrés
+- abandono de medicación - empuje evolutivo de la enfermedad - estrés
 psicosocial
 
 Psicopatología
@@ -1411,7 +974,7 @@ mensual. La agranulocitosis, efecto secundario idiosincrático, en un 75%
 de los casos aparece entre las semanas 4 y 18. También serán excluidos
 aquellos pacientes con AP de crisis comiciales por la posibilidad de
 descenso del umbral convulsivo. Son contraindicaciones para el uso de
-Clozapina: • un recuento leucocitario bajo (<3500) • trastornos de la
+Clozapina: • un recuento leucocitario bajo ( < 3500) • trastornos de la
 médula ósea actuales o previos • uso concomitante con otro medicamento
 que pueda tener efecto supresor sobre la MO (Carbamazepina,
 Fenotiazinas). Se inicia con 25 mg v/o al día probando tolerancia

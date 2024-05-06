@@ -1,26 +1,32 @@
-/*:author: M. Escobal
-:email: marcelo.escobal@gmail.com
-:revnumber: v4.04.22
-:doctype: book
-:toc-title: Indice
-:toc-levels: 0
-:toc:¨*/
 #import "@preview/fontawesome:0.2.0": *
+#import "@preview/ilm:1.1.0": *
 #set text(lang: "es")
-#set page(paper:"a4", margin: 1in, numbering:"1")
-#set par(leading: 0.55em, first-line-indent: 1.8em, justify: true)
-#set text(font: "New Computer Modern")
-#show raw: set text(font: "New Computer Modern Mono")
-#show par: set block(spacing: 0.55em)
+#show: ilm.with(
+  title: [Encares de psiquiatría],
+  author: "M. Escobal",
+  date: datetime(year: 2024, month: 03, day: 19),
+  abstract: [],
+  preface: [],
+  bibliography: bibliography("encares.bib"),
+  figure-index: (enabled: false),
+  table-index: (enabled: false),
+  listing-index: (enabled: false),
+  table-of-contents: outline(title: "Indice", depth: 1)
+)
+#set heading(numbering: none)
 #show heading: set block(above: 1.4em, below: 1em)
-
-= Encares de psiquiatría
+#show heading.where(level: 2): it => {pagebreak(weak: true); it}
+// #show raw: set text(font: "New Computer Modern Mono")
+// #set text(font: "New Computer Modern")
+#set par(leading: 0.55em, first-line-indent: 1.8em, justify: true)
+#show par: set block(spacing: 0.55em)
 = Introducción
-
+#fa-battery-empty()
 #include "Intro.typ"
+= Semiología
 
 #include "Semiología.typ"
-/*
+
 = Trastornos mentales orgánicos
 
 #include "F00.typ"
@@ -75,7 +81,7 @@
 
 #include "F50.typ"
 
-#include "F51.typ"
+//#include "F51.typ"
 
 = Trastornos de la personalidad y del control de impulsos
 
@@ -113,4 +119,4 @@
 
 #include "Fragmentos.typ"
 
-#include "Abreviaturas.typ" */
+#include "Abreviaturas.typ"

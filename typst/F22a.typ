@@ -14,14 +14,14 @@ L., Hubain, P., & Snacken, J. (2013). 1938–Actuality of the Kretschmer’s
 sensitive delusion of reference in the DSM V era: two case reports.
 European Psychiatry, 28(S1), 1-1.]:
 
-* Carácter sensitivo: timidez, hiperemotividad, sensibilidad, sentido
+- Carácter sensitivo: timidez, hiperemotividad, sensibilidad, sentido
 elevado de los valores morales, orgullo, hiperestesia emocional,
 hiperestesia en los contactos sociales. Resulta en alta vulnerabilidad
 en los contactos sociales, tendencia a la autocrítica, susceptibilidad y
 tendencia a internalizar fallas percibidas como dolorosas.
-* Evento "traumático" vivido como "falla" o "humillación" en plano
+- Evento "traumático" vivido como "falla" o "humillación" en plano
 ético.
-* Desarrollo del delirio en si: remordimiento depresivo con miedos
+- Desarrollo del delirio en si: remordimiento depresivo con miedos
 hipocondríacos e ideación persecutoria en conversaciones banales
 cotidianas. Delirio concéntrico: el sujeto es el centro de la
 experiencia, rodeado por un grupo (cónyuge, familia, vecinos). Formato
@@ -60,12 +60,12 @@ hechos reales extrae conceptos erróneos a la luz de sus propias
 convicciones), intuitivo (se le presenta como verdad revelada) (poco o
 nada alucinatorio). Bien sistematizado por:
 
-* precedido en el carácter y en la personalidad del paciente
-* construido de modo lógico a partir fundamentalmente de
+- precedido en el carácter y en la personalidad del paciente
+- construido de modo lógico a partir fundamentalmente de
 interpretaciones falsas
-* expuesto con orden, coherencia y claridad por lo que se presenta al
+- expuesto con orden, coherencia y claridad por lo que se presenta al
 observador como relativamente plausible
-* polariza la conciencia del paciente, subordinando toda la actividad
+- polariza la conciencia del paciente, subordinando toda la actividad
 psíquica a sus fines. El sujeto vive para su delirio y en demanda de un
 auditorio comprensivo, dedicado a demostrar sus convicciones, las que
 defiende con calor afectivo. Todo lo cual caracteriza la estructura
@@ -86,8 +86,8 @@ relación con angustia en la afectividad.
 
 ===== Otros
 
-* Síndrome de alteración de las conductas basales y pragmatismos
-* Síndrome conductual motivando la consulta
+- Síndrome de alteración de las conductas basales y pragmatismos
+- Síndrome conductual motivando la consulta
 
 ==== Personalidad y nivel
 
@@ -96,12 +96,12 @@ Nivel: generalmente bueno.
 Personalidad: que confirmaremos con terceros ... adaptación social...
 rasgos de la serie:
 
-* Sensitivo: susceptibilidad, hiperemotividad, indecisión, timidez y
+- Sensitivo: susceptibilidad, hiperemotividad, indecisión, timidez y
 escrupulosidad, inseguridad, rencoroso con sufrimiento interno,
 tendencia a la inacción ante las ofensas ("guarda ofensas como
 medallas"). Inhibido, insatisfecho, hiperestesia a los contactos
 sociales. Asténico.
-* Paranoico: desconfianza, aislamiento, orgullo, agresividad,
+- Paranoico: desconfianza, aislamiento, orgullo, agresividad,
 psicorrigidez, falsedad de juicio, hipertrofia del yo (incapacidad de
 cambiar su posición mental), fanatismo, celoso, rencoroso, estricto
 moralista, obstinación, reproches, cuestiona lealtad de los demás,
@@ -157,18 +157,18 @@ Pasional
 
 Exaltación, idea prevalente, potencial agresivo, temible pasaje al acto.
 
-* Celotípico (OH): transformación de una relación de pareja en una
+- Celotípico (OH): transformación de una relación de pareja en una
 relación triangular. Delirio de infidelidad. Pruebas,
 seudocomprobaciones, falsos recuerdos, interpretaciones delirantes,
 ilusiones de la percepción o memoria.
-* Erotomaníaco: ilusión delirante de ser amado 3 etapas: esperanza -
+- Erotomaníaco: ilusión delirante de ser amado 3 etapas: esperanza -
 despecho - rencor (alto riesgo de acciones contra el objeto amado).
 NOTA: Las formas reivindicativas y pasionales comparten características:
-** Exaltación: exhuberancia, hiperestesia o hipertimia.
-** Idea prevalente: subordina toda su vida, convicción absoluta.
-** Desarrollo en sector: el delirio penetra "como una cuña" en la
+-- Exaltación: exhuberancia, hiperestesia o hipertimia.
+-- Idea prevalente: subordina toda su vida, convicción absoluta.
+-- Desarrollo en sector: el delirio penetra "como una cuña" en la
 realidad.
-* Sensitivo de relación: delirio de bajo potencial agresivo ya que el
+- Sensitivo de relación: delirio de bajo potencial agresivo ya que el
 fondo caracteriológico es menos rígido con reacciones hiposténicas y
 depresiones. Se desarrolla con angustia y tensión bajo la convicción de
 ser objeto de un interés enojoso o humillante. El delirante se siente el
@@ -177,7 +177,7 @@ pasado y son expresión de conflictos inconscientes entre el paciente y
 un grupo (delirio de relación). Tendencia a reacciones depresivas.
 Delirio de relación: es vivido como un conflicto del sujeto con otro o
 con un grupo (delirio de persecutorio de las solteronas).
-* Delirio de interpretación (Serieux y Capgras): temas persecutorios o
+- Delirio de interpretación (Serieux y Capgras): temas persecutorios o
 de grandeza, interpretación, avanza en red, tomando elementos para
 afirmar el delirio, combativo, convincente. Necesidad de explicación
 global, interpretación según sistema de significación fundamental
@@ -215,14 +215,14 @@ Descartar sustancias o enfermedad médica.
 
 Especificadores: TIPO: según tema predominante
 
-* Erotomaníaco: idea delirante de que otra persona (generalmente de
-status superior) está enamorada del sujeto. * De grandiosidad: ideas
+- Erotomaníaco: idea delirante de que otra persona (generalmente de
+status superior) está enamorada del sujeto. - De grandiosidad: ideas
 delirantes de exagerado valor, poder, conocimiento, identidad o ralación
-especial con una divinidad o persona famosa. * Celotípico: ideas
-delirantes de que la pareja es infiel. * Persecutorio: ideas delirantes
+especial con una divinidad o persona famosa. - Celotípico: ideas
+delirantes de que la pareja es infiel. - Persecutorio: ideas delirantes
 de que la persona (o alguien próximo) está siendo perjudicada de alguna
-forma. * Somático: idea delirante de tener algún defecto físico o
-enfermedad médica. * Mixto: no predomina ningún tema. * No especificado.
+forma. - Somático: idea delirante de tener algún defecto físico o
+enfermedad médica. - Mixto: no predomina ningún tema. - No especificado.
 
 ==== Diagnósticos diferenciales
 
@@ -330,7 +330,7 @@ secundarios y obtendremos un consentimiento informado por escrito.
 
 Destinado a:
 
-* compensar el cuadro actual * actuar sobre enfermedad de fondo,
+- compensar el cuadro actual - actuar sobre enfermedad de fondo,
 evitando futuras descompensaciones, favoreciendo la adaptación social
 con reinserción laboral y correcta adopción de roles.
 

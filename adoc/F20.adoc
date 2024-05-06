@@ -311,20 +311,13 @@ delirante, esquizoafectivo, trast médico, sust)
 
 ==== Diagnóstico diferencial
 
-Con PDA: consideramos que se trata de un brote delirante,
-descompensación aguda de una enferme-dad crónica. Hay SDD, hay períodos
-intercríticos no libres de síntomas, presenta un curso progresivo
-deteriorante. Con EPA en determinada patología.
-
-Con causas orgánicas de delirio: consumo de sustancias.
-
-Con otros delirios crónicos:
-
-A. Paranoia: que descartamos ya que la paranoia presenta un delirio sistematizado, expresado con calor afectivo, de estructura paranoica y en la cual no existe una evolución deficitaria con retirada a un mundo autista como en nuestro paciente.
-
-B. Parafrenia: que descartamos porque la parafrenia se caracteriza por un pensamiento paralógico, fantástico, a mecanismo imaginativo, pero s/t por el mantenimiento de los pragmatismos, sin deterioro, con la característica bipolaridad con la que coexisten el polo delirante y el polo adaptado a la realidad (edad 30-35 años).
-
-Puede plantearse con Psicosis Infantil (DSM : trast gralizado del desarrollo) si se sospecha inicio muy temprano.
+* Con PDA: consideramos que se trata de un brote delirante, descompensación aguda de una enfermedad crónica. Hay SDD, hay períodos intercríticos no libres de síntomas, presenta un curso progresivo deteriorante. 
+* Con EPA en determinada patología.
+* Con causas orgánicas de delirio: consumo de sustancias.
+* Con otros delirios crónicos:
+** Paranoia: que descartamos ya que la paranoia presenta un delirio sistematizado, expresado con calor afectivo, de estructura paranoica y en la cual no existe una evolución deficitaria con retirada a un mundo autista como en nuestro paciente.
+** Parafrenia: que descartamos porque la parafrenia se caracteriza por un pensamiento paralógico, fantástico, a mecanismo imaginativo, pero s/t por el mantenimiento de los pragmatismos, sin deterioro, con la característica bipolaridad con la que coexisten el polo delirante y el polo adaptado a la realidad (edad 30-35 años).
+* Puede plantearse con Psicosis Infantil (DSM : trast gralizado del desarrollo) si se sospecha inicio muy temprano.
 
 RM : 3 veces más frec que en población gral
 
@@ -334,73 +327,68 @@ Otros: depresión psicótica, neurosis (obsesiva)
 
 ==== Diagnóstico etiopatogénico y psicopatológico
 
+===== Etiopatogenia
+
 Es una enfermedad multifactorial:
 
-Biológicos Genéticos: familiares de primer grado riesgo aumentado para el desarrollo de la enfermedad.
+Biológicos
 
-Biotipológicos: leptosómico de Kretschmer. Bioquímicos: alteración/disregulación dopaminérgica en el
-sistema mesolimbo-cortical ( de sensibilidad de receptores
-postsinápticos de dopamina) que explicarían la acción de los
-neurolépticos. También se postula alteración a nivel de los receptores
-de serotonina que explicaría la acción de neurolépticos de nueva
-generación. Anatómicos: vinculados a formas deficitarias, con anomalías
-estructurales inespecíficas en la TAC y RNM con de ventrículos laterales
-/ PET y SPECT ( utilización de glucosa por el cerebro y valorac del
-flujo sanguíneo ) muestran hipoactividad en lób frontal y act anormal en
-varias á del cerebro Psicológicos Personalidad premórbida esquizoide
-(OJO) Social Lo que haya en su historia personal que actuaría en un
-terreno vulnerable. Factores de relación con el medio familiar, más
-vinculado a las recaídas que al debut.
+Genéticos: familiares de primer grado riesgo aumentado para el desarrollo de la enfermedad.
 
-En la causa de descompensación: • Abandono de medicación • Empuje
-evolutivo de la enfermedad • Estrés psicosocial
+Biotipológicos: leptosómico de Kretschmer.
 
-Psicopatología
+Bioquímicos: alteración/disregulación dopaminérgica en el sistema mesolimbo-cortical ( de sensibilidad de receptores postsinápticos de dopamina) que explicarían la acción de los neurolépticos. También se postula alteración a nivel de los receptores de serotonina que explicaría la acción de neurolépticos de nueva generación.
 
-Para el psicoanálisis, significa una regresión (regresión narcisista de
-la libido) y fijación a etapas pre-genitales del desarrollo psicosexual,
-con utilización de mecanismos de defensa psicóticos, de negación de la
-realidad proyectando la angustia en el delirio. Se trataría de una
-pérdida de la autonomía narcisista del yo, vinculada a una falla en las
-identificaciones primarias.
+Anatómicos: vinculados a formas deficitarias, con anomalías estructurales inespecíficas en la TAC y RNM con de ventrículos laterales / PET y SPECT ( utilización de glucosa por el cerebro y valorac del flujo sanguíneo ) muestran hipoactividad en lób frontal y act anormal en varias áreas del cerebro
 
-Para Jaspers, la esquizofrenia es un proceso que cambia la estructura
-con fragmentación y creación de nuevo estado de personalidad con ruptura
-histórico-biográfica de la existencia.
+Psicológicos
+
+Personalidad premórbida esquizoide
+
+Social: lo que haya en su historia personal que actuaría en un terreno vulnerable. Factores de relación con el medio familiar, más vinculado a las recaídas que al debut.
+
+En la causa de descompensación:
+
+* Abandono de medicación
+* Empuje evolutivo de la enfermedad
+* Estrés psicosocial
+
+===== Psicopatología
+
+Para el psicoanálisis, significa una regresión (regresión narcisista de la libido) y fijación a etapas pre-genitales del desarrollo psicosexual, con utilización de mecanismos de defensa psicóticos, de negación de la realidad proyectando la angustia en el delirio. Se trataría de una pérdida de la autonomía narcisista del yo, vinculada a una falla en las identificaciones primarias.
+
+Para Jaspers, la esquizofrenia es un proceso que cambia la estructura con fragmentación y creación de nuevo estado de personalidad con ruptura histórico-biográfica de la existencia.
 
 ==== Paraclínica
 
-El diagnóstico es clínico. Historia anterior: corroborar curso de la
-enferme-dad, rendimiento pragmático / tratamientos recibidos y
-res-puesta a ellos, grado de adhesión al tratamiento, comunicación con
-el psiquiatra tratante.
+El diagnóstico es clínico. Historia anterior: corroborar curso de la enfermedad, rendimiento pragmático / tratamientos recibidos y respuesta a ellos, grado de adhesión al tratamiento, comunicación con el psiquiatra tratante.
 
-Biológico: valoración general, s/t neurológica y fondo de ojo. TAC:
-aspecto estructurales.
+===== Biológico
 
-Valoración pre-ECT para descartar contraindicaciones:
+Valoración general, s/t neurológica y fondo de ojo. 
 
-ECG y consulta con cardiólogo para descartar IAM reciente y arritmias
-inestables.
+TAC: aspecto estructurales.
 
-Examen neurológico completo con fondo de ojo para descartar hipertensión
-endocraneana por masa supratentorial.
+Valoración pre-ECT para descartar contraindicaciones: ECG y consulta con cardiólogo para descartar IAM reciente y arritmias inestables.
+
+Examen neurológico completo con fondo de ojo para descartar hipertensión endocraneana por masa supratentorial.
 
 RxTx FyP para descartar aneurisma de aorta.
 
-Psicológico: profundizar en los datos aportados por el paciente.
-Superado el cuadro actual: test de personalidad proyectivos y no
-proyectivos, test de nivel. Apreciaremos el grado de psicoticismo, así
-como ansiedades primitivas.
+===== Psicológico
 
-Social: adquiere jerarquía y empezar por él si sólo hay datos aportados
-por el paciente. Consentimiento informado para la realización de ECT.
+Profundizar en los datos aportados por el paciente.
+
+Superado el cuadro actual: test de personalidad proyectivos y no proyectivos, test de nivel. Apreciaremos el grado de psicoticismo, así como ansiedades primitivas.
+
+===== Social
+Adquiere jerarquía y empezar por él si sólo hay datos aportados por el paciente. Consentimiento informado para la realización de ECT.
+
 Despejar temores, explicar riesgos, beneficios y efectos secundarios.
-Historias anteriores, medicación recibida y respuesta a ella, períodos
-intercríticos con nivel de adaptabilidad socio-familiar. Vínculos con
-los otros familiares, funcionamiento dentro del hogar. Impulsiones.
-Valoración de la red de apoyo psicosocial (A.S. – citar flia) y manejo
-de recursos emocionales de la flia c/ vistas al alta
+
+Historias anteriores, medicación recibida y respuesta a ella, períodos intercríticos con nivel de adaptabilidad socio-familiar. Vínculos con los otros familiares, funcionamiento dentro del hogar. Impulsiones.
+
+Valoración de la red de apoyo psicosocial (A.S. – citar flia) y manejo de recursos emocionales de la flia con vistas al alta
 
 ==== Tratamiento
 

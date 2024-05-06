@@ -18,12 +18,12 @@ Según motivo de ingreso:
 Crisis de excitación psicomotriz (conversiva). IAE en contexto de
 impulsividad. Heteroagresividad. Fugas.
 
-* Actual Incapacidad en previsión de actos y sus consecuencias:
+- Actual Incapacidad en previsión de actos y sus consecuencias:
 alteración del juicio.
-* Curso de vida Pauta de heteroagresividad que demuestra baja tolerancia
+- Curso de vida Pauta de heteroagresividad que demuestra baja tolerancia
 a las frustraciones y un pobre control de los impulsos. Conductas
 antisociales. Consumo de sustancias.
-* Pragmatismos y conductas basales.
+- Pragmatismos y conductas basales.
 
 ===== Síndrome delirante
 
@@ -32,13 +32,13 @@ sociocultural.
 
 ===== Síndrome deficitario intelectual (congénito o precozmente adquirido)
 
-* Escolaridad: deficiente, destacar analfabetismo. * Pensamiento: pobre,
+- Escolaridad: deficiente, destacar analfabetismo. - Pensamiento: pobre,
 pueril, concreto, anecdótico. No puede dar cuenta de situaciones
-importantes de su vida. baja capacidad de abstracción. * Logros:
+importantes de su vida. baja capacidad de abstracción. - Logros:
 incapacidad adaptativa social, falta de habilidad en resolver problemas
 cotidianos que lo llevan a una disminución de la autonomía y
-responsabilidad esperadas para su edad evidenciado en: ** Logros
-sociales escasos. ** Escasos logros a nivel laboral, familiar, etc. **
+responsabilidad esperadas para su edad evidenciado en: -- Logros
+sociales escasos. -- Escasos logros a nivel laboral, familiar, etc. --
 Dificultades en manejo del dinero.
 
 A confirmar por tests psicométricos.
@@ -51,16 +51,16 @@ Epilepsia.
 
 Yo débil:
 
-* Baja tolerancia a las frustraciones
-* Incapacidad de adaptación a nuevas situaciones.
-* Existencia acotada, dependiente, círculo restringido de intereses.
-* Dificultad para solucionar conflictos que lleva a:
-* Inhibición, oposición, desafío, terquedad, mitomanía.
-* Descargas bruscas de tensión emocional.
-* Alteración del juicio: no existe previsión de consecuencias de sus
+- Baja tolerancia a las frustraciones
+- Incapacidad de adaptación a nuevas situaciones.
+- Existencia acotada, dependiente, círculo restringido de intereses.
+- Dificultad para solucionar conflictos que lleva a:
+- Inhibición, oposición, desafío, terquedad, mitomanía.
+- Descargas bruscas de tensión emocional.
+- Alteración del juicio: no existe previsión de consecuencias de sus
 actos.
-* Rechazo de imperativos morales (o sumisión a los mismos).
-* Egocentrismo.
+- Rechazo de imperativos morales (o sumisión a los mismos).
+- Egocentrismo.
 
 Personalidad: teñida por el déficit intelectual. Personalidad
 defectuosa.
@@ -73,21 +73,19 @@ defectuosa.
 
 Diagnóstico clínico presuntivo por:
 
-* Déficit escolar importante * Incapacidad adaptativa social * Inicio en
+- Déficit escolar importante - Incapacidad adaptativa social - Inicio en
 etapa de desarrollo (< 18 años)
 
-A confirmar por tests psicométricos (CI<70). Dadas las alteraciones del
-pensamiento ... .... inferimos que clínicamente se halla por debajo de
-los parámetros normales.
+A confirmar por tests psicométricos (CI < 70). Dadas las alteraciones del pensamiento ... .... inferimos que clínicamente se halla por debajo de los parámetros normales.
 
 .Grado de déficit
 
 Diagnóstico clínico-psicométrico. Del punto de vista clínico:
 
-* Leve: puede acceder a algún nivel de enseñanza. Entrenable y educable
-(puede hablar, leer y escribir bien). * Moderado: no educable,
+- Leve: puede acceder a algún nivel de enseñanza. Entrenable y educable
+(puede hablar, leer y escribir bien). - Moderado: no educable,
 entrenable (... lo que valoraremos en sucesivas entrevistas y una vez
-superado el cuadro actual). * Grave: se acompaña de trastornos motores
+superado el cuadro actual). - Grave: se acompaña de trastornos motores
 importantes, sobre todo neurológicos, no existe autonomía en habilidades
 elementales. Necesita supervisión continua. No educable, no entrenable.
 
@@ -184,15 +182,15 @@ de etiología
 
 Destinado a:
 
-* Cuadro actual: tratamiento sintomático Bps * Largo plazo: bPS,
+- Cuadro actual: tratamiento sintomático Bps - Largo plazo: bPS,
 mantendremos fármacos de mantenimiento, pero será fundamental-mente
 psicosocial y estará destinado a favorecer inserción social y combatir
 complicaciones.
 
 Se usará medicación en casos en que footnote:[National Institute for
 Health and Care Excellence. "Psychotropic medicines in people with
-learning disabilities whose behaviour challenges." (2017).]: * Las
-intervenciones psicosociales solas no sean suficientes. * Exista riesgo
+learning disabilities whose behaviour challenges." (2017).]: - Las
+intervenciones psicosociales solas no sean suficientes. - Exista riesgo
 para sí o para terceros.
 
 .Cuadro actual

@@ -32,14 +32,14 @@ evolutivo).
 
 .Ansiedad basal Fondo de ansiedad difusa y permanente. Dado por:
 
-* Fondo permanente de ansiedad y preocupación no realista o excesiva
-sobre una gama amplia de acontecimientos. * Tensión motora: temblor,
+- Fondo permanente de ansiedad y preocupación no realista o excesiva
+sobre una gama amplia de acontecimientos. - Tensión motora: temblor,
 sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva,
 hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca,
 mareos, sensación de inestabilidad, trastornos gastrointestinales,
 sofocaciones, escalofríos, micción frecuente, "nudo en la garganta",
-cefaleas). * Hipervigilancia: sentirse en peligro, alarma exagerada,
-dificultad para concentrarse, insomnio, irritabilidad. * Alteraciones de
+cefaleas). - Hipervigilancia: sentirse en peligro, alarma exagerada,
+dificultad para concentrarse, insomnio, irritabilidad. - Alteraciones de
 las conductas basales, alteraciones somáticas funcionales (anorexia,
 disfunción sexual, insomnio).
 
@@ -58,9 +58,9 @@ depresión).
 
 ===== Otros síndromes
 
-* Síndrome disociativo * Síndrome conversivo: motor (como crisis o más
-permanentes), sensorial, sensitivo, neurovegetativo. * Síndrome
-obsesivo-compulsivo * Síndrome de despersonalización: puede hablar de la
+- Síndrome disociativo - Síndrome conversivo: motor (como crisis o más
+permanentes), sensorial, sensitivo, neurovegetativo. - Síndrome
+obsesivo-compulsivo - Síndrome de despersonalización: puede hablar de la
 gravedad de la ansiedad-angustia.
 
 ==== Personalidad y nivel
@@ -89,10 +89,10 @@ estructurarse en una neurosis fóbica (no existe organización en fobia
 
 .Descompensada Por
 
-* Exacerbación de la sintomatología de ansiedad-angustia con aparición
+- Exacerbación de la sintomatología de ansiedad-angustia con aparición
 de episodios críticos de angustia y utilización de mecanismos de defensa
 tipo fóbicos, intento fallido por el momento de estructuración en
-neurosis fóbica. * Síndrome depresivo con elementos disfóricos como
+neurosis fóbica. - Síndrome depresivo con elementos disfóricos como
 consecuencia de un desencadenante (reactivo)... (depresión neurótica).
 
 .Causa de descompensación
@@ -104,16 +104,16 @@ pérdida de apoyos sociales.
 
 .Diagnóstico de gravedad:
 
-* Gravedad de las crisis de angustia: por cantidad de crisis (grave > 8
-al mes), según períodos intercríticos. * Gravedad de la evitación
+- Gravedad de las crisis de angustia: por cantidad de crisis (grave > 8
+al mes), según períodos intercríticos. - Gravedad de la evitación
 agorafóbica: según limitaciones en la vida cotidiana y uso de
 acompañantes al salir.
 
 ===== DSM IV - CIE-10
 
-* Trastorno de angustia con Agorafobia. * Trastorno de angustia sin
-Agorafobia. * Trastorno de ansiedad generalizada. * Trastorno de
-ansiedad no especificado. * Trastornos adaptativos
+- Trastorno de angustia con Agorafobia. - Trastorno de angustia sin
+Agorafobia. - Trastorno de ansiedad generalizada. - Trastorno de
+ansiedad no especificado. - Trastornos adaptativos
 
 .Diagnóstico de Crisis de Pánico No codifica aislado.
 
@@ -163,7 +163,7 @@ meses.
 
 .Especificadores
 
-* agudo (dura menos de 6 meses) o crónico (más de 6 meses) * con estado
+- agudo (dura menos de 6 meses) o crónico (más de 6 meses) - con estado
 de ánimo depresivo, con ansiedad, mixto, con trastorno del
 comportamiento, no especificado.
 
@@ -174,22 +174,22 @@ Trastorno por Estrés agudo y Trastorno por Estrés Postraumático.
 
 ===== Nosografía clásica
 
-.Con otras neurosis * Neurosis fóbica: acá la ansiedad-angustia va
+.Con otras neurosis - Neurosis fóbica: acá la ansiedad-angustia va
 ligada al objeto o situación fóbica. En la neurosis de angustia no hay
 desencadenante específico, aunque el paciente puede evitar por ansiedad
 anticipatoria los lugares donde puede quedar expuesto en caso de sufrir
 las crisis, pero no porque estos lugares sean desencadenantes por sí
-mismos. Tampoco tienen conductas tranquilizadoras. * Neurosis de
-histeria * Neurosis obsesivo-compulsiva.
+mismos. Tampoco tienen conductas tranquilizadoras. - Neurosis de
+histeria - Neurosis obsesivo-compulsiva.
 
 .Trastorno afectivo primario Depresión reactiva / melancolía.
 
-.Causas orgánicas de crisis de angustia: * Cardiovasculares: angor, IAM,
-TEP, arritmias. * Pleuropulmonares: hiperventilación, broncoespasmo,
-neumotórax. * Endocrinológicas: feocromocitoma, hipertiroidismo,
-hiperparatiroidismo. * Neurológicas: epilepsia de lóbulo temporal,
-tumores cerebrales, migrañas, trastornos vestibulares. * Metabólicas:
-hipoglicemia, insulinomas. * Fármacos: corticoides, tiroxina.
+.Causas orgánicas de crisis de angustia: - Cardiovasculares: angor, IAM,
+TEP, arritmias. - Pleuropulmonares: hiperventilación, broncoespasmo,
+neumotórax. - Endocrinológicas: feocromocitoma, hipertiroidismo,
+hiperparatiroidismo. - Neurológicas: epilepsia de lóbulo temporal,
+tumores cerebrales, migrañas, trastornos vestibulares. - Metabólicas:
+hipoglicemia, insulinomas. - Fármacos: corticoides, tiroxina.
 
 .UISP También debemos descartar que esto sea secundario a abstinencia de
 sustancias psicoactivas depresoras de SNC (alcohol, sedantes,
@@ -221,8 +221,8 @@ húmedas, nerviosismo), feocromocitoma, hipoglicemias.
 
 . Otas causas de síntomas de ansiedad
 
-* Sustancias: intoxicación (cocaína, estimulantes) o abstinencia
-(alcohol, benzodiacepinas, barbitúricos). * Fármacos: corticoides, T4.
+- Sustancias: intoxicación (cocaína, estimulantes) o abstinencia
+(alcohol, benzodiacepinas, barbitúricos). - Fármacos: corticoides, T4.
 
 .Trastorno por somatización Trastornos somatomorfos/disociativos
 
@@ -262,7 +262,7 @@ En estudios imagenológicos se señalan alteraciones en lóbulos temporales
 
 .Factores psicológicos
 
-*Teoría cognitivo-comportamental*
+-Teoría cognitivo-comportamental-
 
 La ansiedad sería una respuesta condicionada a estímulos ambientales
 específicos (exposición primaria generalización + conceptualización
@@ -272,16 +272,16 @@ interpretación catastrófica de las sensaciones somáticas e
 interoceptivas y una percepción de uno mismo y del riesgo del entorno
 erradas.
 
-*Psicodinámico*
+-Psicodinámico-
 
 Relación con la aparición de pulsiones agresivas. En un intento de
 enfoque comprensivo del paciente podemos vincular este trastorno a:
 
-* Dependencia * Coartación en la infancia de las manifestaciones de AA
-(ambiente rígido, padres severos) * Dificultad para vivenciar la
-agresividad, cólera culpabilizada o reprimida * Intolerancia a los
-propios sentimientos de odio * Factores sexuales: deseo culpabilizado,
-temor a la sexualidad * Estrés psicosocial (duelo patológico: duración,
+- Dependencia - Coartación en la infancia de las manifestaciones de AA
+(ambiente rígido, padres severos) - Dificultad para vivenciar la
+agresividad, cólera culpabilizada o reprimida - Intolerancia a los
+propios sentimientos de odio - Factores sexuales: deseo culpabilizado,
+temor a la sexualidad - Estrés psicosocial (duelo patológico: duración,
 síntomas disociativos relacionados con el mismo) reactiva viejas
 pérdidas depresión culpa.
 
@@ -345,8 +345,8 @@ Investigación de elementos que pueden coadyuvar a mantener el trastorno.
 Ambulatorio. Internar en caso de poca continencia familiar. Actuaremos
 s/t a nivel sintomático sobre:
 
-* Crisis de pánico y sus complicaciones eventuales * Ansiedad de fondo *
-Síndrome depresivo y sus complicaciones (IAE) * Insomnio
+- Crisis de pánico y sus complicaciones eventuales - Ansiedad de fondo -
+Síndrome depresivo y sus complicaciones (IAE) - Insomnio
 
 Como primera medida, estableceremos un buen vínculo, realizando
 continentación y apoyo, permitiendo expresión de emociones. Será de
@@ -367,14 +367,14 @@ etc.
 
 ===== Trastorno de pánico .Biológico
 
-*Durante la crisis*
+-Durante la crisis-
 
 En urgencias Alprazolam 1 mg o Diacepam 5 mg s/l. Para controlar la
 hiperventilación y la posible tetania puede ser útil reciclar el propio
 CO2 con una mascarilla obturada. Tras el control de la crisis puede
 comenzarse el tratamiento de base.
 
-*Tratamiento de base*
+-Tratamiento de base-
 
 Se recomienda la combinación de tratamiento farmacológico con
 psicoterapia.
@@ -395,10 +395,10 @@ ya que tienen acción sobre la ansiedad de fondo.
 
 ISRS :
 
-* Por eficacia: Fluoxetina 20-40 mg/día → Fluvoxamina 100-200 mg/día →
+- Por eficacia: Fluoxetina 20-40 mg/día → Fluvoxamina 100-200 mg/día →
 Escitalopram 10-20 mg/día → Paroxetina 20-40 mg/día → Sertralina 50-100
-mg/día → Citalopram 20-40 mg/día. * Por tolerancia: Escitalopram →
-Sertralina → Fluvoxamina → Paroxetina → Citalopram → Fluoxetina. * Mejor
+mg/día → Citalopram 20-40 mg/día. - Por tolerancia: Escitalopram →
+Sertralina → Fluvoxamina → Paroxetina → Citalopram → Fluoxetina. - Mejor
 perfil eficacia/tolerancia: Escitalopram.
 
 Debe comenzarse con dosis muy bajas y aumentos graduales por la
@@ -445,8 +445,8 @@ benzodiacepina. La elección de la misma se determinará según: edad del
 paciente, estado físico, respuesta previa a otra BZD, propiedades
 farmacológicas de cada BZD.
 
-* Adulto joven sano: Diazepam 5-20 mg/día en 1-3 tomas (o equivalente de
-vida media larga [Clonazepam] o intermedia [Alprazolam, Bromazepam]). *
+- Adulto joven sano: Diazepam 5-20 mg/día en 1-3 tomas (o equivalente de
+vida media larga [Clonazepam] o intermedia [Alprazolam, Bromazepam]). -
 Paciente añoso: Lorazepam 2-8 mg/día en 3-4 tomas u Oxazepam 15-45
 mg/día en 2-3 tomas (carecen de metabolitos activos
 
@@ -488,23 +488,23 @@ contribuyan a mantenimiento. Eventualmente: terapia familiar.
 
 Trastorno con tendencia a la cronicidad con curso variable: 30
 
-* Organización en neurosis más estables: fóbica, histérica, obsesiva. *
+- Organización en neurosis más estables: fóbica, histérica, obsesiva. -
 Aparición de síntomas hipocondríacos con centralización de la atención y
-ansiedad sobre determinados órganos, alteraciones psicosomáticas. *
-Abuso de sustancias psicoactivas (en 20-40 * Episodios depresivos
+ansiedad sobre determinados órganos, alteraciones psicosomáticas. -
+Abuso de sustancias psicoactivas (en 20-40 - Episodios depresivos
 (complica el cuadro en un 40-80
 
 El pronóstico psiquiátrico alejado dependerá de:
 
-* Fuerza/madurez del yo (de la estructura de la personalidad y su
-capacidad de elaborar mecanismos de defensa más adaptativos). *
+- Fuerza/madurez del yo (de la estructura de la personalidad y su
+capacidad de elaborar mecanismos de defensa más adaptativos). -
 Peripecias vitales a las cuales estos pacientes son especialmente
 sensibles, dependerá de capacidad para enfrentar nuevas situaciones
-penosas. * Éxito de la terapéutica y adhesión a la misma.
+penosas. - Éxito de la terapéutica y adhesión a la misma.
 
 Los elementos de buen pronóstico son:
 
-* corta edad con buen nivel intelectual * corta duración * pedido de
+- corta edad con buen nivel intelectual - corta duración - pedido de
 ayuda
 
 .Nota: Depresión neurótica Concepto caduco en lo nosológico, útil en la
@@ -520,13 +520,13 @@ expresión más dramática
 
 Rasgos típicos de los Ataques de Pánico:
 
-* Historia temprana * AF * Presencia de crisis nocturnas
+- Historia temprana - AF - Presencia de crisis nocturnas
 
 ==== Fuentes
 
-* Kaplan * DSM IV * RTM II, 1999. * Clinical Handbook of Psychotropic
-Drugs - Bezchlibnik-Butler, 8th ed, 1998. * The Journal of Clinical
-Psychiatry 60 (supp 18), 1999. * Encares: Dr. Curbelo - Dr. Escobal
+- Kaplan - DSM IV - RTM II, 1999. - Clinical Handbook of Psychotropic
+Drugs - Bezchlibnik-Butler, 8th ed, 1998. - The Journal of Clinical
+Psychiatry 60 (supp 18), 1999. - Encares: Dr. Curbelo - Dr. Escobal
 
 Falta: adecuada organización y puesta al día de la parte de
 psicopatología y etiopatogenia, al incluir varios trastornos de

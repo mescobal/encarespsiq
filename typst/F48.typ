@@ -24,16 +24,16 @@ enfermedades depresivas, trastornos fóbicos y obsesivo-compulsivos.
 
 ==== Pautas para el diagnóstico
 
-* síntomas de despersonalización tales como que el enfermo siente que
+- síntomas de despersonalización tales como que el enfermo siente que
 sus propias sensaciones o vivencias se han desvinculado de sí mismo, son
 distantes o ajenas, se han perdido, etc.
-* síntomas de desrealización tales como que los objetos, las personas o
+- síntomas de desrealización tales como que los objetos, las personas o
 el entorno parecen irreales, distantes, artificiales, desvaídos,
 desvitalizados, etc.
-* el reconocimiento de que se trata de un cambio espontáneo y subjetivo
+- el reconocimiento de que se trata de un cambio espontáneo y subjetivo
 y no ha sido impuesto por fuerzas externas o por otras personas
 (persiste una adecuada conciencia de enfermedad) y
-* claridad del sensorio y evidencia de que no se trata de un estado
+- claridad del sensorio y evidencia de que no se trata de un estado
 tóxico confusional o de una epilepsia.
 
 Incluye:
@@ -42,21 +42,21 @@ Incluye:
 
 ==== Diagnóstico diferencial
 
-* Individuo sano que experimenta la despersonalización-desrealización
+- Individuo sano que experimenta la despersonalización-desrealización
 como fenómeno aislado: estados fatiga, privación sensorial, fenómenos
 hipnagógicos/hipnopómpicos, situaciones de peligro extremo.
-* Secundaria a consumo de sustancias
-* Causa orgánica: hipoglicemia, estados pre o posticales en epilepsia
+- Secundaria a consumo de sustancias
+- Causa orgánica: hipoglicemia, estados pre o posticales en epilepsia
 del lóbulo temporal.
 
 DD con otros trastornos en los que se vivencia un "cambio de
 personalidad":
 
-* Esquizofrenia: ideas delirantes de transformación o imposición y de
+- Esquizofrenia: ideas delirantes de transformación o imposición y de
 vivencias de ser controlado
-* Trastornos disociativos: donde no existe conciencia de que se ha
+- Trastornos disociativos: donde no existe conciencia de que se ha
 producido un cambio
-* Algunos casos de demencia incipiente.
+- Algunos casos de demencia incipiente.
 
 Jerarquía: si el síndrome de despersonalización-desrealización aparece
 como parte de un trastorno depresivo, fóbico, obsesivo-compulsivo o

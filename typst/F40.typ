@@ -22,23 +22,23 @@ En suma: paciente de sexo X, de X años de edad, con AFP de trastornos de ansied
 
 Entendiendo por fobia, la presencia de un temor irracional y exagerado, persistente en el tiempo, con objeto colocado en el exterior que le genera conductas de evitación y de tranquilización. Está dado por:
 
-* Temor irracional intenso, independiente del control voluntario
-* Reconocido como absurdo por parte del paciente
-* Originado por objeto o situación que en sí misma no tiene características de peligrosidad
-* Cuya presencia desencadena crisis de ansiedad que puede tomar la forma de Crisis de Pánico.
-* Que desaparece al margen del objeto-situación (lo que favorece la aparición de conductas de evitación).
-* Que genera conductas tranquilizadoras: elementos que cumplen función aseguradora de protección: personaje, habitación, objeto, ingesta de alcohol.
+- Temor irracional intenso, independiente del control voluntario
+- Reconocido como absurdo por parte del paciente
+- Originado por objeto o situación que en sí misma no tiene características de peligrosidad
+- Cuya presencia desencadena crisis de ansiedad que puede tomar la forma de Crisis de Pánico.
+- Que desaparece al margen del objeto-situación (lo que favorece la aparición de conductas de evitación).
+- Que genera conductas tranquilizadoras: elementos que cumplen función aseguradora de protección: personaje, habitación, objeto, ingesta de alcohol.
 
 La exposición al objeto genera una experiencia intensamente displacentera, constituida por la vivencia en forma brusca paroxística:
 
-* en el ámbito psíquico (afectivo-cognitivo) de miedo, sensación de peligro inminente, temor, malestar, espera penosa, expectación aprensiva, temor a perder el control o enloquecer, miedo a morir
-* en el ámbito somático (psicomotriz y neurovegetativo) de palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, sofocaciones, temblores, parestesias, vértigos, mareos, demsayos, disfagia, náuseas, malestar abdominal.
+- en el ámbito psíquico (afectivo-cognitivo) de miedo, sensación de peligro inminente, temor, malestar, espera penosa, expectación aprensiva, temor a perder el control o enloquecer, miedo a morir
+- en el ámbito somático (psicomotriz y neurovegetativo) de palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, sofocaciones, temblores, parestesias, vértigos, mareos, demsayos, disfagia, náuseas, malestar abdominal.
 
 El cuadro puede tomar la forma de:
 
-* Agorafobia (F40.00, F40.01): aparición de ansiedad el encontrarse en lugares o situaciones donde escapar puede resultar difícil (o embarazoso) o donde, en el caso de aparecer síntomas de angustia puede no disponerse de ayuda. Suelen ser temores relacionados con un conjunto de situaciones características (estar solo fuera de la casa, mezclarse con gente, hacer cola, pasar por un puente, viajar en ómnibus, tren o automóvil). Estas situaciones se evitan o se resisten a costa de intenso malestar o bien requieren de la presencia de un conocido para soportarlos.
-* Fobia social (F40.1): temor irracional persistente y reconocible de turbarse o verse humillado cuando se desempeña en situaciones sociales.
-* Fobia simple o específica (F40.2): temor persistente a un objeto o situación.
+- Agorafobia (F40.00, F40.01): aparición de ansiedad el encontrarse en lugares o situaciones donde escapar puede resultar difícil (o embarazoso) o donde, en el caso de aparecer síntomas de angustia puede no disponerse de ayuda. Suelen ser temores relacionados con un conjunto de situaciones características (estar solo fuera de la casa, mezclarse con gente, hacer cola, pasar por un puente, viajar en ómnibus, tren o automóvil). Estas situaciones se evitan o se resisten a costa de intenso malestar o bien requieren de la presencia de un conocido para soportarlos.
+- Fobia social (F40.1): temor irracional persistente y reconocible de turbarse o verse humillado cuando se desempeña en situaciones sociales.
+- Fobia simple o específica (F40.2): temor persistente a un objeto o situación.
 
 ===== Síndrome de ansiedad-angustia
 
@@ -48,8 +48,8 @@ Bajo la forma de ansiedad generalizada (ver F41.1) o crisis de pánico (ver F41.
 
 Subsidiario de la fobia ya analizada.
 
-* consumo de alcohol y/o benzodiacepinas
-* pragmatismos: indican gravedad de la fobia, de X evolución
+- consumo de alcohol y/o benzodiacepinas
+- pragmatismos: indican gravedad de la fobia, de X evolución
 
 ===== Síndrome hipocondríaco
 
@@ -57,16 +57,16 @@ Definido como la interpretación no realista de signos y sensaciones físicas qu
 
 Elaboración hipocondríaca de los síntomas de angustia. Diferenciar hipocondría (la consulta al médico no calma ansiedad) de:
 
-* Nosofobia (la consulta al médico calma la angustia y es equivalente a una conducta tranquilizadora)
-* Psicosis: convicción delirante de padecer enfermedad.
+- Nosofobia (la consulta al médico calma la angustia y es equivalente a una conducta tranquilizadora)
+- Psicosis: convicción delirante de padecer enfermedad.
 
 ===== Síndrome de despersonalización
 
 Constituido x 3 elementos clásicos:
 
-* Despersonalización
-* Desanimación: cambio del yo psíquico: "como otra persona".
-* Desrealización: cambia el ambiente. Especificar si aparece vinculado la angustia.
+- Despersonalización
+- Desanimación: cambio del yo psíquico: "como otra persona".
+- Desrealización: cambia el ambiente. Especificar si aparece vinculado la angustia.
 
 ==== Personalidad y nivel
 
@@ -74,15 +74,15 @@ Nivel: cualquiera (independencia de ejes I y II).
 
 Personalidad:
 
-* Conflictiva infantil
-* Rasgos neuróticos globales
-* Rasgos de la serie fóbica:
-** Huida hacia adelante: comportamiento de desafío, hiperocupación
-** Tímido, pasivo, dependiente
-** Actitud evitativa
-** Dificultad para sobreponerse a pérdidas
-** Tendencia a la inestabilidad motora (vértigo, falta de equilibrio) e hiperestesia somática
-* Buena relación interpersonal, pedido de ayuda
+- Conflictiva infantil
+- Rasgos neuróticos globales
+- Rasgos de la serie fóbica:
+-- Huida hacia adelante: comportamiento de desafío, hiperocupación
+-- Tímido, pasivo, dependiente
+-- Actitud evitativa
+-- Dificultad para sobreponerse a pérdidas
+-- Tendencia a la inestabilidad motora (vértigo, falta de equilibrio) e hiperestesia somática
+- Buena relación interpersonal, pedido de ayuda
 
 ==== Diagnóstico positivo
 
@@ -104,9 +104,9 @@ Leve-moderada-grave- incapacitante.
 
 Por:
 
-* Síndrome de ansiedad angustia
-* Depresión (disfórica)
-* Exacerbación de síntomas
+- Síndrome de ansiedad angustia
+- Depresión (disfórica)
+- Exacerbación de síntomas
 
 ===== DSM IV - CIE-10
 
@@ -138,14 +138,14 @@ Especificadores: generalizada: si los temores hacen referencia a la mayoría de 
 
 Requiere:
 
-* A. temor acusado y persistente que es excesivo e irracional, desencadenado por la presencia o anticipación de un objeto o situación
+- A. temor acusado y persistente que es excesivo e irracional, desencadenado por la presencia o anticipación de un objeto o situación
 específicos (volar, precipicios, animales, inyecciones, sangre) +
-* B. desencadenamiento de reacción de ansiedad (puede ser o no crisis de pánico) si se expone al estímulo +
-* C. la persona reconoce que el miedo es excesivo o irracional +
-* D. conductas de evitación (o soportan las situaciones con un malestar acusado) +
-* E. interferencia con desempeño +
-* F. más de 6 meses en menores de 18 años +
-* G. descartar otros trastornos mentales.
+- B. desencadenamiento de reacción de ansiedad (puede ser o no crisis de pánico) si se expone al estímulo +
+- C. la persona reconoce que el miedo es excesivo o irracional +
+- D. conductas de evitación (o soportan las situaciones con un malestar acusado) +
+- E. interferencia con desempeño +
+- F. más de 6 meses en menores de 18 años +
+- G. descartar otros trastornos mentales.
 
 Especificadores: tipo (animal, ambiental, sangre-inyecciones-daño, situacional, otros)
 
@@ -153,32 +153,32 @@ Especificadores: tipo (animal, ambiental, sangre-inyecciones-daño, situacional,
 
 ===== Nosografía clásica
 
-* Neurosis de angustia: no existen conductas de evitación ni tranquilización. En la NF los elementos de AA son subsidiarios al síndrome fóbico que aparece descompensando. En la NA no existen mecanismos de defensa estructurados.
-* Otras neurosis.
-* Fobia sintomática de Trastorno de la Personalidad.
-* Fobia sintomática de un trastorno psicótico: dismorfofobia, nosofobia, hipocondría delirante.
-* Crisis de angustia: descartar origen orgánico:
-** Hiperglicemia
-** Feocromocitoma
-** Prolapso de válvula mitral (comorbilidad)
-** Hipertiroidismo
-* Drogas: abstinencia (barbitúricos, benzodiacepinas), intoxicación (anfetaminas y similares)
-* Si hay un S° depresivo: Trastorno afectivo primari
+- Neurosis de angustia: no existen conductas de evitación ni tranquilización. En la NF los elementos de AA son subsidiarios al síndrome fóbico que aparece descompensando. En la NA no existen mecanismos de defensa estructurados.
+- Otras neurosis.
+- Fobia sintomática de Trastorno de la Personalidad.
+- Fobia sintomática de un trastorno psicótico: dismorfofobia, nosofobia, hipocondría delirante.
+- Crisis de angustia: descartar origen orgánico:
+-- Hiperglicemia
+-- Feocromocitoma
+-- Prolapso de válvula mitral (comorbilidad)
+-- Hipertiroidismo
+- Drogas: abstinencia (barbitúricos, benzodiacepinas), intoxicación (anfetaminas y similares)
+- Si hay un S° depresivo: Trastorno afectivo primari
 
 ===== DSM / CIE-10
 
 Los diagnósticos diferenciales son diferentes dado que estos sistemas clasificatorios permiten acumular diagnósticos en uno o más ejes. Los principales diagnósticos diferenciales son:
 
-* Entre los diferentes trastornos de ansiedad:
-** Agorafobia con/sin crisis de pánico:
-** Fobia específica: x ej. evitación limitada a situaciones aisladas (ascensores).
-** Fobia social: x ej. evita determinadas situaciones sociales por temor a ruborizarse.
-** TOC: x ej. evita situaciones vinculadas a obsesión (evita suciedad si hay ideas obsesivas de contaminación.
-** TEPT: evitación de estímulos relacionados con situación altamente estresante o traumática.
-** Trastorno por ansiedad de separación: evitación de abandonar el hogar o la familia.
-* Causas médicas
-* Inducidos por sustancias
-* Como diagnósticos adicionales (más que diferenciales) considerar Trastorno de la Personalidad del grupo C (sobre todo TP por Evitación).
+- Entre los diferentes trastornos de ansiedad:
+-- Agorafobia con/sin crisis de pánico:
+-- Fobia específica: x ej. evitación limitada a situaciones aisladas (ascensores).
+-- Fobia social: x ej. evita determinadas situaciones sociales por temor a ruborizarse.
+-- TOC: x ej. evita situaciones vinculadas a obsesión (evita suciedad si hay ideas obsesivas de contaminación.
+-- TEPT: evitación de estímulos relacionados con situación altamente estresante o traumática.
+-- Trastorno por ansiedad de separación: evitación de abandonar el hogar o la familia.
+- Causas médicas
+- Inducidos por sustancias
+- Como diagnósticos adicionales (más que diferenciales) considerar Trastorno de la Personalidad del grupo C (sobre todo TP por Evitación).
 
 ==== Etiopatogenia y psicopatología
 
@@ -195,13 +195,13 @@ serotoninérgico y dopaminérgico), basado en la eficacia de fármacos como los 
 
 En la fobia social generalizada podría estar alterado el sistema dopaminérgico, esta afirmación se basa en:
 
-* Eficacia de los IMAO y Bupropion (que afectan el sistema Dopa)
-* Desarrollo de síntomas de ansiedad social luego del tratamiento con fármacos que bloquean la Dopamina
-* Correlación existente entre rasgos de introversión y bajos niveles de Dopamina en el LCR
-* Altas tasas de Fobia Social en pacientes con Enfermedad de Parkinson.
-* Baja actividad dopaminérgica detectada en cepas de ratones "tímidos"
-* Bajos niveles en LCR de ácido homovanílico en pacientes con T de Pánico y Fobia Social.
-* En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopamina a nivel del estriado.
+- Eficacia de los IMAO y Bupropion (que afectan el sistema Dopa)
+- Desarrollo de síntomas de ansiedad social luego del tratamiento con fármacos que bloquean la Dopamina
+- Correlación existente entre rasgos de introversión y bajos niveles de Dopamina en el LCR
+- Altas tasas de Fobia Social en pacientes con Enfermedad de Parkinson.
+- Baja actividad dopaminérgica detectada en cepas de ratones "tímidos"
+- Bajos niveles en LCR de ácido homovanílico en pacientes con T de Pánico y Fobia Social.
+- En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopamina a nivel del estriado.
 
 Neuroimagen: los estudios sugieren la presencia de circuitos neurales específicos involucrados en la Fobia Social (cíngulo anterior, cortex prefrontal dorsolateral, cerebelo, cortex orbitofrontal).
 
@@ -211,8 +211,8 @@ Neuroimagen: los estudios sugieren la presencia de circuitos neurales específic
 
 Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún impulso inconsciente prohibido está luchando para expresarse en forma consciente, lo que lleva al Yo al uso de mecanismos de defensa auxiliares:
 
-* Represión: mecanismo destinado a mantener la pulsión fuera de la representación consciente. Este mecanismo fracasa por lo cual la conflictiva rechazada irrumpe en la conciencia debiendo recurrir el yo a defensas auxiliares para combatir la angustia que provocan las pulsiones genitales edípicas incestuosas * Desplazamiento: separa el afecto de la representación prohibida y lo desplaza a una situación u objeto en el exterior, aparentemente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
-* Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado.
+- Represión: mecanismo destinado a mantener la pulsión fuera de la representación consciente. Este mecanismo fracasa por lo cual la conflictiva rechazada irrumpe en la conciencia debiendo recurrir el yo a defensas auxiliares para combatir la angustia que provocan las pulsiones genitales edípicas incestuosas - Desplazamiento: separa el afecto de la representación prohibida y lo desplaza a una situación u objeto en el exterior, aparentemente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
+- Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado.
 
 La reactivación del conflicto sobrepasa los mecanismos de defensa ya estructurados y se manifiesta como angustia. Se trata de una regresión y fijación a etapa edípica del desarrollo psicosexual, vinculado a intensa angustia de castración (el impulso sexual continuaría teniendo una marcada connotación incestuosa en el adulto por lo que la activación sexual tiende a transformarse en ansiedad que de forma característica es un miedo a la castración).
 
@@ -240,8 +240,8 @@ Examen físico completo: neurológico, signos de intoxicación por psicoestimula
 
 Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorscharch), no proyectivos (Minnesota), evaluando:
 
-* Fortaleza yoica * Elementos para el análisis de los mecanismos de defensa
-* Implementación de psicoterapia Tests de nivel (Weschler).
+- Fortaleza yoica - Elementos para el análisis de los mecanismos de defensa
+- Implementación de psicoterapia Tests de nivel (Weschler).
 
 Para el seguimiento del trastorno, pueden ser útiles las escalas de cuantificación de síntomas.
 
@@ -251,16 +251,16 @@ Familiares y terceros. Valoración de red de soporte. Datos de HC y tratamientos
 
 ==== Tratamiento
 
-* Ambulatorio con control en policlínica
-* Hospitalizar según entidad de síndromes asociados (ej. depresión)
+- Ambulatorio con control en policlínica
+- Hospitalizar según entidad de síndromes asociados (ej. depresión)
 
 Objetivos del tratamiento:
 
-* Alivio de afectos y cogniciones vinculadas al temor
-* Reducción de la ansiedad anticipatoria
-* Atenuar el comportamiento de evitación
-* Reducir los síntomas autonómicos y fisiológicos de ansiedad
-* Lograr mejores niveles de funcionamiento Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
+- Alivio de afectos y cogniciones vinculadas al temor
+- Reducción de la ansiedad anticipatoria
+- Atenuar el comportamiento de evitación
+- Reducir los síntomas autonómicos y fisiológicos de ansiedad
+- Lograr mejores niveles de funcionamiento Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
 
 ===== Biológico
 
@@ -278,8 +278,8 @@ La duración de cada prueba terapéutica debe ser de 8-12 semanas (mayor que en 
 .Fobia específica
 El tratamiento básico es psicoterapéutico, el tratamiento farmacológico será de apoyo pudiendo utilizarse:
 
-* Benzodiacepinas: de cualquier tipo a dosis adecuadas para cada caso, generalmente en monodosis para disminuir la ansiedad en el momento de la exposición. Por ejemplo: Alprazolam 1 mg media hora antes de la situación fóbica. Ambos fármacos deben dejar de usarse cuando desaparezcan los síntomas.
-* Propranolol: en monodosis (20-40 mg) media hora antes de la situación fóbica.
+- Benzodiacepinas: de cualquier tipo a dosis adecuadas para cada caso, generalmente en monodosis para disminuir la ansiedad en el momento de la exposición. Por ejemplo: Alprazolam 1 mg media hora antes de la situación fóbica. Ambos fármacos deben dejar de usarse cuando desaparezcan los síntomas.
+- Propranolol: en monodosis (20-40 mg) media hora antes de la situación fóbica.
 
 El uso de medicación en forma continua queda reservado para casos refractarios: Alprazolam 0.5-1 mg c/8 o Propranolol 20-80 mg/día. Los fármacos en pauta fija se mantendrán hasta 6 meses después de la remisión sintomática.
 
@@ -287,16 +287,16 @@ El uso de medicación en forma continua queda reservado para casos refractarios:
 
 Fobia social restringida o limitada
 
-* Primera línea: beta bloqueantes (Propranolol 40-80 mg 30 minutos antes de la previsible situación fóbica).
-* Segunda línea: benzodiacepinas, dosis de 5-15 mg de equivalentes Diazepam.
+- Primera línea: beta bloqueantes (Propranolol 40-80 mg 30 minutos antes de la previsible situación fóbica).
+- Segunda línea: benzodiacepinas, dosis de 5-15 mg de equivalentes Diazepam.
 
 Fobia social generalizada o difusa
 
 Si bien el fármaco mejor estudiado y con mayores índices de eficacia es la Fenelzina, su manejo complicado (con contraindicaciones y restricciones) lo relegan a un segundo plano.
 
-* Primera línea: Paroxetina 20 - 60 mg/día > Sertralina > Fluvoxamina (orden según calidad de evidencia en estudios realizados)
-* Segunda línea: Clorimipramina, Paroxetina, Sertralina, Moclobemida (eficacia clínica limitada). Fenelzina 45-90 mg/día, iniciando con 15 mg/día, aumentando hasta 45-60 mg/día, esperando 4 semanas y luego, según resultados y tolerancia puede aumentarse hasta.
-* Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la terapia única con BZD es de eficacia dudosa o limitada).
+- Primera línea: Paroxetina 20 - 60 mg/día > Sertralina > Fluvoxamina (orden según calidad de evidencia en estudios realizados)
+- Segunda línea: Clorimipramina, Paroxetina, Sertralina, Moclobemida (eficacia clínica limitada). Fenelzina 45-90 mg/día, iniciando con 15 mg/día, aumentando hasta 45-60 mg/día, esperando 4 semanas y luego, según resultados y tolerancia puede aumentarse hasta.
+- Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la terapia única con BZD es de eficacia dudosa o limitada).
 
 En casos de fobia generalizada se mantendrá el tratamiento hasta 12 meses luego de remisión sintomática, a las dosis con las que se logró mejoría. Luego pueden disminuirse de forma progresiva, si aparece recidiva se vuelve a las dosis eficaces que se mantendrán por 12 meses más. Tratamientos superiores al año podrían estar indicados en: pacientes con síntomas significativos persistentes, presencia de comorbilidad, inicio precoz con TP por Evitación severo y pacientes con historia previa de recaídas.
 
@@ -324,10 +324,10 @@ Terapia familiar, grupo de apoyo. Alianza terapéutica con familiar por tendenci
 
 Puede seguir varios caminos evolutivos:
 
-* Mejoría total
-* Mejoría parcial permaneciendo síntomas residuales
-* Refractariedad
-* Comorbilidad con depresión y abuso de sustancias
+- Mejoría total
+- Mejoría parcial permaneciendo síntomas residuales
+- Refractariedad
+- Comorbilidad con depresión y abuso de sustancias
 
 Es una enfermedad crónica con tendencia a la recidiva. PVI: bueno PPI: crisis y depresión bueno. PVA: depende de complicaciones del cuadro. PPA: depende de adhesión al tratamiento.
 
@@ -335,15 +335,15 @@ Dentro de las complicaciones, destacamos la alta tasa de comorbilidad (hasta 80%
 
 El pronóstico depende de:
 
-* Gravedad del trastorno al inicio del tratamiento
-* Edad de comienzo del tratamiento
-* Continuidad del tratamiento
-* Nivel intelectual
-* Nivel socioeconómico
-* Comorbilidad (depresión, alcoholismo, TP)
-* Antecedentes familiares (predictor negativo para el caso de la fobia social).
+- Gravedad del trastorno al inicio del tratamiento
+- Edad de comienzo del tratamiento
+- Continuidad del tratamiento
+- Nivel intelectual
+- Nivel socioeconómico
+- Comorbilidad (depresión, alcoholismo, TP)
+- Antecedentes familiares (predictor negativo para el caso de la fobia social).
 
 ==== Fuentes
 
-* RTM II
-* The Journal of Clinical Psychiatry 59(supp 17), 1998.
+- RTM II
+- The Journal of Clinical Psychiatry 59(supp 17), 1998.
