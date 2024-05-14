@@ -379,13 +379,7 @@ comenzarse el tratamiento de base.
 Se recomienda la combinación de tratamiento farmacológico con
 psicoterapia.
 
-El tratamiento farmacológico con mejor perfil de eficacia y tolerancia
-es con Benzoadiacepinas, ISRS o antidepresivos tricíclicos. Se prefieren
-los ISRS a los ADT por mejor perfil de seguridad footnote:[Chawla, N.,
-Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P.,
-McKay, G. J., Attia, J., & Thakkinstian, A. (2022). Drug treatment for
-panic disorder with or without agoraphobia: systematic review and
-network meta-analysis of randomised controlled trials. bmj, 376.].
+El tratamiento farmacológico con mejor perfil de eficacia y tolerancia es con Benzoadiacepinas, ISRS o antidepresivos tricíclicos. Se prefieren los ISRS a los ADT por mejor perfil de seguridad#footnote[Chawla, N., Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P., McKay, G. J., Attia, J., & Thakkinstian, A. (2022). Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials. bmj, 376.].
 
 Se puede comenzar con benzodiacepinas + ISRS, retirando en forma
 progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar,

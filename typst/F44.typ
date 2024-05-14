@@ -64,10 +64,7 @@ importantes de valor simbólico (Ej.: experiencias dolorosas o
 vergonzosas), con desencadenante psicológico. Puede ser global y total a
 partir del desencadenante (generalizada y continua). La evocación de
 violación/seducción puede corresponder a una ilusión de la memoria,
-alteración frecuente en estos pacientes footnote:[Políticamente
-incorrecto, actualmente]. Puede haber identificación imaginaria con
-otras personas (por ejemplo con otras pacientes de la sala: siente sus
-síntomas). No hay evidencias de un trastorno mental orgánico.
+alteración frecuente en estos pacientes#footnote[Políticamente incorrecto, actualmente]. Puede haber identificación imaginaria con otras personas (por ejemplo con otras pacientes de la sala: siente sus síntomas). No hay evidencias de un trastorno mental orgánico.
 
 ====== Fuga disociativa
 

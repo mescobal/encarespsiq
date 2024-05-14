@@ -2,7 +2,7 @@
 
 === Notas clínicas
 
-Ansiedad footnote:[Kalin, Ned H. "Novel insights into pathological anxiety and anxiety-related disorders." American Journal of Psychiatry 177.3 (2020): 187-189.] : función adaptativa.
+Ansiedad#footnote[Kalin, Ned H. "Novel insights into pathological anxiety and anxiety-related disorders." American Journal of Psychiatry 177.3 (2020): 187-189.] : función adaptativa.
 
 Ansiedad patológica: preocupación excesiva, hipervigilancia, activación fisiológica, conductas de evitación. Incidencia de lo genético: 30-50%, multigénico.
 

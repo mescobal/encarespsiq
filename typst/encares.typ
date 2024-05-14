@@ -1,28 +1,47 @@
 #import "@preview/fontawesome:0.2.0": *
 #import "@preview/ilm:1.1.0": *
 #set text(lang: "es")
-#show: ilm.with(
-  title: [Encares de psiquiatría],
-  author: "M. Escobal",
-  date: datetime(year: 2024, month: 03, day: 19),
-  abstract: [],
-  preface: [],
-  bibliography: bibliography("encares.bib"),
-  figure-index: (enabled: false),
-  table-index: (enabled: false),
-  listing-index: (enabled: false),
-  table-of-contents: outline(title: "Indice", depth: 1)
-)
-#set heading(numbering: none)
+#let titulo = "Encares de psiquiatría"
+#let autor = "M. Escobal"
+#set document(title: [titulo],  author: autor)
+#set page(
+  paper: "a4",
+  numbering: "1")
+//#show: ilm.with(
+//  title: [Encares de psiquiatría],
+//  author: "M. Escobal",
+//  date: datetime(year: 2024, month: 05, day: 7),
+//  abstract: [],
+//  preface: [],
+//  bibliography: bibliography("encares.bib"),
+//  figure-index: (enabled: false),
+//  table-index: (enabled: false),
+//  listing-index: (enabled: false),
+//  table-of-contents: outline(title: "Indice", depth: 1)
+//)
+//#set heading(numbering: "1.A.I.a.i")
 #show heading: set block(above: 1.4em, below: 1em)
+#show heading.where(level: 1): it => {pagebreak(weak: true); it}
 #show heading.where(level: 2): it => {pagebreak(weak: true); it}
-// #show raw: set text(font: "New Computer Modern Mono")
-// #set text(font: "New Computer Modern")
 #set par(leading: 0.55em, first-line-indent: 1.8em, justify: true)
 #show par: set block(spacing: 0.55em)
+// Cover page
+#page(align(center)[
+  #let v-space = v(2em, weak: true)
+  #align(center + horizon)[
+    #text(3em)[*#titulo*]
+    #v-space
+    #text(1.6em, autor)
+  ]
+  #v-space
+  #text(align(bottom)[#datetime.today().display()])
+//  }
+]))
+
 = Introducción
-#fa-battery-empty()
+
 #include "Intro.typ"
+
 = Semiología
 
 #include "Semiología.typ"
@@ -36,6 +55,8 @@
 = Trastornos por consumo de sustancias psicoactivas
 
 #include "F10.typ"
+
+#include "F10-26.typ"
 
 #include "F11.typ"
 

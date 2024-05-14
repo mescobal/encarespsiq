@@ -132,13 +132,7 @@ Situaciones especiales:
 Actúan sobre todo sobre la variable "inhibición" y menos sobre la
 memoria de trabajo.
 
-- Ejercicio físicofootnote:[Lambez, B., Harwood-Gross, A., Golumbic, E.
-Z., & Rassovsky, Y. (2020). Non-pharmacological interventions for
-cognitive difficulties in ADHD: A systematic review and meta-analysis.
-Journal of psychiatric research, 120, 40-55.]. Es la intervención con
-mayor tamaño de efecto. Se recomienda ejercicio aeróbico e integrar
-deportes complejos (deportes con pelota, artes marciales) para mejorar
-la flexibilidad e inhibir la conducta impulsiva.
+- Ejercicio físico#footnote[Lambez, B., Harwood-Gross, A., Golumbic, E. Z., & Rassovsky, Y. (2020). Non-pharmacological interventions for cognitive difficulties in ADHD: A systematic review and meta-analysis. Journal of psychiatric research, 120, 40-55.]. Es la intervención con mayor tamaño de efecto. Se recomienda ejercicio aeróbico e integrar deportes complejos (deportes con pelota, artes marciales) para mejorar la flexibilidad e inhibir la conducta impulsiva.
 
 - Neurofeedback: tamaño de efecto moderado.
 

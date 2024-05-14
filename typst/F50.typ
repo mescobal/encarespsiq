@@ -16,9 +16,7 @@ categorías residuales.
 Todos estos trastornos están caracterizados, en un grado variable, por
 alteraciones persistentes en el comportamiento asociado a la
 alimentación o al control del peso y a preocupaciones excesivas por el
-peso o figurafootnote:[Hilbert A, Hoek HW, Schmidt R. Evidence-based
-clinical guidelines for eating disorders: international comparison. Curr
-Opin Psychiatry. 2017;30(6):423-437.].
+peso o figura#footnote[Hilbert A, Hoek HW, Schmidt R. Evidence-based clinical guidelines for eating disorders: international comparison. Curr Opin Psychiatry. 2017;30(6):423-437.].
 
 La característica central de la AN es el bajo peso. El TA está
 caracterizado por episodios de atracones (hiperfagia con pérdida de

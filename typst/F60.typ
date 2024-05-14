@@ -36,11 +36,7 @@ Virtuoso (Histriónico) -- Posesivo (Negativista) -- Autoarruinado
 (Evitativo) -- Oprimido (Depresivo) ==== Trastorno esquizotípico de la
 personalidad
 
-.Tratamiento psicofarmacológico Evidencia escasa footnote:[Jakobsen, K.
-D., Skyum, E., Hashemi, N., Schjerning, O., Fink-Jensen, A., & Nielsen,
-J. (2017). Antipsychotic treatment of schizotypy and schizotypal
-personality disorder: a systematic review. Journal of
-Psychopharmacology, 31(4), 397-405.]. - Amisulpiride: podría ser eficaz
+.Tratamiento psicofarmacológico Evidencia escasa#footnote[Jakobsen, K. D., Skyum, E., Hashemi, N., Schjerning, O., Fink-Jensen, A., & Nielsen, J. (2017). Antipsychotic treatment of schizotypy and schizotypal personality disorder: a systematic review. Journal of Psychopharmacology, 31(4), 397-405.]. - Amisulpiride: podría ser eficaz
 para algunos de los síntomas cognitivos (evidencia A) - Risperidona:
 dosis de 2mg mejorarían escala PANSS. - Antipsicóticos en genera peuden
 mejorar algunos síntomas psicótico-símiles (ilusiones, hostilidad,

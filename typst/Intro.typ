@@ -6,7 +6,7 @@ preparar la prueba de residencia de psiquiatría (año 1996). En ese momento me 
 
 La construcción colectiva del conjunto de conocimientos que implica un encare era totalmente concordante con la filosofía del Software Libre #footnote[https://www.fsf.org] a la que le debemos GNU/Linux y el concepto de Copyleft. Como forma de contribuir a esa construcción colectiva, fui subiendo todo el material, junto con mis propios apuntes a un sitio web que ya no existe.
 
-#figure(image("copyleft.png"))
+#figure(image("img/copyleft.png"))
 
 Hace algunos años atrás, me comentaron acerca de la existencia del "Libro de las estrellitas". Alguien, siguiendo la misma filosofía, imprimió los encares, los encuadernó y puso a disposición en una fotocopiadora frente al Hospital de Clínicas. Alguien (no se si fue la misma persona) adornó la tapa con estrellitas.
 
@@ -35,9 +35,9 @@ Estos encares fueron posibles gracias a la generosa contribución de varios cole
 
 === Licencia
 
-Todo el contenido tiene licencia Creative Commons (Atribución - Compartir igual) 4.0 Internacional footnote:[http://creativecommons.org/licenses/by-sa/4.0/] .
+Todo el contenido tiene licencia Creative Commons (Atribución - Compartir igual) 4.0 Internacional #footnote[http://creativecommons.org/licenses/by-sa/4.0/].
 
-#figure(image("cc.png"))
+#figure(image("img/cc.png"))
 
 Esto significa que se puede:
 

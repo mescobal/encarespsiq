@@ -187,11 +187,7 @@ mantendremos fármacos de mantenimiento, pero será fundamental-mente
 psicosocial y estará destinado a favorecer inserción social y combatir
 complicaciones.
 
-Se usará medicación en casos en que footnote:[National Institute for
-Health and Care Excellence. "Psychotropic medicines in people with
-learning disabilities whose behaviour challenges." (2017).]: - Las
-intervenciones psicosociales solas no sean suficientes. - Exista riesgo
-para sí o para terceros.
+Se usará medicación en casos en que#footnote[National Institute for Health and Care Excellence. "Psychotropic medicines in people with learning disabilities whose behaviour challenges." (2017).]: - Las intervenciones psicosociales solas no sean suficientes. - Exista riesgo para sí o para terceros.
 
 .Cuadro actual
 

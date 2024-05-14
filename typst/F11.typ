@@ -44,7 +44,7 @@ Encuadre: adicción como enfermedad bio-psico-social-espiritual. El tratamiento 
 - Internación: considerarlo si hay comorbilidad con otros trastornos por consumo de sustancias (alcohol, sedantes, hipnóticos). Considerarlo aún en conexto de consumo que parezca no problemático.
 - Centro de rehabilitación especializado en adicciones
 
-Alternativas footnote:[-Kampman K, Jarvis M. American Society of Addiction Medicine (ASAM) National Practice Guideline for the Use of Medications in the Treatment of Addiction Involving Opioid Use. J Addict Med. 2015;9(5):358-367. doi:10.1097/ADM.0000000000000166 ]: 
+Alternativas#footnote[-Kampman K, Jarvis M. American Society of Addiction Medicine (ASAM) National Practice Guideline for the Use of Medications in the Treatment of Addiction Involving Opioid Use. J Addict Med. 2015;9(5):358-367. doi:10.1097/ADM.0000000000000166 ]: 
 - Buprenorfina: primera línea - Metadona: pacientes bajo supervisión o con falla de tratamiento con buprenorfina. Contexto: internación. 
 - Naltrexona: generalmente tiene escasa adherencia. Reservado para pacientes que pueden cumplir.
 

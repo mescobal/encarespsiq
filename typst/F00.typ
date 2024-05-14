@@ -366,21 +366,11 @@ Supranuclear Progresiva.
 
 ===== Tipo clínico (CIE-10)
 
-- Demencia en la enfermedad de Alzheimer. Especificadores: de inicio
-precoz (< 65 años)/ tardío; atípica o mixta. Diagnóstico por: presencia
-de cuadro demencial de comienzo insidioso y curso continuo + exclusión
-de otras causas + ausencia de AVE + AF DTA o Down
-- Demencia vascular . Especificadores: de inicio agudo; multiinfarto;
-vascular subcortical; vascular mixta cortical y subcortical; otras; sin
-especificar.
-- Demencia en enfermedades clasificadas en otro lugar: Pick,
-Creutzfeldt-Jakobson; Huntington; HIV; enfermedades específicas
-clasificadas en otro lugar.
-- Demencias sin especificación: sin síntomas adicionales, con predominio
-de: ideas delirantes, alucinaciones, síntomas depresivos, síntomas
-mixtos.
-- Síndrome amnésico orgánico no inducido por alcohol u otras sustancias
-psicotropas
+- Demencia en la enfermedad de Alzheimer. Especificadores: de inicio precoz (< 65 años)/ tardío; atípica o mixta. Diagnóstico por: presencia de cuadro demencial de comienzo insidioso y curso continuo + exclusión de otras causas + ausencia de AVE + AF DTA o Down
+- Demencia vascular . Especificadores: de inicio agudo; multiinfarto; vascular subcortical; vascular mixta cortical y subcortical; otras; sin especificar.
+- Demencia en enfermedades clasificadas en otro lugar: Pick, Creutzfeldt-Jakobson; Huntington; HIV; enfermedades específicas clasificadas en otro lugar.
+- Demencias sin especificación: sin síntomas adicionales, con predominio de: ideas delirantes, alucinaciones, síntomas depresivos, síntomas mixtos.
+- Síndrome amnésico orgánico no inducido por alcohol u otras sustancias psicotropas
 
 ===== Momento evolutivo
 
@@ -391,13 +381,8 @@ psicotropas
 ===== Gravedad
 
 - Leve: deterioro laboral con vida independiente.
-- Moderada: vida independiente peligrosa, supervisión, autocrítica
-alterada: juicio.
-- Grave: supervisión continua, no existe higiene personal mínima, juicio
-muy alterado, lenguaje incoherente o mudo. Nos inclinamos a.... sabiendo
-que el diagnóstico definitivo está sujeto a la compensación del cuadro
-actual, con la corrección de factores que favorecen el deterioro,
-incidiendo en éste.
+- Moderada: vida independiente peligrosa, supervisión, autocrítica alterada: juicio.
+- Grave: supervisión continua, no existe higiene personal mínima, juicio muy alterado, lenguaje incoherente o mudo. Nos inclinamos a.... sabiendo que el diagnóstico definitivo está sujeto a la compensación del cuadro actual, con la corrección de factores que favorecen el deterioro, incidiendo en éste.
 
 ===== Complicaciones
 
@@ -405,18 +390,16 @@ incidiendo en éste.
 - Excitación psicomotriz
 - Síndrome delirante
 
-Que perjudica el deterioro preexistente y sobre el cual actuaremos en lo
-inmediato.
+Que perjudica el deterioro preexistente y sobre el cual actuaremos en lo inmediato.
 
 ===== CIE-10
 
 Demencia (general)
 
-{empty}1. Trastornos de funciones corticales superiores: o memoria o
-lenguaje o comprensión o aprendizaje o flujo de ideas o razonamiento y
-juicio 2. Los trastornos causan disturbios en las actividades diarias 3.
-Preservación del estado de conciencia (descarta confusión) 4. Seis meses
-de evolución (criterio no presente en DSM).
+1. Trastornos de funciones corticales superiores: o memoria o lenguaje o comprensión o aprendizaje o flujo de ideas o razonamiento y juicio
+2. Los trastornos causan disturbios en las actividades diarias
+3. Preservación del estado de conciencia (descarta confusión)
+4. Seis meses de evolución (criterio no presente en DSM).
 
 Demencia tipo Alzheimer Criterio general para demencia +
 
@@ -442,30 +425,23 @@ Demencia tipo Alzheimer Criterio general para demencia +
 ==== Diagnóstico etiopatogénico y psicopatológico
 
 ===== Fisiopatología
-Estrés oxidativo: pérdida del balance
-prooxidativo/antioxidativo, relacionado con procesos de envejecimiento,
-contribuye a cambios en el sistema colinérgico. Hay refuerzo mutuo entre
-el estrés oxidativo y la transmisión glutamatérgica (frente a un aumento
-de radicales libres, hay mayor acción glutamatérgica). Radicales libres:
-son especies oxigenadas altamente reactivas que contribuyen a la
-fagocitosis. Cuando aumentan los radicales libres, se promueve el daño
-neuronal. Apoptosis: muerte celular inducida por radicales libres.
-Excitotoxicidad: acción neurotóxica por exceso de estimulación, mediada
-por Glutamato. Se postula un rol en la enfermedad de Parkinson,
-Huntington y Alzheimer. A nivel neuroanatómico: Hallazgos macroscópicos:
-no hay hallazgos que sean patognomónicos. Atrofia cerebral, dilatación
-ventricular, reducción del volumen cerebral. Hallazgos microscópicos:
-placas amiloides (estructuras extracelulares con centro de proteína beta
-amiloide rodeado de axones y dendritas atróficas, su densidad no guarda
-relación con el deterioro cognitivo, son más numerosas en pacientes con
-demencia tipo Alzheimer, sobre todo en corteza e hipocampo), enredos
-neurofibrilares (estructuras intracelulares [no exclusivos de DTA] en
-forma de pares de filamentos helicoidales [proteína Tau que ha tenido
-fosforilación extrema] y restos de neurotúbulos destruidos, respuesta a
-eventos degenerativos tóxicos y traumáticos), degeneración
-granulovacuolar, cuerpos de Hirano.
 
-.Psicopatología
+Estrés oxidativo: pérdida del balance prooxidativo/antioxidativo, relacionado con procesos de envejecimiento contribuye a cambios en el sistema colinérgico. Hay refuerzo mutuo entre el estrés oxidativo y la transmisión glutamatérgica (frente a un aumento de radicales libres, hay mayor acción glutamatérgica).
+
+Radicales libres: son especies oxigenadas altamente reactivas que contribuyen a la fagocitosis. Cuando aumentan los radicales libres, se promueve el daño neuronal.
+
+Apoptosis: muerte celular inducida por radicales libres.
+
+Excitotoxicidad: acción neurotóxica por exceso de estimulación, mediada por Glutamato. Se postula un rol en la enfermedad de Parkinson, Huntington y Alzheimer.
+
+A nivel neuroanatómico:
+
+Hallazgos macroscópicos: no hay hallazgos que sean patognomónicos. Atrofia cerebral, dilatación ventricular, reducción del volumen cerebral.
+
+Hallazgos microscópicos: placas amiloides (estructuras extracelulares con centro de proteína betaamiloide rodeado de axones y dendritas atróficas, su densidad no guarda relación con el deterioro cognitivo, son más numerosas en pacientes con demencia tipo Alzheimer, sobre todo en corteza e hipocampo), enredos neurofibrilares (estructuras intracelulares [no exclusivos de DTA] en forma de pares de filamentos helicoidales [proteína Tau que ha tenido fosforilación extrema] y restos de neurotúbulos destruidos, respuesta a eventos degenerativos tóxicos y traumáticos), degeneración granulovacuolar, cuerpos de Hirano.
+
+===== Psicopatología
+
 El estado demencial comporta una desorganización del ser razonable (trastorno del juicio) y de la autoconducción con regresión del comportamiento y alteración de su adaptación a la realidad con incapacidad de integrar comportamientos de actividad intelectual superior debido a un deterioro a nivel del fondo mental y del patrimonio mental (escala de valores lógicos y éticos).
 
 Para Jaspers: corresponde a un proceso orgánico que lleva a una destrucción de la vida psíquica y creación de un nuevo estado de la personalidad.
@@ -506,6 +482,7 @@ Minimental (Folstein - MMSE): máximo 30 puntos: orientación temporal (5), orie
 Test del reloj: pedir que dibuje un reloj, con las marcas de horas y que ponga las agujas a una hora determinada. Evalúa: habilidad témporo-espacial, existencia de perseveración, habilidad ejecutiva y capacidad de abstracción.
 
 ===== Biológico
+
 Evaluación sistemática Examen físico completo, con énfasis en lo neurológico, con fondo de ojo y consultas con neurólogo. Deben buscarse signos focales, hidratación, nutrición. valoración CV con examen central y periférico. Consulta con internista o cardiólogo para valoración CV clínica y paraclínica y evaluación de terreno ATC e HTA y su control.
 
 Rutinas: hemograma, glicemia, ionograma, azoemia, creatininemia, orina. ECG y RxTx Función tiroidea. Dosificación de B12. VDRL. Evaluación selectiva Orina, toxicología, radiografías, HIV, ANA (anticuerpos antinucleares), ApoE (apolipoproteína E), Tau, proteína beta amiloide plaquetario, Tropicamida (antagonista muscarínico que se usa como gotas oftálmicas en una prueba que evalúa midriasis en pacientes con Alzheimer). Punción lumbar: solo si hay síntomas de irritación meníngea de evolución muy rápida. TAC de utilidad relativa para el diagnóstico planteado ya que sabemos que no existe correlación anatomo-clínica pudiéndose ver signos inespecíficos: atrofia cortical y dilatación ventricular, hipodensidades que nos indiquen infartos múltiples. Descartaremos causas reversibles que pueden estar incidiendo.
@@ -573,7 +550,7 @@ Al alta hospitalaria: retiro de medicación evitando polifarmacia (mínimo indis
 
 ===== A largo plazo
 
-.Demencia Tipo Alzheimer
+====== Demencia Tipo Alzheimer
 
 Inhibidores de la Acetilcolinesterasa (AcE): retardan el deterioro
 sintomático a corto plazo. A largo plazo: disminuyen la velocidad de
@@ -657,7 +634,7 @@ para lo que implementaremos s/t medidas psicosociales.
 Control de medicación semanal en policlínica (que se irán espaciando
 hasta ser mensuales).
 
-.Demencia vascular
+====== Demencia vascular
 
 Control de riesgos: HTA, hiperlipidemia, diabetes, fibrilación
 auricular. Tratamiento específico: Acido acetil-salicílico. Ginko

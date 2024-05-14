@@ -4,13 +4,7 @@
 
 ==== Depresión en el adulto mayor
 
-Es un constructo clínicamente útilfootnote:[Agüera-Ortiz, L.,
-Claver-Martín, M. D., Franco-Fernández, M. D., López-Álvarez, J.,
-Martín-Carrasco, M., Ramos-García, M. I., & Sánchez-Pérez, M. (2020).
-Depression in the Elderly. consensus statement of the Spanish
-Psychogeriatric Association. Frontiers in psychiatry, 11, 380.]. Otros
-conceptos clínicos útiles: depresión de inicio tardío, depresión de
-causa vascular. Depresión en el adulto mayor:
+Es un constructo clínicamente útil#footnote[Agüera-Ortiz, L., Claver-Martín, M. D., Franco-Fernández, M. D., López-Álvarez, J., Martín-Carrasco, M., Ramos-García, M. I., & Sánchez-Pérez, M. (2020). Depression in the Elderly. consensus statement of the Spanish Psychogeriatric Association. Frontiers in psychiatry, 11, 380.]. Otros conceptos clínicos útiles: depresión de inicio tardío, depresión de causa vascular. Depresión en el adulto mayor:
 
 - Mayores niveles de ansiedad.
 - Mayores niveles de síntomas hipocondríacos
@@ -68,7 +62,7 @@ litio . Potenciación con un agonista dopaminérgico o metilfenidato
 
 ==== Depresión en adolescentes
 
-- Escitalopram #footnote[EMSLIE, Graham J., et al. Escitalopram in the treatment of adolescent depression: a randomized placebo-controlled multisite trial. Journal of the American Academy of Child & Adolescent Psychiatry, 2009, vol. 48, no 7, p. 721-729.] #footnote[FINDLING, Robert L.; ROBB, Adelaide; BOSE, Anjana. Escitalopram in the treatment of adolescent depression: a randomized, double-blind, placebo-controlled extension trial. Journal of child and adolescent psychopharmacology, 2013, vol. 23, no 7, p. 468-480.]
+- Escitalopram#footnote[EMSLIE, Graham J., et al. Escitalopram in the treatment of adolescent depression: a randomized placebo-controlled multisite trial. Journal of the American Academy of Child & Adolescent Psychiatry, 2009, vol. 48, no 7, p. 721-729.] #footnote[FINDLING, Robert L.; ROBB, Adelaide; BOSE, Anjana. Escitalopram in the treatment of adolescent depression: a randomized, double-blind, placebo-controlled extension trial. Journal of child and adolescent psychopharmacology, 2013, vol. 23, no 7, p. 468-480.]
 
 === Encare
 
@@ -447,22 +441,11 @@ Ansiosas: diferencial con neurosis.
 
 ===== Etiopatogenia
 
-Se postulan 3 factores que interactúan en la patogénesis de la depresión
-footnote:[]: - Factores internalizantes: por ejemplo genética y
-neuroticismo footnote:[Sullivan, P.F., Neale, M.C., Kendler, K.S., 2000.
-Genetic epidemiology of major depression: review and meta-analysis. Am J
-Psychiatry 157, 1552–1562. https:// 10.1176/appi.ajp.157.10.1552.]. -
-Factores externalizantes: por ejemplo consumo de sustancias
-footnote:[Compton, W.M., Conway, K.P., Stinson, F.S., Grant, B.F., 2006.
-Changes in the prevalence of major depression and comorbid substance use
-disorders in the United States between 1991-1992 and 2001-2002. Am J
-Psychiatry 163, 2141–2147. https://10.1176/ajp.2006.163.12.2141. ]. -
-Eventos adversos: por ejemplo trauma y pérdida parental footnote:[Green,
-J.G., McLaughlin, K.A., Berglund, P.A., Gruber, M.J., Sampson, N.A.,
-Zaslavsky, A.M., Kessler, R.C., 2010. Childhood adversities and adult
-psychiatric disorders in the national comorbidity survey replication I:
-associations with first onset of DSM-IV disorders. Arch Gen Psychiatry
-67, 113–123. https://10.1001/arch genpsychiatry.2009.186.].
+Se postulan 3 factores que interactúan en la patogénesis de la depresión:
+
+- Factores internalizantes: por ejemplo genética y neuroticismo#footnote[Sullivan, P.F., Neale, M.C., Kendler, K.S., 2000. Genetic epidemiology of major depression: review and meta-analysis. Am J Psychiatry 157, 1552–1562. https:// 10.1176/appi.ajp.157.10.1552.].
+- Factores externalizantes: por ejemplo consumo de sustancias#footnote[Compton, W.M., Conway, K.P., Stinson, F.S., Grant, B.F., 2006. Changes in the prevalence of major depression and comorbid substance use disorders in the United States between 1991-1992 and 2001-2002. Am J Psychiatry 163, 2141–2147. https://10.1176/ajp.2006.163.12.2141. ].
+- Eventos adversos: por ejemplo trauma y pérdida parental#footnote[Green, J.G., McLaughlin, K.A., Berglund, P.A., Gruber, M.J., Sampson, N.A., Zaslavsky, A.M., Kessler, R.C., 2010. Childhood adversities and adult psychiatric disorders in the national comorbidity survey replication I: associations with first onset of DSM-IV disorders. Arch Gen Psychiatry 67, 113–123. https://10.1001/arch genpsychiatry.2009.186.].
 
 .Biológico - Hereditario: importante penetrancia genética. -
 Neurotransmisores: alteración en sistemas noradrenérgicos y/o
@@ -473,9 +456,7 @@ psicológicas + factores biológicos: - Embarazo/parto, climaterio. -
 Mecanismos inflamatorios: factor de necrosis tumoral alfa(TNF-alfa),
 interleuquinas. Se postula que la inflamación podría alterar la barrera
 hematoencefálica con entrada de moléculas inflamatorias y células
-inmunes del CNS footnote:[Lee, C.H., Giuliani, F., 2019. The Role of
-Inflammation in Depression and Fatigue. Front Immunol 10, 1696.
-https://10.3389/fimmu.2019.01696.].
+inmunes del CNS#footnote[Lee, C.H., Giuliani, F., 2019. The Role of Inflammation in Depression and Fatigue. Front Immunol 10, 1696. https://10.3389/fimmu.2019.01696.].
 
 .Comprensión psicológica
 
@@ -619,17 +600,9 @@ conflictivas.
 
 .Antidepresivos
 
-La elección estará determinada entre otras cosas por AP de respuesta a
-tratamientos previos. En caso de ausencia de antecedentes
-seleccionaremos antidepresivos según situación clínica
-footnote:[Cipriani, A., Furukawa, T. A., Salanti, G., Chaimani, A.,
-Atkinson, L. Z., Ogawa, Y., ... & Geddes, J. R. (2018). Comparative
-efficacy and acceptability of 21 antidepressant drugs for the acute
-treatment of adults with major depressive disorder: a systematic review
-and network meta-analysis. The Lancet, 391(10128), 1357-1366.]:
+La elección estará determinada entre otras cosas por AP de respuesta a tratamientos previos. En caso de ausencia de antecedentes seleccionaremos antidepresivos según situación clínica#footnote[Cipriani, A., Furukawa, T. A., Salanti, G., Chaimani, A., Atkinson, L. Z., Ogawa, Y., ... & Geddes, J. R. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. The Lancet, 391(10128), 1357-1366.]:
 
-- Paciente sin tratamientos previos: preferimos el uso de un ISRS, tal
-como Sertralina 50 mg 1 comp/día, por la menor incidencia de efectos
+- Paciente sin tratamientos previos: preferimos el uso de un ISRS, tal como Sertralina 50 mg 1 comp/día, por la menor incidencia de efectos
 secundarios. En caso de coexistencia de ansiedad, preferimos un ISRS
 sedativo (Fluvoxamina, Paroxetina). En caso de tratarse de un paciente
 añoso: Escitalopram. Estos antidepresivos actúan mediante el bloqueo de
@@ -822,20 +795,13 @@ Melancolía crónica simple (acceso con remisión parcial) . Delirio
 crónico melancólico (persiste al desaparecer la depresión), a forma
 hipocondríaca o a forma de síndrome de Cottard crónico.
 
-===== Factores de mal pronóstico . Antecedentes de maltrato o abuso en
-la infancia: factor de riesgo para severidad, precocidad, resistencia y
-cronificación de cuadros depresivos footnote:[Nelson, Janna, et al.
-"Childhood maltreatment and characteristics of adult depression:
-meta-analysis." The British Journal of Psychiatry 210.2 (2017):
-96-104.]. . Síndrome metabólico footnote:[Pan, An, et al. "Bidirectional
-association between depression and metabolic syndrome: a systematic
-review and meta-analysis of epidemiological studies." Diabetes care 35.5
-(2012): 1171-1180.].
+===== Factores de mal pronóstico
+
+- Antecedentes de maltrato o abuso en la infancia: factor de riesgo para severidad, precocidad, resistencia y
+cronificación de cuadros depresivos#footnote[Nelson, Janna, et al. "Childhood maltreatment and characteristics of adult depression: meta-analysis." The British Journal of Psychiatry 210.2 (2017): 96-104.].
+- Síndrome metabólico#footnote[Pan, An, et al. "Bidirectional association between depression and metabolic syndrome: a systematic review and meta-analysis of epidemiological studies." Diabetes care 35.5 (2012): 1171-1180.].
 
 ==== En suma
 
-Hemos visto un paciente de sexo X, de X años de edad, con un MSEC X, con
-AF de X, con APM de X, con AP de X, que consulta por X síntomas, en
-quien diagnosticamos un episodio X en un trastorno X, planteándose DD
-con X, que hemos estudiado con X, planteando un tratamiento X, cuyo
-pronóstico es X.
+Hemos visto un paciente de sexo X, de X años de edad, con un MSEC X, con AF de X, con APM de X, con AP de X, que consulta por X síntomas, en quien diagnosticamos un episodio X en un trastorno X, planteándose DD con X, que hemos estudiado con X, planteando un tratamiento X, cuyo pronóstico es X.:w
+

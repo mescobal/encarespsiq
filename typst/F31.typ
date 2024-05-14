@@ -784,11 +784,7 @@ gastrointestinales (náuseas, vómitos, diarreas).
 - Intoxicación moderada: temblor grueso, ataxia, lenguaje lento,
 confusión, hiperreflexia, clonus, cambios ECG inespecíficos.
 - Intoxicación grave: convulsiones, coma, shock, fasciculaciones
-generalizadas, alteraciones del ECG (todo tipo), arritmias, muerte
-footnote:[Osés, I., Burillo-Putze, G., Munné, P., Nogué, S., & Pinillos,
-M.A.. (2003). Intoxicaciones medicamentosas (I): Psicofármacos y
-antiarrítmicos. Anales del Sistema Sanitario de Navarra, 26(Supl. 1),
-49-63].
+generalizadas, alteraciones del ECG (todo tipo), arritmias, muerte#footnote[Osés, I., Burillo-Putze, G., Munné, P., Nogué, S., & Pinillos, M.A.. (2003). Intoxicaciones medicamentosas (I): Psicofármacos y antiarrítmicos. Anales del Sistema Sanitario de Navarra, 26(Supl. 1), 49-63].
 
 Si el paciente es añoso, o con problemas renales, o sensible a efectos
 secundarios: comenzar con 150 mg v/o c/8.

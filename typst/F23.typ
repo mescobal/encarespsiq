@@ -208,10 +208,7 @@ desencadenantes BPS.
 
 En lo biológico: consumo de sustancias, en especial el consumo de
 marihuana es un factor de riesgo para el desarrollo de episodios
-psicóticos footnote:[Moore, T. H., Zammit, S., Lingford-Hughes, A.,
-Barnes, T. R., Jones, P. B., Burke, M., & Lewis, G. (2007). Cannabis use
-and risk of psychotic or affective mental health outcomes: a systematic
-review. The Lancet, 370(9584), 319-328.] , abandono de medicación.
+psicóticos#footnote[Moore, T. H., Zammit, S., Lingford-Hughes, A., Barnes, T. R., Jones, P. B., Burke, M., & Lewis, G. (2007). Cannabis use and risk of psychotic or affective mental health outcomes: a systematic review. The Lancet, 370(9584), 319-328.] , abandono de medicación.
 
 En lo psicosocial: medio familiar, pérdidas o estresantes.
 
@@ -259,13 +256,7 @@ En mujer en edad genital activa: test de embarazo.
 
 Si hay elementos clínicos que lo ameriten: TAC / RNM. Sabiendo que no se
 recomienda la realización de TAC o RMN de rutina en un primer episodio
-de psicosis, excepto que exista algún otro elemento de sospecha
-footnote:[Albon, E., Tsourapas, A., Frew, E., Davenport, C., Oyebode,
-F., Bayliss, S., ... & Meads, C. (2008). Structural neuroimaging in
-psychosis: a systematic review and economic evaluation.]
-footnote:[Khandanpour, N., Hoggard, N., & Connolly, D. J. A. (2013). The
-role of MRI and CT of the brain in first episodes of psychosis. Clinical
-radiology, 68(3), 245-250.].
+de psicosis, excepto que exista algún otro elemento de sospecha#footnote[Albon, E., Tsourapas, A., Frew, E., Davenport, C., Oyebode, F., Bayliss, S., ... & Meads, C. (2008). Structural neuroimaging in psychosis: a systematic review and economic evaluation.] #footnote[Khandanpour, N., Hoggard, N., & Connolly, D. J. A. (2013). The role of MRI and CT of the brain in first episodes of psychosis. Clinical radiology, 68(3), 245-250.].
 
 Para descartar diagnósticos diferenciales:
 
@@ -466,6 +457,7 @@ Mal pronóstico:
 - aplanamiento afectivo
 - AF de psicosis crónica
 - persistencia de estresores ambientales / mala continentación
+
 socio-familiar
 
 ===== Notas psicosis puerperal

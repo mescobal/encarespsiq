@@ -1102,3 +1102,5 @@ cuidado con el aumento del umbral convulsivo con vistas a la ECT. Ir
 aumentando de a 2 mg/día hasta 16 mg: 4 - 4 - 8). Valorar en todos los
 casos el uso de atípicos. Complicaciones de la esquizofrenia catatónica:
 estupor, actos ML, actos impulsivos.
+
+#include("Clozapina.typ")

@@ -32,10 +32,7 @@ paraguas. Prevalencia hasta 1
 .Trastorno del espectro autista
 
 Diagnóstico bidimensional. Los estudios muestran que tiene más validez
-que el tridimensional del DSM-IV footnote:[Mandy, W. P., Charman, T., &
-Skuse, D. H. (2012). Testing the construct validity of proposed criteria
-for DSM-5 autism spectrum disorder. Journal of the American Academy of
-Child & Adolescent Psychiatry, 51(1), 41-50.].
+que el tridimensional del DSM-IV#footnote[Mandy, W. P., Charman, T., & Skuse, D. H. (2012). Testing the construct validity of proposed criteria for DSM-5 autism spectrum disorder. Journal of the American Academy of Child & Adolescent Psychiatry, 51(1), 41-50.].
 
 . Déficit en la comunicación social e interacción social. Ejemplos: ..
 Reciprocidad socioemocional .. Conductas comunicativas no verbales ..
@@ -105,20 +102,14 @@ grupo A (Esquizoide)
 ==== Tratamiento
 
 ===== Biológico En metaanálisis no hay diferencias significativas entre
-el placebo y los siguientes tratamientos footnote:[Yu, Yanjie, et al.
-"Pharmacotherapy of restricted/repetitive behavior in autism spectrum
-disorder: a systematic review and meta-analysis." BMC psychiatry 20.1
-(2020): 1-11.]: fluvoxamina, risperidona, fluoxetina, citalopram,
-oxitocina, N-Acetilcisteína, buspirona.
+el placebo y los siguientes tratamientos#footnote[Yu, Yanjie, et al. "Pharmacotherapy of restricted/repetitive behavior in autism spectrum disorder: a systematic review and meta-analysis." BMC psychiatry 20.1 (2020): 1-11.]: fluvoxamina, risperidona, fluoxetina, citalopram, oxitocina, N-Acetilcisteína, buspirona.
 
 Aripiprazol: potencialmente útil para uso transitorio en el tratamiento
 de aspectos comportamentales (irritabilidad, hiperactividad,
 estereotipias). Debe prestarse atención a los efectos secundarios
 (ganancia de peso, sedación, sialorrea, temblor). Un estudio muestra que
 a largo plazo no se diferencia del placebo -> se recomienda usar por
-períodos cortos footnote:[Hirsch, Lauren E., and Tamara Pringsheim.
-"Aripiprazole for autism spectrum disorders (ASD)." Cochrane Database of
-Systematic Reviews 6 (2016).].
+períodos cortos#footnote[Hirsch, Lauren E., and Tamara Pringsheim. "Aripiprazole for autism spectrum disorders (ASD)." Cochrane Database of Systematic Reviews 6 (2016).].
 
 ===== Psicológico Psicoterapia de apoyo con promoción de conductas
 sociales e interacción. Técnicas de resolución de problemas.
