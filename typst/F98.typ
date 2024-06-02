@@ -11,18 +11,11 @@ de inicio: 2 a 7 años. A los 16: 65-85% se recuperan.
 
 ==== Etiología
 
-Desconocida. Conceptualización actual: dominancia incompleta de los
-centros primarios del lenguaje de etiología multifactorial.
+Desconocida. Conceptualización actual: dominancia incompleta de los centros primarios del lenguaje de etiología multifactorial.
 
-Genética: da cuenta del 50-80% de los casos. Correlación entre hermanos:
-19%. Riesgo x 3 en familiares de primer grado. Asociación con genes
-dopaminérgicos SLC6A3 y DRD2,
+Genética: da cuenta del 50-80% de los casos. Correlación entre hermanos: 19%. Riesgo x 3 en familiares de primer grado. Asociación con genes dopaminérgicos SLC6A3 y DRD2,
 
-Comparte características con S de la Tourette: inicio en la infancia,
-hombres 4:1, curso fluctuante, empeoran con ansiedad, están asociados a
-tics, tienen anomalías cerebrales en los ganglios basales, empeoran pora
-agonistas dopaminérgicos, mejoran con antagonistas. Infecciosa: algunos
-casos asociados a PANDAS (trastornos autoinmunes pediátricos asociados a
-infecciones estreptocóccicas), que están vinculados a Tourette y TOC.
+Comparte características con S de la Tourette: inicio en la infancia, hombres 4:1, curso fluctuante, empeoran con ansiedad, están asociados a tics, tienen anomalías cerebrales en los ganglios basales, empeoran por agonistas dopaminérgicos, mejoran con antagonistas.
+Infecciosa: algunos casos asociados a PANDAS (trastornos autoinmunes pediátricos asociados a infecciones estreptocóccicas), que están vinculados a Tourette y TOC.
 
 Casos adquiridos en adultos: asociados a medicación y TEC.

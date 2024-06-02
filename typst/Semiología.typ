@@ -29,12 +29,12 @@ Tiene múltiples formatos y diferentes formas de ordenarlo, pero siempre contemp
 
 - Presentación:
   - Ingreso a la entrevista
-  - Aspecto general, biotipo
-  - Arreglo personal: autocuidado, concordancia con contexto sociocultural, ornamentación (en vestimenta y en el cuerpo), tipo de vestimenta.
-- Actitud: colaboración activa/pasiva, negativismo.
+  - Aspecto general, biotipo, edad cronológica/biológica, estado nutricional
+  - Arreglo personal: higiene, autocuidado, concordancia con contexto sociocultural, ornamentación (en vestimenta y en el cuerpo), tipo de vestimenta.
+- Actitud: colaboración activa/pasiva, negativismo. Contacto ocular.
 - Fascies, mímica y gestualidad
 - Rapport
-- Conciencia
+- Conciencia: nivel de conciencia
 - Pensamiento
 - Humor y afectividad
 - Psicomotricidad
