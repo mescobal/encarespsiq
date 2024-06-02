@@ -2,45 +2,23 @@
 
 === Notas clínicas
 
-Una buena revisión clínica del trastorno es la realizada por Manschreck
-footnote:[Manschreck, T. C., & Khan, N. L. (2006). Recent advances in
-the treatment of delusional disorder. The Canadian Journal of
-Psychiatry, 51(2), 114-119. ISO 690].
+Una buena revisión clínica del trastorno es la realizada por Manschreck#footnote[Manschreck, T. C., & Khan, N. L. (2006). Recent advances in the treatment of delusional disorder. The Canadian Journal of Psychiatry, 51(2), 114-119. ISO 690].
 
 ==== Delirio sensitivo de relación (Kretschmer)
 
-Descrito en 1919. 3 componentes footnote:[Widakowich, C., Van Wettere,
-L., Hubain, P., & Snacken, J. (2013). 1938–Actuality of the Kretschmer’s
-sensitive delusion of reference in the DSM V era: two case reports.
-European Psychiatry, 28(S1), 1-1.]:
+Descrito en 1919. 3 componentes #footnote[Widakowich, C., Van Wettere, L., Hubain, P., & Snacken, J. (2013). 1938–Actuality of the Kretschmer’s sensitive delusion of reference in the DSM V era: two case reports. European Psychiatry, 28(S1), 1-1.]:
 
-* Carácter sensitivo: timidez, hiperemotividad, sensibilidad, sentido
-elevado de los valores morales, orgullo, hiperestesia emocional,
-hiperestesia en los contactos sociales. Resulta en alta vulnerabilidad
-en los contactos sociales, tendencia a la autocrítica, susceptibilidad y
-tendencia a internalizar fallas percibidas como dolorosas.
-* Evento "traumático" vivido como "falla" o "humillación" en plano
-ético.
-* Desarrollo del delirio en si: remordimiento depresivo con miedos
-hipocondríacos e ideación persecutoria en conversaciones banales
-cotidianas. Delirio concéntrico: el sujeto es el centro de la
-experiencia, rodeado por un grupo (cónyuge, familia, vecinos). Formato
-tipo "proceso".
+- Carácter sensitivo: timidez, hiperemotividad, sensibilidad, sentido elevado de los valores morales, orgullo, hiperestesia emocional, hiperestesia en los contactos sociales. Resulta en alta vulnerabilidad en los contactos sociales, tendencia a la autocrítica, susceptibilidad y tendencia a internalizar fallas percibidas como dolorosas.
+- Evento "traumático" vivido como "falla" o "humillación" en plano ético.
+- Desarrollo del delirio en si: remordimiento depresivo con miedos hipocondríacos e ideación persecutoria en conversaciones banales cotidianas.
 
-Aparece en adultos, > 35 años, solteros añosos. En general complicado
-con un episodio depresivo severo. Evolución menos crónica que la
-paranoia con tendencia a recurrir ante nuevas humillaciones.
+Delirio concéntrico: el sujeto es el centro de la experiencia, rodeado por un grupo (cónyuge, familia, vecinos). Formato tipo "proceso".
 
-La escuela francesa lo incluye entre los delirios crónicos no
-disociativos, entre la paranoia, la psicosis alucinatoria crónica y la
-parafrenia.
+Aparece en adultos, > 35 años, solteros añosos. En general complicado con un episodio depresivo severo. Evolución menos crónica que la paranoia con tendencia a recurrir ante nuevas humillaciones.
 
-Para el DSM queda incluido entre los trastornos delirantes. En otras
-partes del mundo conceptualizado como "delirio de referencia". La idea
-delirante queda "suspendida" del acontecimiento desencadenante
-(divulgación de una enfermedad, denuncia de un robo, acusación de una
-falta, exclusión de una comunidad). Prototipo: "paranoia de los
-gobernantes", "delirio de persecución de las solteronas"
+La escuela francesa lo incluye entre los delirios crónicos no disociativos, entre la paranoia, la psicosis alucinatoria crónica y la parafrenia.
+
+Para el DSM queda incluido entre los trastornos delirantes. En otras partes del mundo conceptualizado como "delirio de referencia". La idea delirante queda "suspendida" del acontecimiento desencadenante (divulgación de una enfermedad, denuncia de un robo, acusación de una falta, exclusión de una comunidad). Prototipo: "paranoia de los gobernantes", "delirio de persecución de las solteronas"
 
 === Encare
 
@@ -60,12 +38,12 @@ hechos reales extrae conceptos erróneos a la luz de sus propias
 convicciones), intuitivo (se le presenta como verdad revelada) (poco o
 nada alucinatorio). Bien sistematizado por:
 
-* precedido en el carácter y en la personalidad del paciente
-* construido de modo lógico a partir fundamentalmente de
+- precedido en el carácter y en la personalidad del paciente
+- construido de modo lógico a partir fundamentalmente de
 interpretaciones falsas
-* expuesto con orden, coherencia y claridad por lo que se presenta al
+- expuesto con orden, coherencia y claridad por lo que se presenta al
 observador como relativamente plausible
-* polariza la conciencia del paciente, subordinando toda la actividad
+- polariza la conciencia del paciente, subordinando toda la actividad
 psíquica a sus fines. El sujeto vive para su delirio y en demanda de un
 auditorio comprensivo, dedicado a demostrar sus convicciones, las que
 defiende con calor afectivo. Todo lo cual caracteriza la estructura
@@ -86,8 +64,8 @@ relación con angustia en la afectividad.
 
 ===== Otros
 
-* Síndrome de alteración de las conductas basales y pragmatismos
-* Síndrome conductual motivando la consulta
+- Síndrome de alteración de las conductas basales y pragmatismos
+- Síndrome conductual motivando la consulta
 
 ==== Personalidad y nivel
 
@@ -96,12 +74,12 @@ Nivel: generalmente bueno.
 Personalidad: que confirmaremos con terceros ... adaptación social...
 rasgos de la serie:
 
-* Sensitivo: susceptibilidad, hiperemotividad, indecisión, timidez y
+- Sensitivo: susceptibilidad, hiperemotividad, indecisión, timidez y
 escrupulosidad, inseguridad, rencoroso con sufrimiento interno,
 tendencia a la inacción ante las ofensas ("guarda ofensas como
 medallas"). Inhibido, insatisfecho, hiperestesia a los contactos
 sociales. Asténico.
-* Paranoico: desconfianza, aislamiento, orgullo, agresividad,
+- Paranoico: desconfianza, aislamiento, orgullo, agresividad,
 psicorrigidez, falsedad de juicio, hipertrofia del yo (incapacidad de
 cambiar su posición mental), fanatismo, celoso, rencoroso, estricto
 moralista, obstinación, reproches, cuestiona lealtad de los demás,
@@ -157,18 +135,18 @@ Pasional
 
 Exaltación, idea prevalente, potencial agresivo, temible pasaje al acto.
 
-* Celotípico (OH): transformación de una relación de pareja en una
+- Celotípico (OH): transformación de una relación de pareja en una
 relación triangular. Delirio de infidelidad. Pruebas,
 seudocomprobaciones, falsos recuerdos, interpretaciones delirantes,
 ilusiones de la percepción o memoria.
-* Erotomaníaco: ilusión delirante de ser amado 3 etapas: esperanza -
+- Erotomaníaco: ilusión delirante de ser amado 3 etapas: esperanza -
 despecho - rencor (alto riesgo de acciones contra el objeto amado).
 NOTA: Las formas reivindicativas y pasionales comparten características:
-** Exaltación: exhuberancia, hiperestesia o hipertimia.
-** Idea prevalente: subordina toda su vida, convicción absoluta.
-** Desarrollo en sector: el delirio penetra "como una cuña" en la
+-- Exaltación: exhuberancia, hiperestesia o hipertimia.
+-- Idea prevalente: subordina toda su vida, convicción absoluta.
+-- Desarrollo en sector: el delirio penetra "como una cuña" en la
 realidad.
-* Sensitivo de relación: delirio de bajo potencial agresivo ya que el
+- Sensitivo de relación: delirio de bajo potencial agresivo ya que el
 fondo caracteriológico es menos rígido con reacciones hiposténicas y
 depresiones. Se desarrolla con angustia y tensión bajo la convicción de
 ser objeto de un interés enojoso o humillante. El delirante se siente el
@@ -177,7 +155,7 @@ pasado y son expresión de conflictos inconscientes entre el paciente y
 un grupo (delirio de relación). Tendencia a reacciones depresivas.
 Delirio de relación: es vivido como un conflicto del sujeto con otro o
 con un grupo (delirio de persecutorio de las solteronas).
-* Delirio de interpretación (Serieux y Capgras): temas persecutorios o
+- Delirio de interpretación (Serieux y Capgras): temas persecutorios o
 de grandeza, interpretación, avanza en red, tomando elementos para
 afirmar el delirio, combativo, convincente. Necesidad de explicación
 global, interpretación según sistema de significación fundamental
@@ -215,14 +193,14 @@ Descartar sustancias o enfermedad médica.
 
 Especificadores: TIPO: según tema predominante
 
-* Erotomaníaco: idea delirante de que otra persona (generalmente de
-status superior) está enamorada del sujeto. * De grandiosidad: ideas
+- Erotomaníaco: idea delirante de que otra persona (generalmente de
+status superior) está enamorada del sujeto. - De grandiosidad: ideas
 delirantes de exagerado valor, poder, conocimiento, identidad o ralación
-especial con una divinidad o persona famosa. * Celotípico: ideas
-delirantes de que la pareja es infiel. * Persecutorio: ideas delirantes
+especial con una divinidad o persona famosa. - Celotípico: ideas
+delirantes de que la pareja es infiel. - Persecutorio: ideas delirantes
 de que la persona (o alguien próximo) está siendo perjudicada de alguna
-forma. * Somático: idea delirante de tener algún defecto físico o
-enfermedad médica. * Mixto: no predomina ningún tema. * No especificado.
+forma. - Somático: idea delirante de tener algún defecto físico o
+enfermedad médica. - Mixto: no predomina ningún tema. - No especificado.
 
 ==== Diagnósticos diferenciales
 
@@ -259,50 +237,25 @@ culpa y no la introyecta como en la melancolía delirante.
 
 ===== Etiopatogenia
 
-Los estudios a nivel biológico son escasos. En lo imagenológico
-footnote:[Vicens, V., Radua, J., Salvador, R., Anguera-Camos, M.,
-Canales-Rodriguez, E. J., Sarro, S., ... & Pomarol-Clotet, E. (2016).
-Structural and functional brain changes in delusional disorder. The
-British Journal of Psychiatry, 208(2), 153-159.] se destaca:
+Los estudios a nivel biológico son escasos. En lo imagenológico#footnote[Vicens, V., Radua, J., Salvador, R., Anguera-Camos, M., Canales-Rodriguez, E. J., Sarro, S., ... & Pomarol-Clotet, E. (2016). Structural and functional brain changes in delusional disorder. The British Journal of Psychiatry, 208(2), 153-159.] se destaca:
 
-- ↓ de la materia gris en la corteza medial frontal y cingulada
-anterior, así como en la ínsula a nivel bilateral. - falla en la
-desactivación de la corteza medial frontal medial y cingulada anterior
-durante la realización de algunas tareas de desempeño continuo (test
-N-back, mide memoria de trabajo) - ↓ de la conectividad de reposo en la
-ínsula a nivel bilateral.
+- ↓ de la materia gris en la corteza medial frontal y cingulada anterior, así como en la ínsula a nivel bilateral.
+- falla en la desactivación de la corteza medial frontal medial y cingulada anterior durante la realización de algunas tareas de desempeño continuo (test N-back, mide memoria de trabajo)
+- ↓ de la conectividad de reposo en la ínsula a nivel bilateral.
 
 ===== Psicopatología
 
-Se evocan causas fundamentalmente psicológicas. Kretschmer hizo hincapié
-en la predisposición psicológica de la personalidad premórbida de tipo
-paranoico/sensitivo-paranoico que está en nuestro paciente dada por...
+Se evocan causas fundamentalmente psicológicas. Kretschmer hizo hincapié en la predisposición psicológica de la personalidad premórbida de tipo paranoico/sensitivo-paranoico que está en nuestro paciente dada por...
 
-Psicoanálisis: comporta una fijación y regresión a estadios arcaicos del
-desarrollo psicosexual sobre todo a pulsiones agresivas del estado
-sádico-anal. Se utiliza el mecanismo de defensa psicótico de negación de
-la realidad y el mecanismo de proyección mediante el cual coloca en otro
-los sentimientos o ideas inaceptables para su yo. Los conflictos
-inconscientes se proyectan en el delirio. Freud insistió en el delirio
-de persecusión como una defensa contra pulsiones homosexuales
-inconscientes. Un yo relativamente fuerte permite mediante la represión
-una seudorracionalización que lleva a la elaboración de un sistema
-relativamente coherente. Lacan: sentido autopunitivo de la Paranoia, que
-encierra al sujeto en un sistema de persecución imaginaria que
-simbolizaría un castigo deseado inconscientemente.
+Psicoanálisis: comporta una fijación y regresión a estadios arcaicos del desarrollo psicosexual sobre todo a pulsiones agresivas del estado sádico-anal. Se utiliza el mecanismo de defensa psicótico de negación de la realidad y el mecanismo de proyección mediante el cual coloca en otro los sentimientos o ideas inaceptables para su yo. Los conflictos inconscientes se proyectan en el delirio. Freud insistió en el delirio de persecusión como una defensa contra pulsiones homosexuales inconscientes. Un yo relativamente fuerte permite mediante la represión una seudorracionalización que lleva a la elaboración de un sistema relativamente coherente.
 
-Jaspers: introduce el concepto de desarrollo: la paranoia es un fenómeno
-morboso que se produce sobre la personalidad del sujeto, cambiando su
-rumbo pero manteniendo su estructura, no existe quiebre vital, su vida
-es unitaria. Proceso evolutivo que altera el desarrollo normal de la
-personalidad. En la personalidad encontramos en la infancia: Un ambiente
-donde lo extraño es vivido como persecutorio, ambiente donde el paciente
-desarrolla su enfermedad, de fuerte contenido moral y religioso, con un
-padre rígido y autoritario como predisponente. Conjuntamente existen
-factores de estrés psicosocial que confrontan su rígida moral que
-percibidos como amenazantes actúan sobre un terreno psicológicamente
-predispuesto amenazando su: intimidad, problemática inconsciente,
-moralidad rígida.
+Lacan: sentido autopunitivo de la Paranoia, que encierra al sujeto en un sistema de persecución imaginaria que simbolizaría un castigo deseado inconscientemente.
+
+Jaspers: introduce el concepto de desarrollo: la paranoia es un fenómeno morboso que se produce sobre la personalidad del sujeto, cambiando su rumbo pero manteniendo su estructura, no existe quiebre vital, su vida es unitaria. Proceso evolutivo que altera el desarrollo normal de la personalidad.
+
+En la personalidad encontramos en la infancia: Un ambiente donde lo extraño es vivido como persecutorio, ambiente donde el paciente desarrolla su enfermedad, de fuerte contenido moral y religioso, con un padre rígido y autoritario como predisponente.
+
+Conjuntamente existen factores de estrés psicosocial que confrontan su rígida moral que percibidos como amenazantes actúan sobre un terreno psicológicamente predispuesto amenazando su: intimidad, problemática inconsciente, moralidad rígida.
 
 ==== Paraclínica
 
@@ -310,8 +263,9 @@ El diagnóstico es clínico.
 
 ===== Biológico
 
-{empty}1. Lo que tenga 2. Valoración general 3. Con vistas al
-tratamiento (ECT de 2° elección únicamente)
+1. Lo que tenga
+2. Valoración general
+3. Con vistas al tratamiento (ECT de 2° elección únicamente)
 
 ===== Psicológico
 
@@ -330,7 +284,7 @@ secundarios y obtendremos un consentimiento informado por escrito.
 
 Destinado a:
 
-* compensar el cuadro actual * actuar sobre enfermedad de fondo,
+- compensar el cuadro actual - actuar sobre enfermedad de fondo,
 evitando futuras descompensaciones, favoreciendo la adaptación social
 con reinserción laboral y correcta adopción de roles.
 
@@ -349,7 +303,7 @@ heteroagresividad. Equipo multidisciplinario.
 
 .Biológico Según tipo y gravedad de descompensación: a) i/m o b) v/o.
 
-{empty}a) Requiere medicación i/m Haloperidol: NL incisivo con acción
+a) Requiere medicación i/m Haloperidol: NL incisivo con acción
 sobre el delirio: 5 mg i/m H8 y H20. Como profilaxis de efectos EP
 (rigidez, rueda dentada, temblor, bradiquinesia) que se pueden ver con
 esta medicación indicaremos dada la suspicacia persecutoria del
@@ -365,7 +319,7 @@ logremos la sedación y el restablecimiento del sueño, pasaremos la
 medicación a v/o. Sedación con Lorazepam i/m. Hipnótico: Flunitrazepam
 i/m.
 
-{empty}b) Vía oral: se prefiere ya que no perjudica el vínculo.
+b) Vía oral: se prefiere ya que no perjudica el vínculo.
 Antipsicótico: preferentemente un atípico: Risperidona: por tener menos
 efectos secundarios. !Ver pauta de inicio de Risperidona. Sedaremos con
 Benzodiacepinas: Lorazepam. Diazepam o Clonazepam a regular según
@@ -453,5 +407,4 @@ laboral generados por el delirio y sus eventuales conductas agresivas.
 Para los clásicos: eventualidad de evolución hacia otras formas de
 psicosis crónicas.
 
-El PVA es bueno ya que no existen trastornos orgánicos, pero está sujeto
-al psiquiátrico.
+El PVA es bueno ya que no existen trastornos orgánicos, pero está sujeto al psiquiátrico.

@@ -84,6 +84,7 @@ MSEC::
   Medio socio-económico-cultural.
 OH::
   Alcohol, alcoholismo, trastorno por consumo de alcohol.
+OMS:: Organización Mundial de la Salud
 PA::
   Presión arterial
 PEIC::

@@ -6,9 +6,9 @@
 
 ==== Paraclínica
 
-* Consulta con cardiólogo previo al uso
-* Controles de PA regulares
-* Periódicamente: hemograma (raro: leucopenia / anemia) en caso de
+- Consulta con cardiólogo previo al uso
+- Controles de PA regulares
+- Periódicamente: hemograma (raro: leucopenia / anemia) en caso de
 tratamiento prolongado.
 
 ==== Tratamiento
@@ -17,17 +17,17 @@ tratamiento prolongado.
 
 Adolescentes:
 
-* primera línea: Mefilfenidato, Dexanfetamina, lisdexanfetamina
-* segunda línea: atomoxetina (si están CI los estimulantes, si no los
+- primera línea: Mefilfenidato, Dexanfetamina, lisdexanfetamina
+- segunda línea: atomoxetina (si están CI los estimulantes, si no los
 tolera, si no respondió a 2 estimulantes distintos a dosis adecuadas)
 
 Adultos:
 
-* Primera línea: Metilfenidato, dexanfetamina, lisdexanfetamina
-* Segunda línea: Atomoxetina o guanfacina (si están CI los estimulantes,
+- Primera línea: Metilfenidato, dexanfetamina, lisdexanfetamina
+- Segunda línea: Atomoxetina o guanfacina (si están CI los estimulantes,
 si no los tolera, si no respondió a 2 estimulantes distintos a dosis
 adecuadas)
-* Tecera línea: Bupropion, Clonidina, Modafinilo, Reboxetina,
+- Tecera línea: Bupropion, Clonidina, Modafinilo, Reboxetina,
 Venlafaxina
 
 ====== Metilfenidato
@@ -47,19 +47,19 @@ es efectivo: ajuste de dosis, cambio de presentación o cambio de
 fármaco. Siempre intentar con monoterapia antes de plantearse terapias
 combinadas. Combinaciones:
 
-* Liberación inmediata + liberación prolongada * Con Modafinil o
-Atomoxetina * Con antipsicóticos atípicos en casos de TB y/o TDAH con
-mucha resistencia al tratamiento * Con antidepresivos en caso de
+- Liberación inmediata + liberación prolongada - Con Modafinil o
+Atomoxetina - Con antipsicóticos atípicos en casos de TB y/o TDAH con
+mucha resistencia al tratamiento - Con antidepresivos en caso de
 depresión resitente
 
 Presentaciones:
 
-* Liberación inmediata: duración de acción 4-6 horas (2-3 tomas al día)
-** Ritalina (Novartis) 10 mg x 30 comprimidos ** Rubifen (Servimedic) 10
-mg x 30 comprimidos. * Liberación bifásica: duración de efecto 8 horas
-(una toma diaria) ** Ritalina LA (Novartis) 20 mg x 30 comp. ** Ritalina
-LA (Novartis) 30 mg x 30 comp * Liberación bifásica prolongada: 12 horas
-(una toma diaria) ** Concerta (Janssen) 18 mg x 30 comprimidos **
+- Liberación inmediata: duración de acción 4-6 horas (2-3 tomas al día)
+-- Ritalina (Novartis) 10 mg x 30 comprimidos -- Rubifen (Servimedic) 10
+mg x 30 comprimidos. - Liberación bifásica: duración de efecto 8 horas
+(una toma diaria) -- Ritalina LA (Novartis) 20 mg x 30 comp. -- Ritalina
+LA (Novartis) 30 mg x 30 comp - Liberación bifásica prolongada: 12 horas
+(una toma diaria) -- Concerta (Janssen) 18 mg x 30 comprimidos --
 Concerta (Janssen) 36 mg x 30 comp.
 
 Efectos secundarios:
@@ -102,43 +102,37 @@ extendida.
 
 Precauciones:
 
-* en HTA, hipertirodismo o historia de abuso de sustancias
-* en niños con detención del crecimiento
-* peoría de tics
-* en paciente psicóticos puede empeorar la desorganización del
+- en HTA, hipertirodismo o historia de abuso de sustancias
+- en niños con detención del crecimiento
+- peoría de tics
+- en paciente psicóticos puede empeorar la desorganización del
 pensamiento o del comportamiento
-* potencial de abuso
-* monitorización en el uso prolongado
-* asociado a muerte súbita en niños con problemas cardíacos.
-* puede bajar el umbral convulsivo.
-* puede dar viraje ("inducción de estado bipolar") requiriendo
+- potencial de abuso
+- monitorización en el uso prolongado
+- asociado a muerte súbita en niños con problemas cardíacos.
+- puede bajar el umbral convulsivo.
+- puede dar viraje ("inducción de estado bipolar") requiriendo
 discontinuación o agregado de estabilizador del humor.
-* NO USAR en apcientes agitados
-* precaución si hay tics o Tourette
-* no usar con IMAOs o dentro de los 14 días de suspender un IMAO.
-* evitar en glaucoma, anomalías cardíacas estructurales, angioedema,
+- NO USAR en apcientes agitados
+- precaución si hay tics o Tourette
+- no usar con IMAOs o dentro de los 14 días de suspender un IMAO.
+- evitar en glaucoma, anomalías cardíacas estructurales, angioedema,
 anafilaxis, alergia MF
 
 Situaciones especiales:
 
-* IR o IH: no lleva ajuste de dosis
-* Cardiopatía: precaución o no usar.
-* Añosos: menores dosis son mejor toleradas
-* Embarazo: categoría C. Se prefiere discontinuar.
-* Lactancia: discontinuar.
+- IR o IH: no lleva ajuste de dosis
+- Cardiopatía: precaución o no usar.
+- Añosos: menores dosis son mejor toleradas
+- Embarazo: categoría C. Se prefiere discontinuar.
+- Lactancia: discontinuar.
 
 ====== No farmacológico
 
 Actúan sobre todo sobre la variable "inhibición" y menos sobre la
 memoria de trabajo.
 
-- Ejercicio físicofootnote:[Lambez, B., Harwood-Gross, A., Golumbic, E.
-Z., & Rassovsky, Y. (2020). Non-pharmacological interventions for
-cognitive difficulties in ADHD: A systematic review and meta-analysis.
-Journal of psychiatric research, 120, 40-55.]. Es la intervención con
-mayor tamaño de efecto. Se recomienda ejercicio aeróbico e integrar
-deportes complejos (deportes con pelota, artes marciales) para mejorar
-la flexibilidad e inhibir la conducta impulsiva.
+- Ejercicio físico#footnote[Lambez, B., Harwood-Gross, A., Golumbic, E. Z., & Rassovsky, Y. (2020). Non-pharmacological interventions for cognitive difficulties in ADHD: A systematic review and meta-analysis. Journal of psychiatric research, 120, 40-55.]. Es la intervención con mayor tamaño de efecto. Se recomienda ejercicio aeróbico e integrar deportes complejos (deportes con pelota, artes marciales) para mejorar la flexibilidad e inhibir la conducta impulsiva.
 
 - Neurofeedback: tamaño de efecto moderado.
 
@@ -147,5 +141,5 @@ la flexibilidad e inhibir la conducta impulsiva.
 Al igual que los tratamientos no farmacológicos la acción es sobre todo
 sobre la inhibición más que sobre la memoria de trabajo.
 
-* Psicoterapia CC: tamaño de efecto moderado.
-* Entrenamiento cognitivo: menor tamaño de efecto.
+- Psicoterapia CC: tamaño de efecto moderado.
+- Entrenamiento cognitivo: menor tamaño de efecto.

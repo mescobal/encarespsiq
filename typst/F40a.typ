@@ -26,12 +26,12 @@ Prevalencia a 6 meses: 2-3% de población general. En estudios epidemiológicos:
 
 Entendiendo por fobia, la presencia de un temor irracional y exagerado con objeto colocado en el exterior que le genera conductas de evitación y de tranquilización. De X tiempo de evolución dado por:
 
-* Temor irracional intenso, independiente del control voluntario
-* Reconocido como absurdo por parte del paciente
-* Originado por objeto o situación que en sí misma no tiene características de peligrosidad
-* Cuya presencia desencadena crisis de ansiedad-angustia que puede tomar forma de crisis de pánico.
-* Que desaparece al margen del objeto-situación (lo que favorece la aparición de conductas de evitación).
-* Que genera conductas tranquilizadoras: elementos que cumplen función aseguradora de protección: personaje, habitación, objeto, ingesta de alcohol.
+- Temor irracional intenso, independiente del control voluntario
+- Reconocido como absurdo por parte del paciente
+- Originado por objeto o situación que en sí misma no tiene características de peligrosidad
+- Cuya presencia desencadena crisis de ansiedad-angustia que puede tomar forma de crisis de pánico.
+- Que desaparece al margen del objeto-situación (lo que favorece la aparición de conductas de evitación).
+- Que genera conductas tranquilizadoras: elementos que cumplen función aseguradora de protección: personaje, habitación, objeto, ingesta de alcohol.
 
 En este caso la ansiedad se vincula a situaciones sociales y se presenta como miedo a ser examinado por otras personas, que conduce a evitar situaciones de encuentro social. Puede estar asociado a baja autoestima y temor a las críticas. Se presenta generalmente en situaciones tales como comer o hablar en público, encontrarse con conocidos en público o introducirse o permanecer en actividades de grupo reducido (fiestas, reuniones de trabajo, clases). Se destaca la presencia de elementos somáticos tales como: ruborización, temblor de manos, náuseas o urgencia miccional. Afecta de X modo los pragmatismos.
 
@@ -43,8 +43,8 @@ Bajo la forma de ansiedad anticipatoria (vinculada a síndrome fóbico), ansieda
 
 Subsidiario de la fobia ya analizada
 
-* consumo de alcohol y/o benzodiacepinas
-* pragmatismos: indican gravedad de la fobia, de X evolución
+- consumo de alcohol y/o benzodiacepinas
+- pragmatismos: indican gravedad de la fobia, de X evolución
 
 ===== Síndrome depresivo
 
@@ -68,9 +68,9 @@ Dificultad para autoafirmarse y baja autoestima.
 Leve-moderada-grave- incapacitante.
 .Descompensada
 Por:
-* Síndrome de ansiedad angustia
-* Depresión (disfórica)
-* Exacerbación de síntomas
+- Síndrome de ansiedad angustia
+- Depresión (disfórica)
+- Exacerbación de síntomas
 
 ===== DSM-IV - CIE-10
 
@@ -110,11 +110,11 @@ síndrome fóbico que aparece descompensando. En la NA no existen mecanismos de 
 2. Otras neurosis.
 3. Fobia sintomática de Trastorno de la Personalidad.
 4. Crisis de angustia: descartar origen orgánico:
-* Hiperglicemia
-* Feocromocitoma
-* Prolapso de válvula mitral (comorbilidad)
-* Hipertiroidismo
-* Drogas: abstinencia (barbitúricos, benzodiacepinas), intoxicación (anfetaminas y similares)
+- Hiperglicemia
+- Feocromocitoma
+- Prolapso de válvula mitral (comorbilidad)
+- Hipertiroidismo
+- Drogas: abstinencia (barbitúricos, benzodiacepinas), intoxicación (anfetaminas y similares)
 5. Si hay un So depresivo: Trastorno afectivo primario
 
 DSM / CIE-10
@@ -145,11 +145,11 @@ Algunos autores proponen un modelo vulnerabilidad-estrés, citando una predispos
 Los factores genéticos son más importantes en el subtipo de FS generalizada. EL riesgo para familiares de pacientes con FSG es 10 veces mayor. Hay alta concordancia entre gemelos monocigóticos. Los familiares de primer grado de pacientes con fobia social tiene 3 veces más probabilidades de tenerlas que los familiares de personas sanas. Para el caso de la fobia social, diversos autores postulan la existencia de alteraciones en sistemas de neurotransmisión (adrenérgico, serotoninérgico y dopaminérgico), basado en la eficacia de fármacos.
 
 .Pruebas de estimulación:
-* Lactato: similar respuesta que en controles, lo que indicaría ausencia de alteraciones en quimiorreceptores (a diferencia del Tras-torno de Pánico).
-* CO2: Mayor respuesta que controles, pero menor que pacientes con TP.
-* Colecistoquinina (CCK): resultados contra-dictorios.
-* Cafeína: igual respuesta que en TP y mayor respuesta que en controles.
-* Epinefrina: resultados contradictorios.
+- Lactato: similar respuesta que en controles, lo que indicaría ausencia de alteraciones en quimiorreceptores (a diferencia del Tras-torno de Pánico).
+- CO2: Mayor respuesta que controles, pero menor que pacientes con TP.
+- Colecistoquinina (CCK): resultados contra-dictorios.
+- Cafeína: igual respuesta que en TP y mayor respuesta que en controles.
+- Epinefrina: resultados contradictorios.
 
 .Sistema adrenérgico
 Basado en la eficacia de antagonistas beta-adrenérgicos (Propranolol) para fobias de ejecución (éstos pacientes liberarían más adrenalina tanto a nivel central como periférico). La estimulación beta adrenérgica periférica provocaría sudoración, temblor y rubor. La clonidina (antagonista alfa2 adrenérgico) alivia síntomas tales como la sudoración axilar. Los sujetos con FS presentan una respuesta de PA exagerada ante una maniobra de Valsalva y una menor disminución de la PA al pasar a posición de pie en relación a controles normales.
@@ -157,21 +157,21 @@ Basado en la eficacia de antagonistas beta-adrenérgicos (Propranolol) para fobi
 .Sistema GABA
 Las pruebas de estimulación con el antagonista gabaérgico Flumazenil muestra un aumento de los síntomas de ansiedad en relación a controles normales. Sistema dopaminérgico: basada en la eficacia de los IMAO y del Bupropion para el tratamiento de la Fobia Social generalizada. Además se cita como evidencia:
 
-* Desarrollo de síntomas de ansiedad social luego del tratamiento con fármacos que bloquean la Dopamina
-* Correlación existente entre rasgos de intro-versión y bajos niveles de Dopamina en el LCR
-* Altas tasas de Fobia Social en pacientes con Enfermedad de Parkinson.
-* Baja actividad dopaminérgica detectada en cepas de ratones "tímidos"
-* Bajos niveles en LCR de ácido homovanílico en pacientes con T de Pánico y Fobia Social.
-* En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopa-mina a nivel del estriado.
+- Desarrollo de síntomas de ansiedad social luego del tratamiento con fármacos que bloquean la Dopamina
+- Correlación existente entre rasgos de intro-versión y bajos niveles de Dopamina en el LCR
+- Altas tasas de Fobia Social en pacientes con Enfermedad de Parkinson.
+- Baja actividad dopaminérgica detectada en cepas de ratones "tímidos"
+- Bajos niveles en LCR de ácido homovanílico en pacientes con T de Pánico y Fobia Social.
+- En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopa-mina a nivel del estriado.
 
 .Sistema serotoninérgico
 Basada en la eficacia de los ISRS. Los sujetos con FS expuestos a Fenfluramina (agente liberador de serotonina) aumentan los síntomas de ansiedad en relación a con-troles (podría indicar hipersensibilidad de receptores 5HT2), dado que esto se contradice con el efecto terapéutico de los ISRS, pero se interpreta esto como el efecto de 2 vías serotoninérgicas diferentes, siendo el efecto terapéutico en la FS proporcional a la importancia de cada vía en el trastorno. Se plantea la existencia de una conexión inhibitoria 5HT2 y una conexión excitatoria 5HT1A al estriado que afectan a su vez al sistema dopaminérgico.
 
 .Neuroimagen
 Los estudios sugieren la presencia de circuitos neurales específicos involucrados en la Fobia Social:
-* cíngulo anterior
-* córtex prefrontal dorsolateral derecho y córtex parietal izquierdo (involucrados en la planificación de respuestas afectivas y consciencia de la posición del cuerpo).
-* córtex orbitofrontal.
+- cíngulo anterior
+- córtex prefrontal dorsolateral derecho y córtex parietal izquierdo (involucrados en la planificación de respuestas afectivas y consciencia de la posición del cuerpo).
+- córtex orbitofrontal.
 
 Por otro lado hay estudios que muestran una mayor disminución del volumen del putamen con la edad en sujetos con FS en relación a con-troles.
 
@@ -180,8 +180,8 @@ Por otro lado hay estudios que muestran una mayor disminución del volumen del p
 .Psicoanálisis
 Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún impulso in-consciente prohibido (pulsiones genitales edípicas incestuosas) está luchando para expresarse en forma consciente, con falla del mecanismo de Represión (mecanismo destinado a mantener la pulsión fuera de la representación consciente), lo que lleva al Yo al uso de mecanismos de defensa auxiliares:
 
-* Desplazamiento: separa el afecto de la re-presentación prohibida y lo desplaza a una situación u objeto en el exterior, aparente-mente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
-* Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado.
+- Desplazamiento: separa el afecto de la re-presentación prohibida y lo desplaza a una situación u objeto en el exterior, aparente-mente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
+- Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado.
 
 La reactivación del conflicto sobrepasa los mecanismos de defensa ya estructurados y se manifiesta como angustia. Se trata de una regresión y fijación a etapa edípica del desarrollo psicosexual, vinculado a intensa angustia de castración (el impulso sexual continuaría teniendo una marcada connotación incestuosa en el adulto por lo que la activación sexual tiende a transformarse en ansiedad que de forma característica es un miedo a la castración).
 
@@ -207,9 +207,9 @@ Paraclínica general. Con interés académico: los individuos con Fobia Social t
 
 Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorscharch), no proyectivos (Minnesota), evaluando:
 
-* Fortaleza yoica
-* Elementos para el análisis de los mecanismos de defensa, Implementación de psicoterapia
-* Tests de nivel (Weschler)..
+- Fortaleza yoica
+- Elementos para el análisis de los mecanismos de defensa, Implementación de psicoterapia
+- Tests de nivel (Weschler)..
 
 ===== Social
 
@@ -217,15 +217,15 @@ Familiares y terceros. Valoración de red de so-porte. Otros: para el seguimient
 
 ==== Tratamiento
 
-* Ambulatorio con control en policlínica
-* Hospitalizar según entidad de síndromes asociados (ej. depresión)
+- Ambulatorio con control en policlínica
+- Hospitalizar según entidad de síndromes asociados (ej. depresión)
 
 Objetivos del tratamiento:
-* Alivio de afectos y cogniciones vinculadas al temor
-* Reducción de la ansiedad anticipatoria
-* Atenuar el comportamiento de evitación
-* Reducir los síntomas autonómicos y fisiológicos de ansiedad
-* Lograr mejores niveles de funcionamiento Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
+- Alivio de afectos y cogniciones vinculadas al temor
+- Reducción de la ansiedad anticipatoria
+- Atenuar el comportamiento de evitación
+- Reducir los síntomas autonómicos y fisiológicos de ansiedad
+- Lograr mejores niveles de funcionamiento Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
 
 ===== Biológico
 
@@ -233,8 +233,8 @@ Objetivos del tratamiento:
 
 Primera línea: beta bloqueantes:
 
-* Propranolol 20-40 mg 30 minutos antes de la previsible exposición.
-* Atenolol 50-100 mg 1 hora antes.
+- Propranolol 20-40 mg 30 minutos antes de la previsible exposición.
+- Atenolol 50-100 mg 1 hora antes.
 
 Segunda línea: benzodiacepinas, dosis de 5-15 mg de equivalentes Diazepam.
 
@@ -257,12 +257,12 @@ Entrevistas en ambiente cálido y de escucha, afianzar vínculo, realizar psicoe
 
 Terapia cognitivo-comportamental: uso de diferentes técnicas:
 
-* Reestructuración cognitiva
-* Desensibilización
-* Ensayos durante sesiones
-* Asignación de tareas para la casa.
-* Técnicas de inoculación de estrés
-* Entrenamiento en asertividad y habilidades sociales.
+- Reestructuración cognitiva
+- Desensibilización
+- Ensayos durante sesiones
+- Asignación de tareas para la casa.
+- Técnicas de inoculación de estrés
+- Entrenamiento en asertividad y habilidades sociales.
 
 ===== Social
 
@@ -272,10 +272,10 @@ Terapia familiar, grupo de apoyo. Alianza terapéutica con familiar por tendenci
 
 Puede seguir varios caminos evolutivos:
 
-* Mejoría total
-* Mejoría parcial permaneciendo síntomas residuales
-* Refractariedad
-* Comorbilidad con depresión y abuso de sustancias (sobre todo alcohol) Es una enfermedad crónica con tendencia a la recidiva.
+- Mejoría total
+- Mejoría parcial permaneciendo síntomas residuales
+- Refractariedad
+- Comorbilidad con depresión y abuso de sustancias (sobre todo alcohol) Es una enfermedad crónica con tendencia a la recidiva.
 
 PVI: bueno
 
@@ -287,17 +287,17 @@ PPA: depende de adhesión al tratamiento.
 
 El pronóstico depende de:
 
-* Gravedad del trastorno al inicio del tratamiento
-* Edad de comienzo del tratamiento
-* Continuidad del tratamiento
-* Nivel intelectual
-* Nivel socioeconómico * Comorbilidad (depresión, alcoholismo, TP)
-* Antecedentes familiares (predictor negativo para el caso de la fobia social).
+- Gravedad del trastorno al inicio del tratamiento
+- Edad de comienzo del tratamiento
+- Continuidad del tratamiento
+- Nivel intelectual
+- Nivel socioeconómico - Comorbilidad (depresión, alcoholismo, TP)
+- Antecedentes familiares (predictor negativo para el caso de la fobia social).
 
 Evaluación de resultados del tratamiento :
 
-* Síntomas: disminución o desaparición de síntomas (Escala de Liebowitz de Ansiedad Social).
-* Disfunción: Escala de Discapacidad de Sheehan.
-* Evolución general: CGI.
+- Síntomas: disminución o desaparición de síntomas (Escala de Liebowitz de Ansiedad Social).
+- Disfunción: Escala de Discapacidad de Sheehan.
+- Evolución general: CGI.
 
 Se define respuesta como una reducción del 50

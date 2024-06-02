@@ -11,22 +11,22 @@ El DASA, nosográficamente, quedaría ubicado como "Delirium inducido por
 alcohol" (por la existencia de confusión mental). Los diferentes cuadros
 posibles son:
 
-* F10.0 Intoxicación alcohólica aguda (.03 con delirium)
-* F10.1 Consumo perjudicial / Trastorno por Abuso de Alcohol
-* F10.2 Dependencia alcohólica / Trastorno por dependencia de Alcohol
-* F10.3 Abstinencia alcohólica
-* F10.4 Delirium por abstinencia de Alcohol / Delirio alcohólico
+- F10.0 Intoxicación alcohólica aguda (.03 con delirium)
+- F10.1 Consumo perjudicial / Trastorno por Abuso de Alcohol
+- F10.2 Dependencia alcohólica / Trastorno por dependencia de Alcohol
+- F10.3 Abstinencia alcohólica
+- F10.4 Delirium por abstinencia de Alcohol / Delirio alcohólico
 subagudo / Delirium Tremens.
-* F10.5 Trastorno psicótico inducido por alcohol: .51 = con ideas
+- F10.5 Trastorno psicótico inducido por alcohol: .51 = con ideas
 delirantes (Celotipia alcohólica), .52 = con alucinaciones (Alucinosis
 alcohólica)
-* F10.6 Trastorno amnésico inducido por alcohol
-* F10.7 Trasotrnos psicótico residual (.73 = Demencia inducida por
+- F10.6 Trastorno amnésico inducido por alcohol
+- F10.7 Trasotrnos psicótico residual (.73 = Demencia inducida por
 alcohol).
-* F10.8 Otros trastornos (Trastornos de ansiedad y del estado de ánimo /
+- F10.8 Otros trastornos (Trastornos de ansiedad y del estado de ánimo /
 Trastorno sexual inducido por alcohol / Trastorno del sueño inducido por
 alcohol).
-* F10.9 Trastorno relacionado con alcohol no especificado.
+- F10.9 Trastorno relacionado con alcohol no especificado.
 
 ==== Trastornos mentales agudos y subagudos del alcoholismo crónico
 
@@ -57,8 +57,8 @@ peyorativas), olfativas (gas, azufre), gustativas (veneno),
 alucinaciones de la sensibilidad general (pinchazos, viscosidad,
 gusanos). Características:
 
-* Vivido * Móvil,cambiante. * Cargado de ansiedad, carácter penoso,
-peligro inminente * Contexto de confusión mental: DOTE, distraibilidad.
+- Vivido - Móvil,cambiante. - Cargado de ansiedad, carácter penoso,
+peligro inminente - Contexto de confusión mental: DOTE, distraibilidad.
 Sin trazas mnésicas excepto las ideas fijas postoníricas.
 
 Síndrome somático: taquicardia, temperatura normal o levemente
@@ -167,27 +167,18 @@ Va a depender del trastorno
 
 A= Agudo, C= Crónico, R= Recurrente
 
-[cols="^,^,^,^,^,^,^",]
-|===
-|Diagnóstico |Conductual |Confusional |Abst |Delirante |Alt.Percep.
-|Def.Int.
-
-|Intoxicación |A+C | | | | |
-
-|Delirium |A+C |A |A |A | |
-
-|Abuso |C | | | | |
-
-|Dependencia |C | |A/R | | |
-
-|Abstinencia |C | |A | | |
-
-|Psicosis |C | | |C | |
-
-|Amnésico |C | | |C | |
-
-|Demencia |C | | | | |C
-|===
+#table(
+  columns: 7,
+  [*Diag.*], [*Cond.*],[*Conf.*], [*Abst*], [*Delirante*], [*Alt Perc*], [*Def Int*],
+  [Intoxicación], [A+C],[],[],[],[],[], 
+  [Delirium],[A+C],[A],[A],[A],[],[],
+  [Abuso],[C],[],[],[],[],[],
+  [Dependencia],[C],[],[A/R],[],[],[],
+  [Abstinencia],[C],[],[A],[],[],[],
+  [Psicosis],[C],[],[],[C],[],[],
+  [Amnésico],[C],[],[],[C],[],[],
+  [Demencia],[C],[],[],[],[],[C],
+)
 
 ===== Síndrome confuso-onírico
 
@@ -275,17 +266,17 @@ crónico con dependencia severa al alcohol.
 
 En contexto de:
 
-* ingesta excesiva, mayor a usos dietéticos usuales, dado por cantidad y
+- ingesta excesiva, mayor a usos dietéticos usuales, dado por cantidad y
 pauta (ej: diario y solitario).
-* de X años de evolución
-* con pérdida del control del consumo con incapacidad para abstenerse
-* con S. de abstinencia ante el cese o disminución del consumo (consume
+- de X años de evolución
+- con pérdida del control del consumo con incapacidad para abstenerse
+- con S. de abstinencia ante el cese o disminución del consumo (consume
 para evitarlo)
-* por presentar tolerancia: necesita ingesta para lograr los mismos
+- por presentar tolerancia: necesita ingesta para lograr los mismos
 efectos o alcanza la embriaguez con menores cantidades que antes
-* con trastornos mnésicos (black out, palimpsestos)
-* abandonando otras fuentes de placer
-* persiste con el consumo a pesar de consecuencias adversas
+- con trastornos mnésicos (black out, palimpsestos)
+- abandonando otras fuentes de placer
+- persiste con el consumo a pesar de consecuencias adversas
 (pragmatismos, orgánicas)
 
 Por lo que decimos que se trata de un paciente con dependencia al
@@ -322,31 +313,31 @@ delirantes.
 
 ==== Diagnósticos diferenciales
 
-* DELIRIUM TREMENS: no pensamos ya que en este cuadro confusional agudo
+- DELIRIUM TREMENS: no pensamos ya que en este cuadro confusional agudo
 existe: > gravedad con deshidratación, alteraciones HE, alteraciones NV
 con temperatura de 40º, taquicardia, sudoración, PA. • temblor
 importante • agitación intensa y agotadora • insomnio casi total
-* Otras causas de confusión mental: no pensamos: enfermedades médicas,
+- Otras causas de confusión mental: no pensamos: enfermedades médicas,
 otras sustancias.
-* Encefalopatía por derivación porto-cava: se trata de una
+- Encefalopatía por derivación porto-cava: se trata de una
 descompensación de una hepatopatía crónica por hiperamoniemia, que se
 presenta como un trastorno de conciencia que por lo general agrega
 ictericia, ante un estrés físico grave (ej.: hemorragia digestiva).
-* Encefalopatía de Wernicke: en la cual se presenta confusión grave pero
+- Encefalopatía de Wernicke: en la cual se presenta confusión grave pero
 que agrega síntomas neurológicos: nistagmo, oftalmoplejia del III par,
 ataxia.
-* Alucinosis alcohólica: que también ocurre ante supresión/aumento de la
+- Alucinosis alcohólica: que también ocurre ante supresión/aumento de la
 ingesta alcohólica, pero en donde no existe confusión, puede haber una
 alteración leve de la conciencia, las alucinaciones son s/t
 Auditivo-verbales, de amenaza alucinatoria, hay cierta crítica a ellas y
 carece de correlato somático.
-* No pensamos que se trate de otras psicosis agudas (afectivas o
+- No pensamos que se trate de otras psicosis agudas (afectivas o
 delirantes) por el importante trastorno de conciencia y las
 características oníricas del delirio.
 
 ==== Diagnóstico etiopatogénico y psicopatológico
 
-.Del cuadro actual * Abstinencia * Causas intercurrentes (infecciones,
+.Del cuadro actual - Abstinencia - Causas intercurrentes (infecciones,
 cirugía, TEC)
 
 El delirio comporta para Ey aspectos negativos y positivos, estando
@@ -360,7 +351,7 @@ abstinencia, predisposición hereditaria (padre).
 Psicosocial: 1º social y luego reitera y aumenta la ingesta para evitar
 experiencias displacenteras.
 
-* intolerancia a situaciones disfóricas * búsqueda del placer *
+- intolerancia a situaciones disfóricas - búsqueda del placer -
 tendencia a la satisfacción oral
 
 Existirían rasgos que favorecen (terreno de personalidad predisponente):
@@ -368,38 +359,38 @@ dependencia, intolerancia a las frustraciones, trastorno profundo de
 vínculos, abandono, mal manejo de la agresividad. También son
 predisponentes: cuadros afectivos previos, ansiedad. Marcar si existe:
 
-* identificación con padre alcohólico * conducta aprendida con pautas
+- identificación con padre alcohólico - conducta aprendida con pautas
 conductuales y modo de relación
 
 Psicopatología, etiopatogenia
 
 Considerar los siguientes factores:
 
-* conductual: refuerzo positivo/negativo. * social: refuerzo social,
-subculturas. * genéticos: riesgo x 4 en hijos de alcohólicos, si hay AF:
+- conductual: refuerzo positivo/negativo. - social: refuerzo social,
+subculturas. - genéticos: riesgo x 4 en hijos de alcohólicos, si hay AF:
 inicio precoz, más trastornos conductuales, peor pronóstico, formas más
-graves. * biológicos: neurotransmisores. * psicoanálisis: Superyo
-punitivo, fijación a etapa oral. * comorbilidad: depresión, ansiedad,
-trastornos de la personalidad. * historia infantil: trastorno por
+graves. - biológicos: neurotransmisores. - psicoanálisis: Superyo
+punitivo, fijación a etapa oral. - comorbilidad: depresión, ansiedad,
+trastornos de la personalidad. - historia infantil: trastorno por
 déficit de atención/hiperactividad.
 
 ==== Paraclínica
 
 Descartar comorbilidad:
 
-* neurológico: TEC con HSC * infeccioso: s/t renal y respiratorio *
+- neurológico: TEC con HSC - infeccioso: s/t renal y respiratorio -
 medio interno: deshidratación
 
 ===== Biológico
 
 Examen físico exhaustivo:
 
-* PyM: ictericia, equimosis, anemia, hidratación, estigmas de
+- PyM: ictericia, equimosis, anemia, hidratación, estigmas de
 alcoholismo (angiomas, telangiectasias, palmas y plantas hepáticas,
 ginecomastia, disposición ginoide del vello pubiano, atrofia
-testicular). * CV: dilatación cardíaca. * PP: concomitancia con EPOC
-(asociación lesional) * ABD: hepatomegalia, esplenomegalia, circulación
-colateral (HT portal, ascitis). * PNM: parálisis horizontal de la
+testicular). - CV: dilatación cardíaca. - PP: concomitancia con EPOC
+(asociación lesional) - ABD: hepatomegalia, esplenomegalia, circulación
+colateral (HT portal, ascitis). - PNM: parálisis horizontal de la
 mirada, tono muscular y sensibilidad, parestesias (polineuropatía de
 MMII, velocidad de conducción). Flapping o aleteo, rueda dentada,
 hiperreflexia, Síndrome cerebeloso (marcha). Fondo de ojo.
@@ -409,32 +400,32 @@ Examenes complementarios:
 De suma importancia para detección de comorbilidad (infeccioso,
 neurológico, medio interno) y para valoración del alcoholismo.
 
-* hemograma completo: anemia carencial por déficit nutricional,
-leucocitosis y VES [infecciones: hay aumento de susceptibilidad]). *
-ionograma: ver Zn y Mg (cofactores de vitamina B). * crasis sanguínea:
+- hemograma completo: anemia carencial por déficit nutricional,
+leucocitosis y VES [infecciones: hay aumento de susceptibilidad]). -
+ionograma: ver Zn y Mg (cofactores de vitamina B). - crasis sanguínea:
 s/t tiempo de protrombina que disminuye al disminuir la capacidad
-funcional del hígado. * funcional y enzimograma hepático. * PEF:
-hipoalbuminemia * Glicemia, azo, crea, orina * RxTx (neumopatía por
-aspiración) * TAC: hematoma subdural crónico, atrofia cortical (se
+funcional del hígado. - funcional y enzimograma hepático. - PEF:
+hipoalbuminemia - Glicemia, azo, crea, orina - RxTx (neumopatía por
+aspiración) - TAC: hematoma subdural crónico, atrofia cortical (se
 desconoce su relación con OH).
 
 Exámenes complementarios para detección de consumo:
 
-* Alcoholemia: valores > 50 mg/100ml sugiere consumo de riesgo. Valores
+- Alcoholemia: valores > 50 mg/100ml sugiere consumo de riesgo. Valores
 > 150 mg/100 ml sugieren existencia de tolerancia (y por lo tanto de
-dependencia). * GGT (alta especificidad pero baja sensibilidad), dado
+dependencia). - GGT (alta especificidad pero baja sensibilidad), dado
 que la ingestión aguda no modifica sus valores, es un indicador de
 consumo perjudicial habitual (consumo > a 40 g/día en ausencia de
 hepatopatía). Cifras de GGT de Nx3 se consideran valores muy sugestivos
 de consumo perjudicial. Para monitorizar la abstinencia: las cifras
 disminuyen a un 50% en 5-7 días y se normalizan a las 4-8 semanas del
 cese de la ingesta (vuelven a aumentar si se reanuda el consumo). Pueden
-haber valores elevados en hepatopatías no alcohólicas o x fármacos. *
+haber valores elevados en hepatopatías no alcohólicas o x fármacos. -
 Volumen corpuscular medio (alta especificidad, baja sensibilidad):
 aumentado en el 70% de pacientes alcohólicos, con consumos superiores a
 60 g/día x períodos prolongados. Luego de la sus-pensión de la ingesta,
 disminuye a los 90 días aproximadamente. Aumenta nuevamente en caso de
-que se reinicie la ingesta. * Otros: relación AST/ALT, Transferrina
+que se reinicie la ingesta. - Otros: relación AST/ALT, Transferrina
 deficiente en hidratos de carbono.
 
 ===== Psicológico
@@ -454,27 +445,25 @@ características del paciente y del equipo tratante.
 
 Depende del diagnóstico
 
-* F10.00 Intoxicación alcohólica aguda. Sedación con haloperidol 5 mg IM
+- F10.00 Intoxicación alcohólica aguda. Sedación con haloperidol 5 mg IM
 a repetir. Tiamina IM si hay que hacer hidratación con SGF. MdeC si es
-necesario. * F10.03 Delirium por intoxicación por Alcohol. Haloperidol
-IM + Tiaprida IM + Hidratación. * F10.1- Consumo perjudicial / Trastorno
+necesario. - F10.03 Delirium por intoxicación por Alcohol. Haloperidol
+IM + Tiaprida IM + Hidratación. - F10.1- Consumo perjudicial / Trastorno
 por Abuso de Alcohol: en caso de consumo con patrón compulsivo,
 plantearse uso de Topiramato en dosis progresivas, comenzando con 50
 mg/día, aumentando 50 mg cada semana hasta 300 mg/día[kenna2009review].
-* F10.2x Dependencia alcohólica / Trastorno por dependencia de Alcohol
+- F10.2x Dependencia alcohólica / Trastorno por dependencia de Alcohol
 Naltrexona 50 mg/día, o Topiramato, en dosis progresivas hasta 300
-mg/día, en 2 tomas. * F10.3- Abstinencia alcohólica BZD de vida media
+mg/día, en 2 tomas. - F10.3- Abstinencia alcohólica BZD de vida media
 larga v/o (si no hay hepatopatía): Diazepam 10 mg/día v/o. En caso de
-toque hepático: Lorazepam. * F10.4- Delirium por abstinencia de Alcohol
-/ Delirio alcohólico subagudo. Haloperidol IM + Lorazepam IM +
-Vitaminoterapia IM + Hidratación. * F10.51 Trastorno psicótico inducido
-por alcohol (con ideas delirantes)/ Celotipia alcohólica: Risperidona
-VO. * F10.52 Trastorno psicótico inducido por alcohol (con
+toque hepático: Lorazepam. - F10.4- Delirium por abstinencia de Alcohol
+/ Delirio alcohólico subagudo. Haloperidol IM + Lorazepam IM + Vitaminoterapia IM + Hidratación. - F10.51 Trastorno psicótico inducido por alcohol (con ideas delirantes)/ Celotipia alcohólica: Risperidona
+VO. - F10.52 Trastorno psicótico inducido por alcohol (con
 alucinaciones) / Alucinosis alcohólica Según gravedad: Risperidona VO o
-Haloperidol IM. * F10.6- Trastorno amnésico inducido por alcohol
-Vitaminoterapia (complejo B) + Nootrópicos a dosis altas. * F10.73
+Haloperidol IM. - F10.6- Trastorno amnésico inducido por alcohol
+Vitaminoterapia (complejo B) + Nootrópicos a dosis altas. - F10.73
 Demencia inducida por alcohol. Vitaminoterapia + tratamiento de
-demencias. * F10.8- Trastornos de ansiedad y del estado de ánimo en
+demencias. - F10.8- Trastornos de ansiedad y del estado de ánimo en
 alcohólicos / Trastorno sexual inducido por alcohol / Trastorno del
 sueño inducido por alcohol: ver encares respectivos. Para ansiedad:
 primera línea = Buspirona (evitar BZD). Para depresión ISRS.
@@ -536,8 +525,8 @@ alcoholismo favorecedor de una malabsorción crónica, comenzaremos con
 vía intramuscular: Lorazepam 1 amp (4 mg) cada 6-8 hs. Tan pronto como
 sea posible usaremos la vía oral, teniendo 2 posibilidades:
 
-* Si no hay elementos en contra: Diazepam 15-20 mg/día en 3 dosis v/o
-5-5-10 mg a regular según evolución, tolerancia. * En caso de: agitación
+- Si no hay elementos en contra: Diazepam 15-20 mg/día en 3 dosis v/o
+5-5-10 mg a regular según evolución, tolerancia. - En caso de: agitación
 intensa, anciano, FH alterado, alteración de tiempo protrombina,
 hipoalbuminemia usamos una benzodiacepina de vida media más corta y sin
 metabolitos activos como el Lorazepam 2 mg c/4 hs v/o a regular por
@@ -545,8 +534,8 @@ evolución (no afectado su metabolismo por 1º paso hepático, no tiene
 metabolismos activos, no tiene efecto acumulativo). En caso de que el
 síndrome de abstinencia sea intenso y domine el cuadro, existen pautas
 de tratamiento con benzodiacepinas, una de las más usadas es con
-Diazepam en un esquema de 4 días: * Día 1: 20 mg cada 6 horas * Día 2:
-20 mg cada 8 horas * Día 3: 20 mg cada 12 horas * Día 4: 20 mg en 24
+Diazepam en un esquema de 4 días: - Día 1: 20 mg cada 6 horas - Día 2:
+20 mg cada 8 horas - Día 3: 20 mg cada 12 horas - Día 4: 20 mg en 24
 horas. Alternativas: Clometiazol, Tetrabamato.
 
 Haloperidol: NL incisivo con acción sobre el delirio, contribuyendo a la
@@ -606,7 +595,7 @@ Buspirona a las benzodiacepinas.
 
 Para monitorizar la abstinencia puede recurrirse a la paraclínica:
 
-* Hemograma: el VCM se normaliza a los 90 días de abstinencia. *
+- Hemograma: el VCM se normaliza a los 90 días de abstinencia. -
 Funcional y enzimograma hepático: la GGT disminuye a un 50% a los 7 días
 de abstinencia.
 
@@ -636,7 +625,7 @@ continentación y adecuado manejo de la culpa y autoestima.
 Inmediato DAS: evolución favorable hacia la curación en pocos días,
 favorecido por la terapéutica. Más raramente:
 
-* DT: 5-10% mortalidad (infección, arritmias, disionías) * Secuelas:
+- DT: 5-10% mortalidad (infección, arritmias, disionías) - Secuelas:
 transitorias (ideas fijas postoníricas), crónicas (psicosis alcohólica
 crónica)
 

@@ -21,12 +21,12 @@ Primer paso: identificar cualquier trastorno médico o psiquiátrico que requier
 
 HC completa con evaluación de toda condición médica incluyendo las infecciosas (hepatitis, HIV, tuberculosis), traumatismos, embarazo. Examen físico.
 
-* Hemograma completo
-* Funcional y enzimograma hepático
-* Serología de hepatitis
-* HIV y VDRL
-* beta HCG
-* tóxicos en orina
+- Hemograma completo
+- Funcional y enzimograma hepático
+- Serología de hepatitis
+- HIV y VDRL
+- beta HCG
+- tóxicos en orina
 
 ===== Psicológico
 
@@ -40,13 +40,13 @@ Evaluación de barreras de acceso al tratamiento, en especial farmcológico. Obt
 
 Encuadre: adicción como enfermedad bio-psico-social-espiritual. El tratamiento debe ser una decisión compartida con el paciente. Debe contemplarse la preferencia del paciente, y la efectividad de tratamientos previos. Elegir el nivel de tratamiento:
 
-* Ambulatorio (OBOT: Office Based Opioid Treatment)
-* Internación: considerarlo si hay comorbilidad con otros trastornos por consumo de sustancias (alcohol, sedantes, hipnóticos). Considerarlo aún en conexto de consumo que parezca no problemático.
-* Centro de rehabilitación especializado en adicciones
+- Ambulatorio (OBOT: Office Based Opioid Treatment)
+- Internación: considerarlo si hay comorbilidad con otros trastornos por consumo de sustancias (alcohol, sedantes, hipnóticos). Considerarlo aún en conexto de consumo que parezca no problemático.
+- Centro de rehabilitación especializado en adicciones
 
-Alternativas footnote:[*Kampman K, Jarvis M. American Society of Addiction Medicine (ASAM) National Practice Guideline for the Use of Medications in the Treatment of Addiction Involving Opioid Use. J Addict Med. 2015;9(5):358-367. doi:10.1097/ADM.0000000000000166 ]: 
-* Buprenorfina: primera línea * Metadona: pacientes bajo supervisión o con falla de tratamiento con buprenorfina. Contexto: internación. 
-* Naltrexona: generalmente tiene escasa adherencia. Reservado para pacientes que pueden cumplir.
+Alternativas#footnote[-Kampman K, Jarvis M. American Society of Addiction Medicine (ASAM) National Practice Guideline for the Use of Medications in the Treatment of Addiction Involving Opioid Use. J Addict Med. 2015;9(5):358-367. doi:10.1097/ADM.0000000000000166 ]: 
+- Buprenorfina: primera línea - Metadona: pacientes bajo supervisión o con falla de tratamiento con buprenorfina. Contexto: internación. 
+- Naltrexona: generalmente tiene escasa adherencia. Reservado para pacientes que pueden cumplir.
 
 WARNING: la retirada controlada del opioide como única estrategia no se considera un tratamiento válido.
 
@@ -142,6 +142,6 @@ En caso de sobredosis debe adminstrarse naloxona (indicado también en embarazad
 
 === Bibliografía 
 
-* Nielsen, S., Larance, B., & Lintzeris, N. (2017). Opioid agonist treatment for patients with dependence on prescription opioids. Jama, 317(9), 967-968. * Nielsen, S., Larance, B., Degenhardt, L., Gowing, L., Kehler, C., & Lintzeris, N. (2016). Opioid agonist treatment for pharmaceutical opioid dependent people. Cochrane Database of Systematic Reviews, (5). 
-* Center for Substance Abuse Treatment. Medication-Assisted Treatment for Opioid Addiction in Opioid Treatment Programs. Rockville (MD): Substance Abuse and Mental Health Services Administration (US); 2005. 
-* Veilleux, J. C., Colvin, P. J., Anderson, J., York, C., & Heinz, A. J. (2010). A review of opioid dependence treatment: pharmacological and psychosocial interventions to treat opioid addiction. Clinical psychology review, 30(2), 155-166.
+- Nielsen, S., Larance, B., & Lintzeris, N. (2017). Opioid agonist treatment for patients with dependence on prescription opioids. Jama, 317(9), 967-968. - Nielsen, S., Larance, B., Degenhardt, L., Gowing, L., Kehler, C., & Lintzeris, N. (2016). Opioid agonist treatment for pharmaceutical opioid dependent people. Cochrane Database of Systematic Reviews, (5). 
+- Center for Substance Abuse Treatment. Medication-Assisted Treatment for Opioid Addiction in Opioid Treatment Programs. Rockville (MD): Substance Abuse and Mental Health Services Administration (US); 2005. 
+- Veilleux, J. C., Colvin, P. J., Anderson, J., York, C., & Heinz, A. J. (2010). A review of opioid dependence treatment: pharmacological and psychosocial interventions to treat opioid addiction. Clinical psychology review, 30(2), 155-166.

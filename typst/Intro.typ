@@ -1,3 +1,4 @@
+#import "@preview/fontawesome:0.2.0": *
 == ¿Que es?
 
 Este conjunto de notas sobre encares de psiquiatría tiene su origen en la información que fui colocando en Internet desde que comencé a
@@ -5,7 +6,7 @@ preparar la prueba de residencia de psiquiatría (año 1996). En ese momento me 
 
 La construcción colectiva del conjunto de conocimientos que implica un encare era totalmente concordante con la filosofía del Software Libre #footnote[https://www.fsf.org] a la que le debemos GNU/Linux y el concepto de Copyleft. Como forma de contribuir a esa construcción colectiva, fui subiendo todo el material, junto con mis propios apuntes a un sitio web que ya no existe.
 
-#image("copyleft.png")
+#figure(image("img/copyleft.png"))
 
 Hace algunos años atrás, me comentaron acerca de la existencia del "Libro de las estrellitas". Alguien, siguiendo la misma filosofía, imprimió los encares, los encuadernó y puso a disposición en una fotocopiadora frente al Hospital de Clínicas. Alguien (no se si fue la misma persona) adornó la tapa con estrellitas.
 
@@ -15,12 +16,11 @@ Junto con la filosofía del Software Libre, viene el concepto de "liberar frecue
 
 === Etapas del trabajo
 
-- Etapa 1 (actualmente en curso): (40%) juntar el contenido de "El libro de las estrellitas" con otros encares (añejos) que tengo en la computadora. La información que puede resultar útil es: la estructura del encare, las nociones clásicas y alguna nota clínica. La parte de tratamiento y las nociones más biológicas pueden estar groseramente desactualizadas. Hay mucha información duplicada / redundante / obsoleta.
-- Etapa 2: (4%) eliminar información duplicada.
-- Etapa 3: (2%) actualizar información obsoleta (primero tratamiento y luego etiopatogenia)
-- Etapa 4: (2%) pulir estructura / diagramación.
-- Etapa 5: (0%) actualizar sistemas de clasificación.
-
+- Etapa 1 (actualmente en curso): #fa-battery-half() (40%) juntar el contenido de "El libro de las estrellitas" con otros encares (añejos) que tengo en la computadora. La información que puede resultar útil es: la estructura del encare, las nociones clásicas y alguna nota clínica. La parte de tratamiento y las nociones más biológicas pueden estar groseramente desactualizadas. Hay mucha información duplicada / redundante / obsoleta.
+- Etapa 2: #fa-battery-quarter() (4%) eliminar información duplicada.
+- Etapa 3: #fa-battery-quarter() (2%) actualizar información obsoleta (primero tratamiento y luego etiopatogenia)
+- Etapa 4: #fa-battery-quarter() (2%) pulir estructura / diagramación.
+- Etapa 5: #fa-battery-empty() (0%) actualizar sistemas de clasificación.
 ==== Cambios
 
 Ultimos cambios:
@@ -35,9 +35,9 @@ Estos encares fueron posibles gracias a la generosa contribución de varios cole
 
 === Licencia
 
-Todo el contenido tiene licencia Creative Commons (Atribución - Compartir igual) 4.0 Internacional footnote:[http://creativecommons.org/licenses/by-sa/4.0/] .
+Todo el contenido tiene licencia Creative Commons (Atribución - Compartir igual) 4.0 Internacional #footnote[http://creativecommons.org/licenses/by-sa/4.0/].
 
-#image("cc.png")
+#figure(image("img/cc.png"))
 
 Esto significa que se puede:
 

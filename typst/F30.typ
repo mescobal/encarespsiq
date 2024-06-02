@@ -17,34 +17,34 @@ Clínica depresiva o cíclica moderada y crónica.
 
 Trastorno persistente de al (-) 2 a de intensidad leve / moderada de
 inicio en adolescencia (depre doble) / ASECAD / curso persist o
-intermitente * trast ambulatorio compatible c/ func social, pero
+intermitente - trast ambulatorio compatible c/ func social, pero
 estabilidad precaria por hiperocupación c/ incapacidad para disfrutar
 del ocio o act fliar o social lo que lleva a fricción marital / sentim y
 falta de gusto por la vida fuera de su trabajo / dinám conyugal alterada
-* hay adaptación a los síntomas por resistencia cognitiva al cambio, lo
-otro no le resulta fliar * se ven a sí mismos como "deprimidos desde
-siempre o desde el nacimiento" * Akiskal sostiene la mayor validez de
+- hay adaptación a los síntomas por resistencia cognitiva al cambio, lo
+otro no le resulta fliar - se ven a sí mismos como "deprimidos desde
+siempre o desde el nacimiento" - Akiskal sostiene la mayor validez de
 criterio B alternativo que agrupa sínt subjetivos . autoestima,
 autoconfianza, pesimismo, desesperanza, incapacidad, desinterés
 gralizado, aislamiento social, cansancio crónico, cavilaciones referidas
 al pasado, < productividad - efectividad, trast [ ] memoria, indecisión
-* inicio + precoz > probab de complicarse C/ EDM * pánico (10 * 1/3
-inicio < 12 a : "niños incapaces de disfrutar" / > % de AF de humor *
-"depresión existencial" / id suicida 31 % / comportam suicida 24 * en
+- inicio + precoz > probab de complicarse C/ EDM - pánico (10 - 1/3
+inicio < 12 a : "niños incapaces de disfrutar" / > % de AF de humor -
+"depresión existencial" / id suicida 31 % / comportam suicida 24 - en
 suma : depresión de bajo gr y larga duración, fluctuante, experimentado
 como parte del YO habitual representando una acentuación de rasgos
 observados en temperamento depresivo (en apéndice de DSM IV)
 
 ===== Ciclotimia
 
-Caract hipomaníacas + subdepresivas * en suma : disregulación bifásica
+Caract hipomaníacas + subdepresivas - en suma : disregulación bifásica
 c/ cambios endoreactivos de una fase a otra, cada fase dura pocos días x
 vez c/ infrecuente eutimia
 
 .Cambios de categoría diagnóstica Siempre depende de la intensidad del
 ep de exaltación de humor
 
-* TD > : 9 * Ciclot : 30 * Bip II: 5-13
+- TD > : 9 - Ciclot : 30 - Bip II: 5-13
 
 ==== Trastorno esquizoafectivo
 
@@ -53,14 +53,13 @@ delirante alucinatorio en dicho período de al (-) 2 sem en ausencia de
 sínt de humor prominentes / sínt de humor presentes en parte sustancial
 de fase activa y residual de los ep psicóticos
 
-* tipo bipolar (maníaco o mixto) / tipo depresivo * a > terreno
-esquizofr peor pronóstico
+- tipo bipolar (maníaco o mixto) / tipo depresivo - a > terreno esquizofr peor pronóstico
 
 ==== Trastorno depresivo pospsicótico en la esquizofrenia (NOS)
 
-* incidencia 25 * peor pronóst / > probab de recaídas / > incidencia de
-suicidios que en esquizofr s/ este trast * DD : fase residual
-(atimormia, sgs negativos) / ef 2º de APS / esquizoafectivo * criterios
+- incidencia 25 - peor pronóst / > probab de recaídas / > incidencia de
+suicidios que en esquizofr s/ este trast - DD : fase residual
+(atimormia, sgs negativos) / ef 2º de APS / esquizoafectivo - criterios
 de EDM en fase residual de esquizofr
 
 ==== Trastorno depresivo breve recidivante (NOS)
@@ -101,9 +100,9 @@ similitudes c/ bipolar: edad inicio / carga genética / > suicidio
 impulsividad violencia / variación estacional / "búsqueda de estím" / sd
 deficiencia de 5HT
 
-* 3-4 sem detox para evaluar tto * comorb peor resp * beber social tb
-interfiere c/ tto * ante dudas 3-4 sem detoxificación para determinar
-que es primario * comorbidez entre ambos . peor resultado a tto
+- 3-4 sem detox para evaluar tto - comorb peor resp - beber social tb
+interfiere c/ tto - ante dudas 3-4 sem detoxificación para determinar
+que es primario - comorbidez entre ambos . peor resultado a tto
 convencional que cada grupo por separado
 
 drogodependencias
@@ -124,7 +123,7 @@ consumo de sust y OH
 
 agrava evolución y empeora pronóstico
 
-* + lentitud en recuperación * + nº de internaciones
+- + lentitud en recuperación - + nº de internaciones
 
 B debido a enf médica
 
@@ -180,9 +179,9 @@ DX DIFERENCIALES DENTRO DE OTRAS PATOLOGÍAS MAYORES
 
 Esquizofrenia
 
-* curso longitudinal * cuadro actual * remisión incompleta / sínt (-) *
-anhedonia / aplanamiento afectivo * fuga de ideas / pensamiento
-desorganizado * schneiderianos no es patognomónico de esquizofrenia
+- curso longitudinal - cuadro actual - remisión incompleta / sínt (-) -
+anhedonia / aplanamiento afectivo - fuga de ideas / pensamiento
+desorganizado - schneiderianos no es patognomónico de esquizofrenia
 
 en corte transv puede ser difícil diferenciar de esquizofrenia / a
 medida que progresa el episodio va aumentando el componente psicótico :
@@ -444,8 +443,7 @@ severa c/ atípicos : IMAO / Fluoxetina hasta 40-80 mg
 . DISTIMIA : dosis más elevadas que para TDM : MOCLOBEMIDA : 600 MG /
 sertralina puede llegar a 150 - 200 mg
 
-PST : aceptarse a sí mismos / optimismo razonable / mantener compliance
-/ manejo de conflictos acumulativos (FASESOLA) / cambio a personalidad
+PST : aceptarse a sí mismos / optimismo razonable / mantener compliance / manejo de conflictos acumulativos (FASESOLA) / cambio a personalidad
 postdepresiva / movilizar destrezas y recursos
 
 {empty}1) ISRS
@@ -835,8 +833,7 @@ renal : < capac en [ ] orina por disminuc de resp renal a ADH (poliuria
 y/o polidipsia) pudiendo llevar a diabetes insípida nefrógena / tto :
 dosis única al acostarse, si persiste, aumentar consumo de agua
 disminuyendo consumo proteico; si persiste agregar hidroclorotiazida (25
-a 75 mg) y bajar Li a la mitad para compensar aumento de la reabsorción
-/ tb amilorida ( ahorrador de K)
+a 75 mg) y bajar Li a la mitad para compensar aumento de la reabsorción / tb amilorida ( ahorrador de K)
 
 tiroides : hipotiroidismo en 5 a 35
 
@@ -887,32 +884,32 @@ stress ambiental
 
 INICIO CON ANTICONVULSIVANTES
 
-* CR / manía mixta / AP mala resp al LI / manía 2ª / sust abuso * Li +
+- CR / manía mixta / AP mala resp al LI / manía 2ª / sust abuso - Li +
 valcote < frec de recaídas y asociación menos compleja
 
 .CBZ
 
-* refract a Li * dosis inicio : 200 c/ 8 hs y aumentar hasta 1200 mg [
-6-12 microgr / ml ] * ef 2º : dosis depend : leuco y trombopenia leves,
+- refract a Li - dosis inicio : 200 c/ 8 hs y aumentar hasta 1200 mg [
+6-12 microgr / ml ] - ef 2º : dosis depend : leuco y trombopenia leves,
 > enz hepáticas, hipoNa, diplopía, ataxia, fatiga, visión borrosa,
 temblor,> peso, erupc cutáneas, náuseas, vóm, retención de líquidos /
 idiosincrásicos : corazón (ef quinidinosímil, control en cardiópatas),
-agranulocitosis, anemia aplásica, insuf hepática * hemograma (c/ lám y
+agranulocitosis, anemia aplásica, insuf hepática - hemograma (c/ lám y
 recuento plaquetario) y funcional hepático : c/ 2 sem x 2 meses y luego
 c/ 3 meses ya que discrasias y hepatopatías tienen lugar s/t en 1º 3 a 6
-meses * inductor de Cit P450 : induce su pp metabolismo y otros
-metabolismos hepáticos, por lo tanto múltiples interacciones * CBZ no
+meses - inductor de Cit P450 : induce su pp metabolismo y otros
+metabolismos hepáticos, por lo tanto múltiples interacciones - CBZ no
 mantiene sus efectos c/ el tiempo, puede disminuir en 1 ó 2 años
 
 ==== Evolución y pronóstico
 
 ===== TDM
 
-* 1º epis 50 * 2º " 75 * 3º " 90
+- 1º epis 50 - 2º " 75 - 3º " 90
 
 Factores de recurrencia :
 
-* AP EDM * distimia previa * otro trastornos (no de humor) * enf médica
+- AP EDM - distimia previa - otro trastornos (no de humor) - enf médica
 gral
 
 mortalidad 2, 3 veces pob gral (suicidio, enf CV / neo)
@@ -1004,11 +1001,9 @@ bipolares) / suicidio tiene genética propia
 
 predictores de suicidio
 
-al año siguiente : anhedonia / ansiedad severa psíquica / crisis pánico
-/ abuso de OH o drogas (en intoxicac o abstinencia)
+al año siguiente : anhedonia / ansiedad severa psíquica / crisis pánico / abuso de OH o drogas (en intoxicac o abstinencia)
 
-entre 1 y 5a : desesperanza severa / ideación suicida / ansiedad
-somática / AP de IAE
+entre 1 y 5a : desesperanza severa / ideación suicida / ansiedad somática / AP de IAE
 
 GOODWIN
 
@@ -1036,9 +1031,9 @@ La venlafaxina a dosis altas parece tener una latencia menor (CITA).
 Predictores de riesgo de inicio de un trastorno bipolar ante un primer
 EDM:
 
-* Historia familiar de TB * Aparición antes de los 25 años * Inicio en
-el posparto * Hipomanía farmacológica inducida por el antidepresivo *
-Presencia de síntomas psicóticos * Hipersomnia y/o inhibición
+- Historia familiar de TB - Aparición antes de los 25 años - Inicio en
+el posparto - Hipomanía farmacológica inducida por el antidepresivo -
+Presencia de síntomas psicóticos - Hipersomnia y/o inhibición
 psicomotriz
 
 En pacientes con depresiones recurrentes plantear uso de

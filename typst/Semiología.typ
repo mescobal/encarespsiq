@@ -1,8 +1,6 @@
-== Semiología
+== Entrevista
 
-=== Entrevista
-
-==== Dinámica
+=== Dinámica
 La dinámica tiene que ser flexible, adaptada al paciente. En general es útil hacer ciclos alternantes de preguntas cerradas y preguntas abiertas. Luego de una tanda de preguntas abiertas se formulan preguntas más cerradas para concretar datos y así sucesivamente.
 
 Es importante realizar una escucha activa, mirar / observar al paciente, dejar hablar, abstenerse de interrumpir si no es por un motivo concreto. Hay que estar atentos a aquellos aspectos de la entrevista en los que es importante detenerse y profundizar.
@@ -21,7 +19,7 @@ Es fundamental explorar los antecedentes de la enfermedad actual (AEA) así como
 
 Finalmente hacemos un exploración de la biografía (BIO). Esta debe contemplar: composición del núcleo familiar, embarazo y parto, hitos del desarrollo, sintomatología de la infancia (parasomnias, onicofagia, trastornos de conducta, enuresis, encopresis), pubertad, escolaridad, logros, hábitos, intereses.
 
-=== Examen Psiquiátrico
+== Examen Psiquiátrico
 
 Es producto de la observación durante la entrevista. Es útil hacer un esquema para ir anotando los ítems mientras suceden ya que a veces pueden olvidarse a la hora de exponer.
 
@@ -31,12 +29,12 @@ Tiene múltiples formatos y diferentes formas de ordenarlo, pero siempre contemp
 
 - Presentación:
   - Ingreso a la entrevista
-  - Aspecto general, biotipo
-  - Arreglo personal: autocuidado, concordancia con contexto sociocultural, ornamentación (en vestimenta y en el cuerpo), tipo de vestimenta.
-- Actitud: colaboración activa/pasiva, negativismo.
+  - Aspecto general, biotipo, edad cronológica/biológica, estado nutricional
+  - Arreglo personal: higiene, autocuidado, concordancia con contexto sociocultural, ornamentación (en vestimenta y en el cuerpo), tipo de vestimenta.
+- Actitud: colaboración activa/pasiva, negativismo. Contacto ocular.
 - Fascies, mímica y gestualidad
 - Rapport
-- Conciencia
+- Conciencia: nivel de conciencia
 - Pensamiento
 - Humor y afectividad
 - Psicomotricidad
