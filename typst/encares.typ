@@ -47,7 +47,6 @@
   ]
   #v-space
   #text(align(bottom)[#datetime.today().display()])
-//  }
 ])
 
 #outline(depth: 2)

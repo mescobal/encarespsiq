@@ -101,32 +101,17 @@ Formas menos graves: mantienen capacidad de desenvolverse en el mundo exterior p
 
 ===== Síntomas accesorios
 
-Pueden faltar en ciertos períodos o nunca estar presentes / otras veces
-pueden dominar el cuadro clínico. Pueden aparecer también en otras
-enfermedades pero exhiben peculiaridades que sólo se hallan en la
-esquizofrenia. Con frecuencia le proporcionan el sello externo al cuadro
-clínico poniendo de manifiesto la psicosis, alertando al entorno
-familiar y requiriendo la atención psiquiátrica. síndrome delirante
-alucinatorio / alteración de len-guaje y escritura / síntomas somáticos
-y catatónicos / síndrome de alteración de conciencia
+Pueden faltar en ciertos períodos o nunca estar presentes. Otras veces pueden dominar el cuadro clínico. Pueden aparecer también en otras enfermedades pero exhiben peculiaridades que sólo se hallan en la esquizofrenia. Con frecuencia le proporcionan el sello externo al cuadro clínico poniendo de manifiesto la psicosis, alertando al entorno familiar y requiriendo la atención psiquiátrica. Síndrome delirante alucinatorio, alteración de lenguaje y escritura, síntomas somáticos y catatónicos. Síndrome de alteración de conciencia
 
 ===== Subgrupos
 
 ===== Paranoide
 
-Inicio x lo general gradual, desrealización y despersonalización,
-autorreferencia (relaciona c/ él sucesos completamente neutros). Al
-principio puede dudar pero luego las ideas delirantes alcanzan total
-certeza y credibilidad. Al delirio se agregan AAV y somestésicas, crisis
-de EPM. En otras, inicio súbito: ``rayo en cielo despejado'', buscar
-siempre prodromos sutiles, oscilaciones prominentes a línea de base y
-alejamiento de ésta, ideas persecutorias, de grandeza, eróticas.
+Inicio x lo general gradual, desrealización y despersonalización, autorreferencia (relaciona c/ él sucesos completamente neutros). Al principio puede dudar pero luego las ideas delirantes alcanzan total certeza y credibilidad. Al delirio se agregan AAV y somestésicas, crisis de EPM. En otras, inicio súbito: ``rayo en cielo despejado'', buscar siempre prodromos sutiles, oscilaciones prominentes a línea de base y alejamiento de ésta, ideas persecutorias, de grandeza, eróticas.
 
 ===== Catatónico
 
-Por lo gral inicio por EPM / pasaje de estupor a estados catalépticos /
-tb puede empezar x sd paranoide / raro curso crónico, por lo general
-periódico
+Por lo gral inicio por EPM / pasaje de estupor a estados catalépticos / tb puede empezar x sd paranoide / raro curso crónico, por lo general periódico
 
 ===== Hebefrenia
 

@@ -1,31 +1,21 @@
+#import "@preview/fontawesome:0.2.0": *
 == Trastornos por consumo de alcohol
 
 === Notas clínicas
 
-Los trastornos vinculados al alcohol son varios, y pueden acumularse
-como diagnósticos. Una clasificación posible es dividir entre trastornos
-crónicos (abuso, dependencia) y agudos (intoxicación, abstinencia, etc).
-El encare clásico de "Delirio Alcohólico Subagudo" no da cuenta de todas
-las situaciones vinculadas al alcohol y la nomenclatura está en desuso.
-El DASA, nosográficamente, quedaría ubicado como "Delirium inducido por
-alcohol" (por la existencia de confusión mental). Los diferentes cuadros
-posibles son:
+Los trastornos vinculados al alcohol son varios, y pueden acumularse como diagnósticos. Una clasificación posible es dividir entre trastornos crónicos (abuso, dependencia) y agudos (intoxicación, abstinencia, etc).
+
+El encare clásico de "Delirio Alcohólico Subagudo" no da cuenta de todas las situaciones vinculadas al alcohol y la nomenclatura está en desuso. El DASA, nosográficamente, quedaría ubicado como "Delirium inducido por alcohol" (por la existencia de confusión mental). Los diferentes cuadros posibles son:
 
 - F10.0 Intoxicación alcohólica aguda (.03 con delirium)
 - F10.1 Consumo perjudicial / Trastorno por Abuso de Alcohol
 - F10.2 Dependencia alcohólica / Trastorno por dependencia de Alcohol
 - F10.3 Abstinencia alcohólica
-- F10.4 Delirium por abstinencia de Alcohol / Delirio alcohólico
-subagudo / Delirium Tremens.
-- F10.5 Trastorno psicótico inducido por alcohol: .51 = con ideas
-delirantes (Celotipia alcohólica), .52 = con alucinaciones (Alucinosis
-alcohólica)
+- F10.4 Delirium por abstinencia de Alcohol / Delirio alcohólico subagudo / Delirium Tremens.
+- F10.5 Trastorno psicótico inducido por alcohol: .51 = con ideas delirantes (Celotipia alcohólica), .52 = con alucinaciones (Alucinosis alcohólica)
 - F10.6 Trastorno amnésico inducido por alcohol
-- F10.7 Trasotrnos psicótico residual (.73 = Demencia inducida por
-alcohol).
-- F10.8 Otros trastornos (Trastornos de ansiedad y del estado de ánimo /
-Trastorno sexual inducido por alcohol / Trastorno del sueño inducido por
-alcohol).
+- F10.7 Trasotrnos psicótico residual (.73 = Demencia inducida por alcohol).
+- F10.8 Otros trastornos (Trastornos de ansiedad y del estado de ánimo / Trastorno sexual inducido por alcohol / Trastorno del sueño inducido por alcohol).
 - F10.9 Trastorno relacionado con alcohol no especificado.
 
 ==== Trastornos mentales agudos y subagudos del alcoholismo crónico
@@ -36,30 +26,22 @@ Agudo = Delirium Tremens
 
 Subagudo = Delirio onírico alcohólico.
 
-.Delirio alcohólico subagudo Lasègue (1869: DASA), Magnan (1874: Delirio
-alcohólico simple), encefalosis alcohólica subaguda.
+===== Delirio alcohólico subagudo
 
-Comienzo: acceso confuso-onírico agitado, continuación de pesadillas.
-Duración variable, inicialmente puede ser intermitente, luego se hace
-continuo. Delirio actuado (pide socorro, amenaza o pega, se atrinchera,
-huye por la calle, ataca enemigos imaginarios, disparos).
+Lasègue (1869: DASA), Magnan (1874: Delirio alcohólico simple), encefalosis alcohólica subaguda.
 
-Presentación: sudoración, olor podálico (Clérembault), agitado, delirio
-PAFAINVIF, gestos de defensa o ataque.
+Comienzo: acceso confuso-onírico agitado, continuación de pesadillas. Duración variable, inicialmente puede ser intermitente, luego se hace continuo. Delirio actuado (pide socorro, amenaza o pega, se atrinchera, huye por la calle, ataca enemigos imaginarios, disparos).
 
-Delirio onírico: Lasègue "Le délire alcoolique est un rêve", Garnier,
-Magnan. Vivenciado, actuado, onirismo profesional (temática laboral).
+Presentación: sudoración, olor podálico (Clérembault), agitado, delirio PAFAINVIF, gestos de defensa o ataque.
+
+Delirio onírico: Lasègue "Le délire alcoolique est un rêve", Garnier, Magnan. Vivenciado, actuado, onirismo profesional (temática laboral).
 Zoopsias (como imágenes oníricas, ratas, serpientes, arañas, sapos).
-Escenas de terror (es atacado), visiones macabras, incendios. Raramente
-temas eróticos o de celos. Predominio de alucinaciones visuales (como en
-el sueño). Pueden haber alucinaciones auditivas (amenazantes,
-peyorativas), olfativas (gas, azufre), gustativas (veneno),
-alucinaciones de la sensibilidad general (pinchazos, viscosidad,
-gusanos). Características:
+Escenas de terror (es atacado), visiones macabras, incendios. Raramente temas eróticos o de celos. Predominio de alucinaciones visuales (como en el sueño). Pueden haber alucinaciones auditivas (amenazantes, peyorativas), olfativas (gas, azufre), gustativas (veneno), alucinaciones de la sensibilidad general (pinchazos, viscosidad, gusanos). Características:
 
-- Vivido - Móvil,cambiante. - Cargado de ansiedad, carácter penoso,
-peligro inminente - Contexto de confusión mental: DOTE, distraibilidad.
-Sin trazas mnésicas excepto las ideas fijas postoníricas.
+- Vivido
+- Móvil,cambiante
+- Cargado de ansiedad, carácter penoso, peligro inminente 
+- Contexto de confusión mental: DOTE, distraibilidad. Sin trazas mnésicas excepto las ideas fijas postoníricas.
 
 Síndrome somático: taquicardia, temperatura normal o levemente
 aumentada. Poca afectación del estado general (DD con DT). Sudoración,
@@ -71,22 +53,16 @@ formas alucinatorias no oníricas o sin confusión (Marchand) o formas con
 automatismo mental (eco del pensamiento, comentario de actos, s/t
 alucinosis de bebedores de Wernicke).
 
-Evolución: favorable (o a DT). Secuelas: ideas fijas PO o crónicas
-(psicosis alcohóicas crónicas).
+Evolución: favorable (o a DT). Secuelas: ideas fijas PO o crónicas (psicosis alcohóicas crónicas).
 
 Diagnóstico: S° confusional en alcoholista.
 
 .Delirio alcohólico agudo: DT Comienzo: más agudo, más grave. Sudoración
 profusa, temblor generalizado, agitación intensa, insomnio total.
 
-Delirio onírico más marcado, intensamente alucinatorio, onirismo
-profesional, DOTE completa, zoopsias (microzoopsias en esquinas del
-cuarto). Liberación de movimientos anormales (masticación, succión,
-prensión). Temblor generalizado en todo el cuerpo. Fiebre (>39)
-persistente por días. Fiebre > 40 → delirio alcohólico hiperazoémico.
-Deshidratación. Diuresis suele ser (paradójicamente) suficiente.
+Delirio onírico más marcado, intensamente alucinatorio, onirismo profesional, DOTE completa, zoopsias (microzoopsias en esquinas del cuarto). Liberación de movimientos anormales (masticación, succión, prensión). Temblor generalizado en todo el cuerpo. Fiebre (>39) persistente por días. Fiebre > 40 → delirio alcohólico hiperazoémico. Deshidratación. Diuresis suele ser (paradójicamente) suficiente.
 
-TIP: No existe DT apirético
+#fa-lightbulb(): No existe DT apirético
 
 Examen: azoemia (puede ser normal, si está ↑ pronóstico grave, delirio
 agudo azoémico). Ionograma (buscar hipopotasemia).

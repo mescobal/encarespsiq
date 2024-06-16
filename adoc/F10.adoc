@@ -15,17 +15,14 @@ posibles son:
 * F10.1 Consumo perjudicial / Trastorno por Abuso de Alcohol
 * F10.2 Dependencia alcohólica / Trastorno por dependencia de Alcohol
 * F10.3 Abstinencia alcohólica
-* F10.4 Delirium por abstinencia de Alcohol / Delirio alcohólico
-subagudo / Delirium Tremens.
+* F10.4 Delirium por abstinencia de Alcohol / Delirio alcohólico subagudo / Delirium Tremens.
 * F10.5 Trastorno psicótico inducido por alcohol: .51 = con ideas
 delirantes (Celotipia alcohólica), .52 = con alucinaciones (Alucinosis
 alcohólica)
 * F10.6 Trastorno amnésico inducido por alcohol
 * F10.7 Trasotrnos psicótico residual (.73 = Demencia inducida por
 alcohol).
-* F10.8 Otros trastornos (Trastornos de ansiedad y del estado de ánimo /
-Trastorno sexual inducido por alcohol / Trastorno del sueño inducido por
-alcohol).
+* F10.8 Otros trastornos (Trastornos de ansiedad y del estado de ánimo / Trastorno sexual inducido por alcohol / Trastorno del sueño inducido por alcohol).
 * F10.9 Trastorno relacionado con alcohol no especificado.
 
 ==== Trastornos mentales agudos y subagudos del alcoholismo crónico
