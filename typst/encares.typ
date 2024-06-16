@@ -7,25 +7,37 @@
 #set page(
   paper: "a4",
   numbering: "1")
-//#show: ilm.with(
-//  title: [Encares de psiquiatría],
-//  author: "M. Escobal",
-//  date: datetime(year: 2024, month: 05, day: 7),
-//  abstract: [],
-//  preface: [],
-//  bibliography: bibliography("encares.bib"),
-//  figure-index: (enabled: false),
-//  table-index: (enabled: false),
-//  listing-index: (enabled: false),
-//  table-of-contents: outline(title: "Indice", depth: 1)
-//)
-//#set heading(numbering: "1.A.I.a.i")
+// #show: ilm.with(
+//   title: [Encares de psiquiatría],
+//   author: "M. Escobal",
+//   date: datetime(year: 2024, month: 05, day: 7),
+//   abstract: [],
+//   preface: [],
+//   bibliography: bibliography("encares.bib"),
+//   figure-index: (enabled: false),
+//   table-index: (enabled: false),
+//   listing-index: (enabled: false),
+//   table-of-contents: outline(title: "Indice", depth: 1)
+// )
+#set heading(depth: 2)
+// heading settings
+//#set text(font: "New Computer Modern", size: 11pt)
+#set text(font: "PT Serif", size: 11pt)
+#show heading: set text(weight: "bold", font: "PT Sans")
+#show heading.where(level: 1): set text(size: 34pt)
+#show heading.where(level: 2): set text(size: 28pt)
+#show heading.where(level: 3): set text(size: 22pt)
+#show heading.where(level: 4): set text(size: 18pt)
+#show heading.where(level: 5): set text(size: 16pt)
+#show heading.where(level: 5): set text(size: 14pt)
 #show heading: set block(above: 1.4em, below: 1em)
 #show heading.where(level: 1): it => {pagebreak(weak: true); it}
 #show heading.where(level: 2): it => {pagebreak(weak: true); it}
 #set par(leading: 0.55em, first-line-indent: 1.8em, justify: true)
 #show par: set block(spacing: 0.55em)
+
 // Cover page
+
 #page(align(center)[
   #let v-space = v(2em, weak: true)
   #align(center + horizon)[
@@ -36,7 +48,9 @@
   #v-space
   #text(align(bottom)[#datetime.today().display()])
 //  }
-]))
+])
+
+#outline(depth: 2)
 
 = Introducción
 

@@ -1,4 +1,5 @@
 #import "@preview/fontawesome:0.2.0": *
+
 == ¿Que es?
 
 Este conjunto de notas sobre encares de psiquiatría tiene su origen en la información que fui colocando en Internet desde que comencé a

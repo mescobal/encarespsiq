@@ -79,94 +79,51 @@ De inicio insidioso / permanente, de X evolución, que centra el cuadro
 clínico, dado por alteraciones en: el humor y afectividad ,
 psicomotricidad, pensamiento, conductas basales y pragmatismos
 
-.Humor y afectividad Trastorno que centra el cuadro y del cual nacen las
-otras alteraciones. Está dado por un humor en menos cualitativamente
-distinto a la tristeza normal. Está evidenciado por una tristeza vital y
-profunda transcurso de la entrevista, monótona, que no responde a
-estímulos externos, que no calma con la entrevista, con polo matinal de
-peoría, con correlato en la presentación (facies triste, omega
-melancólico), con deseos de llorar sin poder hacerlo o con llanto
-intenso. Se acompaña de una anhedonia (pérdida de capacidad para sentir
-placer con cosas que previamente eran gratas) tanto anticipatoria como
-de consumación, con apatía (pérdida de interés), desánimo, desgano,
-abulia (aburrimiento), abatimiento. En la afectividad se presenta un
-afecto embotado que puede llegar a una anestesia afectiva: incapacidad
-de querer, de sentir, por fuera del sufrimiento. Hipersensibilidad a
-acontecimientos no placenteros con insensibilidad para acontecimientos
+====== Humor y afectividad
+Trastorno que centra el cuadro y del cual nacen las otras alteraciones. Está dado por un humor en menos cualitativamente distinto a la tristeza normal. Está evidenciado por una tristeza vital y profunda transcurso de la entrevista, monótona, que no responde a estímulos externos, que no calma con la entrevista, con polo matinal de peoría, con correlato en la presentación (facies triste, omega melancólico), con deseos de llorar sin poder hacerlo o con llanto intenso. Se acompaña de una anhedonia (pérdida de capacidad para sentir placer con cosas que previamente eran gratas) tanto anticipatoria como de consumación, con apatía (pérdida de interés), desánimo, desgano, abulia (aburrimiento), abatimiento. En la afectividad se presenta un afecto embotado que puede llegar a una anestesia afectiva: incapacidad de querer, de sentir, por fuera del sufrimiento. Hipersensibilidad a acontecimientos no placenteros con insensibilidad para acontecimientos
 placenteros.
 
-.Pensamiento En lo formal se destaca la bradipsiquia, percibida a través
-de un relato de curso lento y pausado, con silencios prolongados, voz
-tenue y monocorde, respuestas con latencia, asociaciones dificultosas,
-evocaciones penosas, sensación de "mente en blanco" o embotamiento,
-puede estar en mutismo o semimutismo. Caudal pobre. Frases monosilábicas
+====== Pensamiento
+En lo formal se destaca la bradipsiquia, percibida a través de un relato de curso lento y pausado, con silencios prolongados, voz tenue y monocorde, respuestas con latencia, asociaciones dificultosas, evocaciones penosas, sensación de "mente en blanco" o embotamiento, puede estar en mutismo o semimutismo. Caudal pobre. Frases monosilábicas.
 
-En el contenido destacamos la autodevaluación, con ideas de minusvalía
-("no valgo nada", "soy un desgraciado", "soy menos"), ideas de culpa
-excesiva, autoacusación, ideas de ruina (no ve salida, se percibe sin
-futuro, no será perdonado, no puede esperar sino cosas malas), lo que
-constituye el dolor moral. Puede llegar a constituir un síndrome
-delirante.
+En el contenido destacamos la autodevaluación, con ideas de minusvalía ("no valgo nada", "soy un desgraciado", "soy menos"), ideas de culpa excesiva, autoacusación, ideas de ruina (no ve salida, se percibe sin futuro, no será perdonado, no puede esperar sino cosas malas), lo que constituye el dolor moral. Puede llegar a constituir un síndrome delirante.
 
-TIP: Dolor moral: culpa, ruina, minusvalía.
+#fa-lightbulb(): Dolor moral: culpa, ruina, minusvalía.
 
-Pueden existir ideas de muerte (desinterés por vivir), de
-autoeliminación (deseo, plan y búsqueda), de indignidad, de
-transformación corporal, elaboraciones hipocondríacas (temor y deseo de
-enfermedad), elaboración paranoica.
+Pueden existir ideas de muerte (desinterés por vivir), de autoeliminación (deseo, plan y búsqueda), de indignidad, de transformación corporal, elaboraciones hipocondríacas (temor y deseo de enfermedad), elaboración paranoica.
 
 Rumiación: ideación lenta centrada en temas tristes que se repiten
 indefinidamente.
 
-.Psicomotricidad Inhibición psicomotriz: definida como disminución
-global de las fuerzas que orientan el campo de la conciencia, dado en:
-Presentación:
+====== Psicomotricidad
+Inhibición psicomotriz: definida como disminución global de las fuerzas que orientan el campo de la conciencia, dado en:
 
-- Presentación: abatimiento, postura encorvada, inmóvil, cabizbajo.
-Descuido del aspecto personal, desaliño. - Actitud de colaboración
-pasiva, disminución de iniciativa verbal. - FMYG: Pobreza gestual.
-hipomimia, hipogestualidad. Rostro marmóreo. - Impresiona distante -
-Inercia: disminución de movilidad espontánea, fatiga ("todo es un
-esfuerzo"). - Clinofilia
+- Presentación: abatimiento, postura encorvada, inmóvil, cabizbajo. Descuido del aspecto personal, desaliño.
+- Actitud de colaboración pasiva, disminución de iniciativa verbal.
+- FMYG: Pobreza gestual. hipomimia, hipogestualidad. Rostro marmóreo.
+- Impresiona distante
+- Inercia: disminución de movilidad espontánea, fatiga ("todo es un esfuerzo").
+- Clinofilia
 
-TIP: AAAC: Apatía, Astenia, Anhedonia, Clinofilia
+#fa-lightbulb() AAAC: Apatía, Astenia, Anhedonia, Clinofilia
 
-- Apatía: disminución de interés - Astenia: fatiga psíquica y física -
-Anhedonia: incapacidad para obtener y experimentar placer (de intención
-y/o realización) - Clinofilia
+- Apatía: disminución de interés
+- Astenia: fatiga psíquica y física
+- Anhedonia: incapacidad para obtener y experimentar placer (de intención y/o realización)
+- Clinofilia
 
-.Síntomas de subtipos de depresión: Dentro del síndrome depresivo, hay
-una serie de síntomas que apuntan a un subgrupo de depresiones con
-características diferenciales:
+====== Síntomas de subtipos de depresión:
 
-Síntomas melancólicos: marcada anhedonia Falta de reactividad al
-entorno. Cualidad distintiva del estado de ánimo. Peoría matutina (polo
-matinal de la depresión). Despertar precoz. Enlentecimiento o agitación
-psicomotor. Anorexia significativa o pérdida de peso. Culpabilidad
-excesiva o inapropiada.
+Dentro del síndrome depresivo, hay una serie de síntomas que apuntan a un subgrupo de depresiones con características diferenciales:
 
-Síntomas atípicos: reactividad del estado de ánimo al entorno Aumento
-significativo de peso o del apetito. Hipersomnia. Abatimiento (parálisis
-plúmbea) Patrón de larga duración de sensibilidad al rechazo
-interpersonal (no limitado al episodio depresivo).
+- Síntomas melancólicos: marcada anhedonia Falta de reactividad al entorno. Cualidad distintiva del estado de ánimo. Peoría matutina (polo matinal de la depresión). Despertar precoz. Enlentecimiento o agitación psicomotor. Anorexia significativa o pérdida de peso. Culpabilidad excesiva o inapropiada.
+- Síntomas atípicos: reactividad del estado de ánimo al entorno Aumento significativo de peso o del apetito. Hipersomnia. Abatimiento (parálisis plúmbea) Patrón de larga duración de sensibilidad al rechazo interpersonal (no limitado al episodio depresivo).
+- Síntomas catatónicos: inmovilidad motora con o sin catalepsia. Actividad motora excesiva, sin propósito. Negativismo extremo. Peculiaridades del movimiento voluntario (manierismos). Ecolalia o ecopraxia.
+- Depresión puerperal: inicio dentro de las primeras 4 semanas del postparto.
+- Patrón estacional: relación temporal sostenida entre el inicio de los episodios afectivos y una determinada épica del año. Las remisiones totales también se dan en de-terminada época del año.
+- Episodio mixto: humor excitado, disfórico, ira, agitación, ideación suicida, mezcla con grandiosidad/hipersexualidad. Importante diferenciar de depresión agitada.
 
-Síntomas catatónicos: inmovilidad motora con o sin catalepsia. Actividad
-motora excesiva, sin propósito. Negativismo extremo. Peculiaridades del
-movimiento voluntario (manierismos). Ecolalia o ecopraxia. Depresión
-puerperal: inicio dentro de las primeras 4 semanas del postparto.
-
-Patrón estacional: relación temporal sostenida entre el inicio de los
-episodios afectivos y una determinada épica del año. Las remisiones
-totales también se dan en de-terminada época del año.
-
-Episodio mixto: humor excitado, disfórico, ira, agitación, ideación
-suicida, mezcla con grandiosidad/hipersexualidad. Importante diferenciar
-de depresión agitada.
-
-TIP: Atención a la presencia de elementos mixtos. A veces se presentan
-de forma tal que no es posible diferenciar episodios. En ese caso quizás
-se debería hacer un Síndrome de alteración del humor y poner los
-elementos de humor en más y en menos.
+#fa-exclamation-triangle(): Atención a la presencia de elementos mixtos. A veces se presentan de forma tal que no es posible diferenciar episodios. En ese caso quizás se debería hacer un Síndrome de alteración del humor y poner los elementos de humor en más y en menos.
 
 .Catalogar síndrome depresivo:
 
@@ -188,11 +145,7 @@ En el cual las ideas melancólicas adquieren persistencia y convicción
 delirante volviéndose incompartibles, irreductibles a la lógica y con
 pérdida del juicio de la realidad quedando en primer plano.
 
-.Temática De frustración, ruina, desgracia, de autodepreciación moral
-(autoacusación), culpa, somática (transformación o negación corporal),
-hipocondría, psíquica (dominación, pasividad Influencia). Puede haber un
-Síndrome de Cotard completo/incompleto: forma mayor de melancolía (CINE:
-condenación, inmortalidad, negación, enormidad). Negación: de la
+.Temática De frustración, ruina, desgracia, de autodepreciación moral (autoacusación), culpa, somática (transformación o negación corporal), hipocondría, psíquica (dominación, pasividad Influencia). Puede haber un Síndrome de Cotard completo/incompleto: forma mayor de melancolía (CINE: condenación, inmortalidad, negación, enormidad). Negación: de la
 existencia, del cuerpo, del mundo. Transformación corporal: creencia de
 estar muerto, de ser un cadáver, de no tener órganos o de que éstos no
 funcionan (combinación de nihilismo con megalomanía). Puede haber un
@@ -243,107 +196,68 @@ subjetiva de enlentecimiento del tiempo.
 
 ==== Síndrome de alteración cognitiva
 
-TIP: no es un síndrome clásico, pero puede adecuarse más a la
-comprensión actual de la sintomatología depresiva.
+#fa-lightbulb(): no es un síndrome clásico, pero puede adecuarse más a la comprensión actual de la sintomatología depresiva.
 
-Pérdida de capacidad de concentración, olvidos. Déficit atencional.
-Incapacidad para tomar decisiones.
+Pérdida de capacidad de concentración, olvidos. Déficit atencional. Incapacidad para tomar decisiones.
 
-TIP: recordar que no debería diagnosticarse demencia solamente con los
-síntomas que aparecen dentro de un episodio depresivo.
+#fa-lightbulb(): recordar que no debería diagnosticarse demencia solamente con los síntomas que aparecen dentro de un episodio depresivo.
 
 ==== Personalidad y nivel
 
-icon:clipboard[] Ver Fragmentos: "Nivel en diferido"
+#fa-paste() Ver Fragmentos: "Nivel en diferido"
 
-Personalidad: rasgos X que nos evocan X rasgos del grupo Y.
-Re-evaluaremos en la evolución pues el cuadro actual no permite un
-diagnóstico preciso. Realizaremos entrevistas con terceros y de ser
-necesario recurriremos a tests de personalidad. Podemos encontrar:
-dificultad para superar frustraciones y adaptarse a situaciones
-dolorosas de la vida yo débil, duelo patológico, dependencia, existir
-depresivo.
+Personalidad: rasgos X que nos evocan X rasgos del grupo Y. Re-evaluaremos en la evolución pues el cuadro actual no permite un diagnóstico preciso. Realizaremos entrevistas con terceros y de ser necesario recurriremos a tests de personalidad. Podemos encontrar: dificultad para superar frustraciones y adaptarse a situaciones dolorosas de la vida yo débil, duelo patológico, dependencia, existir depresivo.
 
 ==== Diagnóstico positivo
 
 ===== Nosografía clásica
 
-Los clásicos clasificaban las depresiones de forma distinta al
-DSM/CIE-10, con lo cual el encare "clásico" se adapta más a la depresión
-melancólica. Para otros formatos, evaluar hacer diagnóstico por el
-DSM/CIE.
+Los clásicos clasificaban las depresiones de forma distinta al DSM/CIE-10, con lo cual el encare "clásico" se adapta más a la depresión melancólica. Para otros formatos, evaluar hacer diagnóstico por el DSM/CIE.
 
-.Diagnóstico del episodio
+====== Diagnóstico del episodio
 
-icon:clipboard[] Ver Fragmentos: "Psicosis"
+#fa-paste() Ver Fragmentos: "Psicosis"
 
-icon:clipboard[] Ver Fragmentos: "Psicosis aguda"
+#fa-paste() Ver Fragmentos: "Psicosis aguda"
 
-Crisis de melancolía: por las características melancólicas del síndrome
-depresivo ya analizado. Importa destacar desde ya el RIESGO VITAL del
-diagnóstico establecido, basado en el riesgo de suicidio, ya que en la
-melancolía la muerte es sentida como una obligación, castigo necesario y
-solución para poner fin a la situación vivida. El riesgo está implícito
-en el diagnóstico establecido ya que si bien a veces no manifiestan sus
-ideas de muerte, la reticencia a manifestarlos es frecuente.
+Crisis de melancolía: por las características melancólicas del síndrome depresivo ya analizado. Importa destacar desde ya el RIESGO VITAL del diagnóstico establecido, basado en el riesgo de suicidio, ya que en la melancolía la muerte es sentida como una obligación, castigo necesario y solución para poner fin a la situación vivida. El riesgo está implícito en el diagnóstico establecido ya que si bien a veces no manifiestan sus ideas de muerte, la reticencia a manifestarlos es frecuente.
 
-.Forma clínica
+====== Forma clínica
 
-- Simple: IPM + poco DM ("con conciencia"). Predomina la IPM con
-tendencia a la inacción, inercia, astenia. Dolor moral escaso o falta.
-Tiene cierta conciencia mórbida (pero sin llegar a configurar una
-depresión "neurótica" o "reactiva"). - Franca: IPM + DM (dolor moral).
-Inicio progresivo con o sin desencadenante. - Estuporosa: gran IPM.
-Paciente espontáneamente inmóvil, en mutismo, no come, no hace gestos,
-reactividad disminuida (inhibición extrema con vigilia conservada).
-Fascies marmóreo con expresión de dolor/desespero (facilita el DD con
-otras etiologías). Riesgo de muerte por deshidratación/inanición. Ver
-encare de "Estupor". - Ansiosa: inquietud , búsqueda de muerte: riesgo
-de IAE. Cuadro dominado por agitación, ansiedad MIDI, psicomotricidad
-aumentada (caminar, frotarse las manos, zapatear, moverse, gritar,
-golpearse, correr, frotarse las manos, sollozar, gemir). - Delirante: Sº
-depresivo + Sº delirante. - Estados mixtos: presencia simultánea o
-rápidamente alternante de síntomas depresivos y síntomas de exaltación
-del humor. Clínicamente: turbulencia, agitación, perplejidad,
-irritabilidad / disforia.
+- Simple: IPM + poco DM ("con conciencia"). Predomina la IPM con tendencia a la inacción, inercia, astenia. Dolor moral escaso o falta. Tiene cierta conciencia mórbida (pero sin llegar a configurar una depresión "neurótica" o "reactiva").
+- Franca: IPM + DM (dolor moral). Inicio progresivo con o sin desencadenante.
+- Estuporosa: gran IPM. Paciente espontáneamente inmóvil, en mutismo, no come, no hace gestos, reactividad disminuida (inhibición extrema con vigilia conservada). Fascies marmóreo con expresión de dolor/desespero (facilita el DD con otras etiologías). Riesgo de muerte por deshidratación/inanición. Ver encare de "Estupor".
+- Ansiosa: inquietud , búsqueda de muerte: riesgo de IAE. Cuadro dominado por agitación, ansiedad MIDI, psicomotricidad aumentada (caminar, frotarse las manos, zapatear, moverse, gritar, golpearse, correr, frotarse las manos, sollozar, gemir).
+- Delirante: Sº depresivo + Sº delirante.
+- Estados mixtos: presencia simultánea o rápidamente alternante de síntomas depresivos y síntomas de exaltación del humor. Clínicamente: turbulencia, agitación, perplejidad, irritabilidad / disforia.
 
-.Diagnóstico nosológico
+====== Diagnóstico nosológico
 
-A. PMD unipolar: AF de cuadros afectivos o alcoholismo; AP de cuadros
-similares con restitución ad-integrum. No existen episodios previos de
-manía o hipo-manía B. PMD: similar, pero en la evolución presentó uno o
-más episodios de exaltación del humor.
+- PMD unipolar: AF de cuadros afectivos o alcoholismo; AP de cuadros similares con restitución ad-integrum. No existen episodios previos de manía o hipomanía
+- PMD: similar, pero en la evolución presentó uno o más episodios de exaltación del humor.
 
 ===== DSM-IV
 
-.Diagnóstico del episodio
+====== Diagnóstico del episodio
 
 Para DSM IV: Episodio Depresivo Mayor + especificadores.
 
 Especificadores principales:
 
-- Gravedad: L/M/G - Con síntomas psicóticos: congruentes / incongruentes
-con el estado de ánimo. - En remisión parcial / total (2 meses sin
-síntomas)
+- Gravedad: L/M/G
+- Con síntomas psicóticos: congruentes / incongruentes con el estado de ánimo.
+- En remisión parcial / total (2 meses sin síntomas)
 
 TIP: Síntomas catatónicos: CINEMIA
 
-Especificadores de síntomas catatónicos: 2 o + de 5 síntomas dominando
-el cuadro (CINEMIA):
+Especificadores de síntomas catatónicos: 2 o + de 5 síntomas dominando el cuadro (CINEMIA):
 
-- Catalepsia / Inmovilidad motora: incluye flexibilidad cérea o estupor.
-Inercia, actitudes de pasividad y automatismo (latencia en respuestas,
-obediencia automática, sugestionabilidad) (CI). - Negativismo:
-resistencia inmotivada a órdenes, mantenimiento de postura rígida ante
-intentos de ser movido. Mutismo. Oposicionismo (al interrogatorio, a la
-alimentación) (N) - Ecolalia / ecopraxia / estereotipias (actos motores
-reiterativos / en el lenguaje: verbigeración)(E) - Manierismos:
-tonalidad de afectación teatral, pudiendo llegar al pateticismo.
-Sonrisas inmotivadas / posturas extrañas. (M) - Impulsiones (I). Actos
-en cortocircuito, insensibles a estímulos externos, sobre los cuales el
-paciente no puede dar cuenta. Pueden ser impulsiones verbales. -
-Agitación motora: hiperactividad sin propósito aparente, no influida por
-factores externos (A)
+- Catalepsia / Inmovilidad motora: incluye flexibilidad cérea o estupor. Inercia, actitudes de pasividad y automatismo (latencia en respuestas, obediencia automática, sugestionabilidad) (CI).
+- Negativismo: resistencia inmotivada a órdenes, mantenimiento de postura rígida ante intentos de ser movido. Mutismo. Oposicionismo (al interrogatorio, a la alimentación) (N)
+- Ecolalia / ecopraxia / estereotipias (actos motores reiterativos / en el lenguaje: verbigeración)(E)
+- Manierismos: tonalidad de afectación teatral, pudiendo llegar al pateticismo. Sonrisas inmotivadas / posturas extrañas. (M)
+- Impulsiones (I). Actos en cortocircuito, insensibles a estímulos externos, sobre los cuales el paciente no puede dar cuenta. Pueden ser impulsiones verbales.
+- Agitación motora: hiperactividad sin propósito aparente, no influida por factores externos (A)
 
 Especificadores de síntomas melancólicos:
 
@@ -790,15 +704,13 @@ aislamiento, pérdida de roles, relaciones interpersonales
 Hay una tendencia a la pérdida de la reactividad en los episodios con
 progresiva autonomía de factores desencadenantes.
 
-Se postulan formas evolutivas a la cronicidad (nosografía clásica): .
-Melancolía crónica simple (acceso con remisión parcial) . Delirio
-crónico melancólico (persiste al desaparecer la depresión), a forma
-hipocondríaca o a forma de síndrome de Cottard crónico.
+Se postulan formas evolutivas a la cronicidad (nosografía clásica):
+- Melancolía crónica simple (acceso con remisión parcial)
+- Delirio crónico melancólico (persiste al desaparecer la depresión), a forma hipocondríaca o a forma de síndrome de Cottard crónico.
 
 ===== Factores de mal pronóstico
 
-- Antecedentes de maltrato o abuso en la infancia: factor de riesgo para severidad, precocidad, resistencia y
-cronificación de cuadros depresivos#footnote[Nelson, Janna, et al. "Childhood maltreatment and characteristics of adult depression: meta-analysis." The British Journal of Psychiatry 210.2 (2017): 96-104.].
+- Antecedentes de maltrato o abuso en la infancia: factor de riesgo para severidad, precocidad, resistencia y cronificación de cuadros depresivos#footnote[Nelson, Janna, et al. "Childhood maltreatment and characteristics of adult depression: meta-analysis." The British Journal of Psychiatry 210.2 (2017): 96-104.].
 - Síndrome metabólico#footnote[Pan, An, et al. "Bidirectional association between depression and metabolic syndrome: a systematic review and meta-analysis of epidemiological studies." Diabetes care 35.5 (2012): 1171-1180.].
 
 ==== En suma

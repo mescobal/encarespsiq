@@ -1,13 +1,10 @@
 == Trastornos del humor: generalidades
 
-En transición. Capítulo que será eliminado (se superpone con los 2
-siguientes)
+En transición. Capítulo que será eliminado (se superpone con los 2 siguientes)
 
 === Notas clínicas
 
-Formas clínicas no contempladas en encares clásicos: trastornos
-subafectivos, trastrorno depresivo breve recurrente, trastorno
-esquizoafectivo, depreisón en esquizofrenia.
+Formas clínicas no contempladas en encares clásicos: trastornos subafectivos, trastorno depresivo breve recurrente, trastorno esquizoafectivo, depresión en esquizofrenia.
 
 ==== Trastornos subafectivos
 
@@ -15,9 +12,8 @@ Clínica depresiva o cíclica moderada y crónica.
 
 ===== Distimia
 
-Trastorno persistente de al (-) 2 a de intensidad leve / moderada de
-inicio en adolescencia (depre doble) / ASECAD / curso persist o
-intermitente - trast ambulatorio compatible c/ func social, pero
+Trastorno persistente de al (-) 2 a de intensidad leve / moderada de inicio en adolescencia (depresión doble) / ASECAD / curso persistente o
+intermitente - trastorno ambulatorio compatible c/ func social, pero
 estabilidad precaria por hiperocupación c/ incapacidad para disfrutar
 del ocio o act fliar o social lo que lleva a fricción marital / sentim y
 falta de gusto por la vida fuera de su trabajo / dinám conyugal alterada
