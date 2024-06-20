@@ -1,77 +1,47 @@
+#import "@preview/fontawesome:0.2.0": *
 == Trastorno de Pánico
 
 NOTA: separo Trastorno de pánico de Trastorno de ansiedad generalizada.
 Voy pasando de a poco TAG al encare correspondiente
-
-=== Encare Motivo de consulta: síntomas somáticos de diferentes tipos
-(cardíacos, digestivos), derivaciones desde otras especialidades
-(cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
-
+=== Encare
+Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digestivos), derivaciones desde otras especialidades (cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
 ==== Agrupación sindromática
-
 ===== Síndrome de ansiedad-angustia
+Entendemos por ansiedad una experiencia displacentera con un componente psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o a morir, desrealización / despersonalización) y uno somático (psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos, mareos, disfagia, náuseas, malestar abdominal).
+Está centrada en el sentimiento de aprensión causado por la anticipación de un peligro (interno, externo, real o imaginado).
+Puede presentarse como episodio crítico o como estado más o menos persistente:
 
-Entendemos por ansiedad una experiencia displacentera con un componente
-psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o
-a morir, desrealización / despersonalización) y uno somático
-(psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión
-torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos,
-mareos, disfagia, náuseas, malestar abdominal). Está centrada en el
-sentimiento de aprensión causado por la anticipación de un peligro
-(interno, externo, real o imaginado). Puede presentarse como episodio
-crítico o como estado más o menos persistente:
+====== Crisis de angustia
+Definir crisis de angustia.
+De X evolución, de inicio brusco, paroxísticas, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia).
+Con rápido aumento de intensidad, de duración breve.
+Crisis que se presentan clínicamente con X (lista de síntomas). Crisis que han tenido una evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio evolutivo).
 
-.Crisis de angustia Definir crisis de angustia. De X evolución, de
-inicio brusco, paroxísticas, inesperadas o predispuestas por
-determinadas situaciones (si aparecen determinadas casi invariablemente
-por una situación, considerar el diagnóstico de fobia). Con rápido
-aumento de intensidad, de duración breve. Crisis que se presentan
-clínicamente con X (lista de síntomas). Crisis que han tenido una
-evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio
-evolutivo).
+====== Ansiedad basal
+Fondo de ansiedad difusa y permanente. Dado por:
+- Fondo permanente de ansiedad y preocupación no realista o excesiva sobre una gama amplia de acontecimientos.
+- Tensión motora: temblor, sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva, hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca, mareos, sensación de inestabilidad, trastornos gastrointestinales, sofocaciones, escalofríos, micción frecuente, "nudo en la garganta", cefaleas).
+- Hipervigilancia: sentirse en peligro, alarma exagerada, dificultad para concentrarse, insomnio, irritabilidad.
+- Alteraciones de las conductas basales, alteraciones somáticas funcionales (anorexia, disfunción sexual, insomnio).
 
-.Ansiedad basal Fondo de ansiedad difusa y permanente. Dado por:
-
-- Fondo permanente de ansiedad y preocupación no realista o excesiva
-sobre una gama amplia de acontecimientos. - Tensión motora: temblor,
-sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva,
-hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca,
-mareos, sensación de inestabilidad, trastornos gastrointestinales,
-sofocaciones, escalofríos, micción frecuente, "nudo en la garganta",
-cefaleas). - Hipervigilancia: sentirse en peligro, alarma exagerada,
-dificultad para concentrarse, insomnio, irritabilidad. - Alteraciones de
-las conductas basales, alteraciones somáticas funcionales (anorexia,
-disfunción sexual, insomnio).
-
-TIP: La semiología puede dividirse en componentes: psíquicos (afectivo /
-cognitivo) y somáticos (psicomotriz / neurovegetativo).
-
+#fa-lightbulb(): La semiología puede dividirse en componentes: psíquicos (afectivo / cognitivo) y somáticos (psicomotriz / neurovegetativo).
 ===== Síndrome fóbico
-
-Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de
-angustia configurando una Agorafobia (definirla).
-
+Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de angustia configurando una Agorafobia (definirla).
 ===== Síndrome depresivo
-
-Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego
-depresión).
+Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego depresión).
 
 ===== Otros síndromes
-
-- Síndrome disociativo - Síndrome conversivo: motor (como crisis o más
-permanentes), sensorial, sensitivo, neurovegetativo. - Síndrome
-obsesivo-compulsivo - Síndrome de despersonalización: puede hablar de la
-gravedad de la ansiedad-angustia.
+- Síndrome disociativo
+- Síndrome conversivo
+- Síndrome obsesivo-compulsivo
+- Síndrome de despersonalización: puede hablar de la gravedad de la ansiedad-angustia.
 
 ==== Personalidad y nivel
 
 Nivel: cualquiera.
 
-Personalidad: rasgos evitativos, conflictividad infantil, introversión,
-timidez, rasgos de cualquier serie, síntomas de cualquier serie.
-Dificultad para superar e integrar separaciones y pérdidas. Dificultades
-para adapta|rse a situaciones nuevas. Dificultad para manejar la
-agresividad.
+Personalidad: rasgos evitativos, conflictividad infantil, introversión, timidez, rasgos de cualquier serie, síntomas de cualquier serie.
+Dificultad para superar e integrar separaciones y pérdidas. Dificultades para adaptarse a situaciones nuevas. Dificultad para manejar la agresividad.
 
 Destacar: buena relación interpersonal, pedido de ayuda.
 
@@ -79,35 +49,22 @@ Destacar: buena relación interpersonal, pedido de ayuda.
 
 ===== Nosografía clásica
 
-.Neurosis icon:paste[] Fragmentos: Neurosis.
+- Neurosis #fa-paste().
 
-.Neurosis de angustia Ya que el cuadro está centrado en la ansiedad
-angustia. Y si bien existen elementos de otras series (sobre todo
-fóbicos), éstos no bastan para yugular la angustia. No llegando a
-estructurarse en una neurosis fóbica (no existe organización en fobia
-única, no existe evitación ni conductas tranquilizantes).
+====== Neurosis de angustia
+Ya que el cuadro está centrado en la ansiedad angustia. Y si bien existen elementos de otras series (sobre todo fóbicos), éstos no bastan para yugular la angustia. No llegando a estructurarse en una neurosis fóbica (no existe organización en fobia única, no existe evitación ni conductas tranquilizantes).
 
-.Descompensada Por
+====== Descompensada
+Por
+- Exacerbación de la sintomatología de ansiedad-angustia con aparición de episodios críticos de angustia y utilización de mecanismos de defensa tipo fóbicos, intento fallido por el momento de estructuración en neurosis fóbica.
+- Síndrome depresivo con elementos disfóricos como consecuencia de un desencadenante (reactivo)... (depresión neurótica).
 
-- Exacerbación de la sintomatología de ansiedad-angustia con aparición
-de episodios críticos de angustia y utilización de mecanismos de defensa
-tipo fóbicos, intento fallido por el momento de estructuración en
-neurosis fóbica. - Síndrome depresivo con elementos disfóricos como
-consecuencia de un desencadenante (reactivo)... (depresión neurótica).
+====== Causa de descompensación
+Conflicto psicosocial, estrés ambiental, separaciones, situaciones de pérdida, situaciones de competencia (agresividad culpabilizada), frustraciones de orden sexual, alteración de relaciones interpersonales, pérdida de apoyos sociales.
 
-.Causa de descompensación
-
-Conflicto psicosocial, estrés ambiental, separaciones, situaciones de
-pérdida, situaciones de competencia (agresividad culpabilizada),
-frustraciones de orden sexual, alteración de relaciones interpersonales,
-pérdida de apoyos sociales.
-
-.Diagnóstico de gravedad:
-
-- Gravedad de las crisis de angustia: por cantidad de crisis (grave > 8
-al mes), según períodos intercríticos. - Gravedad de la evitación
-agorafóbica: según limitaciones en la vida cotidiana y uso de
-acompañantes al salir.
+====== Diagnóstico de gravedad
+- Gravedad de las crisis de angustia: por cantidad de crisis (grave > 8 al mes), según períodos intercríticos.
+- Gravedad de la evitación agorafóbica: según limitaciones en la vida cotidiana y uso de acompañantes al salir.
 
 ===== DSM IV - CIE-10
 
