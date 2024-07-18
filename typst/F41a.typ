@@ -131,57 +131,31 @@ Trastorno por Estrés agudo y Trastorno por Estrés Postraumático.
 
 ===== Nosografía clásica
 
-.Con otras neurosis - Neurosis fóbica: acá la ansiedad-angustia va
-ligada al objeto o situación fóbica. En la neurosis de angustia no hay
-desencadenante específico, aunque el paciente puede evitar por ansiedad
-anticipatoria los lugares donde puede quedar expuesto en caso de sufrir
-las crisis, pero no porque estos lugares sean desencadenantes por sí
-mismos. Tampoco tienen conductas tranquilizadoras. - Neurosis de
-histeria - Neurosis obsesivo-compulsiva.
+- Con otras neurosis
+  - Neurosis fóbica: acá la ansiedad-angustia va ligada al objeto o situación fóbica. En la neurosis de angustia no hay desencadenante específico, aunque el paciente puede evitar por ansiedad anticipatoria los lugares donde puede quedar expuesto en caso de sufrir las crisis, pero no porque estos lugares sean desencadenantes por sí mismos. Tampoco tienen conductas tranquilizadoras.
+  - Neurosis de histeria
+  - Neurosis obsesivo-compulsiva.
+- Trastorno afectivo primario Depresión reactiva / melancolía.
+- Causas orgánicas de crisis de angustia:
+  - Cardiovasculares: angor, IAM, TEP, arritmias.
+  - Pleuropulmonares: hiperventilación, broncoespasmo, neumotórax.
+  - Endocrinológicas: feocromocitoma, hipertiroidismo, hiperparatiroidismo.
+  - Neurológicas: epilepsia de lóbulo temporal, tumores cerebrales, migrañas, trastornos vestibulares.
+  - Metabólicas: hipoglicemia, insulinomas.
+  - Fármacos: corticoides, tiroxina.
+- UISP También debemos descartar que esto sea secundario a abstinencia de sustancias psicoactivas depresoras de SNC (alcohol, sedantes, benzodiacepinas, barbitúricos) o síntomas de intoxicación por estimulantes del SNC (cafeína, cocaína, anfetaminas)
 
-.Trastorno afectivo primario Depresión reactiva / melancolía.
-
-.Causas orgánicas de crisis de angustia: - Cardiovasculares: angor, IAM,
-TEP, arritmias. - Pleuropulmonares: hiperventilación, broncoespasmo,
-neumotórax. - Endocrinológicas: feocromocitoma, hipertiroidismo,
-hiperparatiroidismo. - Neurológicas: epilepsia de lóbulo temporal,
-tumores cerebrales, migrañas, trastornos vestibulares. - Metabólicas:
-hipoglicemia, insulinomas. - Fármacos: corticoides, tiroxina.
-
-.UISP También debemos descartar que esto sea secundario a abstinencia de
-sustancias psicoactivas depresoras de SNC (alcohol, sedantes,
-benzodiacepinas, barbitúricos) o síntomas de intoxicación por
-estimulantes del SNC (cafeína, cocaína, anfetaminas)
-
-Aunque no existan datos concretos que apunten a una causa de las
-enumeradas, de cualquier modo descartaremos por paraclínica. Destacar
-que ningún trastorno médico descarta un trastorno psíquico coexistente.
+Aunque no existan datos concretos que apunten a una causa de las enumeradas, de cualquier modo descartaremos por paraclínica. Destacar que ningún trastorno médico descarta un trastorno psíquico coexistente.
 
 ===== DSM IV - CIE-10
 
-.Trastorno de personalidad Al poder acumular diagnóstico en cada uno de
-los ejes (pueden coexistir varios trastornos de ansiedad + trastornos
-del estado de ánimo + trastornos de la personalidad), los DD cambian:
-
-.Entre trastornos de ansiedad
-
-Que no sean acumulables, por ejemplo: DD entre TAG y Trastornos
-adaptativos. Algunos pueden acumularse, por ejemplo: TAG y Trastorno de
-pánico pueden coexistir, siempre que la ansiedad no haga referencia
-exclusivamente al trastorno de pánico. Similares consideraciones para
-TAG y TEPT.
-
-.Causas médicas y sustancias de trastornos de ansiedad
-
-Descartar en especial Hipertiroidismo (temblores, palmas frías y
-húmedas, nerviosismo), feocromocitoma, hipoglicemias.
-
-. Otas causas de síntomas de ansiedad
-
-- Sustancias: intoxicación (cocaína, estimulantes) o abstinencia
-(alcohol, benzodiacepinas, barbitúricos). - Fármacos: corticoides, T4.
-
-.Trastorno por somatización Trastornos somatomorfos/disociativos
+- Trastorno de personalidad. Al poder acumular diagnóstico en cada uno de los ejes (pueden coexistir varios trastornos de ansiedad + trastornos del estado de ánimo + trastornos de la personalidad), los DD cambian:
+- Entre trastornos de ansiedad que no sean acumulables, por ejemplo: DD entre TAG y Trastornos adaptativos. Algunos pueden acumularse, por ejemplo: TAG y Trastorno de pánico pueden coexistir, siempre que la ansiedad no haga referencia exclusivamente al trastorno de pánico. Similares consideraciones para TAG y TEPT.
+- Causas médicas y sustancias de trastornos de ansiedad: descartar en especial Hipertiroidismo (temblores, palmas frías y húmedas, nerviosismo), eocromocitoma, hipoglicemias.
+- Otas causas de síntomas de ansiedad
+  - Sustancias: intoxicación (cocaína, estimulantes) o abstinencia (alcohol, benzodiacepinas, barbitúricos).
+  - Fármacos: corticoides, T4.
+- Trastorno por somatización Trastornos somatomorfos/disociativos
 
 ==== Diagnóstico etiopatogénico y psicopatológico
 
@@ -189,85 +163,34 @@ húmedas, nerviosismo), feocromocitoma, hipoglicemias.
 
 Diferentes niveles explicativos:
 
-.Factores biológicos
+====== Factores biológicos
 
-El modelo biológico es el de vulnerabilidad/estrés. La ansiedad es un
-comportamiento posible como respuesta al estrés (respuesta programada de
-lucha/huída). El trastorno sería el producto de la disregulación del
-sistema que procesa información de forma errónea aumentando la respuesta
-de ansiedad.
+El modelo biológico es el de vulnerabilidad/estrés. La ansiedad es un comportamiento posible como respuesta al estrés (respuesta programada de lucha/huída). El trastorno sería el producto de la disregulación del sistema que procesa información de forma errónea aumentando la respuesta de ansiedad.
 
-Genéticos: incidencia familiar (es más probable que se hereden formas
-con Agorafobia). Riesgo x4 o x8 en familiares de primer grado. Apoyado
-en estudios con gemelos.
+Genéticos: incidencia familiar (es más probable que se hereden formas con Agorafobia). Riesgo x4 o x8 en familiares de primer grado. Apoyado en estudios con gemelos.
 
-Disregulación a nivel del SNC y SNP, aumento del tono simpático con
-adaptación más lenta a estímulos repetidos.
+Disregulación a nivel del SNC y SNP, aumento del tono simpático con adaptación más lenta a estímulos repetidos.
 
-Neurotransmisores implicados: relación con el sistema Gaba y función de
-éste en la modulación de otros sistemas de transmisión neurohumoral (y
-su relación con las benzodiacepinas), relación con sistemas
-serotoninérgico y noradrenérgico.
+Neurotransmisores implicados: relación con el sistema Gaba y función de éste en la modulación de otros sistemas de transmisión neurohumoral (y su relación con las benzodiacepinas), relación con sistemas serotoninérgico y noradrenérgico.
 
-Consideraciones neuroanatómicas: se correlaciona con el tronco cerebral
-(locus coeruleus y neuronas serotoninérgicas del núcleo del rafe),
-sistema límbico (génesis de la ansiedad anticipatoria) y córtex
-prefrontal (génesis de evitación fóbica).
+Consideraciones neuroanatómicas: se correlaciona con el tronco cerebral (locus coeruleus y neuronas  serotoninérgicas del núcleo del rafe), sistema límbico (génesis de la ansiedad anticipatoria) y córtex prefrontal (génesis de evitación fóbica).
 
-En estudios imagenológicos se señalan alteraciones en lóbulos temporales
-(hipocampo) con disregulación del flujo sanguíneo a ese nivel.
+En estudios imagenológicos se señalan alteraciones en lóbulos temporales (hipocampo) con disregulación del flujo sanguíneo a ese nivel.
 
-.Factores psicológicos
+====== Factores psicológicos
 
--Teoría cognitivo-comportamental-
-
-La ansiedad sería una respuesta condicionada a estímulos ambientales
-específicos (exposición primaria generalización + conceptualización
-cognitiva). También estarían implicada la imitación de conductas
-parentales. En lo cognitivo: estructura cognitiva que determina una
-interpretación catastrófica de las sensaciones somáticas e
-interoceptivas y una percepción de uno mismo y del riesgo del entorno
-erradas.
-
--Psicodinámico-
-
-Relación con la aparición de pulsiones agresivas. En un intento de
-enfoque comprensivo del paciente podemos vincular este trastorno a:
-
-- Dependencia - Coartación en la infancia de las manifestaciones de AA
-(ambiente rígido, padres severos) - Dificultad para vivenciar la
-agresividad, cólera culpabilizada o reprimida - Intolerancia a los
-propios sentimientos de odio - Factores sexuales: deseo culpabilizado,
-temor a la sexualidad - Estrés psicosocial (duelo patológico: duración,
-síntomas disociativos relacionados con el mismo) reactiva viejas
-pérdidas depresión culpa.
+-Teoría cognitivo-comportamental: la ansiedad sería una respuesta condicionada a estímulos ambientales
+específicos (exposición primaria generalización + conceptualización cognitiva). También estarían implicada la imitación de conductas parentales. En lo cognitivo: estructura cognitiva que determina una interpretación catastrófica de las sensaciones somáticas e interoceptivas y una percepción de uno mismo y del riesgo del entorno erradas.
+-Psicodinámico: relación con la aparición de pulsiones agresivas. En un intento de enfoque comprensivo del paciente podemos vincular este trastorno a:
+  - Dependencia - Coartación en la infancia de las manifestaciones de AA (ambiente rígido, padres severos) - Dificultad para vivenciar la agresividad, cólera culpabilizada o reprimida
+  - Intolerancia a los propios sentimientos de odio
+  - Factores sexuales: deseo culpabilizado, temor a la sexualidad - Estrés psicosocial (duelo patológico: duración, síntomas disociativos relacionados con el mismo) reactiva viejas pérdidas depresión culpa.
 
 ===== Psicopatología
 
-Para el psicoanálisis la ansiedad sería una señal de la inminente
-aparición a nivel consciente de un impulso intolerable para el Yo. Esto
-implica una falla del mecanismo de represión, lo que motivaría el uso de
-otros mecanismos de defensa que pueden producir formaciones sintomáticas
-constituyéndose la neurosis. Según el psicoanálisis existirían 4 tipos
-de ansiedad: ansiedad impulsiva o del Ello, ansiedad de separación,
-ansiedad de castración y ansiedad del Superyo. Existe una mala
-estructuración del Yo que fracasa en la síntesis e integración de los
-impulsos instintivos del Ello, las exigencias normativas y prohibitivas
-del Superyo y las presiones de la realidad exterior. La reactivación del
-conflicto psíquico inconsciente vinculado a la angustia de castración
-sobrepasa el mecanismos de represión (destinado a mantener la pulsión
-fuera del campo consciente) por lo cual los impulsos rechazados amenazan
-irrumpir en la conciencia alterando la homeostasis emocional. El
-enfrentamiento del yo con dicha conflictiva provoca la ansiedad cuya
-función es la de anunciar la existencia de un peligro.
+Para el psicoanálisis la ansiedad sería una señal de la inminente aparición a nivel consciente de un impulso intolerable para el Yo. Esto implica una falla del mecanismo de represión, lo que motivaría el uso de otros mecanismos de defensa que pueden producir formaciones sintomáticas constituyéndose la neurosis. Según el psicoanálisis existirían 4 tipos de ansiedad: ansiedad impulsiva o del Ello, ansiedad de separación, ansiedad de castración y ansiedad del Superyo. Existe una mala estructuración del Yo que fracasa en la síntesis e integración de los impulsos instintivos del Ello, las exigencias normativas y prohibitivas del Superyo y las presiones de la realidad exterior. La reactivación del conflicto psíquico inconsciente vinculado a la angustia de castración sobrepasa el mecanismos de represión (destinado a mantener la pulsión fuera del campo consciente) por lo cual los impulsos rechazados amenazan irrumpir en la conciencia alterando la homeostasis emocional. El enfrentamiento del yo con dicha conflictiva provoca la ansiedad cuya función es la de anunciar la existencia de un peligro.
 
-La neurosis de angustia es el primer estadio de las restantes neurosis
-en la cual el yo no ha aprendido a defenderse. Si bien existen intentos
-de recuperar el equilibrio recurriendo a mecanismos de defensa
-estructurados de tipo histéricos (disociativos, conversivos), obsesivos,
-fóbicos. En el caso de coexistencia con síntomas agorafóbicos, estarían
-en juego mecanismos de defensa tales como la represión, desplazamiento,
-evitación y simbolización.
+La neurosis de angustia es el primer estadio de las restantes neurosis en la cual el yo no ha aprendido a defenderse. Si bien existen intentos de recuperar el equilibrio recurriendo a mecanismos de defensa estructurados de tipo histéricos (disociativos, conversivos), obsesivos, fóbicos. En el caso de coexistencia con síntomas agorafóbicos, estarían en juego mecanismos de defensa tales como la represión, desplazamiento, evitación y simbolización.
 
 ==== Paraclínica
 
@@ -281,14 +204,7 @@ conducción por ADT, extrasístoles. En especial: Función Tiroidea.
 
 ===== Psicológico
 
-Entrevistas reiteradas profundizando en el conflicto, evaluación más
-concreta de eventos vitales. Superado el cuadro actual con vistas a un
-abordaje psicoterapéutico procurando conocer la fortaleza yoica,
-mecanismos de defensa y manejo de la angustia. Tests de personalidad
-proyectivos (TAT y Rorscharch), no proyectivos (MMPI-Minessotta), tests
-de nivel (Weschler). Puede ser de utilidad para valorar la respuesta al
-tratamiento la aplicación de inventarios tales como el cuestionario de
-Hamilton para la ansiedad de 14 ítems (HAM-A).
+Entrevistas reiteradas profundizando en el conflicto, evaluación más concreta de eventos vitales. Superado el cuadro actual con vistas a un abordaje psicoterapéutico procurando conocer la fortaleza yoica, mecanismos de defensa y manejo de la angustia. Tests de personalidad proyectivos (TAT y Rorscharch), no proyectivos (MMPI-Minessotta), tests de nivel (Weschler). Puede ser de utilidad para valorar la respuesta al tratamiento la aplicación de inventarios tales como el cuestionario de Hamilton para la ansiedad de 14 ítems (HAM-A).
 
 ===== Social
 
@@ -306,7 +222,7 @@ s/t a nivel sintomático sobre:
 Síndrome depresivo y sus complicaciones (IAE) - Insomnio
 
 Como primera medida, estableceremos un buen vínculo, realizando
-continentación y apoyo, permitiendo expresión de emociones. Será de
+continentación y           apoyo, permitiendo expresión de emociones. Será de
 importancia el establecer determinadas medidas higiénico-dietéticas
 tales como: eliminación de cafeína o nicotina que pueden excerbar los
 síntomas. Tratamiento biológico y psicológico específico: ver más

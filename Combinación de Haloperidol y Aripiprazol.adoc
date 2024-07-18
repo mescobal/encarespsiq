@@ -1,0 +1,25 @@
+= Combinación de Haloperidol y Aripiprazol: receptor D2
+
+Combinación frecuente en psicosis resistentes footnote:[Crapanzano, C., Laurenzi, P. F., Amendola, C., & Casolaro, I. (2022). Combining Aripiprazole and Haloperidol: Focus on D2 Receptor. Journal of Clinical Pharmacology, 62(7).]
+
+Cuando se usan combinados, 3 sustancias compiten por el mismo receptor de dopamina: aripiprazol, haloperidol y la dopamina endógena. Esto está poco estudiado footnote:[Shim JC, Shin JG., Kelly DL, et al. Adjunctive treatment with a dopamine partial agonist, aripiprazole, for antipsychotic-induced hyperprolactinemia: a placebo-controlled trial. Am J Psychiatry. 2007;164(9):1404-1410.] footnote:[Mahgoub N. Does combining aripiprazole with other antipsychotics worsen psychosis? J Clin Psychopharmacol. 2015;35(4):470-471]
+
+El aripiprazol es un agonista parcial de baja actividad intrínseca (57%), caracterizado por una afinidad de unión más fuerte hacia los receptores D2 (D2Rs, Ki=0.11 nM) y una cinética de disociación más lenta (k off = 31 min) en comparación al haloperidol (Ki = 0.57 nM, k off = 1 min) y la dopamina (Ki = 16 nM, k off = 24 min) footnote:[Carboni L, Negri M, Michielin F, et al. Slow dissociation of partial agonists from the D2 receptor is linked to reduced prolactin release. Int J Neuropsychopharmacol. 2012;15(5):645- 656.] footnote:[de Witte WEA, Versfelt JW, Kuzikov M, et al. In vitro and in silico analysis of the effects of D2 receptor antagonist target binding kinetics on the cellular response to fluctuating dopamine concentrations. Br J Pharmacol. 2018;175(21):4121-4136.] footnote:[Sánchez-Soto M, Bonifazi A, Cai NS, et al. Evidence for noncanonical neurotransmitter activation: norepinephrine as a dopamine D2-like receptor agonist. Mol Pharmacol. 2016;89(4):457-466.].
+
+El uso crónico de antagonistas D2 como el haloperidol se asocia a una regulación al alza compensatoria del D2R en la vía mesolímbica que puede aumentar la actividad dopaminérgica funcional del agonista D2 aripiprazol.
+
+La clozapina un antagonista D2 débil, no induce la supersensibilidad de dopamina.
+
+Entonces, cuando se agrega aripiprazol a un tratamiento estable con haloperidol, desplaza al haloperidol de los sitios D2R y ejerce su actividad agonista parcial, exponiendo al paciente a una potencial recaída por síntomas positivos.
+
+Por otro lado el aripiprazol puede atenuar los efectos adversos inducidos por antipsicóticos como la hiperprolactinemia, mejorando los síntomas positivos.
+
+A la inversa: agregar haloperidol a aripiprazol puede producir un bloqueo D2 más fuerte con mejoría en los síntomas positivos, disminuyendo al mismo tiempo los beneficios del aripiprazol como atípico (actividad serotoninérgica y dopaminérgica -> agonismo parcial D2/D3, agonismo 5.HT1A, antagoniemo 5-HT2A).
+
+La exposición a largo plazo a antagonistas D2R (haloperidol) puede inducir a supersensibilidad a dopamina / aumento de la densidad de D2R. Agregar agonistas (aripiprazol) puede inducir excesiva actividad dopaminérgica.
+
+En suma: aripiprazol se une con más fuerza al receptor D2. A bajas dosis tiende a estimular más que a bloquear.
+
+Si se agrega poquito aripiprazol a mucho haloperidol va a desplazar el haloperidol (que bloquea) reemplazando por aripiprazol (que no bloquea o bloquea menos). Esto permite por ejemplo usar poquito aripiprazol para intentar mitigar la prolactinemia inducida por risperidona.
+
+Si se agrega un poco de haloperidol a mucho aripiprazol, se está reemplazando una pequeña porción del poco bloqueante aripiprazol por el muy bloqueante haloperidol -> se obtiene más bloqueo que antes.
