@@ -1,13 +1,10 @@
 == Trastornos del humor: generalidades
 
-En transición. Capítulo que será eliminado (se superpone con los 2
-siguientes)
+En transición. Capítulo que será eliminado (se superpone con los 2 siguientes)
 
 === Notas clínicas
 
-Formas clínicas no contempladas en encares clásicos: trastornos
-subafectivos, trastrorno depresivo breve recurrente, trastorno
-esquizoafectivo, depreisón en esquizofrenia.
+Formas clínicas no contempladas en encares clásicos: trastornos subafectivos, trastorno depresivo breve recurrente, trastorno esquizoafectivo, depresión en esquizofrenia.
 
 ==== Trastornos subafectivos
 
@@ -41,10 +38,12 @@ Caract hipomaníacas + subdepresivas * en suma : disregulación bifásica
 c/ cambios endoreactivos de una fase a otra, cada fase dura pocos días x
 vez c/ infrecuente eutimia
 
-.Cambios de categoría diagnóstica Siempre depende de la intensidad del
-ep de exaltación de humor
+.Cambios de categoría diagnóstica
+Siempre depende de la intensidad del ep de exaltación de humor
 
-* TD > : 9 * Ciclot : 30 * Bip II: 5-13
+* TD > : 9 
+* Ciclot : 30 
+* Bip II: 5-13
 
 ==== Trastorno esquizoafectivo
 
@@ -136,7 +135,7 @@ esclerosis múltiple / lupus
 
 Demencia
 
-(> de 65 años, primer episodio). Puede tratarse de un episodio de manía
+- > de 65 años, primer episodio). Puede tratarse de un episodio de manía
 en el curso de un trastorno bipolar complicado por la instalación de una
 encefalopatía degenerativa a descartar por paraclínica ya que sabemos
 que en esos casos disminuye la respuesta a la medicación. El abandono de
@@ -174,7 +173,7 @@ disfunción fliar : incide en recaídas, readaptación y recuperación
 
 PLANTEO DIFERENCIAL c/otro tipo de episodio
 
-{empty}1. mixto 2. inducido por sust 3. enf orgánica
+1. mixto 2. inducido por sust 3. enf orgánica
 
 DX DIFERENCIALES DENTRO DE OTRAS PATOLOGÍAS MAYORES
 
@@ -228,16 +227,12 @@ en bipolar: episódico y generalizado.
 
 ====== Biológico
 
-{empty}1. alt del sueño (en + ó -), apetito, impulso sexual y cambios
-endócrinos, inmunológicos y cronobiológicos (alt del ritmo circadiano)
-hablan de disregulación en SNC (sist límbico, GB e hipotálamo) como
-sustrato etiopatogénico neuroanatómico 2. MUY genético s/t bipolar /
-reactivado por el ambiente : kindling (ELECTROFISIOLÓGICO) : estím
-subumbrales reiterados llegado un momento originan un potencial de
-acción
+1. alt del sueño (en + ó -), apetito, impulso sexual y cambios endócrinos, inmunológicos y cronobiológicos (alt del ritmo circadiano) hablan de disregulación en SNC (sist límbico, GB e hipotálamo) como sustrato etiopatogénico neuroanatómico 
+2. MUY genético s/t bipolar / reactivado por el ambiente : kindling (ELECTROFISIOLÓGICO) : estím subumbrales reiterados llegado un momento originan un potencial de acción
 
-. 1º epis : hay desencadenante en 60% . 2º epis : 30% / 3º epis 20% .
-luego del 4º : no hay evidencias . fenóm vinculado al uso de cocaína . >
+. 1º epis : hay desencadenante en 60% 
+. 2º epis : 30% / 3º epis 20% 
+. luego del 4º : no hay evidencias . fenóm vinculado al uso de cocaína . >
 jóvenes < necesidad de estímulo / > + resist por lo que se ha planteado
 la profilaxis del kindling en ptes c/ vulnerabilidad genética mediante
 CBZ que luego se suspendería / el estím no crece la respuesta sí . post
@@ -246,7 +241,7 @@ entre post pubertad y pre menopausia / el reemplazo hormonal con
 estrógenos tiene otras ventajas vinculadas al trast posmenopáusico pp
 dicho (ej osteoporosis)
 
-{empty}3. bioquímico: desequilibrio a/n de NT con hipersensibilidad en
+3. bioquímico: desequilibrio a/n de NT con hipersensibilidad en
 receptores postsinápticos beta adrenérgicos y 5 HT2 4. constitucionales:
 hábito pícnico de Kretschemer. 5. neuroendócrinos : cortisol / tiroides
 
@@ -277,7 +272,7 @@ manejo de agresividad (excitac pulsional) y culpabilidad consiguiente :
 
 defensas psíq y comportamentales
 
-{empty}1. retorno sobre sí de la agresividad : cond peligrosas /
+1. retorno sobre sí de la agresividad : cond peligrosas /
 equivalentes suicidas / id de AE / IAE 2. inhibición y pasividad :
 repliegue sobre sí mismo / desinterés / clinofilia / enclaustrado en
 habitación 3. huída y distanciamiento
@@ -448,7 +443,7 @@ PST : aceptarse a sí mismos / optimismo razonable / mantener compliance
 / manejo de conflictos acumulativos (FASESOLA) / cambio a personalidad
 postdepresiva / movilizar destrezas y recursos
 
-{empty}1) ISRS
+1) ISRS
 
 fluoxetina
 
@@ -893,16 +888,7 @@ valcote < frec de recaídas y asociación menos compleja
 .CBZ
 
 * refract a Li * dosis inicio : 200 c/ 8 hs y aumentar hasta 1200 mg [
-6-12 microgr / ml ] * ef 2º : dosis depend : leuco y trombopenia leves,
-> enz hepáticas, hipoNa, diplopía, ataxia, fatiga, visión borrosa,
-temblor,> peso, erupc cutáneas, náuseas, vóm, retención de líquidos /
-idiosincrásicos : corazón (ef quinidinosímil, control en cardiópatas),
-agranulocitosis, anemia aplásica, insuf hepática * hemograma (c/ lám y
-recuento plaquetario) y funcional hepático : c/ 2 sem x 2 meses y luego
-c/ 3 meses ya que discrasias y hepatopatías tienen lugar s/t en 1º 3 a 6
-meses * inductor de Cit P450 : induce su pp metabolismo y otros
-metabolismos hepáticos, por lo tanto múltiples interacciones * CBZ no
-mantiene sus efectos c/ el tiempo, puede disminuir en 1 ó 2 años
+6-12 microgr / ml ] * ef 2º : dosis depend : leuco y trombopenia leves, > enz hepáticas, hipoNa, diplopía, ataxia, fatiga, visión borrosa, temblor,> peso, erupc cutáneas, náuseas, vóm, retención de líquidos / idiosincrásicos : corazón (ef quinidinosímil, control en cardiópatas), agranulocitosis, anemia aplásica, insuf hepática * hemograma (c/ lám y recuento plaquetario) y funcional hepático : c/ 2 sem x 2 meses y luego c/ 3 meses ya que discrasias y hepatopatías tienen lugar s/t en 1º 3 a 6 meses * inductor de Cit P450 : induce su pp metabolismo y otros metabolismos hepáticos, por lo tanto múltiples interacciones * CBZ no mantiene sus efectos c/ el tiempo, puede disminuir en 1 ó 2 años
 
 ==== Evolución y pronóstico
 
@@ -985,7 +971,7 @@ repercusiones : físicas/psicosociales
 
 fact riesgo
 
-{empty}1. trast mental: ep depresivo 50 2. sexo: 1 y 2 + frec en
+1. trast mental: ep depresivo 50 2. sexo: 1 y 2 + frec en
 hombres, 3 + frec en mujeres 3. edad: + viejos 4. enf orgánicas 5. E.
 civil 6. life events 7. genético-biológico (5 HT)
 

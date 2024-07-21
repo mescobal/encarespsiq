@@ -11,7 +11,7 @@ Los trastornos vinculados al alcohol son varios, y pueden acumularse como diagn�
 * F10.4 Delirium por abstinencia de Alcohol / Delirio alcohólico subagudo / Delirium Tremens.
 * F10.5 Trastorno psicótico inducido por alcohol: .51 = con ideas delirantes (Celotipia alcohólica), .52 = con alucinaciones (Alucinosis alcohólica)
 * F10.6 Trastorno amnésico inducido por alcohol
-* F10.7 Trasotrnos psicótico residual (.73 = Demencia inducida por alcohol).
+* F10.7 Trastornos psicótico residual (.73 = Demencia inducida por alcohol).
 * F10.8 Otros trastornos (Trastornos de ansiedad y del estado de ánimo / Trastorno sexual inducido por alcohol / Trastorno del sueño inducido por alcohol).
 * F10.9 Trastorno relacionado con alcohol no especificado.
 
@@ -129,38 +129,22 @@ Esta confusión se acompaña de trastornos perceptivos típicos que configuran u
 
 ====== Síndrome onírico
 
-Dado en: Lo vivencial: por vivencias mórbidas, de instalación aguda,
-incompartibles, irreductibles a la lógica, que han perdido el juicio de
-realidad, que se instalan sobre esta incapacidad del paciente de
-reconocer lo externo. A temática: persecutoria, de daño y perjuicio,
-profesional, erótica, místicas, celos. A mecanismo: alucinatorio
-(visual: zoopsias), ilusiones (dismorfopsias, dismegalopsias). Mal
-sistematizadas: sus componentes no guardan una relación lógica entre sí,
-presentan movilidad, carácter cambiante y mínima organización. No
-presentan hilo argumental. Lo conductual: con conductas de deambulación,
-peleas con personas imaginarias, agresión, defenestración, huida.
+Dado en: Lo vivencial: por vivencias mórbidas, de instalación aguda, incompartibles, irreductibles a la lógica, que han perdido el juicio de realidad, que se instalan sobre esta incapacidad del paciente de reconocer lo externo. A temática: persecutoria, de daño y perjuicio, profesional, erótica, místicas, celos. A mecanismo: alucinatorio (visual: zoopsias), ilusiones (dismorfopsias, dismegalopsias). Mal sistematizadas: sus componentes no guardan una relación lógica entre sí, presentan movilidad, carácter cambiante y mínima organización. No presentan hilo argumental. Lo conductual: con conductas de deambulación, peleas con personas imaginarias, agresión, defenestración, huida.
+
 Definimos este delirio como onírico por las siguientes características:
-• Profusión de alucinaciones de tipo escenográfico semejante a sueños •
-Afectividad y psicomotricidad acompañan uniformemente en forma de
-agitación y ansiedad • Adhesión al delirio: actuado, ejecutado y vivido.
-• Fluctuante: se presenta en oleadas tomando el pensamiento del paciente
-en sacabocados, por momentos el paciente recobra su lucidez •
-Exacerbación nocturna con de agitación y ansiedad fases hipnagógicas
-ansiosas y atormentadoras.
+
+. Profusión de alucinaciones de tipo escenográfico semejante a sueños
+. Afectividad y psicomotricidad acompañan uniformemente en forma de agitación y ansiedad
+. Adhesión al delirio: actuado, ejecutado y vivido.
+. Fluctuante: se presenta en oleadas tomando el pensamiento del paciente en sacabocados, por momentos el paciente recobra su lucidez
+. Exacerbación nocturna con de agitación y ansiedad fases hipnagógicas ansiosas y atormentadoras.
 
 .Fenómenos acompañantes Excitación psicomotriz. Humor y afectividad.
 Lenguaje caótico, desordenado.
 
 ====== Síndrome de abstinencia
 
-Actual o retrospectivo. Definido por la aparición (en horas o días) de
-sintomatología luego de interrupción o disminución de ingesta alcohólica
-abundante previa, con (bastan 2) hiperactividad autonómica (sudoración,
-taquicardia), temblor distal de manos, insomnio, náuseas o vómitos,
-alucinaciones visuales / táctiles / auditivas o ilusiones, agitación
-psicomotora, ansiedad, crisis comiciales de gran mal. 3. Síndrome
-conductual 1. Cuadro actual: lo relacionado al MC, CB y pragmatismos. 2.
-Curso de vida: trastornos conductuales si existen. Alcoholista de larga
+Actual o retrospectivo. Definido por la aparición (en horas o días) de sintomatología luego de interrupción o disminución de ingesta alcohólica abundante previa, con (bastan 2) hiperactividad autonómica (sudoración, taquicardia), temblor distal de manos, insomnio, náuseas o vómitos, alucinaciones visuales / táctiles / auditivas o ilusiones, agitación psicomotora, ansiedad, crisis comiciales de gran mal. 3. Síndrome conductual 1. Cuadro actual: lo relacionado al MC, CB y pragmatismos. 2. Curso de vida: trastornos conductuales si existen. Alcoholista de larga
 data con pérdida del control e impulso a la embriaguez con elementos de
 abstinencia que calman con la ingesta (nombrarlos), con elementos que
 hablan de tolerancia (nombrarlos) o tolerancia inversa (nombrarlos), con
@@ -180,109 +164,75 @@ por el alcoholismo.
 
 ===== Nosografía clásica
 
-En el caso de Delirio Alcohólico Subagudo: Psicosis Aguda Confusoonírica
-(por el síndrome confusoonírico analizado, es un diagnóstico
-inespecífico en lo nosográfico que reconoce una causa orgánica
-desencadenante) de causa alcohólica por tratarse de un alcohólico
-crónico con dependencia severa al alcohol.
+En el caso de Delirio Alcohólico Subagudo: Psicosis Aguda Confusoonírica (por el síndrome confusoonírico analizado, es un diagnóstico inespecífico en lo nosográfico que reconoce una causa orgánica desencadenante) de causa alcohólica por tratarse de un alcohólico crónico con dependencia severa al alcohol.
 
 En contexto de:
 
-* ingesta excesiva, mayor a usos dietéticos usuales, dado por cantidad y
-pauta (ej: diario y solitario).
+* ingesta excesiva, mayor a usos dietéticos usuales, dado por cantidad y pauta (ej: diario y solitario).
 * de X años de evolución
 * con pérdida del control del consumo con incapacidad para abstenerse
-* con S. de abstinencia ante el cese o disminución del consumo (consume
-para evitarlo)
-* por presentar tolerancia: necesita ingesta para lograr los mismos
-efectos o alcanza la embriaguez con menores cantidades que antes
+* con S. de abstinencia ante el cese o disminución del consumo (consume para evitarlo)
+* por presentar tolerancia: necesita ingesta para lograr los mismos efectos o alcanza la embriaguez con menores cantidades que antes
 * con trastornos mnésicos (black out, palimpsestos)
 * abandonando otras fuentes de placer
-* persiste con el consumo a pesar de consecuencias adversas
-(pragmatismos, orgánicas)
+* persiste con el consumo a pesar de consecuencias adversas (pragmatismos, orgánicas)
 
-Por lo que decimos que se trata de un paciente con dependencia al
-alcohol (leve, moderada, severa) por la cantidad de síntomas y por el
-deterioro FA SE SO LA Corresponde a un alcoholismo: Tipo Jellineck
-AlonsoFernández Alfa Sintomático, secundario a otro trastorno
-psiquiátrico Beta Sin síndrome de abstinencia, sin tolerancia pero con
-repercusión orgánica extra cerebral Gamma Tolerancia, dependencia,
-abstinencia, falta de control, impulso a la embriaguez. Bebedor
-irregular, acoholómano. Delta Tolerancia, dependencia, abstinencia,
-incapacidad de abstención, no existe pérdida de control. Bebedor
-excesivo regular
+Por lo que decimos que se trata de un paciente con dependencia al alcohol (leve, moderada, severa) por la cantidad de síntomas y por el deterioro FA SE SO LA.
 
-Con estos elementos hacemos diagnóstico de DELIRIO ALCOHÓLICO SUBAGUDO
-por tratarse de un alcoholista crónico con modificaciones en la ingesta
-(aumento, suspensión brusca, mantenimiento) y por el Sº confusoonírico
-analizado, donde se destaca la presencia de temblores, sudoración y
-zoopsias (típicas alteraciones del onirismo alcohólico). Destacamos la
-existencia de factores de comorbilidad tales como: • adolescentes:
-intoxicación aguda, abstinencia de drogas, TEC, postQ. • adulto: cuadros
-MQ, intoxicación alcohólica/abstinencia, psicofármacos. • anciano:
-adulto + estresores previamente bien tolerados (postQ, EPOC, arritmia),
-enfermedad cerebrovascular (lo + frecuente).
+Corresponde a un alcoholismo: Tipo Jellineck / Alonso-Fernández
+
+* Alfa Sintomático, secundario a otro trastorno psiquiátrico
+* Beta Sin síndrome de abstinencia, sin tolerancia pero con repercusión orgánica extra cerebral
+* Gamma Tolerancia, dependencia, abstinencia, falta de control, impulso a la embriaguez. Bebedor
+irregular, acoholómano.
+* Delta Tolerancia, dependencia, abstinencia, incapacidad de abstención, no existe pérdida de control. Bebedor excesivo regular
+
+Con estos elementos hacemos diagnóstico de DELIRIO ALCOHÓLICO SUBAGUDO por tratarse de un alcoholista crónico con modificaciones en la ingesta (aumento, suspensión brusca, mantenimiento) y por el Sº confusoonírico analizado, donde se destaca la presencia de temblores, sudoración y zoopsias (típicas alteraciones del onirismo alcohólico). Destacamos la existencia de factores de comorbilidad tales como:
+
+* adolescentes: intoxicación aguda, abstinencia de drogas, TEC, postQ. 
+* adulto: cuadros MQ, intoxicación alcohólica/abstinencia, psicofármacos.
+* anciano: adulto + estresores previamente bien tolerados (postQ, EPOC, arritmia), enfermedad cerebrovascular (lo + frecuente).
 
 ===== DSM IV
 
-Eje I. Caben varias posibilidades de codificación según la semiología
-presente: ver notas al inicio. Ejemplos: . Delirium por intoxicación por
-alcohol (DASA). . Delirium por abstinencia de alcohol (Del Alc Subag). .
-Trastorno psicótico inducido por alcohol, con ideas delirantes. .
-Trastorno psicótico inducido por alcohol, con alucinaciones. . Trastorno
-psicótico inducido por alcohol: con alucinaciones / con ideas
-delirantes.
+Eje I. Caben varias posibilidades de codificación según la semiología presente: ver notas al inicio. Ejemplos: 
+. Delirium por intoxicación por alcohol (DASA). 
+. Delirium por abstinencia de alcohol (Del Alc Subag). 
+. Trastorno psicótico inducido por alcohol, con ideas delirantes. 
+. Trastorno psicótico inducido por alcohol, con alucinaciones. 
+. Trastorno psicótico inducido por alcohol: con alucinaciones / con ideas delirantes.
 
 ==== Diagnósticos diferenciales
 
-* DELIRIUM TREMENS: no pensamos ya que en este cuadro confusional agudo
-existe: > gravedad con deshidratación, alteraciones HE, alteraciones NV
-con temperatura de 40º, taquicardia, sudoración, PA. • temblor
-importante • agitación intensa y agotadora • insomnio casi total
-* Otras causas de confusión mental: no pensamos: enfermedades médicas,
-otras sustancias.
-* Encefalopatía por derivación porto-cava: se trata de una
-descompensación de una hepatopatía crónica por hiperamoniemia, que se
-presenta como un trastorno de conciencia que por lo general agrega
-ictericia, ante un estrés físico grave (ej.: hemorragia digestiva).
-* Encefalopatía de Wernicke: en la cual se presenta confusión grave pero
-que agrega síntomas neurológicos: nistagmo, oftalmoplejia del III par,
-ataxia.
-* Alucinosis alcohólica: que también ocurre ante supresión/aumento de la
-ingesta alcohólica, pero en donde no existe confusión, puede haber una
-alteración leve de la conciencia, las alucinaciones son s/t
-Auditivo-verbales, de amenaza alucinatoria, hay cierta crítica a ellas y
-carece de correlato somático.
-* No pensamos que se trate de otras psicosis agudas (afectivas o
-delirantes) por el importante trastorno de conciencia y las
-características oníricas del delirio.
+* DELIRIUM TREMENS: no pensamos ya que en este cuadro confusional agudo existe: > gravedad con deshidratación, alteraciones HE, alteraciones NV con temperatura de 40º, taquicardia, sudoración, PA. • temblor importante • agitación intensa y agotadora • insomnio casi total 
+* Otras causas de confusión mental: no pensamos: enfermedades médicas, otras sustancias.
+* Encefalopatía por derivación porto-cava: se trata de una descompensación de una hepatopatía crónica por hiperamoniemia, que se presenta como un trastorno de conciencia que por lo general agrega ictericia, ante un estrés físico grave (ej.: hemorragia digestiva).
+* Encefalopatía de Wernicke: en la cual se presenta confusión grave pero que agrega síntomas neurológicos: nistagmo, oftalmoplejia del III par, ataxia.
+* Alucinosis alcohólica: que también ocurre ante supresión/aumento de la ingesta alcohólica, pero en donde no existe confusión, puede haber una alteración leve de la conciencia, las alucinaciones son sobre todo auditivo-verbales, de amenaza alucinatoria, hay cierta crítica a ellas y carece de correlato somático.
+* No pensamos que se trate de otras psicosis agudas (afectivas o delirantes) por el importante trastorno de conciencia y las características oníricas del delirio.
 
 ==== Diagnóstico etiopatogénico y psicopatológico
 
-.Del cuadro actual * Abstinencia * Causas intercurrentes (infecciones,
-cirugía, TEC)
+.Del cuadro actual
+* Abstinencia
+* Causas intercurrentes (infecciones, cirugía, TEC)
 
-El delirio comporta para Ey aspectos negativos y positivos, estando
-presente una desestructuración de la conciencia.
+El delirio comporta para Ey aspectos negativos y positivos, estando presente una desestructuración de la conciencia.
 
 .De la intoxicación crónica
 
-Biológico: dependencia biológica manifestada en el síndrome de
-abstinencia, predisposición hereditaria (padre).
+Biológico: dependencia biológica manifestada en el síndrome de abstinencia, predisposición hereditaria (padre).
 
-Psicosocial: 1º social y luego reitera y aumenta la ingesta para evitar
-experiencias displacenteras.
+Psicosocial: 1º social y luego reitera y aumenta la ingesta para evitar experiencias displacenteras.
 
-* intolerancia a situaciones disfóricas * búsqueda del placer *
-tendencia a la satisfacción oral
+* intolerancia a situaciones disfóricas
+* búsqueda del placer
+* tendencia a la satisfacción oral
 
-Existirían rasgos que favorecen (terreno de personalidad predisponente):
-dependencia, intolerancia a las frustraciones, trastorno profundo de
-vínculos, abandono, mal manejo de la agresividad. También son
-predisponentes: cuadros afectivos previos, ansiedad. Marcar si existe:
+Existirían rasgos que favorecen (terreno de personalidad predisponente): dependencia, intolerancia a las frustraciones, trastorno profundo de vínculos, abandono, mal manejo de la agresividad. También son predisponentes: cuadros afectivos previos, ansiedad. Marcar si existe:
 
-* identificación con padre alcohólico * conducta aprendida con pautas
-conductuales y modo de relación
+* identificación con padre alcohólico
+* conducta aprendida con pautas conductuales y modo de relación
 
 Psicopatología, etiopatogenia
 
@@ -333,22 +283,10 @@ desconoce su relación con OH).
 
 Exámenes complementarios para detección de consumo:
 
-* Alcoholemia: valores > 50 mg/100ml sugiere consumo de riesgo. Valores
-> 150 mg/100 ml sugieren existencia de tolerancia (y por lo tanto de
-dependencia). * GGT (alta especificidad pero baja sensibilidad), dado
-que la ingestión aguda no modifica sus valores, es un indicador de
-consumo perjudicial habitual (consumo > a 40 g/día en ausencia de
-hepatopatía). Cifras de GGT de Nx3 se consideran valores muy sugestivos
-de consumo perjudicial. Para monitorizar la abstinencia: las cifras
-disminuyen a un 50% en 5-7 días y se normalizan a las 4-8 semanas del
-cese de la ingesta (vuelven a aumentar si se reanuda el consumo). Pueden
-haber valores elevados en hepatopatías no alcohólicas o x fármacos. *
-Volumen corpuscular medio (alta especificidad, baja sensibilidad):
-aumentado en el 70% de pacientes alcohólicos, con consumos superiores a
-60 g/día x períodos prolongados. Luego de la sus-pensión de la ingesta,
-disminuye a los 90 días aproximadamente. Aumenta nuevamente en caso de
-que se reinicie la ingesta. * Otros: relación AST/ALT, Transferrina
-deficiente en hidratos de carbono.
+* Alcoholemia: valores > 50 mg/100ml sugiere consumo de riesgo. Valores > 150 mg/100 ml sugieren existencia de tolerancia (y por lo tanto de dependencia).
+* GGT (alta especificidad pero baja sensibilidad), dado que la ingestión aguda no modifica sus valores, es un indicador de consumo perjudicial habitual (consumo > a 40 g/día en ausencia de hepatopatía). Cifras de GGT de Nx3 se consideran valores muy sugestivos de consumo perjudicial. Para monitorizar la abstinencia: las cifras disminuyen a un 50% en 5-7 días y se normalizan a las 4-8 semanas del cese de la ingesta (vuelven a aumentar si se reanuda el consumo). Pueden haber valores elevados en hepatopatías no alcohólicas o x fármacos.
+* Volumen corpuscular medio (alta especificidad, baja sensibilidad): aumentado en el 70% de pacientes alcohólicos, con consumos superiores a 60 g/día x períodos prolongados. Luego de la suspensión de la ingesta, disminuye a los 90 días aproximadamente. Aumenta nuevamente en caso de que se reinicie la ingesta. 
+* Otros: relación AST/ALT, Transferrina deficiente en hidratos de carbono.
 
 ===== Psicológico
 
@@ -360,56 +298,29 @@ Familiar, datos anteriores, etc.
 
 ==== Tratamiento
 
-El tratamiento debe ser individualizado ajustando el enfoque a las
-características del paciente y del equipo tratante.
+El tratamiento debe ser individualizado ajustando el enfoque a las características del paciente y del equipo tratante.
 
 ==== Cuadro Actual
 
 Depende del diagnóstico
 
-* F10.00 Intoxicación alcohólica aguda. Sedación con haloperidol 5 mg IM
-a repetir. Tiamina IM si hay que hacer hidratación con SGF. MdeC si es
-necesario. * F10.03 Delirium por intoxicación por Alcohol. Haloperidol
-IM + Tiaprida IM + Hidratación. * F10.1- Consumo perjudicial / Trastorno
-por Abuso de Alcohol: en caso de consumo con patrón compulsivo,
-plantearse uso de Topiramato en dosis progresivas, comenzando con 50
-mg/día, aumentando 50 mg cada semana hasta 300 mg/día[kenna2009review].
-* F10.2x Dependencia alcohólica / Trastorno por dependencia de Alcohol
-Naltrexona 50 mg/día, o Topiramato, en dosis progresivas hasta 300
-mg/día, en 2 tomas. * F10.3- Abstinencia alcohólica BZD de vida media
-larga v/o (si no hay hepatopatía): Diazepam 10 mg/día v/o. En caso de
-toque hepático: Lorazepam. * F10.4- Delirium por abstinencia de Alcohol
-/ Delirio alcohólico subagudo. Haloperidol IM + Lorazepam IM +
-Vitaminoterapia IM + Hidratación. * F10.51 Trastorno psicótico inducido
-por alcohol (con ideas delirantes)/ Celotipia alcohólica: Risperidona
-VO. * F10.52 Trastorno psicótico inducido por alcohol (con
-alucinaciones) / Alucinosis alcohólica Según gravedad: Risperidona VO o
-Haloperidol IM. * F10.6- Trastorno amnésico inducido por alcohol
-Vitaminoterapia (complejo B) + Nootrópicos a dosis altas. * F10.73
-Demencia inducida por alcohol. Vitaminoterapia + tratamiento de
-demencias. * F10.8- Trastornos de ansiedad y del estado de ánimo en
-alcohólicos / Trastorno sexual inducido por alcohol / Trastorno del
-sueño inducido por alcohol: ver encares respectivos. Para ansiedad:
-primera línea = Buspirona (evitar BZD). Para depresión ISRS.
+* F10.00 Intoxicación alcohólica aguda. Sedación con haloperidol 5 mg IM a repetir. Tiamina IM si hay que hacer hidratación con SGF. MdeC si es necesario.
+* F10.03 Delirium por intoxicación por Alcohol. Haloperidol IM + Tiaprida IM + Hidratación.
+* F10.1- Consumo perjudicial / Trastorno por Abuso de Alcohol: en caso de consumo con patrón compulsivo, plantearse uso de Topiramato en dosis progresivas, comenzando con 50 mg/día, aumentando 50 mg cada semana hasta 300 mg/día[kenna2009review].
+* F10.2x Dependencia alcohólica / Trastorno por dependencia de Alcohol Naltrexona 50 mg/día, o Topiramato, en dosis progresivas hasta 300 mg/día, en 2 tomas.
+* F10.3- Abstinencia alcohólica BZD de vida media larga v/o (si no hay hepatopatía): Diazepam 10 mg/día v/o. En caso de toque hepático: Lorazepam.
+* F10.4- Delirium por abstinencia de Alcohol / Delirio alcohólico subagudo. Haloperidol IM + Lorazepam IM + Vitaminoterapia IM + Hidratación.
+* F10.51 Trastorno psicótico inducido por alcohol (con ideas delirantes)/ Celotipia alcohólica: Risperidona VO.
+* F10.52 Trastorno psicótico inducido por alcohol (con alucinaciones) / Alucinosis alcohólica Según gravedad: Risperidona VO o Haloperidol IM
+* F10.6- Trastorno amnésico inducido por alcohol Vitaminoterapia (complejo B) + Nootrópicos a dosis altas.
+* F10.73 Demencia inducida por alcohol. Vitaminoterapia + tratamiento de demencias.
+* F10.8- Trastornos de ansiedad y del estado de ánimo en alcohólicos / Trastorno sexual inducido por alcohol / Trastorno del sueño inducido por alcohol: ver encares respectivos. Para ansiedad: primera línea = Buspirona (evitar BZD). Para depresión ISRS.
 
 Fármacos específicos
 
-Topiramato: es una molécula similar a la fructosa, con propiedades
-anticonvulsivantes, aumenta la actividad neuronal facilitada por GABA-A
-y simultáneamente antagoniza los receptores AMPA y kainato-glutamato lo
-que puede disminuir la liberación de dopamina inducida por alcohol en el
-núcleo accumbens. Teóricamente el aumento de la inhibición GABA de las
-neuronas dopaminérgicas del núcleo accumbens interferiría con el
-agonismo exitatorio glutamatérgico característico del alcoholismo
-crónico y atenuaría la actividad dopaminérgica mesolímbica. Esto
-atenuaría los efectos de recompensa de la ingesta de alcohol.
-Secundariamente tendría acción neuroprotectora sobre el aumentode la
-actividad glutamatérgica ocasionada por la ingesta crónica de alcohol.
-Por su acción anticonvulsivante, se comporta secundariamente como
-protector del umbral convulsivo en un proceso de abstinencia.
+Topiramato: es una molécula similar a la fructosa, con propiedades anticonvulsivantes, aumenta la actividad neuronal facilitada por GABA-A y simultáneamente antagoniza los receptores AMPA y kainato-glutamato lo que puede disminuir la liberación de dopamina inducida por alcohol en el núcleo accumbens. Teóricamente el aumento de la inhibición GABA de las neuronas dopaminérgicas del núcleo accumbens interferiría con el agonismo exitatorio glutamatérgico característico del alcoholismo crónico y atenuaría la actividad dopaminérgica mesolímbica. Esto atenuaría los efectos de recompensa de la ingesta de alcohol. Secundariamente tendría acción neuroprotectora sobre el aumentode la actividad glutamatérgica ocasionada por la ingesta crónica de alcohol. Por su acción anticonvulsivante, se comporta secundariamente como protector del umbral convulsivo en un proceso de abstinencia.
 
-En todos los casos: mantener abstinencia alcohólica + intervenciones
-psicosociales + vitaminoterapia v/o.
+En todos los casos: mantener abstinencia alcohólica + intervenciones psicosociales + vitaminoterapia v/o.
 
 Ejemplo de pauta de tratamiento: Delirio Alcohólico Subagudo DAS:
 Urgencia médica con riesgo vital. DT: CTI. Directivas: . inmediato:
@@ -500,68 +411,37 @@ mialgias, insomnio, dolores osteoarticulares) se puede bajar la dosis a
 con examen físico, funcional y enzimograma hepático (semanas 2, 4, 8 y
 12).
 
-En caso de haber síntomas depresivos, valoraremos el uso de
-antidepresivos de tipo ISRS a dosis están-dar (Paroxetina y Fluvoxamina
-> Sertralina y Citalopram > Fluoxetina). Si bien la frecuencia de
-síntomas depresivos durante la abstinencia es alta, la gran mayoría
-remiten en forma espontánea, no requiriendo AD. Los antidepresivos
-pueden ser de utilidad para mantener la abstinencia, lo que aún no está
-totalmente demostrado.
+En caso de haber síntomas depresivos, valoraremos el uso de antidepresivos de tipo ISRS a dosis están-dar (Paroxetina y Fluvoxamina > Sertralina y Citalopram > Fluoxetina). Si bien la frecuencia de síntomas depresivos durante la abstinencia es alta, la gran mayoría remiten en forma espontánea, no requiriendo AD. Los antidepresivos pueden ser de utilidad para mantener la abstinencia, lo que aún no está totalmente demostrado.
 
-En caso de Celotipia alcohólica, los antipsicóticos deben usarse de
-forma prolongada dada la cronicidad del proceso.
+En caso de Celotipia alcohólica, los antipsicóticos deben usarse de forma prolongada dada la cronicidad del proceso.
 
-Si se usaron benzodiacepinas, disminuirlas de forma gradual (paciente
-con tendencia a adicciones), pudiendo usar Buspirona 20-40 mg/día en 1
-tomas, sabiendo que tiene una latencia de hasta 2 semanas para su efecto
-ansiolítico. En caso de síntomas de ansiedad-angustia: se prefiere la
-Buspirona a las benzodiacepinas.
+Si se usaron benzodiacepinas, disminuirlas de forma gradual (paciente con tendencia a adicciones), pudiendo usar Buspirona 20-40 mg/día en 1 tomas, sabiendo que tiene una latencia de hasta 2 semanas para su efecto ansiolítico. En caso de síntomas de ansiedad-angustia: se prefiere la Buspirona a las benzodiacepinas.
 
 Para monitorizar la abstinencia puede recurrirse a la paraclínica:
 
-* Hemograma: el VCM se normaliza a los 90 días de abstinencia. *
-Funcional y enzimograma hepático: la GGT disminuye a un 50% a los 7 días
-de abstinencia.
+* Hemograma: el VCM se normaliza a los 90 días de abstinencia.
+* Funcional y enzimograma hepático: la GGT disminuye a un 50% a los 7 días de abstinencia.
 
 .Psicológico
 
 Cuadro actual: entrevistas de apoyo con seguimiento estricto.
 
-A largo plazo: podría ser de utilidad la TCC con uso de múltiples
-estrategias: terapia conductual de pareja, estrategias de refuerzo
-social, entrenamiento en autocontrol, entrenamiento en habilidades
-sociales y técnicas de control de estrés.
+A largo plazo: podría ser de utilidad la TCC con uso de múltiples estrategias: terapia conductual de pareja, estrategias de refuerzo social, entrenamiento en autocontrol, entrenamiento en habilidades sociales y técnicas de control de estrés.
 
 .Social
 
-Entre fluctuaciones de semilucidez, ofrecer un marco orientador por
-parte de la familia. A largo plazo: conectar con grupos de autogestión
-como AA, que contribuye a la continentación y abstinencia del
-alcohólico, para lo cual es fundamental obtener la cooperación del
-paciente y la adquisición por parte de éste de conciencia de su
-alcoholismo como enfermedad crónica. También es fundamental la
-psicoeducación de la familia con respecto del alcoholismo y conexión con
-AlAnon, grupo de familiares de alcohólicos, de utilidad para dar apoyo,
-continentación y adecuado manejo de la culpa y autoestima.
+Entre fluctuaciones de semilucidez, ofrecer un marco orientador por parte de la familia. A largo plazo: conectar con grupos de autogestión como AA, que contribuye a la continentación y abstinencia del alcohólico, para lo cual es fundamental obtener la cooperación del paciente y la adquisición por parte de éste de conciencia de su alcoholismo como enfermedad crónica. También es fundamental la psicoeducación de la familia con respecto del alcoholismo y conexión con AlAnon, grupo de familiares de alcohólicos, de utilidad para dar apoyo, continentación y adecuado manejo de la culpa y autoestima.
 
 ==== Evolución y pronóstico
 
-Inmediato DAS: evolución favorable hacia la curación en pocos días,
-favorecido por la terapéutica. Más raramente:
+Inmediato DAS: evolución favorable hacia la curación en pocos días, favorecido por la terapéutica. Más raramente:
 
-* DT: 5-10% mortalidad (infección, arritmias, disionías) * Secuelas:
-transitorias (ideas fijas postoníricas), crónicas (psicosis alcohólica
-crónica)
+* DT: 5-10% mortalidad (infección, arritmias, disionías)
+* Secuelas: transitorias (ideas fijas postoníricas), crónicas (psicosis alcohólica crónica)
 
-Depende del éxito del tratamiento etiológico y sujeto a la
-reversibilidad de éste. Tiende a la curación sin secuelas. Puede ocurrir
-una fase de "despertar" luego de oscilaciones con ideas fijas
-postoníricas que desaparecen en días Pueden quedar ideas permanentes
-postoníricas (delirio de evocación de la experiencia confuso-onírica).
-Pueden ocurrir recaídas provocadas por factores etiológicos concurrentes
-(infecciones, emociones, par-tos) Alejado Depende del alcoholismo,
-enfermedad crónica con frecuentes recaídas. El pronóstico depende de la
-abstinencia. De no lograrse las complicaciones pueden ser:
+Depende del éxito del tratamiento etiológico y sujeto a la reversibilidad de éste. Tiende a la curación sin secuelas. Puede ocurrir una fase de "despertar" luego de oscilaciones con ideas fijas postoníricas que desaparecen en días Pueden quedar ideas permanentes postoníricas (delirio de evocación de la experiencia confuso-onírica).
+
+Pueden ocurrir recaídas provocadas por factores etiológicos concurrentes (infecciones, emociones, par-tos) Alejado Depende del alcoholismo, enfermedad crónica con frecuentes recaídas. El pronóstico depende de la abstinencia. De no lograrse las complicaciones pueden ser:
 
 . Orgánicas: 
 .. digestivas: hemorragias, esofagitis, gastritis, cirrosis, ulcus, pancreatitis 
