@@ -432,124 +432,60 @@ Dado por insomnio, anorexia, pragmatismos analizados en el síndrome
 deficitario.
 
 ===== Síndrome somático
-<_síndrome_somático>
 CV: HTA, etc. Neurológico: TEC, motor deficitario, etc. General.
 
 ==== Personalidad y nivel
-<_personalidad_y_nivel>
 Nivel: destacar empobrecimiento con balance negativo \(rico que se ha
 empobrecido)
 
 Personalidad: premórbida vs. actual: acentuación de rasgos.
 
 ==== Diagnóstico positivo
-<_diagnóstico_positivo>
 ===== Demencia
-<_demencia>
-Por la existencia de un síndrome deficitario intelectual adquirido con
-debilitamiento progresivo que interfiere con la actividad cotidiana y
-lleva al paciente a una pérdida de su autonomía, donde importa destacar
-el deterioro del juicio y las manifestaciones a nivel ético-moral, de X
-años de evolución, en una persona de X edad, que no presentaba previo al
-inicio del cuadro elementos de deterioro \(+ lo orgánico).
+Por la existencia de un síndrome deficitario intelectual adquirido con debilitamiento progresivo que interfiere con la actividad cotidiana y lleva al paciente a una pérdida de su autonomía, donde importa destacar el deterioro del juicio y las manifestaciones a nivel ético-moral, de X años de evolución, en una persona de X edad, que no presentaba previo al inicio del cuadro elementos de deterioro \(+ lo orgánico).
 
-CIE-10: “síndrome debido a una enfermedad del cerebro, generalmente de
-naturaleza crónica‘ o progresiva, en la que hay déficit de múltiples
-funciones corticales superiores, entre ellas: memoria, pensamiento,
-orientación, comprensión, cálculo, capacidad de aprendizaje, lenguaje y
-juicio”.
+CIE-10: “síndrome debido a una enfermedad del cerebro, generalmente de naturaleza crónica‘ o progresiva, en la que hay déficit de múltiples funciones corticales superiores, entre ellas: memoria, pensamiento, orientación, comprensión, cálculo, capacidad de aprendizaje, lenguaje y juicio”.
 
-DSMIV: “presencia de múltiples déficits cognitivos \(que incluyen
-deterioro de memoria) que se deben a los efectos fisiológicos directos
-de una enfermedad médica, o a efectos persistentes de una sustancia o a
-múltiples etiologías”.
+DSMIV: “presencia de múltiples déficits cognitivos (que incluyen deterioro de memoria) que se deben a los efectos fisiológicos directos de una enfermedad médica, o a efectos persistentes de una sustancia o a múltiples etiologías”.
 
 ===== Modelo clínico
-<_modelo_clínico>
-\=\=\=\=\=\= Cortical
+====== Cortical
 
-Alteración de memoria; afectación de gnosias, praxias y lenguaje,
-habilidades visuoespaciales y cálculo; pueden haber dificultades en las
-funciones ejecutivas \(organización, abstracción, juicio y capacidad de
-introspección); movimientos preservados hasta fases tardías;
-personalidad poco afectada \(cierta pasividad o brusquedad en las
-reacciones); en la afectividad: cierta labilidad emocional. Pueden ser
-conscientes del déficit.
+Alteración de memoria; afectación de gnosias, praxias y lenguaje, habilidades visuoespaciales y cálculo; pueden haber dificultades en las funciones ejecutivas \(organización, abstracción, juicio y capacidad de introspección); movimientos preservados hasta fases tardías; personalidad poco afectada \(cierta pasividad o brusquedad en las reacciones); en la afectividad: cierta labilidad emocional. Pueden ser conscientes del déficit.
 
-\=\=\=\=\=\= Subcortical
+====== Subcortical
 
-Enlentecimiento progresivo de todos los procesos mentales, labilidad,
-depresión, disartria, signos bulbares, hemiparesia motora pura;
-inicialmente menos afectación en funciones cognoscitivas como
-numeración, cálculo, etc.; menor alteración de memoria visual o verbal;
-déficit de aprendizaje de nuevos movimientos motores o tareas;
-disminución de habilidades para la organización y planificación;
-alteraciones de la motilidad \(movimientos involuntarios, corea,
-temblor); conservación del lenguaje por más tiempo que la forma
-cortical; cambios en la personalidad intensos \(apatía, inercia, pérdida
-de la espontaneidad); alteraciones repetidas y precoces en el humor
-\(depresión y ocasionalmente manía insulsa). Se asemeja más a un cuadro
-de alteración del humor, con menos evidencia de alteración de las
-funciones cognoscitivas. Ejemplos: Huntington, Parkinson, Parálisis
-Supranuclear Progresiva.
+Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión, disartria, signos bulbares, hemiparesia motora pura; inicialmente menos afectación en funciones cognoscitivas como numeración, cálculo, etc.; menor alteración de memoria visual o verbal; déficit de aprendizaje de nuevos movimientos motores o tareas; disminución de habilidades para la organización y planificación; alteraciones de la motilidad \(movimientos involuntarios, corea, temblor); conservación del lenguaje por más tiempo que la forma cortical; cambios en la personalidad intensos \(apatía, inercia, pérdida de la espontaneidad); alteraciones repetidas y precoces en el humor
+\(depresión y ocasionalmente manía insulsa). Se asemeja más a un cuadro de alteración del humor, con menos evidencia de alteración de las funciones cognoscitivas. Ejemplos: Huntington, Parkinson, Parálisis Supranuclear Progresiva.
 
-===== Tipo clínico \(CIE-10)
-<_tipo_clínico_cie_10>
-- Demencia en la enfermedad de Alzheimer. Especificadores: de inicio
-  precoz \(\<65 años)/ tardío; atípica o mixta. Diagnóstico por:
-  presencia de cuadro demencial de comienzo insidioso y curso continuo +
-  exclusión de otras causas + ausencia de AVE + AF DTA o Down
-
-- Demencia vascular . Especificadores: de inicio agudo; multiinfarto;
-  vascular subcortical; vascular mixta cortical y subcortical; otras;
-  sin especificar.
-
-- Demencia en enfermedades clasificadas en otro lugar: Pick,
-  Creutzfeldt-Jakobson; Huntington; HIV; enfermedades específicas
-  clasificadas en otro lugar.
-
-- Demencias sin especificación: sin síntomas adicionales, con predominio
-  de: ideas delirantes, alucinaciones, síntomas depresivos, síntomas
-  mixtos.
-
-- Síndrome amnésico orgánico no inducido por alcohol u otras sustancias
-  psicotropas
+===== Tipo clínico (CIE-10)
+- Demencia en la enfermedad de Alzheimer. Especificadores: de inicio precoz (< 65 años), tardío; atípica o mixta. Diagnóstico por:
+  -  presencia de cuadro demencial de comienzo insidioso y curso continuo +
+  -  exclusión de otras causas + ausencia de AVE + AF DTA o Down
+- Demencia vascular . Especificadores: de inicio agudo; multiinfarto;   vascular subcortical; vascular mixta cortical y subcortical; otras;   sin especificar.
+- Demencia en enfermedades clasificadas en otro lugar: Pick, Creutzfeldt-Jakobson; Huntington; HIV; enfermedades específicas   clasificadas en otro lugar.
+- Demencias sin especificación: sin síntomas adicionales, con predominio   de: ideas delirantes, alucinaciones, síntomas depresivos, síntomas   mixtos.
+- Síndrome amnésico orgánico no inducido por alcohol u otras sustancias psicotropas
 
 ===== Momento evolutivo
-<_momento_evolutivo>
 - Incipiens: sólo déficit intelectual \(no existe social o ético-moral)
-
 - Período de estado: ya constituido.
-
 - Terminal: deterioro importante, grave.
 
 ===== Gravedad
-<_gravedad>
 - Leve: deterioro laboral con vida independiente.
-
-- Moderada: vida independiente peligrosa, supervisión, autocrítica
-  alterada: juicio.
-
-- Grave: supervisión continua, no existe higiene personal mínima, juicio
-  muy alterado, lenguaje incoherente o mudo. Nos inclinamos a…. sabiendo
-  que el diagnóstico definitivo está sujeto a la compensación del cuadro
-  actual, con la corrección de factores que favorecen el deterioro,
-  incidiendo en éste.
+- Moderada: vida independiente peligrosa, supervisión, autocrítica alterada: juicio.
+- Grave: supervisión continua, no existe higiene personal mínima, juicio muy alterado, lenguaje incoherente o mudo. Nos inclinamos a…. sabiendo que el diagnóstico definitivo está sujeto a la compensación del cuadro actual, con la corrección de factores que favorecen el deterioro, incidiendo en éste.
 
 ===== Complicaciones
-<_complicaciones>
 - Síndrome depresivo \(comorbilidad)
-
 - Excitación psicomotriz
-
 - Síndrome delirante
 
-Que perjudica el deterioro preexistente y sobre el cual actuaremos en lo
-inmediato.
+Que perjudica el deterioro preexistente y sobre el cual actuaremos en lo inmediato.
 
 ===== CIE-10
-<_cie_10>
-Demencia \(general)
+Demencia (general)
 
 1. Trastornos de funciones corticales superiores: o memoria o lenguaje o
 comprensión o aprendizaje o flujo de ideas o razonamiento y juicio 2.
@@ -3743,17 +3679,16 @@ Se agregan pautas de tratamiento de Trastornos Afectivos (estabilizadores en sub
 
 ECT planteable en cualquier nivel del protocolo terapéutico.
 
-Segunda línea En caso de no ser posible el uso de la vía oral, usaremos Haloperidol (neuroléptico incisivo, antidelirante) 5 mg i/m c/12 hs (H 8:00 y H 20:00). Estaremos alertas a la aparición de efectos secundarios extrapiramidales (rigidez, rueda dentada, bradiquinesia, temblores). Si aparecen, concentraremos las dosis en la noche ya que durante el sueño éstos no se producen. Si con esta medida no podemos controlarlos, agregaremos antiparkinsonianos de síntesis tales como el biperideno 2 mg v/o H 8:00 y H 14:00. Si existen AP de parkinsonismo o efectos secundarios o AF de enfermedad de Parkinson, valoraremos la posibilidad de uso de neurolépticos atípicos. En caso de tratarse de un hombre joven < 35 años, hay > riesgo de distonía aguda: actitud expectante. Si aparece: 5 mg i/m de Biperideno, con lo que calma inmediatamente, manteniéndolo cada 8 horas x 24-48 horas y luego pasaremos a v/o al tiempo que disminuimos el Haloperidol a dosis mínima eficaz. Por otro lado valoraremos la posibilidad de usar un antipsicótico atípico. 
+Segunda línea En caso de no ser posible el uso de la vía oral, usaremos Haloperidol (neuroléptico incisivo, antidelirante) 5 mg i/m c/12 hs (H 8:00 y H 20:00). Estaremos alertas a la aparición de efectos secundarios extrapiramidales (rigidez, rueda dentada, bradiquinesia, temblores). Si aparecen, concentraremos las dosis en la noche ya que durante el sueño éstos no se producen. Si con esta medida no podemos controlarlos, agregaremos antiparkinsonianos de síntesis tales como el biperideno 2 mg v/o H 8:00 y H 14:00. Si existen AP de parkinsonismo o efectos secundarios o AF de enfermedad de Parkinson, valoraremos la posibilidad de uso de neurolépticos atípicos. En caso de tratarse de un hombre joven < 35 años, hay > riesgo de distonía aguda: actitud expectante. Si aparece: 5 mg i/m de Biperideno, con lo que calma inmediatamente, manteniéndolo cada 8 horas x 24-48 horas y luego pasaremos a v/o al tiempo que disminuimos el Haloperidol a dosis mínima eficaz. Por otro lado valoraremos la posibilidad de usar un antipsicótico atípico.
 
-Refractariedad En caso de tratarse de un paciente en tratamiento, que no ha mostrado respuesta a 2 antipsicóticos diferentes usados por tiempo adecuado a dosis adecuada, puede plantearse el uso de otros antipsicóticos atípicos como la Olanzapina o la Clozapina. Preferimos la primera por la menor incidencia de efectos secundarios. En caso de usar Olanzapina, comenzaremos con 5 mg/día probando tolerancia y aumentando luego a 10 mg/día. En caso de no haber respuesta puede aumentarse a un máximo recomendado de 20 mg/día. El beneficio de este fármaco es la baja incidencia de efectos secundarios y acción sobre los síntomas negativos de la enfermedad. Con respecto a la Clozapina, su mecanismo de acción tiene la particularidad de presentar menor afinidad por los receptores D2 que los NL típicos. Tiene un bloqueo D1 equivalente a D2, y además bloquea los receptores 5HT2, con mayor especificidad por los D2 del sistema meso-límbico, por lo cual no solo son extremadamente raros los ES extrapiramidales sino que la presencia de éstos con otro antipsicótico puede ser una indicación para el uso de Clozapina (especialmente en el caso de la Disquinesia Tardía). El uso de Clozapina requiere de una valoración clínica y paraclínica previa con controles sistemáticos a nivel hematológico por el riesgo de agranulocitosis (2% en el primer año de tratamiento, reversible si se suspende el tratamiento en forma precoz): hemograma semanal por 18 semanas, luego mensual. La agranulocitosis, efecto secundario idiosincrático, en un 75% de los casos aparece entre las semanas 4 y 18. También serán excluidos aquellos pacientes con AP de crisis comiciales por la posibilidad de descenso del umbral convulsivo. 
+Refractariedad En caso de tratarse de un paciente en tratamiento, que no ha mostrado respuesta a 2 antipsicóticos diferentes usados por tiempo adecuado a dosis adecuada, puede plantearse el uso de otros antipsicóticos atípicos como la Olanzapina o la Clozapina. Preferimos la primera por la menor incidencia de efectos secundarios. En caso de usar Olanzapina, comenzaremos con 5 mg/día probando tolerancia y aumentando luego a 10 mg/día. En caso de no haber respuesta puede aumentarse a un máximo recomendado de 20 mg/día. El beneficio de este fármaco es la baja incidencia de efectos secundarios y acción sobre los síntomas negativos de la enfermedad. Con respecto a la Clozapina, su mecanismo de acción tiene la particularidad de presentar menor afinidad por los receptores D2 que los NL típicos. Tiene un bloqueo D1 equivalente a D2, y además bloquea los receptores 5HT2, con mayor especificidad por los D2 del sistema meso-límbico, por lo cual no solo son extremadamente raros los ES extrapiramidales sino que la presencia de éstos con otro antipsicótico puede ser una indicación para el uso de Clozapina (especialmente en el caso de la Disquinesia Tardía). El uso de Clozapina requiere de una valoración clínica y paraclínica previa con controles sistemáticos a nivel hematológico por el riesgo de agranulocitosis (2% en el primer año de tratamiento, reversible si se suspende el tratamiento en forma precoz): hemograma semanal por 18 semanas, luego mensual. La agranulocitosis, efecto secundario idiosincrático, en un 75% de los casos aparece entre las semanas 4 y 18. También serán excluidos aquellos pacientes con AP de crisis comiciales por la posibilidad de descenso del umbral convulsivo.
 
 Son contraindicaciones para el uso de Clozapina:
 - un recuento leucocitario bajo (< 3500)
 - trastornos de la médula ósea actuales o previos
 - uso concomitante con otro medicamento que pueda tener efecto supresor sobre la MO (Carbamazepina, Fenotiazinas).
 
-Se inicia con 25 mg v/o al día probando tolerancia (sedación, hipotensión), con aumentos diarios de
-25-50 mg hasta llegar a 300 mg/día en 7-14 días. Las dosis usuales están entre 300 y 450 mg/día, con un máximo de 600 mg/día (dosis superiores requieren de una estricta supervisión clínica y paraclínica, siendo el riesgo de convulsiones dosis-dependiente). Se destaca la necesidad de adhesión al tratamiento por parte de paciente y familiares al requerir controles hematológicos, destacándose que en caso de abandono de medicación mayor a 48 horas, debe reiniciarse el tratamiento con el esquema posológico mencionado. En caso de retirar la Clozapina, se ha descrito peoría del cuadro subyacente y menor eficacia de la medicación al reinstaurarla. En caso de retirarla, deben continuarse los controles hematológicos por 4 semanas post-discontinuación. Efectos secundarios: por acción sobre receptores muscarínicos, adrenérgicos e histamínicos (sedación, fatiga, sialorrea, hipertermia benigna, aumento de peso [antagonis mo 5HT], hipotensión, taquicardia).
+Se inicia con 25 mg v/o al día probando tolerancia (sedación, hipotensión), con aumentos diarios de 25-50 mg hasta llegar a 300 mg/día en 7-14 días. Las dosis usuales están entre 300 y 450 mg/día, con un máximo de 600 mg/día (dosis superiores requieren de una estricta supervisión clínica y paraclínica, siendo el riesgo de convulsiones dosis-dependiente). Se destaca la necesidad de adhesión al tratamiento por parte de paciente y familiares al requerir controles hematológicos, destacándose que en caso de abandono de medicación mayor a 48 horas, debe reiniciarse el tratamiento con el esquema posológico mencionado. En caso de retirar la Clozapina, se ha descrito peoría del cuadro subyacente y menor eficacia de la medicación al reinstaurarla. En caso de retirarla, deben continuarse los controles hematológicos por 4 semanas post-discontinuación. Efectos secundarios: por acción sobre receptores muscarínicos, adrenérgicos e histamínicos (sedación, fatiga, sialorrea, hipertermia benigna, aumento de peso [antagonis mo 5HT], hipotensión, taquicardia).
 
 Sedación
 
@@ -3850,24 +3785,14 @@ Lo conductual: conductas reivindicativas, heteroagresivas.
 
 ===== Síndrome de alteración del humor y la afectividad
 
-#block[
-#set enum(numbering: "A.", start: 1)
-+ Exaltación, llegando a la indignación, solidario al contenido del
-  relato \(que nos muestra el calor afectivo con el que el paciente
-  defiende sus convicciones delirantes) pasional reivindicativo. B.
-  Configurando a nivel del humor un síndrome depresivo de X evolución
-  \(humor, psicomotricidad, dolor moral, CB y pragmatismos) sensitivo de
-  relación con angustia en la afectividad.
-]
++ Exaltación, llegando a la indignación, solidario al contenido del relato (que nos muestra el calor afectivo con el que el paciente defiende sus convicciones delirantes) pasional reivindicativo.
++ Configurando a nivel del humor un síndrome depresivo de X evolución (humor, psicomotricidad, dolor moral, CB y pragmatismos) sensitivo de relación con angustia en la afectividad.
 
 ===== Otros
-<_otros_2>
 - Síndrome de alteración de las conductas basales y pragmatismos
-
 - Síndrome conductual motivando la consulta
 
 ==== Personalidad y nivel
-<_personalidad_y_nivel_5>
 Nivel: generalmente bueno.
 
 Personalidad: que confirmaremos con terceros … adaptación social… rasgos
