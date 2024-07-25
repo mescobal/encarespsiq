@@ -9,15 +9,18 @@
 #show: ilm.with(
   title: [Encares de Psiquiatría],
   author: autor,
-  chapter-pagebreak: true, 
+  chapter-pagebreak: true,
   table-of-contents: outline(title: "Indice", depth: 2),
 )
 #let nivel = 2
-#set heading(numbering: (..numeros) => 
+#set heading(numbering: (..numeros) =>
   if numeros.pos().len() <= nivel {
-    return numbering("1.1", ..numeros) 
-    } 
+    return numbering("1.1", ..numeros)
+    }
 )
+#show heading.where(level: 1): it => {pagebreak(weak: true);it}
+#show heading.where(level: 2): it => {pagebreak(weak: true);it}
+
 
 = Introducción
 == ¿Que es?
@@ -68,7 +71,7 @@ Bajo los siguientes términos:
 
 === El encare
 
-El encare es (parece obvio pero hay que decirlo) sobre un paciente. Es una prueba CLINICA. No es un "fill in the blanks". Hay que "ver" al paciente y luego hacer el encare. Por lo tanto:
+El encare es (parece obvio pero hay que decirlo) sobre un paciente. Es una prueba *clínica*. No es un "fill in the blanks". Hay que "ver" al paciente y luego hacer el encare. Por lo tanto:
 
 - No hablar en el aire. Adaptarlo al paciente.
 - Ver criterios del tribunal.
@@ -232,7 +235,7 @@ Estadio:
 
 Factores de riesgo: clase social, género, edad, genes, factores aterógenos, terreno vascular (HTA AIT AIC AVE), lesiones periventriculares blancas. Al año de un ACV 1 de cada 5 pacientes desarrolla una demencia .
 
-- Inicio brusco o historia corta 
+- Inicio brusco o historia corta
 - Deterioro escalonado con fluctuaciones súbitas
 - Deterioro desigual: alteración de memoria, intelectual, signos focales. Estando preservados: conciencia de enfermedad y capacidad de juicio.
 - Síntomas y signos focales
@@ -251,7 +254,7 @@ Diagnóstico definitivo (NINDS-AIREN): Diagnóstico probable + evidencia histopa
 Alzheimer + DMI \= 20%. Reúne características de ambas
 
 ===== Demencia frontotemporal
-Grupo heterogéneo de trastornos que provocan neurodegeneración en áreas frontales y temporales #footnote[Convery, R., Mead, S., & Rohrer, J. D. (2019). Clinical, genetic and neuroimaging features of frontotemporal dementia. Neuropathology and applied neurobiology, 45(1), 6-18.]. Clínicamente se presentan con síntomas comportamentales, trastornos del lenguaje (afasia primaria progresiva), pudiendo haber superposición con la enfermedad de la neurona motora y trastornos parkinsonianos atípicos. Existen variantes genéticas (mutaciones en la progranulina, C9orf72 y la proteína tau asociada a microtúbulos). Síntomas comportamentales: cambios en la personalidad con desinhibición, apatía, falta de empatía (incapacidad de leer las emociones de otros), obsesividad (movimientos repetitivos, acumulación, rituales de limpieza), alteración en la preferencia de las comidas (atracones o preferencias idiosincráticas, preferencia por dulces). Comportamiento desinhibido: interacciones sociales embarazosas, impulsividad, gastos, juego. Falta de insight (indiferencia al déficit). Síntomas cognitivos: declinación de las funciones ejecutivas (planeamiento, resolución de problemas, flexibilidad mental, atención, memoria de trabajo). En general se preservan las funciones asociadas a regiones posteriores del cerebro (memoria episódica, habilidades visuoespaciales). 
+Grupo heterogéneo de trastornos que provocan neurodegeneración en áreas frontales y temporales #footnote[Convery, R., Mead, S., & Rohrer, J. D. (2019). Clinical, genetic and neuroimaging features of frontotemporal dementia. Neuropathology and applied neurobiology, 45(1), 6-18.]. Clínicamente se presentan con síntomas comportamentales, trastornos del lenguaje (afasia primaria progresiva), pudiendo haber superposición con la enfermedad de la neurona motora y trastornos parkinsonianos atípicos. Existen variantes genéticas (mutaciones en la progranulina, C9orf72 y la proteína tau asociada a microtúbulos). Síntomas comportamentales: cambios en la personalidad con desinhibición, apatía, falta de empatía (incapacidad de leer las emociones de otros), obsesividad (movimientos repetitivos, acumulación, rituales de limpieza), alteración en la preferencia de las comidas (atracones o preferencias idiosincráticas, preferencia por dulces). Comportamiento desinhibido: interacciones sociales embarazosas, impulsividad, gastos, juego. Falta de insight (indiferencia al déficit). Síntomas cognitivos: declinación de las funciones ejecutivas (planeamiento, resolución de problemas, flexibilidad mental, atención, memoria de trabajo). En general se preservan las funciones asociadas a regiones posteriores del cerebro (memoria episódica, habilidades visuoespaciales).
 
 Criterios internacionales: 3 de 6 síntomas:
 - Desinhibición comportamental
@@ -273,15 +276,10 @@ Síntomas y signos específicos:
 Ejemplo: Parkinson y Huntington
 
 ==== Secundarias
-<_secundarias>
-Infecciones, Lúes, SIDA, traumatismos, alcoholismo, metabólicas o
-endocrinas, tumorales, hidrocefalia normotensiva, tóxicos o
-medicamentos. No existen datos que nos orienten, lo que de todos modos
-descartaremos por paraclínica. Son reversibles, favorecen deterioro.
-Datos epidemiológicos: DTA \(55-60%), DV \(10-20%), mixtas \(10-20%),
-frontotemporal \(5-10%), con cuerpos de Lewy \(5-10%), abiotróficas
-\[Parkinson, Huntington\] \(5-8%), por ingesta crónica de fármacos
-\(1-5%), expansiva e hidrocefalia \(1-5%), metabólicas \(1-2%), otras
+
+Infecciones, Lúes, SIDA, traumatismos, alcoholismo, metabólicas o endocrinas, tumorales, hidrocefalia normotensiva, tóxicos o medicamentos. No existen datos que nos orienten, lo que de todos modos descartaremos por paraclínica. Son reversibles, favorecen deterioro.
+
+Datos epidemiológicos: DTA \(55-60%), DV \(10-20%), mixtas \(10-20%), frontotemporal \(5-10%), con cuerpos de Lewy \(5-10%), abiotróficas \[Parkinson, Huntington\] \(5-8%), por ingesta crónica de fármacos \(1-5%), expansiva e hidrocefalia \(1-5%), metabólicas \(1-2%), otras
 \(1-5%).
 
 ==== Prevención
@@ -478,7 +476,7 @@ Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión
 - Grave: supervisión continua, no existe higiene personal mínima, juicio muy alterado, lenguaje incoherente o mudo. Nos inclinamos a…. sabiendo que el diagnóstico definitivo está sujeto a la compensación del cuadro actual, con la corrección de factores que favorecen el deterioro, incidiendo en éste.
 
 ===== Complicaciones
-- Síndrome depresivo \(comorbilidad)
+- Síndrome depresivo (comorbilidad)
 - Excitación psicomotriz
 - Síndrome delirante
 
@@ -500,51 +498,16 @@ Demencia tipo Alzheimer Criterio general para demencia \
   neurológicos focales o daño focal
 
 ==== Diagnósticos diferenciales
-<_diagnósticos_diferenciales>
-#block[
-#set enum(numbering: "1.", start: 1)
-+ Cambios cognitivos de la edad avanzada \(\"olvidos seniles
-  benignos\'\'): término no bien dilucidado, disminución de memoria no
-  vinculada a patología que aparece en \> de 50 años, con pruebas de
-  memoria con rendimiento inferior al adulto joven promedio, con tests
-  de inteligencia normales, en ausencia de patología evidenciable.
-  Frecuentemente se pierde la memoria de término medio.
-
-+ Seudodemencia depresiva: inicio relativamente abrupto, con trastornos
-  cognitivos exagerados, con poca motivación, agotamiento ante leves
-  esfuerzos, muchos \"no se\", ejecución inconsistente en las
-  evaluaciones, irritabilidad, insomnio. Ausencia de afasia, agnosia,
-  apraxia. Puntean mejor en pruebas de pares asociados. Los pacientes
-  con demencia son más sugestionables, los pacientes con SDD son más
-  rígidos afectivamente. Tomar en cuenta que la SDD puede ser un
-  prodromo de Alzheimer. Importa criterio temporal \(primero la
-  alteración cognitiva y luego la depresión: demencia), presencia o no
-  de acontecimiento depresógeno, juicio conservado, AP o AF afectivos,
-  prueba terapéutica.
-
-+ Delirium: generalmente se distingue por presentar inicio agudo,
-  trastorno de conciencia, importante trastorno de la atención,
-  trastornos del sueño/vigilia, curso fluctuante en el día,
-  desorientación, alucinaciones, lenguaje incoherente. Si bien estos
-  elementos también pueden estar presentes en una demencia, están en un
-  grado mucho menor y de forma aislada. Si un paciente está confuso NO
-  es posible realizar un diagnóstico de demencia.
-
++ Cambios cognitivos de la edad avanzada ("olvidos seniles benignos"): término no bien dilucidado, disminución de memoria no vinculada a patología que aparece en > de 50 años, con pruebas de memoria con rendimiento inferior al adulto joven promedio, con tests de inteligencia normales, en ausencia de patología evidenciable. Frecuentemente se pierde la memoria de término medio.
++ Seudodemencia depresiva: inicio relativamente abrupto, con trastornos cognitivos exagerados, con poca motivación, agotamiento ante leves esfuerzos, muchos "no se", ejecución inconsistente en las evaluaciones, irritabilidad, insomnio. Ausencia de afasia, agnosia, apraxia. Puntean mejor en pruebas de pares asociados. Los pacientes con demencia son más sugestionables, los pacientes con SDD son más rígidos afectivamente. Tomar en cuenta que la SDD puede ser un prodromo de Alzheimer. Importa criterio temporal (primero la alteración cognitiva y luego la depresión: demencia), presencia o no de acontecimiento depresógeno, juicio conservado, AP o AF afectivos, prueba terapéutica.
++ Delirium: generalmente se distingue por presentar inicio agudo, trastorno de conciencia, importante trastorno de la atención, trastornos del sueño/vigilia, curso fluctuante en el día, desorientación, alucinaciones, lenguaje incoherente. Si bien estos elementos también pueden estar presentes en una demencia, están en un grado mucho menor y de forma aislada. Si un paciente está confuso NO es posible realizar un diagnóstico de demencia.
 + Drogas / medicamentos /alcohol
-
 + Trauma cerebral externo / interno
-
 + Procesos expansivos intracraneales
-
 + Infecciones: lúes / SIDA, TBC
-
-+ Enfermedades metabólicas \(tiroides, hepáticas, diabetes, vitaminas:
-  B12, tiamina).
-
++ Enfermedades metabólicas (tiroides, hepáticas, diabetes, vitaminas: B12, tiamina).
 + Enfermedad sistémica
-
 + Retraso mental: según edad.
-]
 
 ==== Diagnóstico etiopatogénico y psicopatológico
 <_diagnóstico_etiopatogénico_y_psicopatológico>
@@ -936,469 +899,11 @@ del control CV. En el seguimiento del paciente demente:
 
 - medidas para la modulación del ambiente.
 
-== Confusión Mental
-<_confusión_mental>
-=== Notas clínicas
-<_notas_clínicas_2>
-==== Delirium en postoperatorio
-<_delirium_en_postoperatorio>
-Por la frecuencia, existen guías específicas .
-
-===== Etiopatogenia y fisiopatología
-<_etiopatogenia_y_fisiopatología>
-Producto de estudios en modelos animales, se postulan mecanismos
-vinculados a factores deletéreos de la anestesia \(hiperfosforilación de
-Tau)y a mecanismos inflamatorios. La intervención quirúrgica produce
-daño tisular agudo con liberación de patrones de moléculas asociadas a
-daño \(DAMPs): proteínas S100, ácidos nucleicos, HMGB1 \(análogos a los
-PAMPs: patrones moleculares asociados a patógenos tales como los
-lipopolisacáridos bacterianos: endotoxinas). Estas sustancias activan
-lvarios receptores inflamatorios, induciendo una respuesta inflamatoria
-aguda en la periferia y desencadenan cambios
-neuroinflamatorios:citoquinas, inducción de transcripción inflamatoria
-en el cerebro, alteraciones en la BJHE, cambios en morfología y número
-de células gliales y astrocitos. Cambios similares ocurren en el
-Delirium asociado a infecciones: bloqueo de citoquinas, depleción de
-microglía, inhibición de microglía, macrófagos y monocitos o bloqueo de
-vías inflamatorias usando vías antiinflamatorias naturales \(restaurando
-niveles de acetilcolina, aumentando resolvinas que son mediadores
-lipídicos endógenos de resolución inflamatoria).
-
-===== Factores de riesgo
-<_factores_de_riesgo>
-Edad avanzada, puntaje en la escala de la American Society of
-Anesthesiology \> 2, indice de comorbilidad de Charlson \> 4, MMSE \<
-25.
-
-Es recomendable una evaluación geriátrica evaluando: fragilidad, déficit
-sensorial, desnutrición, polifarmacia, anemia y otros factores de riesgo
-incluyendo los sociales.
-
-Los factores de riesgo se potencian entre si.
-
-===== Medidas preventivas
-<_medidas_preventivas>
-\=\=\=\=\=\= Dexmedetomidina
-
-Comparado con plaebo disminuye la incidencia de DPO en pacientes con
-cirugías no cardíacas \(no da el mismo resultado en pacientes con
-cirugía cardíaca). Efectos secundarios: bradicardia e hipotensión. De
-todos modos NO se sugiere el uso de ningún fármaco de forma
-profiláctica.
-
-\=\=\=\=\=\= Otros
-
-Antipsicóticos: no disminuyen la incidencia de DPO. Melatonina 3 mg y
-ramelteon 8 mg \(agnoista del receptor de melatonina) : disminuyen la
-incidencia de DPO de forma significativa. Se administra desde el dia
-antes de la cirugía hasta 3 días después.
-
-=== Encare
-<_encare_2>
-==== En suma
-<_en_suma>
-Destacar algo de la patología orgánica \(alcoholismo, infección, TEC,
-anciano, postoperatorio, fiebre, deshidratación, IAM, AVE, diabetes,
-EPOC).
-
-Destacar la agudeza de la instalación y lo fluctuante.
-
-==== Agrupación sindromática
-<_agrupación_sindromática_2>
-===== Síndrome confuso-onírico
-<_síndrome_confuso_onírico>
-El paciente se encuentra sumergido en un trastorno global y profundo de
-la conciencia, de instalación brusca, de x tiempo de evolución, con
-síntomas fluctuantes, configurando:
-
-\=\=\=\=\=\= Síndrome confusional
-
-Evidenciado en:
-
-Presentación
-
-Una mirada ausente, lejana, perdida, con facies perplejo, comportamiento
-oscilante entre una agitación desordenada e inhibición marcada, con
-vestimenta desordenada \(con medidas de contención física). Por momentos
-sale de ese estado y hace esfuerzos por captar lo que sucede a su
-alrededor con gran ansiedad. Esto denota una transitoria mejoría donde
-tiene conciencia de morbidez, con un aumento del juicio y la
-autocrítica, configurando una perplejidad ansiosa, intento de poner en
-orden la confusión de sus pensamientos.
-
-Conciencia
-
-Obnubilada, embotada, con falta de lucidez y de claridad del campo de la
-conciencia. No puede presentificar la entrevista y no tiene conciencia
-de morbidez, con imposibilidad de efectuar una síntesis adecuada de los
-contenidos psíquicos. Oscila hacia un estado de transitoria mejoría
-pasando por la perplejidad ansiosa. A partir de este trastorno
-fundamental derivan los otros elementos del síndrome.
-
-Atención rf Incapacidad de dirigir la atención y mantenerla concentrada
-en un objetivo. Gran distraibilidad. Se afecta la atención voluntaria y
-la espontánea.
-
-Memoria
-
-Alteración de la memoria de fijación, con una evocación penosa y
-dificultosa, produciéndose falsos reconocimientos y fabulaciones en el
-intento de ordenar los pensamientos \(luego queda amnesia del episodio).
-
-Orientación
-
-Desorientación autopsíquica \(es la última en perderse y es indicador de
-gravedad) y alopsíquica \(espacial y temporal).
-
-Pensamiento
-
-Puesto de manifiesto por el lenguaje, el cual es desordenado,
-fragmentario. en el pensamiento reconocemos elementos que describiremos
-a continuación, como un síndrome delirante con características
-particulares.
-
-Afectividad
-
-Un afecto fluctuante entre la tranquilidad, la irritación, la agitación
-ansiosa y la perplejidad.
-
-Psicomotricidad
-
-Oscilante entre una gran agitación principalmente nocturna, con grados
-variables de desorden y una inhibición.
-
-Todo esto nos traduce la incapacidad del paciente de ordenar y
-sintetizar su vida psíquica en el aquí y ahora, con pérdida de la
-unicidad y el orden de los contenidos psíquicos, los que se aglutinan y
-confunden, mostrándonos la vivencia de un mundo caótico y fragmentado.
-
-#block[
-#strong[Síndrome delirante onírico]
-
-]
-Sobre la alteración descrita reconocemos un conjunto de ideas y
-vivencias mórbidas, de instalación brusca, incompartibles, irreductibles
-a la lógica, carentes de juicio de realidad, que le generan conductas,
-que vive con convicción, vivencias que calificamos como delirantes.
-
-Este delirio es a temática laboral, profesional, zoopsias \(90% son
-orgánicas), erótica, mística, celos, ideas aterradoras. El mecanismo es
-sobre todo alucinatorio visual y auditivo, pero también con ilusiones
-\(dismorfopsias, dismegalopsias), con una mala sistematización, sin
-orden, coherencia ni claridad.
-
-Este delirio tiene una característica peculiar que nos remite al
-ensueño. Se presenta como una sucesión de imágenes alucinatorias
-encadenadas escénicamente, es fragmentario, fluctuante, oscilante, en
-oleadas, caótico. El paciente está íntimamente adherido a él, se entrega
-plenamente a él, manifestándolo no solo por su relato, sino que lo vive
-y actúa \(habla, trabaja, deambula, agrede, grita, huye, pide ayuda, da
-órdenes). Presenta fuerte carga emocional ansiosa, exacerbándose de
-noche, con predominio en la fase hipnagógica.
-
-El cuadro tiene XX días de evolución, con alteración de las conductas
-basales \(inversión del ritmo circadiano, anorexia).
-
-===== Síndrome somático
-<_síndrome_somático_2>
-Destacar aquí todos los elementos que pueden ser causa del cuadro
-clínico.
-
-Destacar si existe adelgazamiento, fiebre, temblor, deshidratación,
-postoperatorio o preoperatorio, traumatismos, síndrome de abstinencia
-alcohólica, repercusión orgánica del alcoholismo \(endócrino,
-cardiovascular, digestivo).
-
-===== Síndrome conductual
-<_síndrome_conductual>
-\=\=\=\=\=\= Cuadro actual
-
-Lo relacionado al motivo de consulta. Conductas basales y pragmatismos.
-
-\=\=\=\=\=\= Curso de vida
-
-Poner conductas vinculadas a consumo de alcohol y otras sustancias.
-Describir patrón de consumo. Destacar conductas que sean factores de
-riesgo par ETS.
-
-==== Personalidad y nivel
-<_personalidad_y_nivel_2>
-Puede presentarse en cualquier patrón de personalidad y en cualquier
-nivel intelectual.
-
-==== Diagnóstico positivo
-<_diagnóstico_positivo_2>
-===== Nosografía clásica
-<_nosografía_clásica>
-====== Psicosis
-
-El paciente presenta una psicosis ya que se encuentra sumido en un mundo propio, incompartible, con el que se relaciona de una manera nueva, por él creada, del que no puede salir voluntariamente, con pérdida del juicio de realidad, con presencia de delirio, sin conciencia mórbida, estableciendo con el paciente un mal rapport.
-
-====== Aguda
-
-Por tratarse de una experiencia sensible y actual, intensamente vivida, cursando con oscilaciones, variabilidad y fluctuaciones del estado de conciencia, de X tiempo de evolución, con compromiso de las conductas basales.
-
-====== Confusión mental
-
-Otros nombres: psicosis confusional, psicosis confuso-onírica, delirium.
-Por el síndrome confuso-onírico. Es un diagnóstico inespecífico en lo
-nosográfico, pero que implica gravedad.
-
-====== Causa
-
-Es un cuadro de causa orgánica, en general multifactorial, estando
-involucrados factores de riesgo tales como: adad \(adulto mayor),
-consumo de sustancias, abstinencia de sustancias, psicofármacos,
-patología médica \(fiebre, sepsis, EPOC, IAM, arritmias, ACV, AIT, TEP).
-
-==== Diagnósticos diferenciales
-<_diagnósticos_diferenciales_2>
-#block[
-#set enum(numbering: "1.", start: 1)
-+ Otras causas de confusión mental: no nos impresiona clínicamente por
-  los elementos analizados, pero que descartaremos por la paraclínica:
-  anemia carencial o por sangrado, infecciones, TEC, drogas, medicación,
-  hepatopatía, endocrinopatía, disionías \(encefalopatía por derivación
-  porto-cava, descompensación de una hepatopatía crónica, con flapping y
-  otros signos de hepatopatía, es por hiperamoniemia). Si debemos
-  destacar factores de comorbilidad. . Otras cuadros vinculados con
-  alcohol \(si es un DASA). .. Delirium Tremens: no pensamos, pues si
-  bien es un cuadro confusional guado que complica la evolución del
-  alcoholismo crónico vinculado a un período de abstinencia con delirio
-  onírico, es más grave, con deshidratación, alteraciones hemodinámicas,
-  alteraciones neurovegetativas, fiebre de 40°C, temblor intenso,
-  agitación intensa y agotadora e insomnio. La evolución del delirium
-  tremens puede ser favorable \(sueño, apirexia, desaparece la
-  confusión) o desfavorable \(hipertermia, convulsiones, PCR). ..
-  Alucinosis de los bebedores de Wernicke: es una psicosis alucinatoria,
-  complicación aguda del alcoholismo crónico, vinculado a un cambio en
-  la ingesta, con alucinaciones, pero cursa sin confusión mental, las
-  alucinaciones son auditivo-verbales, hostiles, hipnagógicas, con
-  ansiedad y son parcialmente criticadas. Sería un síndrome de
-  automatismo mental subagudo. Puede evolucionar a la mejoría, a la
-  esquizofrenia o a la cronicidad. .. Encefalopatía de Wernicke:
-  clínicamente reconocida por la existencia de Confusión Mental \(puede
-  ser solo desorientación TE) \
-  oftalmoplejia \(parálisis del 3° par, con diplopía y debilidad a la
-  conjugación) + nistagmo + ataxia postural y de la marcha. Es por
-  carencia de vitamina, reversible, puede evolucionar a Korsakoff. .
-  Otras psicosis agudas: no pensamos que se trate de otra psicosis aguda
-  \(manía, melancolía, delirante aguda) dado que predomina el trastorno
-  de la conciencia y las características oníricas del delirio. .
-  Psicosis crónicas: .. Encefalopatía de Korsakoff \(Psicosis de
-  Korsakoff): irreversible. Síndrome amnésico persistente +
-  polineuropatía de MMII. El síndrome amnésico es anterógrado y
-  retrógrado, con falsos reconocimientos, fabulaciones e incapacidad
-  para la adquisividad. Es por carencia de Tiamina, es de mal pronóstico
-  \(ponerla en la evolución). .. Demencia: comparte el trastorno de
-  memoria pero la demencia tiene además: inicio gradual, tiempo de
-  evolución prolongado, vigilia mantenida, la OTE se mantiene, la
-  atención conservada, pensamiento más pobre que desorganizado, el sueño
-  conservado, cuadro clínico fijo, con indiferencia y conformismo
-  \(pueden coexistir). .. Esquizofrenia descompensada: pensamos en ella
-  por las alucinaciones, pero nos aleja el trastorno de conciencia, el
-  delirio onírico, la fluctuación, la causa orgánica reconocida, la
-  falta de una historia longitudinal de déficit.
-]
-
-Hay que tomar en cuenta que durante la confusión mental, no se puede
-identificar clínicamente estructuras psicopatológicas subyacentes, por
-lo cual hay diagnósticos que solo se pueden realizar luego de que cede
-el cuadro agudo.
-
-==== Diagnóstico etiopatogénico y psicopatológico
-<_diagnóstico_etiopatogénico_y_psicopatológico_2>
-El delirium es un cuadro de expresión clínica psiquiátrica que tiene una
-etiología orgánica. Es la manifestación de una noxa principalmente
-biológica. Es la forma inespecífica de reacción del encéfalo vulnerable
-ante una noxa que supera las reservas funcionales del mismo. Se produce
-un disblance entre las diferentes redes neuronales de los sistemas
-subcorticales homeostáticos y del córtex y de las funciones
-neuroendócrinas \(electrolíticos, eje hipotálamo-hipofiso-suprarrenal y
-nutricionales). La causa de los síntomas se desconoce.
-
-Causas de delirium
-
-- Tóxicas: alcohol, UISP, medicamentos \(sedantes, anticolinérgicos,
-  corticoides, antiparkinsonianos).
-
-- Infecciosas: por la fiebre, por la acción del agente sobre el SNC,
-  debido a sepsis \(IU, neumonia, meningitis, HIV, neurosífilis,
-  encefalitis por herpes, TBC).
-
-- Enfermedad vascular: ACV, AIT, IAM, ICC, arritmias, HTA, eclampsia.
-
-- Endócrinas: diabetes, hipertiroidismo, hiperparatiroidismo.
-
-- Metabólicas: hipoglicemia, trastornos hidroelectrolíticos.
-
-- Otras: EPOC, anemia carencial o por sangrado, encefalopatía por
-  hepatopatía crónica.
-
-===== Psicopatología
-<_psicopatología>
-Para la TOD de Ey, el delirium comporta una desestructuración del campo
-de la conciencia de 3° nivel, siendo la confusión el aspecto
-deficitario, negativo, pero fundamental, del cuadro. El delirio onírico
-es el aspecto positivo, que se manifiesta al tiempo que el campo de la
-conciencia se desorganiza y se estrecha. Es una experiencia cercana al
-ensueño, pero más desorganizada y superficial. El individuo se incorpora
-a los contenidos de su delirio \(representantes de sus fantasías
-inconscientes) y los actúa.
-
-Quedan en un segundo plano los determinantes psicológicos y sociales
-intercurrentes, si bien siempre influyen en la vulnerabilidad. Destacar
-patología psiquiátrica previa, trabajo \(riesgo vinculado a determinadas
-profesiones).
-
-==== Paraclínica
-<_paraclínica_2>
-El diagnóstico es clínico.
-
-La paraclínica está destinada a realizar una valoración general del
-paciente, investigar la causa orgánica, los factores de comorbilidad,
-descartar diferenciales y con miras a los diferentes recursos
-terapéuticos de los que disponemos, sin retrasar el inicio del
-tratamiento dada la gravedad del cuadro.
-
-La solicitaremos desde un punto de vista integral: biológico,
-psicológico y social, orientada por los diagnósticos hechos hasta ahora.
-
-Solicitaremos la historia clínica previa o su resumen para objetivar los
-antecedentes clínicos y de tratamiento. Entrevistaremos a terceros para
-clarificar los desencadenantes y antecedentes del cuadro actual.
-
-===== Biológico
-<_biológico>
-Realizaremos una anamnesis médica somática al paciente o terceros y un
-examen físico completo con énfasis en la búsqueda de estigmas de
-alcoholismo, signos de infección y los elementos planteados como
-etiológicos.
-
-Neurológico \(polineuropatía sensitiva y motora, flapping, rueda
-dentada, hiperreflexia, hipertensión endocraneana, síndrome cerebeloso,
-TEC).
-
-Focos infecciosos \(deshidratación, fiebre).
-
-Cardíaca: HTA, arritmias, cardiomegalia, insuficiencia cardíaca.
-
-Pleuropulmonar: EPOC
-
-Insuficiencia hepatocítica: hieprestrogenismo, coagulopatías, equimosis,
-palmas hepáticas, ictericia, angiomas estelares, telangiectasias,
-ginecomastia, vello ginoide, atrofia testicular.
-
-Hipertensión portal: circulación colateral, hepatomegalia,
-esplenomegalia.
-
-Digestiva: pancreatitis, gastritis, esofagitis, várices esofágicas.
-
-Estigmas de UISP.
-
-Elementos que nos pondrán en la pista de una patología potencialmente
-reversible determinante de la la expresión clínica actual.
-
-Realizaremos valoración general:
-
-Hepática: funcional y enzimograma hepático.
-
-Crasis sanguínea: tiempo de protrombina aumentado, factores / vitamina k
-disminuidos.
-
-Metabólica: glicemia, ionograma \(Ca, Mg, Zn: son cofactores de Vitamina
-B), proteinograma \(albúmina baja).
-
-Hematológica: hemograma con lámina \(anemia macrocítica, VCM aumentado
-que se normaliza luego de la abstinencia).
-
-Renal: azoemia, creatininemia, orina \(las vitaminas son hidrosolubles).
-
-Infecciosa: VES, VIH, VDRL \(cuando la situación clínica lo determina:
-HVB, HVC).
-
-ECG, fondo de ojo.
-
-Se evaluará la necesidad de RxTx, EEG, TAC, RMN \(hematoma subdural,
-atrofia cortical, búsqueda de otras drogas o fármacos en sangre/orina).
-
-Si es pertinente: test de embarazo.
-
-Algunos de estos exámenes pueden diferirse.
-
-De haber algún valor fuera del rango normal, evaluaremos la necesidad de
-interconsulta con especialistas \(gastroenterólogo, neurólogo,
-cardiólogo, internista, nutricionista).
-
-===== Psicológico
-<_psicológico>
-Las entrevistas tienen una finalidad terapéutica y diagnóstica
-simultáneamente. Serán reiteradas tanto para completar el diagnóstico
-como para afianzar el vínculo. Superada la agudeza del cuadro actual
-evaluaremos las características propias del paciente y sus capacidades y
-motivaciones para una de las diferentes líneas de psicoterapia.
-
-Si fuera necesario realizaremos en diferido test de personalidad
-proyectivos \(Rorschach, TAT) y no proyectivos \(Minnesotta), que nos
-informarán sobre los mecanismos de defensa, integridad del yo, rasgos de
-personalidad, tolerancia a la frustración. Si fuera necesario
-realizaremos en diferido test de nivel.
-
-===== Social
-<_social>
-Realizaremos entrevistas con familiares a los efectos de valorar la
-repercusión del alcoholismo en: red de soporte social y económica, red
-de vínculos y dinámica familiar, desempeños habituales, características
-de los tratamientos previos y sus resultados.
-
-==== Tratamiento
-<_tratamiento_2>
-Es una urgencia médica con riesgo vital.
-
-El tratamiento será dinámico, adaptado constantemente a la evolución
-clínica y a la aparición de complicaciones, será en las áreas biológica,
-psicológica y social, integrado por recursos farmacológicos,
-psicológicos y sociales.
-
-Con directivas inmediatas y a largo plazo.
-
-Directivas inmediatas: tratamiento etiológico, remisión del cuadro
-sintomático acortando la duración del episodio, tratamiento de la
-comorbilidad y factores intercurrentes, prevención de complicaciones,
-abstinencia alcohólica total.
-
-Directivas a largo plazo: reinserción del paciente en su mejor nivel de
-desenvolvimiento en su vida, prevención y tratamiento de comorbilidad y
-complicaciones crónicas, abstinencia alcohólica total.
-
-Lo internaremos, según la gravedad en sala de medicina, CI o CTI por:
-ser un cuadro grave de etiología orgánica, necesitar para su tratamiento
-de un equipo interdisciplinario, estar delirando/agresivo/ansioso,
-acceder fácilmente a interconsultas y paraclínica.
-
-Lo ideal sería en una sala individual, bien iluminada \(la deprivación
-sensorial aumenta los síntomas), sin elementos de riesgo para sí y el
-personal \(ventanas, espejos), con asistencia de enfermería
-especializada las 24 horas, con medidas orientadoras \(almanaque, reloj,
-acompañante continentador las 24 horas).
-
-Paciente en cama semisentado, evitaremos en lo posible las medidas de
-contención físicas, pues exacerban los síntomas. El personal de
-enfermería especializado en salud mental vigilará la prevención de
-intentos de fuga, auto y heteroagresividad. Controles vitales
-\(temperatura, pulso, PA, diuresis). Adecuado aporte nutricional.
-Verificación de toma de medicación.
-
-Biológico
-
-Adaptar según el cuadro de base.
+#include "F05.typ"
 
 = Trastornos por consumo de sustancias psicoactivas
-<_trastornos_por_consumo_de_sustancias_psicoactivas>
 == Trastornos por consumo de alcohol
-<_trastornos_por_consumo_de_alcohol>
 === Notas clínicas
-<_notas_clínicas_3>
 Los trastornos vinculados al alcohol son varios, y pueden acumularse
 como diagnósticos. Una clasificación posible es dividir entre trastornos
 crónicos \(abuso, dependencia) y agudos \(intoxicación, abstinencia,
@@ -3659,19 +3164,7 @@ Biológico
 
 Antipsicótico
 
-Primera línea Como medicación principal usaremos un antipsicótico siendo
-de primera elección el uso de antipsicóticos atípicos, proponiendo el
-uso de Risperidona, con antagonismo a nivel de receptores 5HT y acción
-selectiva a nivel del sistema límbico, con similar efecto antipsicótico
-que los neurolépticos incisivos clásicos pero con menor incidencia de
-efectos secundarios extrapiramidales, síndrome neuroléptico maligno
-\(ver encare), disquinesias tardías e hiperprolactinemia \(con el
-beneficio de menor alteración a nivel cardiovascular, sobre todo en
-personas añosas). Comenzaremos con 1 mg c/12 horas el primer día,
-pasando a 2 mg c/12 horas el segundo día, siendo la dosis habitual ente
-2 a 4 mg/día, pudiendo llegar a 6 mg/día. Dosis superiores hacen que
-éste antipsicótico tenga un comportamiento similar a los neurolépticos
-típicos.
+Primera línea Como medicación principal usaremos un antipsicótico siendo de primera elección el uso de antipsicóticos atípicos, proponiendo el uso de Risperidona, con antagonismo a nivel de receptores 5HT y acción selectiva a nivel del sistema límbico, con similar efecto antipsicótico que los neurolépticos incisivos clásicos pero con menor incidencia de efectos secundarios extrapiramidales, síndrome neuroléptico maligno (ver encare), disquinesias tardías e hiperprolactinemia (con el beneficio de menor alteración a nivel cardiovascular, sobre todo en personas añosas). Comenzaremos con 1 mg c/12 horas el primer día, pasando a 2 mg c/12 horas el segundo día, siendo la dosis habitual ente 2 a 4 mg/día, pudiendo llegar a 6 mg/día. Dosis superiores hacen que éste antipsicótico tenga un comportamiento similar a los neurolépticos típicos.
 
 ====== Trastorno Esquizoafectivo
 
@@ -3712,7 +3205,7 @@ Al lograr la estabilización de los síntomas, pasaremos la medicación a v/o a 
 
 ECT
 
-Si a los 10-15 días no existe mejoría considerable del cuadro delirante alucinatorio, indicaremos ECT (ver speech para ECT en otros encares). Importa destacar que se trata de un tratamiento de segunda elección que procurará atacar el síndrome delirante, intentando disminuir dicha sintomatología no teniendo incidencia en el proceso crónico. Existen circunstancias en las que la ECT puede considerarse de primera elección: 
+Si a los 10-15 días no existe mejoría considerable del cuadro delirante alucinatorio, indicaremos ECT (ver speech para ECT en otros encares). Importa destacar que se trata de un tratamiento de segunda elección que procurará atacar el síndrome delirante, intentando disminuir dicha sintomatología no teniendo incidencia en el proceso crónico. Existen circunstancias en las que la ECT puede considerarse de primera elección:
 
 - En pacientes catatónicos que no responden al tratamiento intramuscular en 48 horas y que presenten riesgos del punto de vista físico.
 - Si existe riesgo grave de suicidio
@@ -3734,11 +3227,11 @@ Otorgaremos el alta hospitalaria cuando haya retrocedido el cuadro delirante alu
 
 Continuaremos con medicación antipsicótica: al principio con igual dosis con la que tuvo mejoría, ya que el ingreso al hogar puede significar un estrés importante. De tratarse de un paciente con bajo perfil de cumplimiento, si bien preferimos la medicación v/o que nos permite un mejor manejo de la dosis, indicaremos previo al alta NL de depósito como: . Decanoato de Haloperidol 50-100 mg c/21 días i/m . Palmitato de pipotiazina 50 mg i/m cada 4 semanas. Controlaremos la aparición de efectos secundarios extrapiramidales y el recrudecimiento de su sintomatología delirante, Eventualmente y según la evolución agregaremos antiparkinsonianos de síntesis y/o benzodiacepinas. A largo plazo valoraremos la disminución de la medicación hasta dosis mínima eficaz (luego del primer año asintomático). La dosis mínima eficaz nunca es menor al 25% de la dosis empleada para el control de sintomatología aguda.
 
-En caso de Episodio Psicótico Agudo con remisión completa: mantener tratamiento x 1-2 años + controles x 2 años más. Rediagnosticar como Trastorno Psicótico Breve o Trastorno Esquizofreniforme. Primera recaída: reiniciar tratamiento y mantenerlo x el doble de plazo. Segunda recaída: tratamiento de x vida. 
+En caso de Episodio Psicótico Agudo con remisión completa: mantener tratamiento x 1-2 años + controles x 2 años más. Rediagnosticar como Trastorno Psicótico Breve o Trastorno Esquizofreniforme. Primera recaída: reiniciar tratamiento y mantenerlo x el doble de plazo. Segunda recaída: tratamiento de x vida.
 
 ====== Psicosocial
 
-Realizaremos entrevistas de apoyo, conectaremos con talleres grupales y comunidad terapéutica para rehabilitación y resocialización. Dada la fragilidad de estos pacientes y su baja tolerancia a las exigencias debemos ser cautos y gradualistas en las metas planteadas. Si trabaja: destinado a mantener el pragmatismo laboral y mejorar los otros. La rehabilitación será fundamental en el pronóstico actuando fundamentalmente sobre el retraimiento y los elementos negativos de discordancia. 
+Realizaremos entrevistas de apoyo, conectaremos con talleres grupales y comunidad terapéutica para rehabilitación y resocialización. Dada la fragilidad de estos pacientes y su baja tolerancia a las exigencias debemos ser cautos y gradualistas en las metas planteadas. Si trabaja: destinado a mantener el pragmatismo laboral y mejorar los otros. La rehabilitación será fundamental en el pronóstico actuando fundamentalmente sobre el retraimiento y los elementos negativos de discordancia.
 
 Procuraremos la mejoría de su funcionamiento global, buscando proporcionarle un mayor grado de autonomía, reducir su tolerancia al aislamiento estimulando contactos sociales. Se realizará entrenamiento en habilidades sociales potenciando sus actividades conservadas y reorientación ocupacional adaptándola a sus capacidades. Realizaremos psicoeducación incluyendo a la familia, para mejor manejo de la misma (ya que tienden a la negación), explicaremos las características de ésta para mejor manejo de la familia, procuraremos, con criterio realista reducir las expectativas del núcleo familiar, tratando de disminuir la emotividad expresada y la hostilidad, factores responsables de recaídas. Insistiremos acerca de la importancia de los controles y motivaremos la rápida consulta en caso de descompensación y conectaremos a grupos de autoayuda.
 
@@ -3757,7 +3250,7 @@ Descrito en 1919. 3 componentes #footnote[Widakowich, C., Van Wettere, L., Hubai
 - Carácter sensitivo: timidez, hiperemotividad, sensibilidad, sentido elevado de los valores morales, orgullo, hiperestesia emocional, hiperestesia en los contactos sociales. Resulta en alta vulnerabilidad en los contactos sociales, tendencia a la autocrítica, susceptibilidad y tendencia a internalizar fallas percibidas como dolorosas.
 - Evento "traumático" vivido como "falla" o "humillación" en plano ético.
 - Desarrollo del delirio en si: remordimiento depresivo con miedos hipocondríacos e ideación persecutoria en conversaciones banales cotidianas. Delirio concéntrico: el sujeto es el centro de la experiencia, rodeado por un grupo (cónyuge, familia, vecinos).
-  
+
 Formato tipo "proceso\".
 
 Aparece en adultos, > 35 años, solteros añosos. En general complicado con un episodio depresivo severo. Evolución menos crónica que la paranoia con tendencia a recurrir ante nuevas humillaciones.

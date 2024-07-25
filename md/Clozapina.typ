@@ -1,11 +1,11 @@
-= Clozapina :icons: font :pdf-theme: libro-theme.yml
+==== Clozapina
 
-== Clasificación
+===== Clasificación
 
 Antipsicótico atípico - antagonista de la serotonina-dopamina -
 antipsicótico de segunda generación - estabilizador del humor.
 
-== Mecanismo de acción
+===== Mecanismo de acción
 
 < afinidad por D2, > por D1. Bloqueo 5HT2.
 
@@ -19,26 +19,26 @@ puede contribuir a la eficacia para síntomas cognitivos y afectivos en
 algunos pacientes * Mecanismo de acción en la refractariedad:
 desconocido.
 
-== Indicaciones
+===== Indicaciones
 
-=== Aprobadas * Tratamiento de la esquizofrenia resistente / refractaria
+====== Aprobadas * Tratamiento de la esquizofrenia resistente / refractaria
 (3 tratamientos previos a dosis adecuada, duración adecuada, de
 antipsicóticos de 2 familias diferentes). * Reducción de riesgo de
 comportamiento suicida recurrente en pacientes con esquizofrenia o
 trastorno esquizoafectivo
 
-=== No aprobadas
+====== No aprobadas
 
 * Tratamiento del trastorno bipolar resistente * Paciente violentos
 agresivos con psicosis y otros trastornos del cerebro que no responden a
 otros tratamientos.
 
-=== Otros usos
+====== Otros usos
 
 Disquinesia tardía, prevención de suicidio, trastorno esquizoafectivo
 refractario. Reducción en IAEs.
 
-=== Efecto * Síntomas psicóticos y manía: mejoría dentro de 1 semana en
+====== Efecto * Síntomas psicóticos y manía: mejoría dentro de 1 semana en
 el uso en primera línea, con VARIAS semanas hasta que se note el efecto
 completo a nivel cognitivo, comportamental y afectivo (s/t en casos
 resistentes). * Se recomienda esperar 4-6 semanas para determinar la
@@ -46,7 +46,7 @@ eficacia * En la práctica: 16-20 semanas para completar una prueba
 terapéutica en casos resistentes. * Efecto en síntomas positivos,
 negativos y desorganización. 5-15
 
-=== Ausencia de respuesta
+====== Ausencia de respuesta
 
 * Niveles plasmáticos para evaluar cumplimiento * Agregar: divalproato o
 lamotrigina * Comenzar rehabilitación y psicoterapia * Descartar UISP
@@ -54,11 +54,11 @@ lamotrigina * Comenzar rehabilitación y psicoterapia * Descartar UISP
 TIP: Mejores combos: Divalproato, Lamotrigina, Carbamazepina /
 Oxcarbamazepina, Antipsicóticos típicos, benzodiacepinas, litio.
 
-== Farmacocinética
+===== Farmacocinética
 
 Pico 1-4 horas, 95
 
-== Paraclínica Previo al tratamiento:
+===== Paraclínica Previo al tratamiento:
 
 * Hemograma: leucocitos >= 3500/mm3 y recuento diferencial normal. *
 Peso, IMC, circunferencia abdominal, PA * Glicemia * Perfil lipídico *
@@ -69,7 +69,7 @@ Derivar pacientes de riesgo metabólico a nutricionista.
 WARNING: Pacientes de riesgo: IMC > 25, prediabetes (glicemia 100-125
 mf/dl), HTA, dislipemia.
 
-== Dosis
+===== Dosis
 
 Inicio: 25 mg/día (en 2 dosis), aumentos de 25 mg/día por medio hasta
 llegar a 300-450 mg/día.
@@ -100,35 +100,35 @@ pomelo.
 Dosis > 550 mg pueden requerir de adiminstración concomitante de
 anticonvulsivante para reducir probabilidad de convulsiones.
 
-== Efectos secundarios
+===== Efectos secundarios
 
 Por bloqueo: H1 (sedación), alfa-1 A (mareo, sedación, hipotensión),
 muscarínicos-1 (boca seca, constipación, sedación, íleo paralítico),
 muscarínicos-3 icon:arrow-right[] probable efecto metabólico.
 
-=== Más importantes:
+====== Más importantes:
 
 * Aumento de riesgo de diabetes y dislipidemia * Aumento de salivación
 (puede ser severo) * Sudoración, mareos, sedación, cefaleas,
 taquicardia, hipotensión, náuseas, constipación, boca seca, auemtno de
 peso.
 
-=== Más riesgosos:
+====== Más riesgosos:
 
 * Hiperglicemia con cetoacidosis * Agranulocitosis * Convulsiones * SNM
 (s/t en uso con otros AP) * TEP * Miocarditis * Ileo paralítico *
 Aumento de riesgo de ACV en pacientes con demencia
 
-=== Que pueden causar abandono
+====== Que pueden causar abandono
 
 * Aumento de peso * Sedación
 
-== Precauciones Glaucoma de ángulo cerrado, trastornos CV, trastornos
+===== Precauciones Glaucoma de ángulo cerrado, trastornos CV, trastornos
 renales o hepáticos, hipertrofia prostática. Conducción de maquinaria.
 Historia de convulsiones. Eosinofilia, trombocitopenia. Niños, ancianos,
 embarazo, lactancia.
 
-== Interacciones
+===== Interacciones
 
 Metabolizado por: 1A2, 2D6, 3A4
 
@@ -149,7 +149,7 @@ convulsiones.
 Precaución: otros agentes que puedan causar agranulocitosis, glaucoma,
 prostatismo.
 
-== Contraindicaciones
+===== Contraindicaciones
 
 * Hipersensibilidad previa a la Clozapina o a cualquier otro componente
 de las formulaciones. * Historia de granulocitopenia o agranulocitosis
@@ -162,26 +162,26 @@ Enfermedad renal o cardíaca severa. Enfermedad hepática activa asociada
 con náuseas, anorexia o ictericia, enfermedad hepática progresiva,
 insuficiencia hepática. * Ileo paralítico
 
-== Monitorización
+===== Monitorización
 
 * Hemogramas (ver más abajo) * IMC mensual x 3m y luego c/4 meses *
 Perfil lipídico mensual por 6m en pacientes de riesgo metabólico. * PA,
 glicemia, perfil lipídico en 3m y luego anual.
 
-=== Hemogramas: nuevas pautas 2015
+====== Hemogramas: nuevas pautas 2015
 
-==== Neutrófilos ≥ 1500/mm3
+======= Neutrófilos ≥ 1500/mm3
 
 * Recomendación: iniciar / continuar tratamiento * Monitoreo: ** Semanal
 hasta los 6 meses ** Quincenal hasta 1 año ** Mensual mientras continúe
 el tratamiento
 
-==== Neutropenia leve: 1000-1499/mm3
+======= Neutropenia leve: 1000-1499/mm3
 
 * Recomendación: continuar * Monitoreo: ** Repetir hemograma en el día
 ** 3 hemogramas por semana hasta ≥ 1500/mm3
 
-==== Neutropenia moderada: 500-999/mm3
+======= Neutropenia moderada: 500-999/mm3
 
 * Recomendación: INTERRUMPIR CLOZAPINA ** Consulta con hematólogo ** Se
 puede retomar con neutrófilos ≥ 1000/mm3 * Monitoreo ** Repetir
@@ -199,31 +199,31 @@ hasta ≥ 1500/mm3 * * Si se retoma: hemograma semanal como al inicio
 .Reinstauración Luego de retirar por leucopenia: monitoreo semanal por
 12 meses.
 
-== Presentaciones
+===== Presentaciones
 
 Comprimidos de 25mg]: Luverina. Comprimidos de 100 mg: Leponex*,
 Luverina
 
-== Situaciones clínicas especiales
+===== Situaciones clínicas especiales
 
-=== Nueva prueba con Clozapina luego de eventos adversos significativos
+====== Nueva prueba con Clozapina luego de eventos adversos significativos
 En una revisión [^1] se encontraron 138 pacientes esquizofrénicos que
 retomaron el tratamiento con Clozapina luego de desarrollar neutropenia
 (112), agranulocitosis (15), síndrome neuroléptico maligno (5),
 miocarditis (4), pericarditis (1) y lupus eritematoso (1). El reinicio
 del tratamiento fue exitoso en 78/112 pacientes (69.6
 
-=== Pacientes añosos Mayor mortalidad con el uso de antipsicóticos
+====== Pacientes añosos Mayor mortalidad con el uso de antipsicóticos
 atípicos.
 
-=== Otros Embarazo: B. En RN de madres tratadas con CLZ mayor riesgo de
+====== Otros Embarazo: B. En RN de madres tratadas con CLZ mayor riesgo de
 movimientos anormales, alteraciones en tono muscular, somnolencia. Uso:
 solo si beneficio > riesgo.
 
 Lactancia: desconocido. Se asume que pasa a la leche. Se recomienda
 discontinuar o suspender lactancia.
 
-== Bibliografía
+===== Bibliografía
 
 * Folletería del laboratorio (Leponex(r) - Sandoz). * Manu, P., Sarpal,
 D., Muir, O., Kane, J. M., & Correll, C. U. (2012). When can patients
