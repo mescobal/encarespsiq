@@ -1,137 +1,72 @@
-
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Trastorno de Pánico
-<_trastorno_de_pánico>
 NOTA: separo Trastorno de pánico de Trastorno de ansiedad generalizada.
 Voy pasando de a poco TAG al encare correspondiente
 
-=== Encare Motivo de consulta: síntomas somáticos de diferentes tipos
-<_encare_motivo_de_consulta_síntomas_somáticos_de_diferentes_tipos>
-\(cardíacos, digestivos), derivaciones desde otras especialidades
-\(cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
+=== Encare
+Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digestivos), derivaciones desde otras especialidades (cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
 
 ==== Agrupación sindromática
-<_agrupación_sindromática_11>
 ===== Síndrome de ansiedad-angustia
-<_síndrome_de_ansiedad_angustia_5>
-Entendemos por ansiedad una experiencia displacentera con un componente
-psíquico \(afectivo, cognitivo: miedo a perder el control, a enloquecer
-o a morir, desrealización / despersonalización) y uno somático
-\(psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión
-torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos,
-mareos, disfagia, náuseas, malestar abdominal). Está centrada en el
-sentimiento de aprensión causado por la anticipación de un peligro
-\(interno, externo, real o imaginado). Puede presentarse como episodio
-crítico o como estado más o menos persistente:
+Entendemos por ansiedad una experiencia displacentera con un componente psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o a morir, desrealización / despersonalización) y uno somático (psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos, mareos, disfagia, náuseas, malestar abdominal). Está centrada en el sentimiento de aprensión causado por la anticipación de un peligro (interno, externo, real o imaginado). Puede presentarse como episodio crítico o como estado más o menos persistente:
+====== Crisis de angustia
+Definir crisis de angustia. De X evolución, de inicio brusco, paroxísticas, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia). Con rápido aumento de intensidad, de duración breve. Crisis que se presentan clínicamente con X (lista de síntomas). Crisis que han tenido una evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio evolutivo).
 
-#block[
-#strong[Crisis de angustia Definir crisis de angustia. De X evolución,
-de]
+- Fondo permanente de ansiedad y preocupación no realista o excesiva sobre una gama amplia de acontecimientos.
+- Tensión motora: temblor, sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva, hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca, mareos, sensación de inestabilidad, trastornos gastrointestinales, sofocaciones, escalofríos, micción frecuente, "nudo en la garganta", cefaleas).
+- Hipervigilancia: sentirse en peligro, alarma exagerada, dificultad para concentrarse, insomnio,   irritabilidad.
+- Alteraciones de las conductas basales, alteraciones somáticas funcionales (anorexia, disfunción sexual, insomnio).
 
-]
-inicio brusco, paroxísticas, inesperadas o predispuestas por
-determinadas situaciones \(si aparecen determinadas casi invariablemente
-por una situación, considerar el diagnóstico de fobia). Con rápido
-aumento de intensidad, de duración breve. Crisis que se presentan
-clínicamente con X \(lista de síntomas). Crisis que han tenido una
-evolución X \(edad de inicio, pauta, frecuencia, repercusión, cambio
-evolutivo).
+La semiología puede dividirse en componentes: psíquicos (afectivo / cognitivo) y somáticos (psicomotriz / neurovegetativo).
 
-- Fondo permanente de ansiedad y preocupación no realista o excesiva
-  sobre una gama amplia de acontecimientos. \* Tensión motora: temblor,
-  sacudidas, tensión o dolor muscular, inquietud, fatigabilidad
-  excesiva, hiperactividad vegetativa \(ahogo, palpitaciones,
-  sudoración, boca seca, mareos, sensación de inestabilidad, trastornos
-  gastrointestinales, sofocaciones, escalofríos, micción frecuente,
-  \"nudo en la garganta\", cefaleas). \* Hipervigilancia: sentirse en
-  peligro, alarma exagerada, dificultad para concentrarse, insomnio,
-  irritabilidad. \* Alteraciones de las conductas basales, alteraciones
-  somáticas funcionales \(anorexia, disfunción sexual, insomnio).
-
-#block[
-La semiología puede dividirse en componentes: psíquicos \(afectivo /
-cognitivo) y somáticos \(psicomotriz / neurovegetativo).
-
-]
 ===== Síndrome fóbico
-<_síndrome_fóbico_3>
-Entendiendo por fobia X. Que aparece \(o no) a partir de las crisis de
-angustia configurando una Agorafobia \(definirla).
+Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de angustia configurando una Agorafobia (definirla).
 
 ===== Síndrome depresivo
-<_síndrome_depresivo_4>
-Vinculado a la ansiedad. Marcar la cronología \(primero ansiedad, luego
-depresión).
+Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego depresión).
 
 ===== Otros síndromes
-<_otros_síndromes>
-- Síndrome disociativo \* Síndrome conversivo: motor \(como crisis o más
-  permanentes), sensorial, sensitivo, neurovegetativo. \* Síndrome
-  obsesivo-compulsivo \* Síndrome de despersonalización: puede hablar de
-  la gravedad de la ansiedad-angustia.
+- Síndrome disociativo
+- Síndrome conversivo: motor (como crisis o más permanentes), sensorial, sensitivo, neurovegetativo.
+- Síndrome obsesivo-compulsivo
+- Síndrome de despersonalización: puede hablar de la gravedad de la ansiedad-angustia.
 
 ==== Personalidad y nivel
-<_personalidad_y_nivel_11>
 Nivel: cualquiera.
 
-Personalidad: rasgos evitativos, conflictividad infantil, introversión,
-timidez, rasgos de cualquier serie, síntomas de cualquier serie.
-Dificultad para superar e integrar separaciones y pérdidas. Dificultades
-para adapta|rse a situaciones nuevas. Dificultad para manejar la
-agresividad.
+Personalidad: rasgos evitativos, conflictividad infantil, introversión, timidez, rasgos de cualquier serie, síntomas de cualquier serie.
+
+Dificultad para superar e integrar separaciones y pérdidas. Dificultades para adaptarse a situaciones nuevas. Dificultad para manejar la agresividad.
 
 Destacar: buena relación interpersonal, pedido de ayuda.
 
 ==== Diagnóstico positivo
-<_diagnóstico_positivo_13>
 ===== Nosografía clásica
-<_nosografía_clásica_13>
-#block[
-#strong[Neurosis de angustia Ya que el cuadro está centrado en la
-ansiedad]
+#fa-icon("paste") Neurosis
 
-]
-angustia. Y si bien existen elementos de otras series \(sobre todo
-fóbicos), éstos no bastan para yugular la angustia. No llegando a
-estructurarse en una neurosis fóbica \(no existe organización en fobia
-única, no existe evitación ni conductas tranquilizantes).
+====== Neurosis de angustia
+Ya que el cuadro está centrado en la ansiedad-angustia. Y si bien existen elementos de otras series (sobre todo fóbicos), éstos no bastan para yugular la angustia. No llegando a estructurarse en una neurosis fóbica \(no existe organización en fobia única, no existe evitación ni conductas tranquilizantes).
 
-- Exacerbación de la sintomatología de ansiedad-angustia con aparición
-  de episodios críticos de angustia y utilización de mecanismos de
-  defensa tipo fóbicos, intento fallido por el momento de estructuración
-  en neurosis fóbica. \* Síndrome depresivo con elementos disfóricos
-  como consecuencia de un desencadenante \(reactivo)… \(depresión
-  neurótica).
+- Exacerbación de la sintomatología de ansiedad-angustia con aparición de episodios críticos de angustia y utilización de mecanismos de defensa tipo fóbicos, intento fallido por el momento de estructuración en neurosis fóbica.
+- Síndrome depresivo con elementos disfóricos como consecuencia de un desencadenante \(reactivo)… (depresión neurótica).
+====== Causa de descompensación
+Conflicto psicosocial, estrés ambiental, separaciones, situaciones de pérdida, situaciones de competencia \(agresividad culpabilizada), frustraciones de orden sexual, alteración de relaciones interpersonales, pérdida de apoyos sociales.
 
-#block[
-#strong[Causa de descompensación]
-
-]
-Conflicto psicosocial, estrés ambiental, separaciones, situaciones de
-pérdida, situaciones de competencia \(agresividad culpabilizada),
-frustraciones de orden sexual, alteración de relaciones interpersonales,
-pérdida de apoyos sociales.
-
-- Gravedad de las crisis de angustia: por cantidad de crisis \(grave \>
-  8 al mes), según períodos intercríticos. \* Gravedad de la evitación
-  agorafóbica: según limitaciones en la vida cotidiana y uso de
-  acompañantes al salir.
+- Gravedad de las crisis de angustia: por cantidad de crisis \(grave \> 8 al mes), según períodos intercríticos.
+- Gravedad de la evitación agorafóbica: según limitaciones en la vida cotidiana y uso de acompañantes al salir.
 
 ===== DSM IV - CIE-10
-<_dsm_iv_cie_10_3>
-- Trastorno de angustia con Agorafobia. \* Trastorno de angustia sin
-  Agorafobia. \* Trastorno de ansiedad generalizada. \* Trastorno de
-  ansiedad no especificado. \* Trastornos adaptativos
+- Trastorno de angustia con Agorafobia.
+- Trastorno de angustia sin Agorafobia.
+- Trastorno de ansiedad generalizada.
+- Trastorno de ansiedad no especificado.
+- Trastornos adaptativos
 
-#block[
-#strong[Diagnóstico de Crisis de Pánico No codifica aislado.]
+#tip[Diagnóstico de Crisis de Pánico No codifica aislado.]
 
-]
-Aparición aislada de miedo o malestar intensos, de inicio brusco, con
-expresión máxima en los primeros 10 minutos, con 4 o más de:
-palpitaciones, sudoración, temblores, disnea, sensación de atragantarse,
-opresión torácica, molestias digestivas, mareos / inestabilidad /
-desmayo, desrealización / despersonalización, miedo a enloquecer, miedo
-a morir, parestesias, escalofríos / sofocaciones.
+Aparición aislada de miedo o malestar intensos, de inicio brusco, con expresión máxima en los primeros 10 minutos, con 4 o más de: palpitaciones, sudoración, temblores, disnea, sensación de atragantarse, opresión torácica, molestias digestivas, mareos / inestabilidad / desmayo, desrealización / despersonalización, miedo a enloquecer, miedo a morir, parestesias, escalofríos / sofocaciones.
 
 #block[
 #set enum(numbering: "1.", start: 1)
@@ -264,283 +199,128 @@ húmedas, nerviosismo), feocromocitoma, hipoglicemias.
 ==== Diagnóstico etiopatogénico y psicopatológico
 <_diagnóstico_etiopatogénico_y_psicopatológico_9>
 ===== Etiopatogenia
-<_etiopatogenia_6>
-#block[
 #strong[Trastorno por somatización Trastornos somatomorfos/disociativos]
-
 ]
 Diferentes niveles explicativos:
+====== Factores biológicos
+El modelo biológico es el de vulnerabilidad/estrés. La ansiedad es un comportamiento posible como respuesta al estrés (respuesta programada de lucha/huída). El trastorno sería el producto de la disregulación del sistema que procesa información de forma errónea aumentando la respuesta de ansiedad.
 
-#block[
-#strong[Factores biológicos]
+Genéticos: incidencia familiar (es más probable que se hereden formas con Agorafobia). Riesgo x4 o x8 en familiares de primer grado. Apoyado en estudios con gemelos.
 
-]
-El modelo biológico es el de vulnerabilidad/estrés. La ansiedad es un
-comportamiento posible como respuesta al estrés \(respuesta programada
-de lucha/huída). El trastorno sería el producto de la disregulación del
-sistema que procesa información de forma errónea aumentando la respuesta
-de ansiedad.
+Disregulación a nivel del SNC y SNP, aumento del tono simpático con adaptación más lenta a estímulos repetidos.
 
-Genéticos: incidencia familiar \(es más probable que se hereden formas
-con Agorafobia). Riesgo x4 o x8 en familiares de primer grado. Apoyado
-en estudios con gemelos.
+Neurotransmisores implicados: relación con el sistema Gaba y función de éste en la modulación de otros sistemas de transmisión neurohumoral (y su relación con las benzodiacepinas), relación con sistemas serotoninérgico y noradrenérgico.
 
-Disregulación a nivel del SNC y SNP, aumento del tono simpático con
-adaptación más lenta a estímulos repetidos.
+Consideraciones neuroanatómicas: se correlaciona con el tronco cerebral (locus coeruleus y neuronas serotoninérgicas del núcleo del rafe), sistema límbico (génesis de la ansiedad anticipatoria) y córtex prefrontal (génesis de evitación fóbica).
 
-Neurotransmisores implicados: relación con el sistema Gaba y función de
-éste en la modulación de otros sistemas de transmisión neurohumoral \(y
-su relación con las benzodiacepinas), relación con sistemas
-serotoninérgico y noradrenérgico.
+En estudios imagenológicos se señalan alteraciones en lóbulos temporales (hipocampo) con disregulación del flujo sanguíneo a ese nivel.
 
-Consideraciones neuroanatómicas: se correlaciona con el tronco cerebral
-\(locus coeruleus y neuronas serotoninérgicas del núcleo del rafe),
-sistema límbico \(génesis de la ansiedad anticipatoria) y córtex
-prefrontal \(génesis de evitación fóbica).
+====== Factores psicológicos
 
-En estudios imagenológicos se señalan alteraciones en lóbulos temporales
-\(hipocampo) con disregulación del flujo sanguíneo a ese nivel.
+*Teoría cognitivo-comportamental*
 
-#block[
-#strong[Factores psicológicos]
+La ansiedad sería una respuesta condicionada a estímulos ambientales específicos (exposición primaria generalización + conceptualización cognitiva). También estarían implicada la imitación de conductas parentales. En lo cognitivo: estructura cognitiva que determina una interpretación catastrófica de las sensaciones somáticas e interoceptivas y una percepción de uno mismo y del riesgo del entorno erradas.
 
-]
-#strong[Teoría cognitivo-comportamental]
+*Psicodinámico*
 
-La ansiedad sería una respuesta condicionada a estímulos ambientales
-específicos \(exposición primaria generalización + conceptualización
-cognitiva). También estarían implicada la imitación de conductas
-parentales. En lo cognitivo: estructura cognitiva que determina una
-interpretación catastrófica de las sensaciones somáticas e
-interoceptivas y una percepción de uno mismo y del riesgo del entorno
-erradas.
+Relación con la aparición de pulsiones agresivas. En un intento de enfoque comprensivo del paciente podemos vincular este trastorno a:
 
-#strong[Psicodinámico]
-
-Relación con la aparición de pulsiones agresivas. En un intento de
-enfoque comprensivo del paciente podemos vincular este trastorno a:
-
-- Dependencia \* Coartación en la infancia de las manifestaciones de AA
-  \(ambiente rígido, padres severos) \* Dificultad para vivenciar la
-  agresividad, cólera culpabilizada o reprimida \* Intolerancia a los
-  propios sentimientos de odio \* Factores sexuales: deseo
-  culpabilizado, temor a la sexualidad \* Estrés psicosocial \(duelo
-  patológico: duración, síntomas disociativos relacionados con el mismo)
+- Dependencia
+- Coartación en la infancia de las manifestaciones de AA (ambiente rígido, padres severos)
+- Dificultad para vivenciar la agresividad, cólera culpabilizada o reprimida
+- Intolerancia a los propios sentimientos de odio
+- Factores sexuales: deseo culpabilizado, temor a la sexualidad
+- Estrés psicosocial (duelo patológico: duración, síntomas disociativos relacionados con el mismo)
   reactiva viejas pérdidas depresión culpa.
 
 ===== Psicopatología
-<_psicopatología_6>
-Para el psicoanálisis la ansiedad sería una señal de la inminente
-aparición a nivel consciente de un impulso intolerable para el Yo. Esto
-implica una falla del mecanismo de represión, lo que motivaría el uso de
-otros mecanismos de defensa que pueden producir formaciones sintomáticas
-constituyéndose la neurosis. Según el psicoanálisis existirían 4 tipos
-de ansiedad: ansiedad impulsiva o del Ello, ansiedad de separación,
-ansiedad de castración y ansiedad del Superyo. Existe una mala
-estructuración del Yo que fracasa en la síntesis e integración de los
-impulsos instintivos del Ello, las exigencias normativas y prohibitivas
-del Superyo y las presiones de la realidad exterior. La reactivación del
-conflicto psíquico inconsciente vinculado a la angustia de castración
-sobrepasa el mecanismos de represión \(destinado a mantener la pulsión
-fuera del campo consciente) por lo cual los impulsos rechazados amenazan
-irrumpir en la conciencia alterando la homeostasis emocional. El
-enfrentamiento del yo con dicha conflictiva provoca la ansiedad cuya
-función es la de anunciar la existencia de un peligro.
+Para el psicoanálisis la ansiedad sería una señal de la inminente aparición a nivel consciente de un impulso intolerable para el Yo. Esto implica una falla del mecanismo de represión, lo que motivaría el uso de otros mecanismos de defensa que pueden producir formaciones sintomáticas constituyéndose la neurosis. Según el psicoanálisis existirían 4 tipos de ansiedad: ansiedad impulsiva o del Ello, ansiedad de separación, ansiedad de castración y ansiedad del Superyo. Existe una mala estructuración del Yo que fracasa en la síntesis e integración de los impulsos instintivos del Ello, las exigencias normativas y prohibitivas del Superyo y las presiones de la realidad exterior. La reactivación del conflicto psíquico inconsciente vinculado a la angustia de castración sobrepasa el mecanismos de represión (destinado a mantener la pulsión fuera del campo consciente) por lo cual los impulsos rechazados amenazan irrumpir en la conciencia alterando la homeostasis emocional. El enfrentamiento del yo con dicha conflictiva provoca la ansiedad cuya función es la de anunciar la existencia de un peligro.
 
-La neurosis de angustia es el primer estadio de las restantes neurosis
-en la cual el yo no ha aprendido a defenderse. Si bien existen intentos
-de recuperar el equilibrio recurriendo a mecanismos de defensa
-estructurados de tipo histéricos \(disociativos, conversivos),
-obsesivos, fóbicos. En el caso de coexistencia con síntomas
-agorafóbicos, estarían en juego mecanismos de defensa tales como la
-represión, desplazamiento, evitación y simbolización.
+La neurosis de angustia es el primer estadio de las restantes neurosis en la cual el yo no ha aprendido a defenderse. Si bien existen intentos de recuperar el equilibrio recurriendo a mecanismos de defensa estructurados de tipo histéricos (disociativos, conversivos), obsesivos, fóbicos. En el caso de coexistencia con síntomas agorafóbicos, estarían en juego mecanismos de defensa tales como la represión, desplazamiento, evitación y simbolización.
 
 ==== Paraclínica
-<_paraclínica_13>
 El diagnóstico es clínico.
 
 ===== Biológico
-<_biológico_16>
-Descartar causas tratables ya citadas. EF completo y PC e interconsultas
-según hallazgos. Rutinas de valoración general. ECG: trastornos de la
-conducción por ADT, extrasístoles. En especial: Función Tiroidea.
+Descartar causas tratables ya citadas. EF completo y PC e interconsultas según hallazgos. Rutinas de valoración general. ECG: trastornos de la conducción por ADT, extrasístoles. En especial: Función Tiroidea.
 
 ===== Psicológico
-<_psicológico_17>
-Entrevistas reiteradas profundizando en el conflicto, evaluación más
-concreta de eventos vitales. Superado el cuadro actual con vistas a un
-abordaje psicoterapéutico procurando conocer la fortaleza yoica,
-mecanismos de defensa y manejo de la angustia. Tests de personalidad
-proyectivos \(TAT y Rorscharch), no proyectivos \(MMPI-Minessotta),
-tests de nivel \(Weschler). Puede ser de utilidad para valorar la
-respuesta al tratamiento la aplicación de inventarios tales como el
-cuestionario de Hamilton para la ansiedad de 14 ítems \(HAM-A).
+Entrevistas reiteradas profundizando en el conflicto, evaluación más concreta de eventos vitales. Superado el cuadro actual con vistas a un abordaje psicoterapéutico procurando conocer la fortaleza yoica, mecanismos de defensa y manejo de la angustia. Tests de personalidad proyectivos (TAT y Rorscharch), no proyectivos (MMPI-Minessotta), tests de nivel (Weschler). Puede ser de utilidad para valorar la respuesta al tratamiento la aplicación de inventarios tales como el cuestionario de Hamilton para la ansiedad de 14 ítems (HAM-A).
 
 ===== Social
-<_social_16>
-Entrevistas con terceros \(familiares, amigos, compañeros de trabajo),
-red de soporte social, evaluando repercusión, objetivando reacciones de
-ésos así como su tolerancia con respecto al trastorno del paciente.
-Investigación de elementos que pueden coadyuvar a mantener el trastorno.
+Entrevistas con terceros (familiares, amigos, compañeros de trabajo), red de soporte social, evaluando repercusión, objetivando reacciones de ésos así como su tolerancia con respecto al trastorno del paciente. Investigación de elementos que pueden coadyuvar a mantener el trastorno.
 
 ==== Tratamiento
-<_tratamiento_16>
-Ambulatorio. Internar en caso de poca continencia familiar. Actuaremos
-s/t a nivel sintomático sobre:
+Ambulatorio. Internar en caso de poca continencia familiar. Actuaremos s/t a nivel sintomático sobre:
 
-- Crisis de pánico y sus complicaciones eventuales \* Ansiedad de fondo
-  \* Síndrome depresivo y sus complicaciones \(IAE) \* Insomnio
+- Crisis de pánico y sus complicaciones eventuales
+- Ansiedad de fondo
+- Síndrome depresivo y sus complicaciones (IAE)
+- Insomnio
 
-Como primera medida, estableceremos un buen vínculo, realizando
-continentación y apoyo, permitiendo expresión de emociones. Será de
-importancia el establecer determinadas medidas higiénico-dietéticas
-tales como: eliminación de cafeína o nicotina que pueden excerbar los
-síntomas. Tratamiento biológico y psicológico específico: ver más
-adelante. Combatiremos el insomnio con Zolpidem 10 mg en la noche, que
-retiraremos lentamente una vez regulados los parámetros de sueño con el
-tratamiento ansiolítico, antidepresivo y de fondo. \(Opción:
-Flunitrazepam 2 mg).
+Como primera medida, estableceremos un buen vínculo, realizando continentación y apoyo, permitiendo expresión de emociones. Será de importancia el establecer determinadas medidas higiénico-dietéticas tales como: eliminación de cafeína o nicotina que pueden excerbar los síntomas. Tratamiento biológico y psicológico específico: ver más adelante. Combatiremos el insomnio con Zolpidem 10 mg en la noche, que retiraremos lentamente una vez regulados los parámetros de sueño con el tratamiento ansiolítico, antidepresivo y de fondo. (Opción: Flunitrazepam 2 mg).
 
-Psicológico Entrevistas reiteradas con la frecuencia necesaria mitigando
-la ansiedad, en un marco de continentación. Psicoterapia de apoyo,
-procurando obtener los niveles previos de funcionamiento. Psicoeducación
-en relación a las crisis de pánico, explicando que son autolimitadas en
-el tiempo, que no son perjudiciales que no revisten peligro de muerte,
-etc.
+Psicológico Entrevistas reiteradas con la frecuencia necesaria mitigando la ansiedad, en un marco de continentación. Psicoterapia de apoyo, procurando obtener los niveles previos de funcionamiento. Psicoeducación en relación a las crisis de pánico, explicando que son autolimitadas en el tiempo, que no son perjudiciales que no revisten peligro de muerte, etc.
 
 ===== Trastorno de pánico .Biológico
-<_trastorno_de_pánico_biológico>
-#strong[Durante la crisis]
+====== Durante la crisis
 
-En urgencias Alprazolam 1 mg o Diacepam 5 mg s/l. Para controlar la
-hiperventilación y la posible tetania puede ser útil reciclar el propio
-CO2 con una mascarilla obturada. Tras el control de la crisis puede
-comenzarse el tratamiento de base.
+En urgencias Alprazolam 1 mg o Diacepam 5 mg s/l. Para controlar la hiperventilación y la posible tetania puede ser útil reciclar el propio CO2 con una mascarilla obturada. Tras el control de la crisis puede comenzarse el tratamiento de base.
 
-#strong[Tratamiento de base]
+====== Tratamiento de base
 
-Se recomienda la combinación de tratamiento farmacológico con
-psicoterapia.
+Se recomienda la combinación de tratamiento farmacológico con psicoterapia.
 
-El tratamiento farmacológico con mejor perfil de eficacia y tolerancia
-es con Benzoadiacepinas, ISRS o antidepresivos tricíclicos. Se prefieren
-los ISRS a los ADT por mejor perfil de seguridad #footnote[Chawla, N.,
-Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P.,
-McKay, G. J., Attia, J., & Thakkinstian, A. \(2022). Drug treatment for
-panic disorder with or without agoraphobia: systematic review and
-network meta-analysis of randomised controlled trials. bmj, 376.].
+El tratamiento farmacológico con mejor perfil de eficacia y tolerancia es con Benzoadiacepinas, ISRS o antidepresivos tricíclicos. Se prefieren los ISRS a los ADT por mejor perfil de seguridad #footnote[Chawla, N., Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P., McKay, G. J., Attia, J., & Thakkinstian, A. \(2022). Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials. bmj, 376.].
 
-Se puede comenzar con benzodiacepinas + ISRS, retirando en forma
-progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar,
-luego de su período de latencia \(4-8 semanas). Si bien todos los ISRS
-tiene una eficacia similar, se recomiendan en primer lugar los sedativos
-ya que tienen acción sobre la ansiedad de fondo.
+Se puede comenzar con benzodiacepinas + ISRS, retirando en forma progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar, luego de su período de latencia (4-8 semanas). Si bien todos los ISRS tiene una eficacia similar, se recomiendan en primer lugar los sedativos ya que tienen acción sobre la ansiedad de fondo.
 
 ISRS :
 
-- Por eficacia: Fluoxetina 20-40 mg/día → Fluvoxamina 100-200 mg/día →
-  Escitalopram 10-20 mg/día → Paroxetina 20-40 mg/día → Sertralina
-  50-100 mg/día → Citalopram 20-40 mg/día. \* Por tolerancia:
-  Escitalopram → Sertralina → Fluvoxamina → Paroxetina → Citalopram →
-  Fluoxetina. \* Mejor perfil eficacia/tolerancia: Escitalopram.
+- Por eficacia: Fluoxetina 20-40 mg/día → Fluvoxamina 100-200 mg/día →  Escitalopram 10-20 mg/día → Paroxetina 20-40 mg/día → Sertralina 50-100 mg/día → Citalopram 20-40 mg/día.
+- Por tolerancia: Escitalopram → Sertralina → Fluvoxamina → Paroxetina → Citalopram →  Fluoxetina.
+- Mejor perfil eficacia/tolerancia: Escitalopram.
 
-Debe comenzarse con dosis muy bajas y aumentos graduales por la
-sensibilidad de éstos pacientes que pueden presentar exacerbación de los
-síntomas si se inicia de forma brusca \(iniciar con 1/4 o 1/2 comprimido
-de cualquier ISRS). Latencia media: 4 semanas.
+Debe comenzarse con dosis muy bajas y aumentos graduales por la sensibilidad de éstos pacientes que pueden presentar exacerbación de los síntomas si se inicia de forma brusca (iniciar con 1/4 o 1/2 comprimido de cualquier ISRS). Latencia media: 4 semanas.
 
-Benzodiacepinas: Alprazolam liberación prolongada 1-2 mg/día en toma
-única → Clonazepam 0.5 - 6mg/día en 2-3 tomas → Alprazolam común 1 - 3
-mg/día en 3 tomas \(otras benzodiacepinas no tienen acción antipánico
-demostrada). Latencia media: 1 semana.
+Benzodiacepinas: Alprazolam liberación prolongada 1-2 mg/día en toma única → Clonazepam 0.5 - 6mg/día en 2-3 tomas → Alprazolam común 1 - 3 mg/día en 3 tomas \(otras benzodiacepinas no tienen acción antipánico demostrada). Latencia media: 1 semana.
 
 Segunda línea
 
-Pueden usarse antidepresivos tricíclicos: Clorimipramina 150-250 mg/día,
-Imipramina 100-300 mg/día. Se inician con 25 mg/día en 2–3 tomas \(1-2
-tomas en caso de Clorimipramina de liberación sostenida), con aumentos
-graduales de 25 mg hasta desaparición de las crisis. Latencia media 6
-semanas \(mayor que ISRS).
+Pueden usarse antidepresivos tricíclicos: Clorimipramina 150-250 mg/día, Imipramina 100-300 mg/día. Se inician con 25 mg/día en 2–3 tomas \(1-2 tomas en caso de Clorimipramina de liberación sostenida), con aumentos graduales de 25 mg hasta desaparición de las crisis. Latencia media 6 semanas \(mayor que ISRS).
 
-Casos resistentes: Fenelzina 30-90 mg/día \(ver en F40 manejo de IMAOs)
-o asociaciones ISRS + ADT \(a dosis menores que las usadas en
-monoterapia). También puede plantearse el uso de otros antidepresivos
-\(Venlafaxina), análogos de la somatostatina, antagonistas del calcio,
-carbamazepina, lamotrigina o gabapentina \(todos ellos en fase
-experimental).
+Casos resistentes: Fenelzina 30-90 mg/día \(ver en F40 manejo de IMAOs) o asociaciones ISRS + ADT \(a dosis menores que las usadas en monoterapia). También puede plantearse el uso de otros antidepresivos \(Venlafaxina), análogos de la somatostatina, antagonistas del calcio, carbamazepina, lamotrigina o gabapentina (todos ellos en fase experimental).
 
-El tratamiento medicamentoso será mantenido por 12 meses luego de la
-remisión sintomática. A partir de ese momento puede intentarse una
-reducción gradual \(de 20
+El tratamiento medicamentoso será mantenido por 12 meses luego de la remisión sintomática. A partir de ese momento puede intentarse una reducción gradual.
 
-#block[
-#strong[Tratamiento psicoterapéutico]
+Tratamiento psicoterapéutico
 
-]
-Terapia cognitivo-comportamental: psicoeducación + técnicas de manejo de
-la ansiedad y de la crisis de pánico \(respiración controlada,
-relajación, reestructuración cognitiva).
+Terapia cognitivo-comportamental: psicoeducación + técnicas de manejo de la ansiedad y de la crisis de pánico \(respiración controlada, relajación, reestructuración cognitiva).
 
 ===== Ansiedad de fondo
-<_ansiedad_de_fondo>
-#block[
-#strong[Biológico Si coexiste con crisis de pánico: el tratamiento
-queda]
+====== Biológico
+Si coexiste con crisis de pánico: el tratamiento queda cubierto con lo expuesto.
 
-]
-cubierto con lo expuesto.
+Si aparece como único síndrome: se aconseja usar una única benzodiacepina. La elección de la misma se determinará según: edad del paciente, estado físico, respuesta previa a otra BZD, propiedades farmacológicas de cada BZD.
 
-Si aparece como único síndrome: se aconseja usar una única
-benzodiacepina. La elección de la misma se determinará según: edad del
-paciente, estado físico, respuesta previa a otra BZD, propiedades
-farmacológicas de cada BZD.
+- Adulto joven sano: Diazepam 5-20 mg/día en 1-3 tomas \(o equivalente de vida media larga \[Clonazepam\] o intermedia \[Alprazolam, Bromazepam\]).
+- Paciente añoso: Lorazepam 2-8 mg/día en 3-4 tomas u Oxazepam 15-45 mg/día en 2-3 tomas \(carecen de metabolitos activos
 
-- Adulto joven sano: Diazepam 5-20 mg/día en 1-3 tomas \(o equivalente
-  de vida media larga \[Clonazepam\] o intermedia \[Alprazolam,
-  Bromazepam\]). \* Paciente añoso: Lorazepam 2-8 mg/día en 3-4 tomas u
-  Oxazepam 15-45 mg/día en 2-3 tomas \(carecen de metabolitos activos
+En caso de falta de respuesta: aumento de dosis o cambio a otra benzodiacepina. De forma concomitante o alternativa, puede plantearse el uso de antidepresivos ISRS sedativos En caso de que sea necesario evitar el efecto sedativo, manteniendo un efecto ansiolítico: Buspirona 20-45 mg/día en 1-2 tomas, sabiendo que puede presentar una latencia de hasta 2 semanas en su acción ansiolítica. Debe tenerse en cuenta la posibilidad de antagonización de su efecto sedativo en caso de uso concomitante con ISRS.
 
-En caso de falta de respuesta: aumento de dosis o cambio a otra
-benzodiacepina. De forma concomitante o alternativa, puede plantearse el
-uso de antidepresivos ISRS sedativos En caso de que sea necesario evitar
-el efecto sedativo, manteniendo un efecto ansiolítico: Buspirona 20-45
-mg/día en 1-2 tomas, sabiendo que puede presentar una latencia de hasta
-2 semanas en su acción ansiolítica. Debe tenerse en cuenta la
-posibilidad de antagonización de su efecto sedativo en caso de uso
-concomitante con ISRS.
+====== Psicológico
+Tratamiento psicoterapéutico: Terapia cognitivo-comportamental: psicoeducación + técnicas de manejo de la ansiedad, técnicas de relajación, reestructuración cognitiva.
 
-#block[
-#strong[Psicológico Tratamiento psicoterapéutico: Terapia]
-
-]
-cognitivo-comportamental: psicoeducación + técnicas de manejo de la
-ansiedad, técnicas de relajación, reestructuración cognitiva.
-
-#block[
-#strong[Síntomas fóbicos]
-
-]
+===== Síntomas fóbicos
 Ver F40.
 
 ===== General
-<_general>
-Mantendremos la psicoterapia de apoyo y control de medicación
-antidepresiva que mantendremos a largo plazo ya que su suspensión
-aumenta el índice de recaídas de las crisis de angustia. En algunos
-casos puede indicarse psicoterapia de corte analítico, una vez superado
-el cuadro actual. Indicado en casos de: paciente joven, con buen nivel
-intelectual, con deseos de curarse, que ha pedido ayuda, que inició
-recientemente los síntomas, con buen insight y problemática global que
-exceda al cuadro actual.
+Mantendremos la psicoterapia de apoyo y control de medicación antidepresiva que mantendremos a largo plazo ya que su suspensión aumenta el índice de recaídas de las crisis de angustia. En algunos casos puede indicarse psicoterapia de corte analítico, una vez superado el cuadro actual. Indicado en casos de: paciente joven, con buen nivel intelectual, con deseos de curarse, que ha pedido ayuda, que inició recientemente los síntomas, con buen insight y problemática global que exceda al cuadro actual.
 
 ===== Social
-<_social_17>
-Psicoeducación explicando su enfermedad y la necesidad de tratamiento y
-controles, actuando s nivel de desencadenantes y factores que
-contribuyan a mantenimiento. Eventualmente: terapia familiar.
+Psicoeducación explicando su enfermedad y la necesidad de trata miento y controles, actuando s nivel de desencadenantes y factores que contribuyan a mantenimiento. Eventualmente: terapia familiar.
 
 ==== Evolución y pronóstico
-<_evolución_y_pronóstico_12>
 Trastorno con tendencia a la cronicidad con curso variable: 30
 
 - Organización en neurosis más estables: fóbica, histérica, obsesiva. \*
