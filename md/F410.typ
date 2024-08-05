@@ -13,13 +13,11 @@ Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digest
 Entendemos por ansiedad una experiencia displacentera con un componente psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o a morir, desrealización / despersonalización) y uno somático (psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos, mareos, disfagia, náuseas, malestar abdominal). Está centrada en el sentimiento de aprensión causado por la anticipación de un peligro (interno, externo, real o imaginado). Puede presentarse como episodio crítico o como estado más o menos persistente:
 ====== Crisis de angustia
 Definir crisis de angustia. De X evolución, de inicio brusco, paroxísticas, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia). Con rápido aumento de intensidad, de duración breve. Crisis que se presentan clínicamente con X (lista de síntomas). Crisis que han tenido una evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio evolutivo).
-
+====== Ansiedad basal
 - Fondo permanente de ansiedad y preocupación no realista o excesiva sobre una gama amplia de acontecimientos.
 - Tensión motora: temblor, sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva, hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca, mareos, sensación de inestabilidad, trastornos gastrointestinales, sofocaciones, escalofríos, micción frecuente, "nudo en la garganta", cefaleas).
 - Hipervigilancia: sentirse en peligro, alarma exagerada, dificultad para concentrarse, insomnio,   irritabilidad.
 - Alteraciones de las conductas basales, alteraciones somáticas funcionales (anorexia, disfunción sexual, insomnio).
-
-La semiología puede dividirse en componentes: psíquicos (afectivo / cognitivo) y somáticos (psicomotriz / neurovegetativo).
 
 ===== Síndrome fóbico
 Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de angustia configurando una Agorafobia (definirla).
