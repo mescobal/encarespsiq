@@ -1,208 +1,124 @@
-
+#import "@preview/note-me:0.2.1": *
 == Trastorno Obsesivo-Compulsivo
-<_trastorno_obsesivo_compulsivo>
 === Encare
-<_encare_14>
 ==== Agrupación sindromática
-<_agrupación_sindromática_13>
 ===== Síndrome obsesivo-compulsivo
-<_síndrome_obsesivo_compulsivo>
-Dado por: .Obsesiones Ideas \(imágenes o afectos) parásitas, asediantes,
-de carácter patológico, incontrolables, incoercibles, invasivos,
-recurrentes, persistentes, vividas como absurdas, sentidas como
-egodistónicas, aunque reconocidas como propias, cuya irrupción provoca
-una lucha ansiosa \(síndrome de lucha) en los esfuerzos por ser
-controladas. Existen obsesiones:
 
-#block[
-#set enum(numbering: "A.", start: 1)
-+ Fóbicas: temor específico en ausencia de objeto, evitación imposible.
-  Fobia a padecer enfermedades \(Nosofobia), a morir \(Tanatofobia), a
-  microbios, Dismorfofobia. Por lo que caracterizamos del punto de vista
-  sindromático como Fobia Obsesiva \(temor específico que ocurre en
-  ausencia de un objeto, la evitación es imposible ya que lo temido es
-  la idea).
+Dado por:
 
-+ Ideativas: Pensamientos o meditaciones al respecto de idea concreta
-  \(palabras, cifras, objetos), idea abstracta \(muerte, existencia de
-  Dios), comportamiento \(obsesiones ideicas, \"locura de la duda\")
-  lleva a los rituales de verificación.
+====== Obsesiones
+Ideas (imágenes o afectos) parásitas, asediantes, de carácter patológico, incontrolables, incoercibles, invasivos, recurrentes, persistentes, vividas como absurdas, sentidas como egodistónicas, aunque reconocidas como propias, cuya irrupción provoca una lucha ansiosa (síndrome de lucha) en los esfuerzos por ser controladas. Existen obsesiones:
 
-+ Impulsivas: Idea y miedo persistente de ser llevado a cometer de forma
-  irresistible un acto absurdo, ridículo, inmoral, perjudicial o
-  criminal. Puede existir acto conjuratorio, no existe evitación posible
-  \(obsesión impulsión). Temor ante objetos o situaciones que pueden
-  llevarlo a cometer actos agresivos contra sí mismo o contra los demás:
-  fobia de impulsión suicida u homicida. No pasan al acto.
-]
++ Fóbicas: temor específico en ausencia de objeto, evitación imposible. Fobia a padecer enfermedades (Nosofobia), a morir (Tanatofobia), a microbios, Dismorfofobia. Por lo que caracterizamos del punto de vista sindromático como Fobia Obsesiva (temor específico que ocurre en  ausencia de un objeto, la evitación es imposible ya que lo temido es la idea).
++ Ideativas: Pensamientos o meditaciones al respecto de idea concreta (palabras, cifras, objetos), idea abstracta (muerte, existencia de Dios), comportamiento (obsesiones ideicas, "locura de la duda") lleva a los rituales de verificación.
++ Impulsivas: Idea y miedo persistente de ser llevado a cometer de forma irresistible un acto absurdo, ridículo, inmoral, perjudicial o criminal. Puede existir acto conjuratorio, no existe evitación posible (obsesión impulsión). Temor ante objetos o situaciones que pueden llevarlo a cometer actos agresivos contra sí mismo o contra los demás: fobia de impulsión suicida u homicida. No pasan al acto.
 
-#block[
-#strong[Compulsiones Conductas incompartibles, incoercibles, invasivas,]
+====== Compulsiones
+Conductas incompartibles, incoercibles, invasivas persistentes, estereotipadas, inadaptadas, vinculadas a sus obsesiones, egodistónicas, vividas como absurdas, ridículas y molestas, exageradas, ejecutadas de acuerdo a determinadas reglas, sin finalidad objetiva pero con sentido conjuratorio para el paciente, que disminuye la ansiedad, que toman la forma de:
 
-]
-persistentes, estereotipadas, inadaptadas, vinculadas a sus obsesiones,
-egodistónicas, vividas como absurdas, ridículas y molestas, exageradas,
-ejecutadas de acuerdo a determinadas reglas, sin finalidad objetiva pero
-con sentido conjuratorio para el paciente, que disminuye la ansiedad,
-que toman la forma de:
+- Actos: lavarse las manos, tocar objetos.
+- Ritos o ceremoniales: actos encadenados (de limpieza o de verificación)
+- Rituales mentales conjuratorios: rituales que funcionan en el interior del aparato psíquico.
 
-- Actos: lavarse las manos, tocar objetos. \* Ritos o ceremoniales:
-  actos encadenados \(de limpieza o de verificación) \* Rituales
-  mentales conjuratorios: rituales que funcionan en el interior del
-  aparato psíquico. Se lo califica de leve, moderado o grave de acuerdo
-  a la alteración de los pragmatismos, pérdida de tiempo o interferencia
-  con la rutina habitual.
+Se lo califica de leve, moderado o grave de acuerdo a la alteración de los pragmatismos, pérdida de tiempo o interferencia con la rutina habitual.
 
 ===== Síndrome de ansiedad-angustia
-<_síndrome_de_ansiedad_angustia_6>
-Dado por una ansiedad difusa y permanente, que no se puede neutralizar a
-pesar de las compulsiones y vinculado a las obsesiones. Dado en dos
-vertientes:
+Dado por una ansiedad difusa y permanente, que no se puede neutralizar a pesar de las compulsiones y vinculado a las obsesiones. Dado en dos vertientes:
 
-- Vivencial: expectativa aprensiva o sensación de peligro inminente \*
-  Somática: tensión motora, hiperactividad autonómica, vigilancia y
-  control.
+- Vivencial: expectativa aprensiva o sensación de peligro inminente
+- Somática: tensión motora, hiperactividad autonómica, vigilancia y control.
 
 ===== Síndrome depresivo
-<_síndrome_depresivo_5>
 Ver encare respectivo.
 
 ==== Personalidad y nivel
-<_personalidad_y_nivel_13>
 Nivel: generalmente bueno.
 
 Personalidad
 
-- Conflictiva infantil \* Enuresis \* Onicofagia \* Terrores nocturnos
-  \* Sonambulismo
+- Conflictiva infantil
+- Enuresis
+- Onicofagia
+- Terrores nocturnos
+- Sonambulismo
 
 Rasgos neuróticos globales:
 
-- Mal manejo de la agresividad \* Trastornos en la esfera sexual \*
-  Fatiga por sus conflictos \* Dependiente, inmaduro
+- Mal manejo de la agresividad
+- Trastornos en la esfera sexual
+- Fatiga por sus conflictos
+- Dependiente, inmaduro
 
-Rasgos de carácter obsesivo: inhibidos, prudentes, puntuales, rigurosos
-en el tratamiento de convenciones sociales, tendencia a la duda,
-dependientes del jefe, cónyuge , familiares o amigos; laboriosidad,
-sentimiento de imperfección, inhibición de las emociones, meticulosidad,
-tendencia al orden, limpieza, detallista, autocontrol, seriedad,
-constancia, precisión, avaricia, actitudes moralistas acentuadas.
+Rasgos de carácter obsesivo: inhibidos, prudentes, puntuales, rigurosos en el tratamiento de convenciones sociales, tendencia a la duda, dependientes del jefe, cónyuge , familiares o amigos; laboriosidad, sentimiento de imperfección, inhibición de las emociones, meticulosidad, tendencia al orden, limpieza, detallista, autocontrol, seriedad, constancia, precisión, avaricia, actitudes moralistas acentuadas.
 
-Cuando están presentes en grado suficiente, dan lugar a la personalidad
-obsesiva. Cuando alguno de ellos o + se hallan exagerados dando lugar a
-serios trastornos del comportamiento y de la capacidad de adaptación del
-sujeto, hablamos de personalidad anancástica. Estos rasgos se
-desarrollan gradualmente como defensa contra la ansiedad, dando lugar a
-pautas de conducta rígidamente fijadas y preestablecidas. Su utilidad
-consiste en mantener en el inconsciente los impulsos hostiles, agresivos
-o sexuales.
+Cuando están presentes en grado suficiente, dan lugar a la personalidad obsesiva. Cuando alguno de ellos o + se hallan exagerados dando lugar a serios trastornos del comportamiento y de la capacidad de adaptación del sujeto, hablamos de personalidad anancástica. Estos rasgos se desarrollan gradualmente como defensa contra la ansiedad, dando lugar a pautas de conducta rígidamente fijadas y preestablecidas. Su utilidad consiste en mantener en el inconsciente los impulsos hostiles, agresivos o sexuales.
 
-Nota Personalidad Anancástica de Kahn \(rasgos anales) Personalidad dada
-por la tríada:
+#note[Personalidad Anancástica de Kahn (rasgos anales): dada por la tríada:
 
-1. Orden: pulcritud, limpieza, puntualidad, meticulosidad, tendencia a
-la simetría, detallismo. 2. Avaricia: alto sentido de la propiedad,
-reservado, frugal. 3. Obstinación: tozudez, tenacidad, rigidez y
-desagrado por los cambios, controlado y controlador, precavido y
-racional, frío, distante.
+1. Orden: pulcritud, limpieza, puntualidad, meticulosidad, tendencia a la simetría, detallismo.
+2. Avaricia: alto sentido de la propiedad, reservado, frugal.
+3. Obstinación: tozudez, tenacidad, rigidez y desagrado por los cambios, controlado y controlador, precavido y racional, frío, distante.
+]
 
-Personalidad Psicasténica de Janet Duda, abulia, escrupulosidad, temor a
-avanzar, evita el enfrentamiento con el futuro, timidez, rigidez,
-dificultades sexuales, fondo depresivo crónico, sensación de
-incompletitud, tendencia al autoanálisis. Se evidencia al examen por
-curso lento buscando términos exactos, que dificulta la comunicación,
-excesiva racionalización y control de los afectos.
+#note[Personalidad Psicasténica de Janet: Duda, abulia, escrupulosidad, temor a avanzar, evita el enfrentamiento con el futuro, timidez, rigidez, dificultades sexuales, fondo depresivo crónico, sensación de incompletitud, tendencia al autoanálisis. Se evidencia al examen por curso lento buscando términos exactos, que dificulta la comunicación, excesiva racionalización y control de los afectos.]
 
 Términos psicoanalíticos
 
-EROTISMO ANAL \(retención): dificultad para separarse, terquedad,
-obstinación, coleccionismo, avaricia, tenacidad, perseverancia, egoísmo
-\(sadicoanal al placer). Su contrario: tendencia a regalar,
-prodigalidad, generosidad, resignación, sumisión, temeridad \(lucha
-contra el placer.
+EROTISMO ANAL (retención): dificultad para separarse, terquedad, obstinación, coleccionismo, avaricia, tenacidad, perseverancia, egoísmo \(sadicoanal al placer). Su contrario: tendencia a regalar, prodigalidad, generosidad, resignación, sumisión, temeridad \(lucha contra el placer.
 
-SADISMO ANAL \(suciedad): suciedad, rechazo, resistencia a la autoridad,
-injurias escatológicas, crueldad. Su contrario: limpieza, educación,
-bondad, respeto, preocupación por la justicia, meticulosidad,
-puntualidad, perfeccionismo, sentido del deber, escrupulosidad, orden.
+SADISMO ANAL (suciedad): suciedad, rechazo, resistencia a la autoridad, injurias escatológicas, crueldad. Su contrario: limpieza, educación, bondad, respeto, preocupación por la justicia, meticulosidad, puntualidad, perfeccionismo, sentido del deber, escrupulosidad, orden.
 
 ==== Diagnóstico positivo
-<_diagnóstico_positivo_14>
 ===== Nosografía clásica
-<_nosografía_clásica_15>
-\=\=\=\=\=\= Neurosis
+====== Neurosis
 
-Por ser un trastorno que afecta el corte longitudinal de su existencia,
-llevando a una alteración en la estructuración de la personalidad,
-siendo traducción de un conflicto intrapsíquico, que inhibe las
-conductas sociales, presentando un fondo permanente de
-ansiedad-angustia, siendo los síntomas egodistónicos \(en conflicto con
-sus propias pautas), autoplásticos \(no generan conductas ni exigencias
-hacia otros), existiendo conciencia de enfermedad \(pide ayuda de forma
-voluntaria), con buen rapport y vínculo, sin pérdida de juicio de
-realidad.
+Por ser un trastorno que afecta el corte longitudinal de su existencia, llevando a una alteración en la estructuración de la personalidad, siendo traducción de un conflicto intrapsíquico, que inhibe las conductas sociales, presentando un fondo permanente de ansiedad-angustia, siendo los síntomas egodistónicos \(en conflicto con sus propias pautas), autoplásticos \(no generan conductas ni exigencias hacia otros), existiendo conciencia de enfermedad \(pide ayuda de forma voluntaria), con buen rapport y vínculo, sin pérdida de juicio de realidad.
 
-\=\=\=\=\=\= Neurosis obsesiva
+====== Neurosis obsesiva
 
-Por asentar en un paciente con rasgos de personalidad obsesiva previa,
-más el predominio del síndrome obsesivo-compulsivo analizado, decimos
-que se trata de una Neurosis Obsesivo-Compulsiva de grado
-leve/moderado/grave según limitaciones sociales.
+Por asentar en un paciente con rasgos de personalidad obsesiva previa, más el predominio del síndrome obsesivo-compulsivo analizado, decimos que se trata de una Neurosis Obsesivo-Compulsiva de grado leve/moderado/grave según limitaciones sociales.
 
-\=\=\=\=\=\= Descompensada
+====== Descompensada
 
 Decimos que está descompensada por:
 
-- Ansiedad-angustia \* Depresión neurótica \* Exacerbación de síntomas
-  con falla de mecanismos de defensa \* Llevando a una alteración de
-  conductas basales y pragmatismos
+- Ansiedad-angustia
+- Depresión neurótica
+- Exacerbación de síntomas con falla de mecanismos de defensa
+- Llevando a una alteración de conductas basales y pragmatismos
 
-\=\=\=\=\=\= Causa de descompensación
+====== Causa de descompensación
 
-Se plantea como causa de descompensación: estrés psicosocial, cambio,
-pérdida o por evolución natural del cuadro.
+Se plantea como causa de descompensación: estrés psicosocial, cambio, pérdida o por evolución natural del cuadro.
 
 ===== DSM-IV - CIE-10
-<_dsm_iv_cie_10_5>
 Diagnóstico: Trastorno Obsesivo-Compulsivo. Ya que cumple con los
 criterios especificados:
 
 Obsesiones y/o compulsiones definidas como:
 
-\=\=\=\=\=\= Obsesiones
+====== Obsesiones
 
-1. pensamientos, impulsos o imágenes recurrentes y persistentes que se
-experimentan en algún momento del trastorno como intrusos e inapropiados
-y causan ansiedad o malestar significativos. 2. no se reducen a
-preocupaciones excesivas sobre problemas de la vida real 3. la persona
-intenta ignorar o suprimir estos pensamientos, impulsos o imágenes o
-bien intenta neutralizarlos con otros pensamientos o actos. 4. la
-persona reconoce que esto es el producto de su mente \(no impuesto del
-exterior)
+1. pensamientos, impulsos o imágenes recurrentes y persistentes que se experimentan en algún momento del trastorno como intrusos e inapropiados y causan ansiedad o malestar significativos.
+2. no se reducen a preocupaciones excesivas sobre problemas de la vida real
+3. la persona intenta ignorar o suprimir estos pensamientos, impulsos o imágenes o bien intenta neutralizarlos con otros pensamientos o actos.
+4. la persona reconoce que esto es el producto de su mente (no impuesto del exterior)
 
-\=\=\=\=\=\= Compulsiones
+====== Compulsiones
 
-1. comportamientos o actos mentales de carácter repetitivo que el
-individuo se ve obligado a realizar en respuesta a una obsesión o con
-arreglo a ciertas reglas que debe seguir estrictamente. 2. el objetivo
-de estos comportamientos es la prevención o reducción del malestar o
-prevención de algún acontecimiento o situación negativos, sin estar
-conectados en forma realista con aquello que pretenden neutralizar o
-bien son claramente excesivos.
+1. comportamientos o actos mentales de carácter repetitivo que el individuo se ve obligado a realizar en respuesta a una obsesión o con arreglo a ciertas reglas que debe seguir estrictamente. 
+2. el objetivo de estos comportamientos es la prevención o reducción del malestar o prevención de algún acontecimiento o situación negativos, sin estar conectados en forma realista con aquello que pretenden neutralizar o bien son claramente excesivos.
 
-\=\=\=\=\=\= Criterios adicionales
+====== Criterios adicionales
 
 - En algún momento el individuo lo percibió como excesivo e irracional.
+- Malestar clínicamente significativo o pérdida de tiempo (> 1 hora/día) o interferencia con pragmatismos.
+- El contenido de las obsesiones no se limita a otro trastorno del eje I.
+- Descartar sustancias o enfermedad médica.
 
-- Malestar clínicamente significativo o pérdida de tiempo \(\> 1
-  hora/día) o interferencia con pragmatismos. \* El contenido de las
-  obsesiones no se limita a otro trastorno del eje I. \* Descartar
-  sustancias o enfermedad médica.
-
-Especificadores: \"con poca conciencia de enfermedad\".
+Especificadores: "con poca conciencia de enfermedad".
 
 ==== Diagnóstico diferencial
-<_diagnóstico_diferencial_6>
 Otras formas de ideas/conductas
 
 Hay que diferenciar Idea Obsesiva de Idea Sobrevalorada, Idea Fija o
