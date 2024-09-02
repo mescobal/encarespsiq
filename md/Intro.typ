@@ -23,6 +23,7 @@ Junto con la filosofía del Software Libre, viene el concepto de "liberar frecue
 ==== Cambios
 Ultimos cambios:
 
+- 08/24: actualizo Trastorno del Espectro Autista. Revisión de tratamiento, DSM-5. Agrego sección farmacología con Clonidina, Clozapina.
 - 07/24: actualizo tratamiento con clozapina a pautas 2015
 - 04/24: formateo varios artículo para que el PDF vaya tomando forma. La transformación de la prueba de residencia al formato MIR (un paso atrás en la formación) hace que estos encares dejen de ser "para la residencia". Hago modificaciones acordes.
 - 2021: agrego información al encares sobre TDAH, agrego cosas al encare de Trastornos del Espectro Autista, cambios en el encare de F10, inclusión del contenido de F32 Trastorno depresivo, inclusión del contenido de F23 Episodio Psicótico agudo, citas bibliográficas F32, inclusión del contenido de F44 Trastorno conversivo-disociativo.

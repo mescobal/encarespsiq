@@ -1,3 +1,4 @@
+#import "@preview/note-me:0.2.1": *
 ==== Clozapina
 
 ===== Clasificación
@@ -45,7 +46,7 @@ refractario. Reducción en IAEs.
 - Comenzar rehabilitación y psicoterapia
 - Descartar UISP
 
-TIP: Mejores combos: Divalproato, Lamotrigina, Carbamazepina / Oxcarbamazepina, Antipsicóticos típicos, benzodiacepinas, litio.
+#tip[Mejores combos: Divalproato, Lamotrigina, Carbamazepina / Oxcarbamazepina, Antipsicóticos típicos, benzodiacepinas, litio.]
 
 ===== Farmacocinética
 
@@ -62,7 +63,7 @@ Pico 1-4 horas, 95
 
 Derivar pacientes de riesgo metabólico a nutricionista.
 
-WARNING: Pacientes de riesgo: IMC > 25, prediabetes (glicemia 100-125 mf/dl), HTA, dislipemia.
+#warning[Pacientes de riesgo: IMC > 25, prediabetes (glicemia 100-125 mf/dl), HTA, dislipemia.]
 
 ===== Dosis
 
@@ -84,14 +85,11 @@ Administración: 1 vez al día hasta 300 mg, luego dividido sin dosis >
 300 mg x > riesgo de convulsiones. Con o sin comidas. No usar jugo de
 pomelo.
 
-Dosis > 550 mg pueden requerir de adiminstración concomitante de
-anticonvulsivante para reducir probabilidad de convulsiones.
+Dosis > 550 mg pueden requerir de adiminstración concomitante de anticonvulsivante para reducir probabilidad de convulsiones.
 
 ===== Efectos secundarios
 
-Por bloqueo: H1 (sedación), alfa-1 A (mareo, sedación, hipotensión),
-muscarínicos-1 (boca seca, constipación, sedación, íleo paralítico),
-muscarínicos-3 icon:arrow-right[] probable efecto metabólico.
+Por bloqueo: H1 (sedación), alfa-1 A (mareo, sedación, hipotensión), muscarínicos-1 (boca seca, constipación, sedación, íleo paralítico), muscarínicos-3 -> probable efecto metabólico.
 
 ====== Más importantes:
 
@@ -162,7 +160,7 @@ Precaución: otros agentes que puedan causar agranulocitosis, glaucoma, prostati
 
 *Neutropenia leve: 1000-1499/mm3*
 
-- Recomendación: continuar 
+- Recomendación: continuar
 - Monitoreo:
   - Repetir hemograma en el día
   - 3 hemogramas por semana hasta ≥ 1500/mm3
