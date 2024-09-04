@@ -1,308 +1,217 @@
-
+#import "@preview/note-me:0.2.1": *
 == Retardo mental
-<_retardo_mental>
+
 === Notas clínicas
-<_notas_clínicas_18>
+
 === Encare
-<_encare_22>
+
 ==== En suma
-<_en_suma_8>
-Analfabetismo Pensión por incapacidad Laboral - núcleo familiar AF:
-Retraso Mental - Alcoholismo. AP: Escuela de Recuperación, INAU.
+
+Analfabetismo Pensión por incapacidad Laboral - núcleo familiar AF: Retraso Mental - Alcoholismo. AP: Escuela de Recuperación, INAU.
 
 ==== Agrupación sindromática
-<_agrupación_sindromática_18>
+
 Según motivo de ingreso:
 
 ===== Síndrome conductual
-<_síndrome_conductual_9>
-Crisis de excitación psicomotriz \(conversiva). IAE en contexto de
-impulsividad. Heteroagresividad. Fugas.
 
-- Actual Incapacidad en previsión de actos y sus consecuencias:
-  alteración del juicio.
+Crisis de excitación psicomotriz (conversiva). IAE en contexto de impulsividad. Heteroagresividad. Fugas.
 
-- Curso de vida Pauta de heteroagresividad que demuestra baja tolerancia
-  a las frustraciones y un pobre control de los impulsos. Conductas
-  antisociales. Consumo de sustancias.
-
+- Actual Incapacidad en previsión de actos y sus consecuencias:   alteración del juicio.
+- Curso de vida Pauta de heteroagresividad que demuestra baja tolerancia a las frustraciones y un pobre control de los impulsos. Conductas antisociales. Consumo de sustancias.
 - Pragmatismos y conductas basales.
 
 ===== Síndrome delirante
-<_síndrome_delirante_5>
-Temática pobre, ideas y supersticiones ingenuas, alta incidencia
-sociocultural.
+Temática pobre, ideas y supersticiones ingenuas, alta incidencia sociocultural.
 
-===== Síndrome deficitario intelectual \(congénito o precozmente adquirido)
-<_síndrome_deficitario_intelectual_congénito_o_precozmente_adquirido>
-- Escolaridad: deficiente, destacar analfabetismo. \* Pensamiento:
-  pobre, pueril, concreto, anecdótico. No puede dar cuenta de
-  situaciones importantes de su vida. baja capacidad de abstracción. \*
-  Logros: incapacidad adaptativa social, falta de habilidad en resolver
-  problemas cotidianos que lo llevan a una disminución de la autonomía y
-  responsabilidad esperadas para su edad evidenciado en: #strong[Logros
-  sociales escasos.] Escasos logros a nivel laboral, familiar, etc. \*\*
-  Dificultades en manejo del dinero.
+===== Síndrome deficitario intelectual congénito o precozmente adquirido
+- Escolaridad: deficiente, destacar analfabetismo.
+- Pensamiento: pobre, pueril, concreto, anecdótico. No puede dar cuenta de situaciones importantes de su vida. baja capacidad de abstracción.
+- Logros: incapacidad adaptativa social, falta de habilidad en resolver problemas cotidianos que lo llevan a una disminución de la autonomía y responsabilidad esperadas para su edad evidenciado en:
+  - Logros sociales escasos.
+  - Escasos logros a nivel laboral, familiar, etc.
+  - Dificultades en manejo del dinero.
 
 A confirmar por tests psicométricos.
 
 ===== Otros
-<_otros_3>
+- Síndrome depresivo #footnote[Hurley, A. D. (2006). Mood disorders in intellectual disability. Current opinion in psychiatry, 19(5), 465-469.]: puede tener presentaciones más atípicas a mayor gravedad del RM. Frecuentemente asociado con comportamiento agresivo, comportamiento maladaptativo.
+
+===== Comorbilidades
+
 Epilepsia.
 
 ==== Personalidad y nivel
-<_personalidad_y_nivel_16>
+
 Yo débil:
 
 - Baja tolerancia a las frustraciones
-
 - Incapacidad de adaptación a nuevas situaciones.
-
 - Existencia acotada, dependiente, círculo restringido de intereses.
-
 - Dificultad para solucionar conflictos que lleva a:
-
 - Inhibición, oposición, desafío, terquedad, mitomanía.
-
 - Descargas bruscas de tensión emocional.
-
-- Alteración del juicio: no existe previsión de consecuencias de sus
-  actos.
-
-- Rechazo de imperativos morales \(o sumisión a los mismos).
-
+- Alteración del juicio: no existe previsión de consecuencias de sus actos.
+- Rechazo de imperativos morales (o sumisión a los mismos).
 - Egocentrismo.
 
-Personalidad: teñida por el déficit intelectual. Personalidad
-defectuosa.
+Personalidad: teñida por el déficit intelectual. Personalidad defectuosa.
 
 ==== Diagnóstico positivo
-<_diagnóstico_positivo_19>
-===== Nosografía clásica
-<_nosografía_clásica_17>
-#block[
-#strong[Oligofrenia o Retraso Mental.]
 
-]
+===== Nosografía clásica
+
+====== Oligofrenia o Retraso Mental
+
 Diagnóstico clínico presuntivo por:
 
-- Déficit escolar importante \* Incapacidad adaptativa social \* Inicio
-  en etapa de desarrollo \(\< 18 años)
+- Déficit escolar importante
+- Incapacidad adaptativa social
+- Inicio en etapa de desarrollo (< 18 años)
 
-A confirmar por tests psicométricos \(CI\<70). Dadas las alteraciones
-del pensamiento … …. inferimos que clínicamente se halla por debajo de
+A confirmar por tests psicométricos (CI < 70). Dadas las alteraciones …. inferimos que clínicamente se halla por debajo de
 los parámetros normales.
 
-#block[
-#strong[Grado de déficit]
+====== Grado de déficit
 
-]
 Diagnóstico clínico-psicométrico. Del punto de vista clínico:
 
-- Leve: puede acceder a algún nivel de enseñanza. Entrenable y educable
-  \(puede hablar, leer y escribir bien). \* Moderado: no educable,
-  entrenable \(… lo que valoraremos en sucesivas entrevistas y una vez
-  superado el cuadro actual). \* Grave: se acompaña de trastornos
-  motores importantes, sobre todo neurológicos, no existe autonomía en
-  habilidades elementales. Necesita supervisión continua. No educable,
-  no entrenable.
+- Leve: puede acceder a algún nivel de enseñanza. Entrenable y educable (puede hablar, leer y escribir bien).
+- Moderado: no educable, entrenable (… lo que valoraremos en sucesivas entrevistas y una vez superado el cuadro actual).
+- Grave: se acompaña de trastornos motores importantes, sobre todo neurológicos, no existe autonomía en habilidades elementales. Necesita supervisión continua. No educable, no entrenable.
 
-#block[
-#strong[Tipo]
+====== Tipo
+- Disarmónico por la inestabilidad afectiva, con reacciones emotivas frecuentes bajo la forma de reacciones explosivas de
+auto/heteroagresividad (y otros trastornos de conducta).
+- Armónico: buena adaptación, docilidad, colaboración, pasividad y obediencia (retraso intelectual simple).
 
-]
-Disarmónico por la inestabilidad afectiva, con reacciones emotivas
-frecuentes bajo la forma de reacciones explosivas de
-auto/heteroagresividad \(y otros trastornos de conducta). Armónico:
-buena adaptación, docilidad, colaboración, pasividad y obediencia
-\(retraso intelectual simple).
+====== Complicado
 
-#block[
-#strong[Complicado]
+Con crisis convulsiva, conversiva, IAE, aumento del monto de impulsividad, síndrome delirante, etc.
 
-]
-Con crisis convulsiva, conversiva, IAE, aumento del monto de
-impulsividad, síndrome delirante, etc.
+====== Causa de descompensación
 
-#block[
-#strong[Causa de descompensación]
-
-]
 Biopsicosocial.
 
 ===== CIE-10 - DSM-IV
-<_cie_10_dsm_iv_3>
-Al codificar en Eje II, es compatible con diagnósticos del eje I \(el
-eje I descompensa el eje II). F70 Retraso mental leve F71 Retraso mental
-moderado F72 Retraso mental grave F73 Retraso mental profundo F78 Otro
-retraso mental F79 Retraso mental sin especificación Cuarto carácter
-para especificar la extensión del deterioro añadido del comportamiento:
-• F7x.0 con deterioro del comportamiento mínimo o ausente • F7x.1 con
-deterioro del comportamiento importante que requiere atención o
-trata-miento • F7x.8 con otros deterioros del comporta-miento • F7x.9
-sin alusión al deterioro del comporta-miento
+
+Al codificar en Eje II, es compatible con diagnósticos del eje I (el eje I descompensa el eje II).
+- F70 Retraso mental leve
+- F71 Retraso mental moderado
+- F72 Retraso mental grave
+- F73 Retraso mental profundo
+- F78 Otro retraso mental
+- F79 Retraso mental sin especificación
+
+Cuarto carácter para especificar la extensión del deterioro añadido del comportamiento:
+- F7x.0 con deterioro del comportamiento mínimo o ausente
+- F7x.1 con deterioro del comportamiento importante que requiere atención o tratamiento
+- F7x.8 con otros deterioros del comporta-miento
+- F7x.9 sin alusión al deterioro del comporta-miento
 
 ==== Diagnósticos diferenciales
-<_diagnósticos_diferenciales_11>
-1. Epilepsia generalizada tipo Gran mal: • Descartar en base a
-diferencias con crisis conversivas. • Dada la frecuente comorbilidad,
-deben realizarse estudios paraclínicos. • En caso de haber alteraciones
-conductuales \(IAE, heteroagresividad, fuga) y es epiléptico conocido,
-se puede plantear DD con: • Estado crepuscular postictal. • Crisis
-parcial compleja. • \(ambos se descartan porque no existe trastorno de
-la conciencia en la comisión del acto). 2. Crisis de adolescencia
-patológica: en el caso del RM la alteración se da en el curso
-longitudinal y está centrada en el déficit escolar y adaptativo social,
-hecho que excede el DD planteado. En la crisis de adolescencia existe: •
-menor duración • historia previa sin alteraciones deficitarias •
-generalmente hay causa desencadenante. 3. Según HC puede plantearse DD
-con: Neurosis, Trastorno de la Personalidad. Neurosis: necesita una
-personalidad más con-formada \(el oligofrénico puede usar mecanismos de
-defensa seudoneuróticos).
+
+1. Epilepsia generalizada tipo Gran mal:
+  - Descartar en base a diferencias con crisis conversivas.
+  - Dada la frecuente comorbilidad, deben realizarse estudios paraclínicos.
+  -  En caso de haber alteraciones conductuales (IAE, heteroagresividad, fuga) y es epiléptico conocido, se puede plantear DD con (ambos se descartan porque no existe trastorno de la conciencia en la comisión del acto):
+    - Estado crepuscular postictal.
+    - Crisis parcial compleja.
+2. Crisis de adolescencia patológica: en el caso del RM la alteración se da en el curso longitudinal y está centrada en el déficit escolar y adaptativo social, hecho que excede el DD planteado. En la crisis de adolescencia existe:
+  - menor duración
+  - historia previa sin alteraciones deficitarias
+  - generalmente hay causa desencadenante.
+3. Según HC puede plantearse DD con:
+  - Neurosis: necesita una personalidad más conformada (el oligofrénico puede usar mecanismos de defensa seudoneuróticos).
+  - Trastorno de la personalidad
 
 ==== Diagnóstico etiopatogénico
-<_diagnóstico_etiopatogénico_3>
 Multifactorial.
 
-#block[
-#strong[Biológico]
+===== Biológico
 
-]
-Factores pre, peri, postnatales: metabólicos, complicación de embarazo,
-infecciones neonatales, traumatismos obstétricos. Importa descartar:
-consanguinidad de padres, edad de la madre, alcoholismo paterno \(
-Frecuencia, citar si existe).
+Factores pre, peri, postnatales: metabólicos, complicación de embarazo, infecciones neonatales, traumatismos obstétricos. Importa descartar: consanguinidad de padres, edad de la madre, alcoholismo paterno (Frecuencia, citar si existe).
 
-#block[
-#strong[Psicosocial]
+====== Psicosocial
 
-]
-Actuando sobre este terreno biológicamente o congénitamente alterado,
-existen elementos que nos hablan de: DEPRIVACION AMBIENTAL •
-alteraciones del medio familiar, violencia, alcoholismo • medio de poco
-estímulo • familia poco continente
+Actuando sobre este terreno biológicamente o congénitamente alterado, existen elementos que nos hablan de: DEPRIVACION AMBIENTAL
+- alteraciones del medio familiar, violencia, alcoholismo
+- medio de poco estímulo
+- familia poco continente
 
 ==== Paraclínica
-<_paraclínica_20>
-Destinada a: • Evaluar déficit • Descartar diagnósticos diferenciales •
-Con vistas al tratamiento • Valoración general
+Destinada a:
+- Evaluar déficit
+- Descartar diagnósticos diferenciales
+- Con vistas al tratamiento
+- Valoración general
 
-#block[
-#strong[Biológico]
+===== Biológico
+- Lo somático que tenga
+- EEG en busca de signos focales, neurólogo.
+- Rutinas
+- Valoración para uso de Carbamazepina: Hemograma completo, Funcional y enzimograma hepático.
 
-]
-• Lo somático que tenga • EEG en busca de signos focales, neurólogo. •
-Rutinas • Valoración para uso de Carbamazepina: Hemograma completo,
-Funcional y enzimograma hepático.
+===== Psicológico
+- Test psicométrico específico: Bender y Weschler para evaluar CI y grado de déficit en su escala ejecutiva y verbal.
 
-#block[
-#strong[Psicológico]
+===== Social
 
-]
-• Test psicométrico específico: Bender y Weschler para evaluar CI y
-grado de déficit en su escala ejecutiva y verbal. • Test de personalidad
-proyectivos y no proyectivos.
-
-#block[
-#strong[Social]
-
-]
-Directamente o con Asistente Social: • Terceros dada la poca
-confiabilidad • Red de soporte social • Incidencia del medio en su
-patología y en la descompensación • Historia perinatal para orientación
-de etiología
+Directamente o con Asistente Social:
+- Terceros dada la poca confiabilidad
+- Red de soporte social
+- Incidencia del medio en su patología y en la descompensación
+- Historia perinatal para orientación de etiología
 
 ==== Tratamiento
-<_tratamiento_25>
 Destinado a:
 
-- Cuadro actual: tratamiento sintomático Bps \* Largo plazo: bPS,
-  mantendremos fármacos de mantenimiento, pero será fundamental-mente
-  psicosocial y estará destinado a favorecer inserción social y combatir
-  complicaciones.
+- Cuadro actual: tratamiento sintomático Bps
+- Largo plazo: bPS, mantendremos fármacos de mantenimiento, pero será fundamental-mente psicosocial y estará destinado a favorecer inserción social y combatir complicaciones.
 
-Se usará medicación en casos en que #footnote[National Institute for
-Health and Care Excellence. \"Psychotropic medicines in people with
-learning disabilities whose behaviour challenges.\" \(2017).]: \* Las
-intervenciones psicosociales solas no sean suficientes. \* Exista riesgo
-para sí o para terceros.
+Se usará medicación en casos en que #footnote[National Institute for Health and Care Excellence. "Psychotropic medicines in people with learning disabilities whose behaviour challenges." \(2017).]:
+- Las intervenciones psicosociales solas no sean suficientes.
+- Exista riesgo para sí o para terceros.
 
-#block[
-#strong[Cuadro actual]
+===== Cuadro actual
 
-]
-Internación en Hospital General: fundamental-mente por continencia
-interna y externa con de descontrol por parte del paciente y aislamiento
-del foco conflictivo. Breve porque es mal tolera-da. Vigila fuga, IAE,
-heteroagresividad. En lo posible aislado al inicio. Equipo
-multidisciplinario.
+Internación en Hospital General: fundamentalmente por continencia interna y externa con de descontrol por parte del paciente y aislamiento del foco conflictivo. Breve porque es mal tolera-da. Vigila fuga, IAE, heteroagresividad. En lo posible aislado al inicio. Equipo multidisciplinario.
 
-Biológico
+====== Biológico
 
-1. Sedaremos con Benzodiacepinas: Clonazepam, en su calidad de sedativo
-y su acción contra la irritación, impulsividad y disforia. Además otras
-benzodiacepinas, al tratarse de un cerebro disfuncional, presentan con
-\> frecuencia el fenómeno de desinhibición. También antiepiléptico.
-Indicaremos 2 mg v/o H8, H14 y 4 mg VO H20 \(2 2 4), que iremos según
-respuesta hasta llegar a 14-16 mg/día. 2. Indicaremos Carbamazepina como
-estabilizador del humor y por su acción sobre la irritabilidad y la
-disforia e impulsividad. Empezamos con 200 mg VO c/12 hs e iremos
-pudiendo llegar a 1200-1600 mg/día. Parecería que la dosis óptima
-corresponde a una concentración plasmática de 4-12 µg/ml. Realizaremos
-controles con hemograma \(semanal el 1º mes, luego mensual o
-bi-mensual), funcional y enzimograma hepático \(mensual el 1º trimestre,
-luego bimensual)., ya que como efecto secundario puede disminuir la
-fórmula leucocitaria con el consiguiente riesgo de infecciones graves y
-también provoca alteraciones en el FH \(hepatotoxicidad). 3. Indicaremos
-Propericiazina \(cerebro disfuncional \> EPI y \> EPS) NL que contribuye
-a la sedación, con acción sobre la impulsividad. Como efecto secundario
-baja el umbral convulsivo y existe la posibilidad de que nuestro
-paciente sea epiléptico. Se indica 25 mg VO H20, pudiendo llegar a 50 mg
-según la evolución. 4. Realizaremos Flunitrazepam 2 mg v/o ya que
-consideramos fundamental la regulación del sueño. Retiraremos al obtener
-mejoría. NOTA: considerar el uso de antipsicóticos atípicos, sobre todo
-Risperidona.
+1. Sedaremos con Benzodiacepinas: Clonazepam, en su calidad de sedativo y su acción contra la irritación, impulsividad y disforia. Además otras benzodiacepinas, al tratarse de un cerebro disfuncional, presentan con > frecuencia el fenómeno de desinhibición. También antiepiléptico. Indicaremos 2 mg v/o H8, H14 y 4 mg VO H20 (2 2 4), que iremos según respuesta hasta llegar a 14-16 mg/día. 
+2. Indicaremos Carbamazepina como estabilizador del humor y por su acción sobre la irritabilidad y la disforia e impulsividad. Empezamos con 200 mg VO c/12 hs e iremos pudiendo llegar a 1200-1600 mg/día. La dosis óptima corresponde a una concentración plasmática de 4-12 µg/ml. Realizaremos controles con:
+  - hemograma (semanal el 1º mes, luego mensual o bi-mensual): por riesgo de leucopenia.
+  - funcional y enzimograma hepático (mensual el 1º trimestre, luego bimensual)., ya que como efecto secundario puede provocar alteraciones en el FH (hepatotoxicidad). 
+  - ionograma: porque puede ocasional hiponatremia.
+3. Indicaremos: Propericiazina (cerebro disfuncional > EPI y > EPS) NL que contribuye a la sedación, con acción sobre la impulsividad. Como efecto secundario baja el umbral convulsivo y existe la posibilidad de que nuestro paciente sea epiléptico. Se indica 25 mg VO H20, pudiendo llegar a 50 mg según la evolución.
+4. Realizaremos Flunitrazepam 2 mg v/o ya que consideramos fundamental la regulación del sueño. Retiraremos al obtener mejoría.
 
-Psicológico
+NOTA: considerar el uso de antipsicóticos atípicos, sobre todo Risperidona.
 
-Entrevistas frecuentes para lograr buen vínculo, tranquilizar con
-respecto a la internación.
+====== Psicológico
 
-#block[
-#strong[A largo plazo]
+Entrevistas frecuentes para lograr buen vínculo, tranquilizar con respecto a la internación.
 
-]
-Estará destinado a incidir sobre la adaptación social, procurando la
-autonomía s/t con medidas psicosociales.
+===== A largo plazo
 
-Biológico
+Estará destinado a incidir sobre la adaptación social, procurando la autonomía s/t con medidas psicosociales.
 
-Realizaremos controles al principio semanales, que iremos espaciando
-hasta llegar a mensuales. Procuraremos disminuir al mínimo efectivo los
-fármacos para facilitar el cumplimiento. Previo al alta, según
-valoración del perfil de cumpli-miento del paciente y la continentación
-del me-dio, en caso de ser dificultoso el cumplimiento indicaremos
-Palmitato de Pipotiazina 25-50 mg i/m c/4 semanas que nos asegura el
-cumplimien-to.
+====== Biológico
 
-Psicosocial
+Realizaremos controles al principio semanales, que iremos espaciando hasta llegar a mensuales. Procuraremos disminuir al mínimo efectivo los fármacos para facilitar el cumplimiento. Previo al alta, según valoración del perfil de cumplimiento del paciente y la continentación del medio, en caso de ser dificultoso el cumplimiento indicaremos Palmitato de Pipotiazina 25-50 mg i/m c/4 semanas que nos asegura el cumplimiento.
 
-Vincularemos a taller de rehabilitación que puede ser dificultoso por
-los trastornos conductuales. Realizaremos psicoeducación de familiares
-para mejorar continencia del medio, lograr con-troles clínicos
-periódicos y cumplimiento de la medicación. Vincularemos a la familia
-con ex-perto en terapia familiar para cambio de conductas de ésta que
-puedan incidir en las descompensaciones. Eventualmente vincularemos al
-pa-ciente con expertos en Retraso Mental. Vincula-remos con AS para que
-tenga acceso a beneficios sociales.
+====== Psicosocial
+
+Vincularemos a taller de rehabilitación que puede ser dificultoso por los trastornos conductuales. Realizaremos psicoeducación de familiares para mejorar continencia del medio, lograr con-troles clínicos periódicos y cumplimiento de la medicación. Vincularemos a la familia con ex-perto en terapia familiar para cambio de conductas de ésta que puedan incidir en las descompensaciones. Eventualmente vincularemos al paciente con expertos en Retraso Mental. Vincula-remos con AS para que tenga acceso a beneficios sociales.
 
 ==== Evolución y pronóstico
-<_evolución_y_pronóstico_18>
-PPI: bueno con tratamiento instituido, supedita-do a trastornos
-conductuales con auto/hetero. PVI: bueno, supeditado al psiquiátrico.
-PVA: sujeto a lo orgánico que tenga, en cierto modo vinculado al PPA que
-pensamos reservado ya que está dificultado por: • Autonomía limitada •
-Conductas antisociales • Continentación social y recursos económicos •
-Bajo umbral de reactividad para psicosis Evolución que intentamos
-mitigar con las medidas efectuadas.
 
+- PPI: bueno con tratamiento instituido, supedita-do a trastornos conductuales con auto/hetero.
+- PVI: bueno, supeditado al psiquiátrico.
+- PVA: sujeto a lo orgánico que tenga, en cierto modo vinculado al PPA que pensamos reservado ya que está dificultado por:
+  - Autonomía limitada
+  - Conductas antisociales
+  - Continentación social y recursos económicos
+  - Bajo umbral de reactividad para psicosis
+Evolución que intentamos mitigar con las medidas efectuadas.
