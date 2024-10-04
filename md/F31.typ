@@ -1,309 +1,135 @@
-
+#import "@preview/fontawesome:0.2.1": *
 == Manía
-<_manía>
 === Notas clínicas
-<_notas_clínicas_10>
-#block[
-#strong[Afecto Expresiones de vida media corta reflejas de
-contingencias]
+Afecto: Expresiones de vida media corta reflejas de contingencias. Emocionales momentáneas.
 
-]
-emocionales momentáneas.
-
-#block[
-#strong[Humor patológico Desproporcionado al estresor o a la situación]
-
-]
-concurrente, no responde a continentación, mantenido por semanas / meses
-/ años, juicio alterado por severa influencia del humor. Endoreactivo:
-demasiado intenso, disregulación permanente dada por \(1) la facilidad
-con que se alcanza un intenso estado de humor ante un estrés y \(2)
-persiste autónomamente cuando el estresor cesa.
+Humor patológico: desproporcionado al estresor o a la situación concurrente, no responde a continentación, mantenido por semanas / meses / años, juicio alterado por severa influencia del humor. Endoreactivo: demasiado intenso, disregulación permanente dada por (1) la facilidad con que se alcanza un intenso estado de humor ante un estrés y (2) persiste autónomamente cuando el estresor cesa.
 
 ==== Tratamiento
-<_tratamiento_11>
 ===== Conductas a evitar
-<_conductas_a_evitar>
-- En depresión: Monoterapia con antidepresivos, litio, valproato,
-  aripiprazol, ziprasidona, donepecilo, paroxetina \(excepto por
-  ansiedad comórbida), gabapentina. No usar combinaciones: lamotrigina +
-  acido fólico, litio + paliperidona, valproato + paliperidona /
-  ziprasidona / gabapentina / topiramato. No usar adjunto de
-  ziprasidona, armodafinil. Datos insuficientes: gabapentina, adjuntar
-  AAS / Celecoxib / Levetiracetam.
-
-- En manía: evitar tratamiento en monoterapia con donepecilo,
-  gabapentina, lamotrigina, nifedipina, paliperidona, risperidona,
-  topiramato, verapamil, ziprasidona, alopurinol, omega3. Datos
-  insuficientes: oxcabamazepina, olanzapina, risperidona +
-  carbamazepina.
-
-- En mantenimiento: evitar aripiprazol + lamotrigina, memantina,
-  pramipexol, verapamil, ADT. Evitar combinación con ADT, estabilizador
-  \
-  memantina. Datos insuficientes: lamotrigina, asenapina, gabapentina,
-  topiramato.
+- En depresión: Monoterapia con antidepresivos, litio, valproato, aripiprazol, ziprasidona, donepecilo, paroxetina (excepto por ansiedad comórbida), gabapentina. No usar combinaciones: lamotrigina + acido fólico, litio + paliperidona, valproato + paliperidona / ziprasidona / gabapentina / topiramato. No usar adjunto de ziprasidona, armodafinil. Datos insuficientes: gabapentina, adjuntar AAS / Celecoxib / Levetiracetam.
+- En manía: evitar tratamiento en monoterapia con donepecilo, gabapentina, lamotrigina, nifedipina, paliperidona, risperidona, topiramato, verapamil, ziprasidona, alopurinol, omega3. Datos insuficientes: oxcabamazepina, olanzapina, risperidona + carbamazepina.
+- En mantenimiento: evitar aripiprazol + lamotrigina, memantina, pramipexol, verapamil, ADT. Evitar combinación con ADT, estabilizador, memantina. Datos insuficientes: lamotrigina, asenapina, gabapentina, topiramato.
 
 - Otros:
-
   - Divalproato en mujeres en edad genital activa.
-
   - Carbamazepina durante embarazo
 
 === Encare
-<_encare_9>
-Motivos de consulta: traído por terceros \(trastorno de conductas
-basales o complejas y pragmatismos), complicación medicolegal, abandono
-de medicación.
+Motivos de consulta: traído por terceros (trastorno de conductas basales o complejas y pragmatismos), complicación medicolegal, abandono de medicación.
 
 ==== En suma
-<_en_suma_3>
-Paciente de sexo X, con AF de trastornos afectivos o sus equivalentes
-\(alcoholismo), con AP de episodios de humor en más \(y/o en menos), con
-tratamientos que \(mantuvo / abandonó), con \(buena/mala) adaptación
-pragmática interepisódica, que es traído \(por terceros, en general no
-por cuenta propia) a la consulta por alteraciones de conducta /
-alteración de CB / pragmatismos con un cuadro centrado en el humor que
-pasamos a analizar.
+Paciente de sexo X, con AF de trastornos afectivos o sus equivalentes (alcoholismo), con AP de episodios de humor en más (y/o en menos), con tratamientos que (mantuvo / abandonó), con (buena/mala) adaptación pragmática interepisódica, que es traído (por terceros, en general no por cuenta propia) a la consulta por alteraciones de conducta / alteración de CB / pragmatismos con un cuadro centrado en el humor que pasamos a analizar.
 
 ==== Agrupación sindromática
-<_agrupación_sindromática_8>
 ===== Síndrome de exaltación del humor
-<_síndrome_de_exaltación_del_humor>
-Centra el cuadro clínico, de X tiempo de evolución \(en general
-desarrollo rápido en 1-2 semanas), que se presenta luego de
-icon:paperclip\[\] \(60% tienen como antecedente algún estresor
-psicosocial), en el que se aprecia una aceleración de los procesos
-psíquicos, evidenciado por los elemento que se detallan.
+Centra el cuadro clínico, de X tiempo de evolución (en general desarrollo rápido en 1-2 semanas), que se presenta luego de X (60% tienen como antecedente algún estresor psicosocial), en el que se aprecia una aceleración de los procesos psíquicos, evidenciado por los elemento que se detallan.
 
-\=\=\=\=\=\= Humor
+====== Humor
 
-Central en el cuadro. Humor predominantemente expansivo y exaltado, que
-pareciera optimista, pero de tonalidad inestable y oscilante y que puede
-llegar a colérico, eufórico e irritable, con una tendencia a dominar el
-encuentro y ridiculizar al entrevistador, con elementos eróticos, con
-una afectividad que se presenta lábil, con oscilaciones, llantos y
-risas. Puede presentar un síndrome de ansiedad que reconocemos como
-parte integrante de este cuadro del humor \(puede describirse aparte si
-la magnitud lo permite).
+Central en el cuadro. Humor predominantemente expansivo y exaltado, que pareciera optimista, pero de tonalidad inestable y oscilante y que puede llegar a colérico, eufórico e irritable, con una tendencia a dominar el encuentro y ridiculizar al entrevistador, con elementos eróticos, con una afectividad que se presenta lábil, con oscilaciones, llantos y risas. Puede presentar un síndrome de ansiedad que reconocemos como parte integrante de este cuadro del humor (puede describirse aparte si la magnitud lo permite).
 
-\=\=\=\=\=\= Presentación
+====== Presentación
 
-Un acortamiento del espacio interpersonal, confianza excesiva, el
-paciente es invasivo, nos tutea, nos toca, nos interrumpe, usa un tono
-de voz alta, tiende a dominar la entrevista, está inquieto, alegre,
-canta, baila, grita, desinhibido, se desnuda, porte desprolijo o
-desaliñado, facies animado, alegre o furioso, habla sin cesar, está en
-continuo movimiento y parece no cansarse.
+Un acortamiento del espacio interpersonal, confianza excesiva, el paciente es invasivo, nos tutea, nos toca, nos interrumpe, usa un tono de voz alta, tiende a dominar la entrevista, está inquieto, alegre, canta, baila, grita, desinhibido, se desnuda, porte desprolijo o desaliñado, facies animado, alegre o furioso, habla sin cesar, está en continuo movimiento y parece no cansarse.
 
-\=\=\=\=\=\= Mímica y gestualidad
+====== Mímica y gestualidad
 
 Aumentadas, congruentes con las oscilaciones del humor.
 
-\=\=\=\=\=\= Actitud
+====== Actitud
 
 Inadecuada, lúdica, expansiva.
 
-\=\=\=\=\=\= Cognición
+====== Cognición
 
-Se distrae fácilmente por estímulos periféricos, tiene dificultad para
-fijar la atención voluntaria y espontánea en algo en particular
-\(hipoprosexia), con alteraciones de la memoria reciente, con
-dificultades para reconstruir el pasado reciente, pero con una
-exaltación de la memoria lejana. En general está BOTE \(puede no estar
-por falta de atención). Carencia de insight. Sin conciencia de morbidez.
+Se distrae fácilmente por estímulos periféricos, tiene dificultad para fijar la atención voluntaria y espontánea en algo en particular (hipoprosexia), con alteraciones de la memoria reciente, con dificultades para reconstruir el pasado reciente, pero con una exaltación de la memoria lejana. En general está BOTE (puede no estar por falta de atención). Carencia de insight. Sin conciencia de morbidez.
 
-\=\=\=\=\=\= Pensamiento
+====== Pensamiento
 
-Forma: lenguaje con logorrea, un flujo del habla incontrolable,
-excesivo, que invade y domina la conversación. Un curso acelerado, con
-verborrea, configurando una taquipsiquia, acompañada de una fuga de
-ideas, pues el paciente comienza un relato que no concluye para pasar de
-inmediato a otro diferente mediante la asociación por asonancia, es
-decir una asociación superficial y efímera de ideas que se presenta por
-lo tanto como un pensamiento no finalista. La taquipsiquia y la fuga de
-ideas \(o fuga de temas) dan cuenta de la exaltación del ser psíquico en
-su totalidad.
+Forma: lenguaje con logorrea, un flujo del habla incontrolable, excesivo, que invade y domina la conversación. Un curso acelerado, con verborrea, configurando una taquipsiquia, acompañada de una fuga de ideas, pues el paciente comienza un relato que no concluye para pasar de inmediato a otro diferente mediante la asociación por asonancia, es decir una asociación superficial y efímera de ideas que se presenta por lo tanto como un pensamiento no finalista. La taquipsiquia y la fuga de ideas (o fuga de temas) dan cuenta de la exaltación del ser psíquico en su totalidad.
 
-Contenido: reconocemos ideas sobrevaloradas, exageradas, condicionadas
-afectivamente, comprensibles en la vida del paciente, pero no
-compartibles, con calor afectivo, de las cuales puede no tener una
-verdadera convicción, son fugaces, admiten críticas, enmarcadas en un
-entorno lúdico, parecen delirantes pero tienen menor intensidad.
-Centradas en grandiosidad, omnipotencia e hiperoptimismo.
+Contenido: reconocemos ideas sobrevaloradas, exageradas, condicionadas afectivamente, comprensibles en la vida del paciente, pero no compartibles, con calor afectivo, de las cuales puede no tener una verdadera convicción, son fugaces, admiten críticas, enmarcadas en un entorno lúdico, parecen delirantes pero tienen menor intensidad. Centradas en grandiosidad, omnipotencia e hiperoptimismo.
 
 Si las ideas exceden lo sobrevalorado Síndrome delirante.
 
-\=\=\=\=\=\= Psicomotricidad
+====== Psicomotricidad
 
-Se presenta exaltada, no puede estar quieto, con necesidad imperiosa de
-actividad, volcado al ambiente, camina, cambia las cosas de lugar,
-canta, baila, se sienta, se levanta, con un actitud lúdica, pero que es
-improductiva, estéril y sin cansancio físico proporcional, con menor
-necesidad de dormir. Llega a realizar estos actos sin finalidad,
-desordenados. Toma elementos del ambiente.
+Se presenta exaltada, no puede estar quieto, con necesidad imperiosa de actividad, volcado al ambiente, camina, cambia las cosas de lugar, canta, baila, se sienta, se levanta, con un actitud lúdica, pero que es improductiva, estéril y sin cansancio físico proporcional, con menor necesidad de dormir. Llega a realizar estos actos sin finalidad, desordenados. Toma elementos del ambiente.
 
-\=\=\=\=\=\= Conductual
+====== Conductual
 
-En las conductas basales destacamos adelgazamiento, disminución de la
-necesidad de dormir, anorexia o hiperorexia con polidipsia y polifagia
-\(pueden ser prodromos). En los pragmatismos destacamos la esterilidad e
-la hiperactividad con deterioro laboral, social y familiar \(pobre
-juicio social), hipersexualidad con riesgo de ETS, llamadas excesivas
-inadecuadas. En las conductas complejas: agresividad, derroche, malos
-negocios, prodigalidad, compromiso excesivo en actividades placenteras,
-consumo de sustancias/OH \(dentro y fuera del episodio actual), juegos
-de azar, casamiento impulsivo, actos con repercusión medicolegal.
+En las conductas basales destacamos adelgazamiento, disminución de la necesidad de dormir, anorexia o hiperorexia con polidipsia y polifagia (pueden ser prodromos). En los pragmatismos destacamos la esterilidad e la hiperactividad con deterioro laboral, social y familiar (pobre juicio social), hipersexualidad con riesgo de ETS, llamadas excesivas inadecuadas. En las conductas complejas: agresividad, derroche, malos negocios, prodigalidad, compromiso excesivo en actividades placenteras, consumo de sustancias/OH (dentro y fuera del episodio actual), juegos de azar, casamiento impulsivo, actos con repercusión medicolegal.
 
 ===== Síndrome delirante / síndrome de alteración del pensamiento
-<_síndrome_delirante_síndrome_de_alteración_del_pensamiento>
-En ocasiones las ideas dejan de ser sobrevaloradas para ser delirantes.
-En este caso son ideas mórbidas, permanentes, incompartibles,
-irreductibles a la lógica, con defensa con convicción y con generación
-de conductas.
+En ocasiones las ideas dejan de ser sobrevaloradas para ser delirantes. En este caso son ideas mórbidas, permanentes, incompartibles, irreductibles a la lógica, con defensa con convicción y con generación de conductas.
 
-\=\=\=\=\=\= Formal
+====== Formal
 
-Curso acelerado, asociación de ideas rápida y superficial, asociaciones
-frágiles, flujo continuo de frases rápidas, mal hilvanadas. Salta de un
-tema a otro \(idea a otra) constituyendo una taquipsiquia con fuga de
-ideas que traduce la exaltación del ser psíquico en su totalidad. Esta
-hiperactividad de los procesos psíquicos leva a una incapacidad de
-fijarse en una idea concreta con fijación a estímulos irrelevantes. Esta
-\"volatilidad\" es responsable de trastornos en atención \(voluntaria y
-espontánea), memoria y orientación.
+Curso acelerado, asociación de ideas rápida y superficial, asociaciones frágiles, flujo continuo de frases rápidas, mal hilvanadas. Salta de un tema a otro (idea a otra) constituyendo una taquipsiquia con fuga de ideas que traduce la exaltación del ser psíquico en su totalidad. Esta hiperactividad de los procesos psíquicos leva a una incapacidad de fijarse en una idea concreta con fijación a estímulos irrelevantes. Esta "volatilidad" es responsable de trastornos en atención (voluntaria y espontánea), memoria y orientación.
 
-\=\=\=\=\=\= Contenido
+====== Contenido
 
-- Temática: megalomaníaca \(capacidades especiales, identidad grandiosa,
-  riqueza, misión especial), mística, filiatoria, erótica, persecutoria,
-  de envidia. \* Mecanismo: principalmente intuitivo, pero puede ser
-  imaginativo, interpretativo, alucinatorio. \* Sistematización: mala
-  sistematización: con escaso orden, coherencia y claridad. \*
-  Conductas: le genera conductas \(compras, gastos, sexo, violencia,
-  robos, consumo de sustancias, alcohol). Se configura un delirio móvil,
-  cambiante, desorganizado. \* Congruencia: puede ser congruente o
-  incongruente con el estado de ánimo expansivo.
+- Temática: megalomaníaca (capacidades especiales, identidad grandiosa, riqueza, misión especial), mística, filiatoria, erótica, persecutoria, de envidia.
+- Mecanismo: principalmente intuitivo, pero puede ser imaginativo, interpretativo, alucinatorio.
+- Sistematización: mala sistematización: con escaso orden, coherencia y claridad.
+- Conductas: le genera conductas (compras, gastos, sexo, violencia, robos, consumo de sustancias, alcohol). Se configura un delirio móvil, cambiante, desorganizado.
+- Congruencia: puede ser congruente o incongruente con el estado de ánimo expansivo.
 
 ===== Síndrome de ansiedad-angustia
-<_síndrome_de_ansiedad_angustia>
-Ansiedad masiva, invasiva, desestructurante e incompartible, por lo que
-la catalogamos como ansiedad psicótica.
+Ansiedad masiva, invasiva, desestructurante e incompartible, por lo que la catalogamos como ansiedad psicótica.
 
 ===== Síndrome de alteración de la conciencia
-<_síndrome_de_alteración_de_la_conciencia_2>
-Evidenciado por la imposibilidad del paciente de adaptar el campo
-fenomenológico de la conciencia al momento presente, lo que configura
-para la Teoría Organodinámica de Ey una desestructuración de conciencia
-de primer grado o nivel ético-temporal.
+Evidenciado por la imposibilidad del paciente de adaptar el campo fenomenológico de la conciencia al momento presente, lo que configura para la Teoría Organodinámica de Ey una desestructuración de conciencia de primer grado o nivel ético-temporal.
 
-Carece de conciencia mórbida. No presentifica el encuentro con el médico
-psiquiatra. Dificultad para reconstruir el pasado inmediato con
-alteración de la atención espontánea y voluntaria, dejándose llevar por
-estímulos ambientales.
-
+Carece de conciencia mórbida. No presentifica el encuentro con el médico psiquiatra. Dificultad para reconstruir el pasado inmediato con alteración de la atención espontánea y voluntaria, dejándose llevar por estímulos ambientales.
 ===== Síndrome somático
-<_síndrome_somático_3>
-Evidenciado por las repercusiones de los cambios de apetito y sueño, así
-como de las conductas \(consumo de sustancias, exposición a clima
-adverso). Destacar elementos metabólicos \(adelgazamiento,
-deshidratación, hipertermina), neurológicos y endocrinológicos
-relevantes.
+Evidenciado por las repercusiones de los cambios de apetito y sueño, así como de las conductas (consumo de sustancias, exposición a clima adverso). Destacar elementos metabólicos (adelgazamiento, deshidratación, hipertermina), neurológicos y endocrinológicos relevantes.
 
 ===== Síndrome depresivo
-<_síndrome_depresivo>
-Puede darse en retrospectiva \(ver encare correspondiente) o bien con
-elementos depresivos dentro del cuadro actual \(en ese caso, puede que
+Puede darse en retrospectiva (ver encare correspondiente) o bien con elementos depresivos dentro del cuadro actual (en ese caso, puede que
 haya que plantear episodio mixto).
 
 ==== Personalidad y nivel
-<_personalidad_y_nivel_7>
 ===== Nivel
-<_nivel>
-: Nivel en diferido.
+Nivel en diferido.
 
 ===== Personalidad
-<_personalidad>
 Lo evaluaremos luego de remitido el cuadro actual.
 
 ==== Diagnóstico positivo
-<_diagnóstico_positivo_9>
 ===== Nosografía clásica
-<_nosografía_clásica_7>
-: Psicosis. : Psicosis aguda.
+#fa-icon("paste") Psicosis. #fa-icon("paste") Psicosis aguda.
 
-\=\=\=\=\=\= Crisis de manía
+====== Crisis de manía
 
-Por presentar una exaltación del humor como elemento central del cuadro
-clínico, del que se destaca la fuga de ideas, la exaltación psicomotriz
-con actitud lúdica e hiperactividad desordenada \(y en caso de
-presentarlas destacar las ideas deliroides o delirantes), que ha
-repercutido negativamente en los desempeños y funcionamiento vital.
+Por presentar una exaltación del humor como elemento central del cuadro clínico, del que se destaca la fuga de ideas, la exaltación psicomotriz con actitud lúdica e hiperactividad desordenada  (y en caso de presentarlas destacar las ideas deliroides o delirantes), que ha repercutido negativamente en los desempeños y funcionamiento vital.
 
-\=\=\=\=\=\= Forma clínica
+====== Forma clínica
 
-Las diferentes formas clínicas son un continuo dinámico, según
-fluctuaciones de superficialización o pofundización de la alteración de
-conciencia.
+Las diferentes formas clínicas son un continuo dinámico, según fluctuaciones de superficialización o pofundización de la alteración de conciencia.
 
-- Manía franca \(simple o aguda): es el cuadro clásico. Carece de
-  delirio y alucinaciones. Pero como la imaginación está exaltada puede
-  darse, en las formas con más desestructuración de la conciencia, ideas
-  de convicción subdelirantes o fabulatorias, como un delirio en estado
-  naciente que no se consolida dada la gran hiperactividad y aceleración
-  de los procesos mentales.
+- Manía franca (simple o aguda): es el cuadro clásico. Carece de delirio y alucinaciones. Pero como la imaginación está exaltada puede darse, en las formas con más desestructuración de la conciencia, ideas de convicción subdelirantes o fabulatorias, como un delirio en estado naciente que no se consolida dada la gran hiperactividad y aceleración de los procesos mentales.
+- Manía delirante: al desestructurarse la conciencia más profundamente se pasa a esta forma clínica. En ella se reconoce un delirio, una "experiencia delirante", aunque no de las características de la "experiencia delirante primaria" de la PDA. Este es cambiante, móvil, mínimamente sistematizado. Es un delirio verbalizado más que   vivido (a diferencia de la PDA).
+- Furor maníaco: es el grado máximo de exaltación psicomotriz. Se presenta como una exaltación de la expresión principalmente motora, con oscurecimiento de la conciencia. Puede haber rechazo del alimento y signos orgánicos graves de agotamiento, deshidratación e hipertermia.
+- Estados mixtos: en todo episodio coexisten elementos maníacos y depresivos, pero en ocasiones esta mezcla es un rasgo principal del cuadro.
+- Hipomanía: caracterizada por la fuga de temas (la idea llega a desarrollarse o formar un tema), un humor jovial, eufórico, hiperactivo, con múltiples iniciativas y proyectos que no llegan a finalizar, prodigalidad, hipersexualidad. Menor deterioro funcional. 
+- Manía confusa: desorientación TE, alteraciones mnésicas, trastornos del pensamiento.
 
-- Manía delirante: al desestructurarse la conciencia más profundamente
-  se pasa a esta forma clínica. En ella se reconoce un delirio, una
-  \"experiencia delirante\", aunque no de las características de la
-  \"experiencia delirante primaria\" de la PDA. Este es cambiante,
-  móvil, mínimamente sistematizado. Es un delirio verbalizado más que
-  vivido \(como en las PDA).
+====== Diagnóstico nosológico
 
-- Furor maníaco: es el grado máximo de exaltación psicomotriz. Se
-  presenta como una exaltación de la expresión principalmente motora,
-  con oscurecimiento de la conciencia. Puede haber rechazo del alimento
-  y signos orgánicos graves de agotamiento, deshidratación e
-  hipertermia.
+Este acceso maníaco se inscribe en una enfermedad crónica, de manifestación episódica: Psicosis Maníaco-Depresiva. Esta se define por la presencia de uno o más episodios de manía, generalmente acompañado por uno o más episodios depresivos, en el contexto de antecedentes personales y familiares destacados.
 
-- Estados mixtos: en todo episodio coexisten elementos maníacos y
-  depresivos, pero en ocasiones esta mezcla es un rasgo principal del
-  cuadro.
-
-- Hipomanía: caracterizada por la fuga de temas \(la idea llega a
-  desarrollarse o formar un tema), un humor jovial, eufórico,
-  hiperactivo, con múltiples iniciativas y proyectos que no llegan a
-  finalizar, prodigalidad, hipersexualidad. Menor deterioro funcional.
-
-- Manía confusa: desorientación TE, alteraciones mnésicas, trastornos
-  del pensamiento.
-
-\=\=\=\=\=\= Diagnóstico nosológico
-
-Este acceso maníaco se inscribe en una enfermedad crónica, de
-manifestación episódica: Psicosis Maníaco-Depresiva. Esta se define por
-la presencia de uno o más episodios de manía, generalmente acompañado
-por uno o más episodios depresivos, en el contexto de antecedentes
-personales y familiares destacados.
-
-===== Según sistemas de clasificación \(DSM IV)
-<_según_sistemas_de_clasificación_dsm_iv>
-\=\=\=\=\=\= Diagnóstico del episodio
+===== Según sistemas de clasificación (DSM IV)
+====== Diagnóstico del episodio
 
 Episodio maníaco
 
-#block[
-#set enum(numbering: "A.", start: 1)
-+ Período diferenciado de estado de ánimo anormalmente y
-  persistentemente elevado, expansivo o irritable, de al menos 1 semana
-  de duración \(o cualquier duración si se hospitaliza). B. Al menos 3
-  de estos síntomas: megalomanía, insomnio, verborrea, fuga de ideas,
-  distraibilidad, hiperactividad, humor lúdico. C. Malestar o deterioro
-  clínicamente significativo D. No cumple criterios para episodio mixto
-  E. Se excluye cuadro provocado por sustancias, enfermedad médica,
-  tratamiento farmacológico, trastorno por déficit atencional con
-  hiperactividad, EDM con irritabilidad.
-]
++ Período diferenciado de estado de ánimo anormalmente y persistentemente elevado, expansivo o irritable, de al menos 1 semana de duración (o cualquier duración si se hospitaliza).
++ Al menos 3 de estos síntomas: megalomanía, insomnio, verborrea, fuga de ideas, distraibilidad, hiperactividad, humor lúdico.
++ Malestar o deterioro clínicamente significativo
++ No cumple criterios para episodio mixto 
++ Se excluye cuadro provocado por sustancias, enfermedad médica, tratamiento farmacológico, trastorno por déficit atencional con hiperactividad, EDM con irritabilidad.
 
 Especificadores del episodio
 

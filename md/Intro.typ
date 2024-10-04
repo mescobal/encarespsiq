@@ -35,6 +35,9 @@ Estos encares fueron posibles gracias a la generosa contribución de varios cole
 === Licencia
 Todo el contenido tiene licencia Creative Commons (Atribución - Compartir igual) 4.0 Internacional
 #footnote[#link("http://creativecommons.org/licenses/by-sa/4.0/")] .
+<_nosografía_clásica_7>
+<_nosografía_clásica_7>
+<_nosografía_clásica_7>
 
 #figure([#image("cc.png")],  caption: [Creative Commons  ])
 

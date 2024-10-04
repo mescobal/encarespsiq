@@ -152,76 +152,45 @@ El diagnóstico es clínico. Sospecha:
 - Afectación de pragmatismos
 - Exclusión de otras patologías que expliquen los síntomas
 
-Otros síntomas asociados \(pero no exclusivo) al SFC:
+Otros síntomas asociados (pero no exclusivo) al SFC:
 
-- Intolerancia ortostática y disfunción autonómica \(incluyendo mareos,
-  palpitaciones, lipotimias, náuseas, ante cambios de posición)
-
+- Intolerancia ortostática y disfunción autonómica (incluyendo mareos, palpitaciones, lipotimias, náuseas, ante cambios de posición)
 - Hipersensibilidad a la temperatura
 
 ===== Paraclínica
-<_paraclínica_22>
 De realizarse una evaluación médica completa, examen físico.
-Laboratorio: hemograma, glicemia, orina, perfil hepático, perfil
-tiroideo, VES, proteína C reactiva, calcemia y fosfatemia, HbA1c,
-ferritina sérica, descartar enfermedad celíaca, CK. Otros según la
-clínica: vitamina D, vitamina B12, cortisol si se sospecha insuficiencia
-adrenal.
+Laboratorio: hemograma, glicemia, orina, perfil hepático, perfil tiroideo, VES, proteína C reactiva, calcemia y fosfatemia, HbA1c, ferritina sérica, descartar enfermedad celíaca, CK. Otros según la clínica: vitamina D, vitamina B12, cortisol si se sospecha insuficiencia adrenal.
 
 == Otros trastornos de inicio en la niñez y adolescencia
-<_otros_trastornos_de_inicio_en_la_niñez_y_adolescencia>
 === F98.5 Tartamudez
-<_f98_5_tartamudez>
-Definición: alteración en la fluencia y/o patrón temporal del lenguaje
-que es inapropiado para la edad del individuo y persistente en el
-tiempo. Puede estar acompañado de fenómenos motores.
+Definición: alteración en la fluencia y/o patrón temporal del lenguaje que es inapropiado para la edad del individuo y persistente en el tiempo. Puede estar acompañado de fenómenos motores.
 
-Otros nombres: trastorno de la fluencia de inicio en la infancia. Edad
-de inicio: 2 a 7 años. A los 16: 65-85% se recuperan.
+Otros nombres: trastorno de la fluencia de inicio en la infancia. Edad de inicio: 2 a 7 años. A los 16: 65-85% se recuperan.
 
 ==== Etiología
-<_etiología>
-Desconocida. Conceptualización actual: dominancia incompleta de los
-centros primarios del lenguaje de etiología multifactorial.
+Desconocida. Conceptualización actual: dominancia incompleta de los centros primarios del lenguaje de etiología multifactorial.
 
-Genética: da cuenta del 50-80% de los casos. Correlación entre hermanos:
-19%. Riesgo x 3 en familiares de primer grado. Asociación con genes
-dopaminérgicos SLC6A3 y DRD2,
+Genética: da cuenta del 50-80% de los casos. Correlación entre hermanos: 19%. Riesgo x 3 en familiares de primer grado. Asociación con genes dopaminérgicos SLC6A3 y DRD2.
 
-Comparte características con S de la Tourette: inicio en la infancia,
-hombres 4:1, curso fluctuante, empeoran con ansiedad, están asociados a
-tics, tienen anomalías cerebrales en los ganglios basales, empeoran pora
-agonistas dopaminérgicos, mejoran con antagonistas. Infecciosa: algunos
-casos asociados a PANDAS \(trastornos autoinmunes pediátricos asociados
-a infecciones estreptocóccicas), que están vinculados a Tourette y TOC.
+Comparte características con S de la Tourette: inicio en la infancia, hombres 4:1, curso fluctuante, empeoran con ansiedad, están asociados a tics, tienen anomalías cerebrales en los ganglios basales, empeoran por agonistas dopaminérgicos, mejoran con antagonistas. Infecciosa: algunos casos asociados a PANDAS (trastornos autoinmunes pediátricos asociados a infecciones estreptocóccicas), que están vinculados a Tourette y TOC.
 
 Casos adquiridos en adultos: asociados a medicación y TEC.
 
 = Otras situaciones clínicas
-<_otras_situaciones_clínicas>
 == IAE
-<_iae>
 === Notas clínicas
-<_notas_clínicas_22>
 Factores de riesgo para suicidio
 
 === Encare
-<_encare_25>
 ==== Agrupación sindromática
-<_agrupación_sindromática_19>
 ===== Síndrome conductual
-<_síndrome_conductual_10>
-#block[
-Evaluación de IAE: MMPPRRR
+#tip[Evaluación de IAE: MMPPRRR]
 
-]
 Hace X tiempo:
 
-- Método: intoxicación - traumatismo \(grave) - asfíctico \(grave). \*
-  Móvil: situación difícil más o menos compartible / mínimo:
-  inautenticidad \(T de la P) / sin móvil aparente, no puede dar cuenta
-  \(contexto discordante, catatónico). \* Precauciones tomadas para
-  evitar o no ser salvado \(gravedad) \* Premeditación: plan previo para
+- Método: intoxicación - traumatismo (grave) - asfíctico (grave).
+- Móvil: situación difícil más o menos compartible / mínimo: inautenticidad (T de la P) / sin móvil aparente, no puede dar cuenta (contexto discordante, catatónico).
+- Precauciones tomadas para evitar o no ser salvado \(gravedad) \* Premeditación: plan previo para
   llevarlo a cabo \(grave) - impulsividad, no existe reflexión entre
   representación y acto. \* Rectificación: total o no, culpabilidad,
   arrepentimiento, análisis de la situación \* Reiteración: AP de otros

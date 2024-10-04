@@ -1,4 +1,3 @@
-
 == Fragmentos
 <_fragmentos>
 En los lugares marcados con el ícono \"pegar\" \(icon:paste\[\]) pueden
