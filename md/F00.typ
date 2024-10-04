@@ -15,8 +15,8 @@ Se evalúa: comprensión, juicio, pensamiento abstracto, razonamiento, capacidad
 - Orientación: orientación temporal orientación espacial –> orientación autopsíquica.
 - Atención: dificultad para mantener la atención (aprosexia).
 - Síntomas psicóticos (20-50% de demencias): delirios simples, poco elaborados. Temas: persecución, robos, celos, daño y perjuicio, delirios de sustitución, delirio dermatozoico de Ekbon.
-- Alucinaciones \(15-50%): visuales, auditivas, olfatorias o cenestésicas. Si hay alucinaciones, peor pronóstico, probable rápido deterioro cognitivo.
-- Síntomas afectivos \(20-70%): sobre todo en formas vasculares con lesiones a localización frontal izquierda anterior, también en HNT, Huntington, Parkinson. Más frecuentes en estadíos iniciales. Son menos frecuentes los síntomas maniformes. Doble origen: reacción psicológica a la pérdida de facultades + alteración de neurotransmisores por el proceso degenerativo (sobre todo locus coeruleus y sustancia nigra). En DTA, la presencia de depresión está asociada a un aumento de la mortalidad.
+- Alucinaciones (15-50%): visuales, auditivas, olfatorias o cenestésicas. Si hay alucinaciones, peor pronóstico, probable rápido deterioro cognitivo.
+- Síntomas afectivos (20-70%): sobre todo en formas vasculares con lesiones a localización frontal izquierda anterior, también en HNT, Huntington, Parkinson. Más frecuentes en estadíos iniciales. Son menos frecuentes los síntomas maniformes. Doble origen: reacción psicológica a la pérdida de facultades + alteración de neurotransmisores por el proceso degenerativo (sobre todo locus coeruleus y sustancia nigra). En DTA, la presencia de depresión está asociada a un aumento de la mortalidad.
 
 Otros síntomas psiquiátricos: insomnio, ansiedad, delirium, trastorno adaptativo mixto ansioso-depresivo. Alteraciones del sueño con inversión del ciclo sueño/vigilia.
 
@@ -33,7 +33,7 @@ Otros: síndrome de Klüver-Bucy (raro) por lesión temporal bilateral con hiper
   - Episódica (secundaria)
     - Reciente: recordar material presentado de varios segundos a horas/días. Exploración: recordar 3 palabras 3-5’ luego de su presentación
     - Remota: recordar material presentado hace largo tiempo. Exploración: recordar datos de semanas, meses o años atrás.
-  - Semántica \(terciaria): repositorio de información personal o bien aprendida (conocimientos).
+  - Semántica (terciaria): repositorio de información personal o bien aprendida (conocimientos).
 - Memoria implícita, no declarativa de procedimiento.
 
 ==== Clasificación de demencias
@@ -103,7 +103,7 @@ Diagnóstico definitivo (NINDS-AIREN): Diagnóstico probable + evidencia histopa
 
 ===== Mixta
 
-Alzheimer + DMI \= 20%. Reúne características de ambas
+Alzheimer + DMI = 20%. Reúne características de ambas
 
 ===== Demencia frontotemporal
 Grupo heterogéneo de trastornos que provocan neurodegeneración en áreas frontales y temporales #footnote[Convery, R., Mead, S., & Rohrer, J. D. (2019). Clinical, genetic and neuroimaging features of frontotemporal dementia. Neuropathology and applied neurobiology, 45(1), 6-18.]. Clínicamente se presentan con síntomas comportamentales, trastornos del lenguaje (afasia primaria progresiva), pudiendo haber superposición con la enfermedad de la neurona motora y trastornos parkinsonianos atípicos. Existen variantes genéticas (mutaciones en la progranulina, C9orf72 y la proteína tau asociada a microtúbulos). Síntomas comportamentales: cambios en la personalidad con desinhibición, apatía, falta de empatía (incapacidad de leer las emociones de otros), obsesividad (movimientos repetitivos, acumulación, rituales de limpieza), alteración en la preferencia de las comidas (atracones o preferencias idiosincráticas, preferencia por dulces). Comportamiento desinhibido: interacciones sociales embarazosas, impulsividad, gastos, juego. Falta de insight (indiferencia al déficit). Síntomas cognitivos: declinación de las funciones ejecutivas (planeamiento, resolución de problemas, flexibilidad mental, atención, memoria de trabajo). En general se preservan las funciones asociadas a regiones posteriores del cerebro (memoria episódica, habilidades visuoespaciales).
@@ -162,7 +162,7 @@ No recomendado:
 ==== Agrupación sindromática
 Destacar motivo de consulta
 
-- Síndrome conductual Crisis de EPM, conductas absurdas, antisociales. IAE, en contexto de impulsividad \(no mide riesgo - juicio), dependiendo de lo cognitivo. Conductas basales.
+- Síndrome conductual Crisis de EPM, conductas absurdas, antisociales. IAE, en contexto de impulsividad (no mide riesgo - juicio), dependiendo de lo cognitivo. Conductas basales.
 - Síndrome delirante Delirio pobre, ideación paranoide, robo, vinculado a trastornos cognitivos. Manifestado en lo conducutal por [desarrollar].
 - Síndrome confuso-onírico Ver Delirium.
 - Síndrome depresivo Vinculado a lo cognitivo. Ver Depresión.
@@ -176,21 +176,9 @@ Dado por un debilitamiento progresivo, global y profundo de las funciones intele
 
 Alteración en las funciones psíquicas superiores
 
-- Razonamiento: con alteración del capital mental, ya que el paciente es
-  incapaz de ordenar con la ayuda de conceptos una construcción lógica
-  en relación a un fin usando técnicas intelectuales y verbales \(ej.:
-  operaciones aritméticas simples). Con pérdida de la capacidad de
-  abstracción \(ej: interpretación de refranes, conceptos en pruebas de
-  semejanzas y diferencias, conceptos abstractos \[patria\], etc.)
-
-- Juicio: perturbación de los valores lógicos y de la realidad con
-  incapacidad para medir las consecuencias de sus actos \(ej.: sale
-  desnudo). Con carencia autocrítica dado por los actos citados, la
-  carencia de conciencia de morbidez y la indiferencia frente a los
-  déficits.
-
-- Adquisividad: incapacidad de utilizar la experiencia previamente
-  adquirida ante situaciones nuevas \(ej.: manejo del dinero).
+- Razonamiento: con alteración del capital mental, ya que el paciente es incapaz de ordenar con la ayuda de conceptos una construcción lógica en relación a un fin usando técnicas intelectuales y verbales (ej.: operaciones aritméticas simples). Con pérdida de la capacidad de abstracción (ej: interpretación de refranes, conceptos en pruebas de semejanzas y diferencias, conceptos abstractos [patria], etc.)
+- Juicio: perturbación de los valores lógicos y de la realidad con incapacidad para medir las consecuencias de sus actos (ej.: sale desnudo). Con carencia autocrítica dado por los actos citados, la carencia de conciencia de morbidez y la indiferencia frente a los déficits.
+- Adquisividad: incapacidad de utilizar la experiencia previamente adquirida ante situaciones nuevas (ej.: manejo del dinero).
 
 Incapacidad operatoria o de funciones operacionales
 
@@ -199,7 +187,7 @@ Memoria: imprecisiones e inexactitudes en el relato:
 - fijación: olvido de cosas que le dicen o pensaba hacer
 - inmediata: repetición de objetos
 - evocación:
-  - tardía s/p: hablar de gravedad si está alterada]
+  - tardía s/p: hablar de gravedad si está alterada
   - reciente: incapacidad de retener más de un minuto el material (ej: nombre del entrevistador). También muestra la incapacidad de fijación. Se aprecian falsos reconocimientos, fabulación. Ley de Ribot: solidez de recuerdos antiguos en relación a los recientes.
 
 Orientación:
@@ -215,45 +203,33 @@ Alteración de las funciones simbólicas
 - Gnosias: falla en el reconocimiento o identificación de objetos a pesar de funciones sensoriales intactas. Estereognosia: reconocimiento por el tacto.
 - Praxias: incapacidad para llevar a cabo tareas motoras a pesar de que tanto la comprensión como las funciones motoras están intactas. Praxia del vestir. Praxias:
   - Constructivas: figuras bi-tridimensionales
-  - Ideomotoras: gestos simples \(venia, saludo)
-  - Ideatorias: actos que requieren coordinaciones sucesivas para utilizar un objeto \(peinarse, fósforo, etc.)
+  - Ideomotoras: gestos simples (venia, saludo)
+  - Ideatorias: actos que requieren coordinaciones sucesivas para utilizar un objeto (peinarse, fósforo, etc.)
 
 ====== A nivel ético-moral
 
-Relación estrecha con la alteración del juicio que igual destacamos por
-su jerarquía. Dado por pérdida de las inhibiciones con exaltación
-pulsional que se expresa por conductas sexuales anormales:
-exhibicionismo, intento de violación, lenguaje soez. Conductas con
-implicancias médico-legales, bulimia, higiene personal deficitaria,
-alcoholismo, vagabundeo, conductas antisociales.
+Relación estrecha con la alteración del juicio que igual destacamos por su jerarquía. Dado por pérdida de las inhibiciones con exaltación pulsional que se expresa por conductas sexuales anormales: exhibicionismo, intento de violación, lenguaje soez. Conductas con implicancias médico-legales, bulimia, higiene personal deficitaria, alcoholismo, vagabundeo, conductas antisociales.
 
 ====== A nivel social
 
-Reducido al mundo intrafamiliar, sin proyección social, desde hace…
-alteración de pragmatismos. Destacar grado de autonomía.
+Reducido al mundo intrafamiliar, sin proyección social, desde hace…  alteración de pragmatismos. Destacar grado de autonomía.
 
-Este síndrome deficitario se acompaña de elementos de alteración en la
-esfera del humor y la afectividad: emotividad, labilidad afectiva,
-impulsividad, autoritarismo, falta de contención emocional. El síndrome
-depresivo está ligado como comorbilidad.
+Este síndrome deficitario se acompaña de elementos de alteración en la esfera del humor y la afectividad: emotividad, labilidad afectiva, impulsividad, autoritarismo, falta de contención emocional. El síndrome depresivo está ligado como comorbilidad.
 
 ===== Síndrome de alteración de las conductas basales y pragmatismos
-<_síndrome_de_alteración_de_las_conductas_basales_y_pragmatismos>
-Dado por insomnio, anorexia, pragmatismos analizados en el síndrome
-deficitario.
+Dado por insomnio, anorexia, pragmatismos analizados en el síndrome deficitario.
 
 ===== Síndrome somático
 CV: HTA, etc. Neurológico: TEC, motor deficitario, etc. General.
 
 ==== Personalidad y nivel
-Nivel: destacar empobrecimiento con balance negativo \(rico que se ha
-empobrecido)
+Nivel: destacar empobrecimiento con balance negativo (rico que se ha empobrecido)
 
 Personalidad: premórbida vs. actual: acentuación de rasgos.
 
 ==== Diagnóstico positivo
 ===== Demencia
-Por la existencia de un síndrome deficitario intelectual adquirido con debilitamiento progresivo que interfiere con la actividad cotidiana y lleva al paciente a una pérdida de su autonomía, donde importa destacar el deterioro del juicio y las manifestaciones a nivel ético-moral, de X años de evolución, en una persona de X edad, que no presentaba previo al inicio del cuadro elementos de deterioro \(+ lo orgánico).
+Por la existencia de un síndrome deficitario intelectual adquirido con debilitamiento progresivo que interfiere con la actividad cotidiana y lleva al paciente a una pérdida de su autonomía, donde importa destacar el deterioro del juicio y las manifestaciones a nivel ético-moral, de X años de evolución, en una persona de X edad, que no presentaba previo al inicio del cuadro elementos de deterioro (+ lo orgánico).
 
 CIE-10: “síndrome debido a una enfermedad del cerebro, generalmente de naturaleza crónica‘ o progresiva, en la que hay déficit de múltiples funciones corticales superiores, entre ellas: memoria, pensamiento, orientación, comprensión, cálculo, capacidad de aprendizaje, lenguaje y juicio”.
 
@@ -262,12 +238,11 @@ DSMIV: “presencia de múltiples déficits cognitivos (que incluyen deterioro d
 ===== Modelo clínico
 ====== Cortical
 
-Alteración de memoria; afectación de gnosias, praxias y lenguaje, habilidades visuoespaciales y cálculo; pueden haber dificultades en las funciones ejecutivas \(organización, abstracción, juicio y capacidad de introspección); movimientos preservados hasta fases tardías; personalidad poco afectada \(cierta pasividad o brusquedad en las reacciones); en la afectividad: cierta labilidad emocional. Pueden ser conscientes del déficit.
+Alteración de memoria; afectación de gnosias, praxias y lenguaje, habilidades visuoespaciales y cálculo; pueden haber dificultades en las funciones ejecutivas (organización, abstracción, juicio y capacidad de introspección); movimientos preservados hasta fases tardías; personalidad poco afectada (cierta pasividad o brusquedad en las reacciones); en la afectividad: cierta labilidad emocional. Pueden ser conscientes del déficit.
 
 ====== Subcortical
 
-Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión, disartria, signos bulbares, hemiparesia motora pura; inicialmente menos afectación en funciones cognoscitivas como numeración, cálculo, etc.; menor alteración de memoria visual o verbal; déficit de aprendizaje de nuevos movimientos motores o tareas; disminución de habilidades para la organización y planificación; alteraciones de la motilidad \(movimientos involuntarios, corea, temblor); conservación del lenguaje por más tiempo que la forma cortical; cambios en la personalidad intensos \(apatía, inercia, pérdida de la espontaneidad); alteraciones repetidas y precoces en el humor
-\(depresión y ocasionalmente manía insulsa). Se asemeja más a un cuadro de alteración del humor, con menos evidencia de alteración de las funciones cognoscitivas. Ejemplos: Huntington, Parkinson, Parálisis Supranuclear Progresiva.
+Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión, disartria, signos bulbares, hemiparesia motora pura; inicialmente menos afectación en funciones cognoscitivas como numeración, cálculo, etc.; menor alteración de memoria visual o verbal; déficit de aprendizaje de nuevos movimientos motores o tareas; disminución de habilidades para la organización y planificación; alteraciones de la motilidad (movimientos involuntarios, corea, temblor); conservación del lenguaje por más tiempo que la forma cortical; cambios en la personalidad intensos (apatía, inercia, pérdida de la espontaneidad); alteraciones repetidas y precoces en el humor (depresión y ocasionalmente manía insulsa). Se asemeja más a un cuadro de alteración del humor, con menos evidencia de alteración de las funciones cognoscitivas. Ejemplos: Huntington, Parkinson, Parálisis Supranuclear Progresiva.
 
 ===== Tipo clínico (CIE-10)
 - Demencia en la enfermedad de Alzheimer. Especificadores: de inicio precoz (< 65 años), tardío; atípica o mixta. Diagnóstico por:
@@ -279,7 +254,7 @@ Enlentecimiento progresivo de todos los procesos mentales, labilidad, depresión
 - Síndrome amnésico orgánico no inducido por alcohol u otras sustancias psicotropas
 
 ===== Momento evolutivo
-- Incipiens: sólo déficit intelectual \(no existe social o ético-moral)
+- Incipiens: sólo déficit intelectual (no existe social o ético-moral)
 - Período de estado: ya constituido.
 - Terminal: deterioro importante, grave.
 
@@ -298,17 +273,18 @@ Que perjudica el deterioro preexistente y sobre el cual actuaremos en lo inmedia
 ===== CIE-10
 Demencia (general)
 
-1. Trastornos de funciones corticales superiores: o memoria o lenguaje o
-comprensión o aprendizaje o flujo de ideas o razonamiento y juicio 2.
-Los trastornos causan disturbios en las actividades diarias 3.
-Preservación del estado de conciencia \(descarta confusión) 4. Seis
-meses de evolución \(criterio no presente en DSM).
++ Trastornos de funciones corticales superiores: o memoria o lenguaje o comprensión o aprendizaje o flujo de ideas o razonamiento y juicio
++ Los trastornos causan disturbios en las actividades diarias
++ Preservación del estado de conciencia (descarta confusión)
++ Seis meses de evolución (criterio no presente en DSM).
 
-Demencia tipo Alzheimer Criterio general para demencia \
+Demencia tipo Alzheimer Criterio general para demencia y además:
 
-- Inicio insidioso \* deterioro lento y progresivo \* exclusión de otras
-  demencias \* ausencia de inicio súbito y de ACVs \* Sin signos
-  neurológicos focales o daño focal
+- Inicio insidioso
+- deterioro lento y progresivo
+- exclusión de otras demencias
+- ausencia de inicio súbito y de ACVs
+- Sin signos neurológicos focales o daño focal
 
 ==== Diagnósticos diferenciales
 + Cambios cognitivos de la edad avanzada ("olvidos seniles benignos"): término no bien dilucidado, disminución de memoria no vinculada a patología que aparece en > de 50 años, con pruebas de memoria con rendimiento inferior al adulto joven promedio, con tests de inteligencia normales, en ausencia de patología evidenciable. Frecuentemente se pierde la memoria de término medio.
@@ -323,10 +299,10 @@ Demencia tipo Alzheimer Criterio general para demencia \
 + Retraso mental: según edad.
 
 ==== Diagnóstico etiopatogénico y psicopatológico
-<_diagnóstico_etiopatogénico_y_psicopatológico>
 ===== Fisiopatología
-<_fisiopatología>
-Estrés oxidativo: pérdida del balance prooxidativo/antioxidativo, relacionado con procesos de envejecimiento, contribuye a cambios en el sistema colinérgico. Hay refuerzo mutuo entre el estrés oxidativo y la transmisión glutamatérgica (frente a un aumento de radicales libres, hay mayor acción glutamatérgica). Radicales libres: son especies oxigenadas altamente reactivas que contribuyen a la fagocitosis. Cuando aumentan los radicales libres, se promueve el daño neuronal. Apoptosis: muerte celular inducida por radicales libres. Excitotoxicidad: acción neurotóxica por exceso de estimulación, mediada por Glutamato. Se postula un rol en la enfermedad de Parkinson, Huntington y Alzheimer. A nivel neuroanatómico: Hallazgos macroscópicos: no hay hallazgos que sean patognomónicos. Atrofia cerebral, dilatación ventricular, reducción del volumen cerebral. Hallazgos microscópicos: placas amiloides (estructuras extracelulares con centro de proteína beta amiloide rodeado de axones y dendritas atróficas, su densidad no guarda relación con el deterioro cognitivo, son más numerosas en pacientes con demencia tipo Alzheimer, sobre todo en corteza e hipocampo), enredos neurofibrilares (estructuras intracelulares [no exclusivos de DTA] en forma de pares de filamentos helicoidales [proteína Tau que ha tenido fosforilación extrema] y restos de neurotúbulos destruidos, respuesta a eventos degenerativos tóxicos y traumáticos), degeneración granulovacuolar, cuerpos de Hirano.
+Estrés oxidativo: pérdida del balance prooxidativo/antioxidativo, relacionado con procesos de envejecimiento, contribuye a cambios en el sistema colinérgico. Hay refuerzo mutuo entre el estrés oxidativo y la transmisión glutamatérgica (frente a un aumento de radicales libres, hay mayor acción glutamatérgica). Radicales libres: son especies oxigenadas altamente reactivas que contribuyen a la fagocitosis. Cuando aumentan los radicales libres, se promueve el daño neuronal. Apoptosis: muerte celular inducida por radicales libres. Excitotoxicidad: acción neurotóxica por exceso de estimulación, mediada por Glutamato. Se postula un rol en la enfermedad de Parkinson, Huntington y Alzheimer. 
+
+A nivel neuroanatómico: Hallazgos macroscópicos: no hay hallazgos que sean patognomónicos. Atrofia cerebral, dilatación ventricular, reducción del volumen cerebral. Hallazgos microscópicos: placas amiloides (estructuras extracelulares con centro de proteína beta amiloide rodeado de axones y dendritas atróficas, su densidad no guarda relación con el deterioro cognitivo, son más numerosas en pacientes con demencia tipo Alzheimer, sobre todo en corteza e hipocampo), enredos neurofibrilares (estructuras intracelulares [no exclusivos de DTA] en forma de pares de filamentos helicoidales [proteína Tau que ha tenido fosforilación extrema] y restos de neurotúbulos destruidos, respuesta a eventos degenerativos tóxicos y traumáticos), degeneración granulovacuolar, cuerpos de Hirano.
 
 ====== Psicopatología
 
@@ -338,49 +314,22 @@ Demencia tipo Alzheimer
 
 Etiología desconocida. Hay una reducción de las fibras colinérgicas en particular en el LT, en especial en áreas de asociación. Anatomía patológica Disminución del número de neuronas sobre todo en el hipocampo, sustancia innominada, locus coeruleus y corteza temporoparietal y frontal. Hallazgos microscópicos
 
-#block[
-#set enum(numbering: "1.", start: 1)
-+ Degeneración neurofibrilar en forma de ovillos o haces
-  neurofibrilares, intracelulares, en las dendritas de las neuronas
-  piramidales o en las neuronas multipolares. Son una colección de
-  filamentos de la proteína fosforilada t, componente normal de
-  microtúbulos que se hace anormal y excesivamente fosforilada, formando
-  filamentos helicoidales apareados. Se ven sobre todo en el hipocampo,
-  corteza entorrinal, subiculum y corteza \(capas III y IV).
++ Degeneración neurofibrilar en forma de ovillos o haces neurofibrilares, intracelulares, en las dendritas de las neuronas piramidales o en las neuronas multipolares. Son una colección de filamentos de la proteína fosforilada t, componente normal de microtúbulos que se hace anormal y excesivamente fosforilada, formando filamentos helicoidales apareados. Se ven sobre todo en el hipocampo, corteza entorrinal, subiculum y corteza (capas III y IV).
++ Placas amiloides (seniles): terminaciones axonales degeneradas y dendritas anormales que rodean una zona central de sustancia amiloide. Son extracelulares, compuestas por fibras de proteína beta-amiloide. Presentes sobre todo en hipocampo y corteza.
++ Cuerpos de Hirano: estructuras intracelulares eosinófilas, visibles al MO.
++ Degeneración vacuolar con vacuolas intracitoplasmáticas, centradas por un gránulo argirófilo. 
 
-+ Placas amiloides \(seniles): terminaciones axonales degeneradas y
-  dendritas anormales que rodean una zona central de sustancia amiloide.
-  Son extracelulares, compuestas por fibras de proteína beta-amiloide.
-  Presentes sobre todo en hipocampo y corteza.
-
-+ Cuerpos de Hirano: estructuras intracelulares eosinófilas, visibles al
-  MO.
-
-+ Degeneración vacuolar con vacuolas intracitoplasmáticas, centradas por
-  un gránulo argirófilo. Los haces \(1) y placas \(2) pueden verse en
-  ancianos no demenciados pero en menor número. La presencia de 5 o más
-  placas x campo microscópico indica DTA. Pueden encontrarse cuerpos de
+Los haces (1) y placas (2) pueden verse en ancianos no demenciados pero en menor número. La presencia de 5 o más placas x campo microscópico indica DTA. Pueden encontrarse cuerpos de
   Lewy en las neuronas corticales.
-]
 
-Neurotransmisores Colinérgico: afectación especial del núcleo basal de
-Meynert, sustancia inominada y región sublenticular \(primera fuente de
-las proyecciones colinérgicas) y reducción de hasta el 90% de la
-actividad cortical de la colinoacetiltransferasa.
+Neurotransmisores
+- Colinérgico: afectación especial del núcleo basal de Meynert, sustancia inominada y región sublenticular (primera fuente de las proyecciones colinérgicas) y reducción de hasta el 90% de la actividad cortical de la colinoacetiltransferasa.
+- Serotoninérgico: pérdida neuronal en los núcleos del rafe (responsable de los cambios de conducta).
+- Catecolaminas: pérdida neuronal en el locus coeruleus.
+- Sistema peptidérgico: somatostatina, sustancia P, sustancia Y, vasopresina.
+- Sistema histaminérgico y aminoacidérgico (disminución del ácido glutámico y aspártico y GABA).
 
-Serotoninérgico: pérdida neuronal en los núcleos del rafe \(responsable
-de los cambios de conducta).
-
-Catecolaminas: pérdida neuronal en el locus coeruleus.
-
-Sistema peptidérgico: somatostatina, sustancia P, sustancia Y,
-vasopresina.
-
-Sistema histaminérgico y aminoacidérgico \(disminución del ácido
-glutámico y aspártico y GABA).
-
-Factores de riesgo Historia familiar de demencia y presencia de sndrome
-de Down. Otros: no confirmados.
+Factores de riesgo Historia familiar de demencia y presencia de sndrome de Down. Otros: no confirmados.
 
 ==== Paraclínica
 El diagnóstico de demencia es clínico. La paraclínica estará destinada a:
@@ -389,80 +338,41 @@ El diagnóstico de demencia es clínico. La paraclínica estará destinada a:
 - corroborar diagnóstico etiopatogénico planteado
 - descartar diferenciales
 
-Valoración general y de polo neurológico, cardiovascular, medio interno,
-focos infecciosos neurólogo + internista. Son de importancia los
-instrumentos de evaluación rápida, que si bien no son sustitutos de la
-evaluación clínica y no son específicos para cada tipo particular de
-demencia son breves y de fácil administración complementando datos
-clínicos y evolutivos. Puede realizarse el MMSE \(Mini Mental State
-Examination), BOMC \(Bless), test de la carátula del reloj.
+Valoración general y de polo neurológico, cardiovascular, medio interno, focos infecciosos neurólogo + internista. 
 
-Minimental \(Folstein - MMSE): máximo 30 puntos: orientación temporal
-\(5), orientación espacial \(5), registro \(3), atención y cálculo \(5),
-memoria reciente \(3), lenguaje \[nombrar \(2), repetir \(1),
-secuenciación \(3), lectura \(1), escritura \(1), copia de figura
-\(1)\]. 0-10 \= trastorno cognitivo severo. 11-20 \= moderado. 21-26 \=
-leve. Función cognitiva normal \= \> 26.
+Son de importancia los instrumentos de evaluación rápida, que si bien no son sustitutos de la evaluación clínica y no son específicos para cada tipo particular de demencia son breves y de fácil administración complementando datos clínicos y evolutivos. Puede realizarse el MMSE (Mini Mental State Examination), BOMC (Bless), test de la carátula del reloj.
 
-Test del reloj: pedir que dibuje un reloj, con las marcas de horas y que
-ponga las agujas a una hora determinada. Evalúa: habilidad
-témporo-espacial, existencia de perseveración, habilidad ejecutiva y
-capacidad de abstracción.
+Minimental (Folstein - MMSE): máximo 30 puntos: orientación temporal (5), orientación espacial (5), registro (3), atención y cálculo (5), memoria reciente (3), lenguaje [nombrar (2), repetir (1), secuenciación (3), lectura (1), escritura (1), copia de figura (1)]. 0-10 = trastorno cognitivo severo. 11-20 = moderado. 21-26 = leve. Función cognitiva normal = > 26.
 
-#block[
-#strong[Biológico]
+Test del reloj: pedir que dibuje un reloj, con las marcas de horas y que ponga las agujas a una hora determinada. Evalúa: habilidad témporo-espacial, existencia de perseveración, habilidad ejecutiva y capacidad de abstracción.
 
-]
-Evaluación sistemática Examen físico completo, con énfasis en lo
-neurológico, con fondo de ojo y consultas con neurólogo. Deben buscarse
-signos focales, hidratación, nutrición. valoración CV con examen central
-y periférico. Consulta con internista o cardiólogo para valoración CV
-clínica y paraclínica y evaluación de terreno ATC e HTA y su control.
+===== Biológico
+Evaluación sistemática. Examen físico completo, con énfasis en lo neurológico, con fondo de ojo y consultas con neurólogo. Deben buscarse signos focales, hidratación, nutrición. valoración CV con examen central y periférico. Consulta con internista o cardiólogo para valoración CV clínica y paraclínica y evaluación de terreno ATC e HTA y su control.
 
-Rutinas: hemograma, glicemia, ionograma, azoemia, creatininemia, orina.
-ECG y RxTx Función tiroidea. Dosificación de B12. VDRL. Evaluación
-selectiva Orina, toxicología, radiografías, HIV, ANA \(anticuerpos
-antinucleares), ApoE \(apolipoproteína E), Tau, proteína beta amiloide
-plaquetario, Tropicamida \(antagonista muscarínico que se usa como gotas
-oftálmicas en una prueba que evalúa midriasis en pacientes con
-Alzheimer). Punción lumbar: solo si hay síntomas de irritación meníngea
-de evolución muy rápida. TAC de utilidad relativa para el diagnóstico
-planteado ya que sabemos que no existe correlación anatomo-clínica
-pudiéndose ver signos inespecíficos: atrofia cortical y dilatación
-ventricular, hipodensidades que nos indiquen infartos múltiples.
-Descartaremos causas reversibles que pueden estar incidiendo.
+Rutinas:
+- hemograma, glicemia, ionograma, azoemia, creatininemia, orina.
+- ECG y RxTx Función tiroidea.
+- Dosificación de B12.
+- VDRL. 
 
-RMN: aunque no existe correlación anátomo-clínica, puede ser de
-relevancia para descartar diagnósticos diferenciales y causas
-reversibles de demencia, así como para control evolutivo. Puede
-evidenciarse hiperdensidad de la sustancia blanca: son debidas a gliosis
-y esclerosis. Se pueden ver en personas sanas, con demencia vascular,
-Alzheimer o con depresión. Cuando son solamente ventriculares, son más
-frecuentes en Alzheimer. Otros procedimientos estructurales: SPECT
-\(flujo sanguíneo, menor resolución, bajo costo), PET \(mejor
-resolución, alto costo), RMF \(resonancia magnética funcional:
-resolución espacial milimétrica) EEGQ \(electroencefalografía
-cualitativa \= mapeo): utilidad relativa, excepto en casos de
-comorbilidad. Si hay alcoholismo: funcional hepático y enzimograma. Si
-se piensa en sífilis: VDRL, FTA-ABS, signo de Argyll-Robertson, PL:
-citológico, bacteriológico y bioquímico. .Psicológico Una vez superado
-el cuadro actual \(depresivo, delirante, confusional) consulta con
-neuropsicólogo para valorar funciones instrumentales y simbólicas.
-Evaluación psicométrica: Weschler \(WAIS) para: cuantificar deterioro,
-control evolutivo del paciente. .Social Composición familiar, terceros,
-vínculos, red de soporte, dinámica de funcionamiento: evaluando aspectos
-positivos de éste. Relaciones afectivas, MSEC. AP ingesta de fármacos.
-Historias anteriores.
+Evaluación selectiva:
+- Orina, toxicología, radiografías, HIV, ANA (anticuerpos antinucleares), ApoE (apolipoproteína E), Tau, proteína beta amiloide plaquetario, Tropicamida (antagonista muscarínico que se usa como gotas oftálmicas en una prueba que evalúa midriasis en pacientes con Alzheimer).
+- Punción lumbar: solo si hay síntomas de irritación meníngea de evolución muy rápida.
+- TAC de utilidad relativa para el diagnóstico planteado ya que sabemos que no existe correlación anatomo-clínica pudiéndose ver signos inespecíficos: atrofia cortical y dilatación ventricular, hipodensidades que nos indiquen infartos múltiples. Descartaremos causas reversibles que pueden estar incidiendo.
+- RMN: aunque no existe correlación anátomo-clínica, puede ser de relevancia para descartar diagnósticos diferenciales y causas reversibles de demencia, así como para control evolutivo. Puede evidenciarse hiperdensidad de la sustancia blanca: son debidas a gliosis y esclerosis. Se pueden ver en personas sanas, con demencia vascular, Alzheimer o con depresión. Cuando son solamente ventriculares, son más frecuentes en Alzheimer.
+- Otros procedimientos estructurales: SPECT (flujo sanguíneo, menor resolución, bajo costo), PET (mejor resolución, alto costo), RMF (resonancia magnética funcional: resolución espacial milimétrica) EEGQ (electroencefalografía cualitativa = mapeo): utilidad relativa, excepto en casos de comorbilidad. Si hay alcoholismo: funcional hepático y enzimograma.
+- Si se piensa en sífilis: VDRL, FTA-ABS, signo de Argyll-Robertson, PL: citológico, bacteriológico y bioquímico.
+
+===== Psicológico
+Una vez superado el cuadro actual (depresivo, delirante, confusional) consulta con neuropsicólogo para valorar funciones instrumentales y simbólicas. 
+
+Evaluación psicométrica: Weschler (WAIS) para: cuantificar deterioro, control evolutivo del paciente.
+
+===== Social
+Composición familiar, terceros, vínculos, red de soporte, dinámica de funcionamiento: evaluando aspectos positivos de éste. Relaciones afectivas, MSEC. AP ingesta de fármacos. Historias anteriores.
 
 ==== Tratamiento
-<_tratamiento>
-Internar en sala de Hospital General, preferentemente aislado. Breve por
-las dificultades adaptativas \(ruptura de referencias de orientación y
-afectivas). Equipo multidisciplinario… Destinado a compensar el cuadro
-actual, estudio completo, instrumentación de medidas que ataquen
-factores de riesgo. Conjuntamente con internista. Compensaremos
-alteraciones orgánicas para asegurar ausencia de tóxicos endógenos…
-minimizando agravio encefálico…
+Internar en sala de Hospital General, preferentemente aislado. Breve por las dificultades adaptativas (ruptura de referencias de orientación y afectivas). Equipo multidisciplinario… Destinado a compensar el cuadro actual, estudio completo, instrumentación de medidas que ataquen factores de riesgo. Conjuntamente con internista. Compensaremos alteraciones orgánicas para asegurar ausencia de tóxicos endógenos…  minimizando agravio encefálico…
 
 ===== Del cuadro actual
 
@@ -478,36 +388,19 @@ minimizando agravio encefálico…
 
 ====== Farmacológico
 
-Con dosis menores a las del adulto e incrementos lentos dado la
-hipersensibilidad propia de esta patología y las alteraciones orgánicas
-propias de la edad que llevan a un aumento de la concentración de
-fármacos en sangre. Será sintomático:
+Con dosis menores a las del adulto e incrementos lentos dado la hipersensibilidad propia de esta patología y las alteraciones orgánicas propias de la edad que llevan a un aumento de la concentración de fármacos en sangre. Será sintomático:
 
-- Agitación: dependerá del estadío de la demencia. En estadíos iniciales y agitación leve-moderada, puede usarse un ISRS como el citalopram 20 mg/día #footnote[Schneider, Lon S., et al. "Heterogeneity of treatment response to citalopram for patients with Alzheimer’s disease with aggression or agitation: the CitAD randomized clinical trial." American Journal of Psychiatry 173.5 \(2016): 465-472.]
+- Agitación: dependerá del estadío de la demencia. En estadíos iniciales y agitación leve-moderada, puede usarse un ISRS como el citalopram 20 mg/día #footnote[Schneider, Lon S., et al. "Heterogeneity of treatment response to citalopram for patients with Alzheimer’s disease with aggression or agitation: the CitAD randomized clinical trial." American Journal of Psychiatry 173.5 (2016): 465-472.]
 - Crisis de excitación PM: Tioridacina (evitándolo si es prostático, está confuso: en ese caso dar solo Haloperidol) en solución v/o 5 mg H:8, 5 mg H:14, 10 mh H:20 (atentos a efectos secundarios anticolinérgicos [s/t confusión], hipertensión prostática, vigilando sobresedación y caídas lo que nos obligará a disminuir la dosis). Según la evolución valoraremos el agregado de 1 mg de Haloperidol v/o H:20 para combatirla.
 - Delirio: Haloperidol v/o 1,5 mg c/8 hs (1,5 - 1,5 - 2,0) en solución.
-- Ansiedad: Clonazepam \(sedante, control de impulsos, estabilizante del humor, pocos efectos paradójicos) 1mg v/o H:8, 2mgH:20 a regular según evolucón y no pasar de 6-8 mg/día ya que las benzodiacepinas la confusión, amnesia, efectos paradójicos, sobresedación, agravan síntomas deficitarios.
-
+- Ansiedad: Clonazepam (sedante, control de impulsos, estabilizante del humor, pocos efectos paradójicos) 1mg v/o H:8, 2mgH:20 a regular según evolucón y no pasar de 6-8 mg/día ya que las benzodiacepinas la confusión, amnesia, efectos paradójicos, sobresedación, agravan síntomas deficitarios.
 - Depresión: ISRS por sus pocos efectos secundarios y por no ser anticolinérgico Fluoxetina 10 mg H8. Agregar a los 2-3 días 10 mg v/o H14 y esperar respuesta, pudiendo aumentar según tolerancia hasta un máximo de 40 mg/día. Sertralina: 25 mg H8 inicial, luego 50 mg/día. Latencia de 7-15 días. Atentos a efectos secundarios (ansiedad, insomnio).
-
 - Trastornos del sueño:
-
-  - Higiene del sueño: laborterapia, evitar cafeína y alcohol,
-    caminatas, evitar sueño diurno. En caso de que éstas medidas no sean
-    suficientes usar tratamiento farmacológico
-
-  - Ritmo circadiano: melatonina #footnote[Vecchierini, M. F.,
-    Kilic-Huck, U., & Quera-Salva, M. A. \(2021). Melatonin \(MEL) and
-    its use in neurological diseases and insomnia: Recommendations of
-    the French Medical and Research Sleep Society \(SFRMS). Revue
-    Neurologique, 177\(3), 245-259.]
-
-  - Conciliación: Zopiclona: ½ comp de 7,5 mg H:20 v/o • Zolpidem: 5 mg
-    v/o H:20
-
-  - Mantenimiento: Flunitrazepam: 1 mg v/o que iremos según necesidad y
-    retiraremos pronto.
-
+  - Higiene del sueño: laborterapia, evitar cafeína y alcohol, caminatas, evitar sueño diurno. En caso de que éstas medidas no sean suficientes usar tratamiento farmacológico
+  - Ritmo circadiano: melatonina #footnote[Vecchierini, M. F., Kilic-Huck, U., & Quera-Salva, M. A. (2021). Melatonin (MEL) and its use in neurological diseases and insomnia: Recommendations of the French Medical and Research Sleep Society (SFRMS). Revue
+    Neurologique, 177(3), 245-259.]
+  - Conciliación: Zopiclona: ½ comp de 7,5 mg H:20 v/o o Zolpidem: 5 mg v/o H:20
+  - Mantenimiento: Flunitrazepam: 1 mg v/o que iremos según necesidad y retiraremos pronto.
 - Como favorecedores de la circulación cerebral, conjuntamente con internista, realizaremos:
   - Nimodipina: 30 mg v/o c/8 hs, que mejora la circulación cerebral sin fenómeno de robo.
   - Pentoxifilina: 400 mg v/o c/8hs que elasticidad de glóbulos rojos.
@@ -517,70 +410,43 @@ Al alta hospitalaria: retiro de medicación evitando polifarmacia (mínimo indis
 - Situaciones clínicas especiales Paciente agitado Determinar grado: perturbado / conducta inapropiada / violento. Reducir riesgos, modificar el ambiente.
 
 ===== A largo plazo
-<_a_largo_plazo>
-#block[
-#strong[Demencia Tipo Alzheimer]
+====== Demencia Tipo Alzheimer
+Inhibidores de la Acetilcolinesterasa (AcE): retardan el deterioro sintomático a corto plazo. A largo plazo: disminuyen la velocidad de progreso de la enfermedad, retardan la institucionalización del paciente y reducen la mortalidad.
 
-]
-Inhibidores de la Acetilcolinesterasa \(AcE): retardan el deterioro
-sintomático a corto plazo. A largo plazo: disminuyen la velocidad de
-progreso de la enfermedad, retardan la institucionalización del paciente
-y reducen la mortalidad.
+Donepezilo: inhibidor reversible. 5-10 mg en dosis única (presentación comprimidos de 5 y 10 mg). Util en formas leves y moderadas. Efectos secundarios: náuseas, vómitos, diarreas, estreñimiento, bradicardia (disminuyen con la continuación del tratamiento). Puede haber lesión hepatocelular reversible al suspender el tratamiento. Debe suspenderse 1-2 semanas antes de intervenciones quirúrgicas. NO administrar si hay asma, EPOC, arritmias, IC y alteraciones de la micción.
 
-Donepezilo: inhibidor reversible. 5-10 mg en dosis única \(presentación
-comprimidos de 5 y 10 mg). Util en formas leves y moderadas. Efectos
-secundarios: náuseas, vómitos, diarreas, estreñimiento, bradicardia
-\(disminuyen con la continuación del tratamiento). Puede haber lesión
-hepatocelular reversible al suspender el tratamiento. Debe suspenderse
-1-2 semanas antes de intervenciones quirúrgicas. NO administrar si hay
-asma, EPOC, arritmias, IC y alteraciones de la micción.
+Rivastigmina: inhibidor seudo-irreversible. Se inicia con 1.5 mg c/12, con las comidas, x 2 semanas, la dosis terapéutica es de 3-6 mg cada 12 horas (6-12 mg/día) llegando a ésta con aumentos escalonados de a 1.5-3 mg, con al menos 2 semanas en cada nivel de dosis. Efectos secundarios que más frecuentemente llevan al abandono: náuseas, vómitos, anorexia. Presentación: comprimidos de 1.5, 3, 4.5 y 6 mg. Duración del tratamiento: tiempo indefinido. No tiene interacciones a través del citocromo P-450, no requiere monitoreos de laboratorio. Mecanismo: aumenta la transmisión colinérgica especialmente en el hipocampo y corteza cerebral. No debe administrarse en caso existencia de alteración de la conducción cardíaca.
 
-Rivastigmina: inhibidor seudo-irreversible. Se inicia con 1.5 mg c/12 ,
-con las comidas, x 2 semanas, la dosis terapéutica es de 3-6 mg cada 12
-horas \(6-12 mg/día) llegando a ésta con aumentos escalonados de a 1.5-3
-mg, con al menos 2 semanas en cada nivel de dosis. Efectos secundarios
-que más frecuentemente llevan al abandono: náuseas, vómitos, anorexia.
-Presentación: comprimidos de 1.5, 3, 4.5 y 6 mg. Duración del
-tratamiento: tiempo indefinido. No tiene interacciones a través del
-citocromo P-450, no requiere monitoreos de laboratorio. Mecanismo:
-aumenta la transmisión colinérgica especialmente en el hipocampo y
-corteza cerebral. No debe administrarse en caso existencia de alteración
-de la conducción cardíaca.
-
-Antioxidantes: vitamina E - IMAO B. Los antioxidantes tienen el objetivo
-de disminuir la producción de radicales libres, minimizando el riesgo de
-muerte neuronal por apoptosis.
+Antioxidantes: vitamina E - IMAO B. Los antioxidantes tienen el objetivo de disminuir la producción de radicales libres, minimizando el riesgo de muerte neuronal por apoptosis.
 
 Selegilino: antioxidante, IMAOB. 2.5-5 mg v/o cada 12 horas. Efectos secundarios: síncopes, caídas por hipotensión. Riesgo de crisis hipertensivas e interacción con ISRS y ADT.
 
-Vitamina E: antioxidante usado en prevención y tratamiento. Dosis 800-1000 UI en toma única. No
-mejora la función cognitiva comparado con el estado basal, pero disminuye o detiene el proceso, lentifica la lesión de la neurona provocada por depósitos amiloides. Efectos secundarios: prolongación del tiempo de coagulación.
+Vitamina E: antioxidante usado en prevención y tratamiento. Dosis 800-1000 UI en toma única. No mejora la función cognitiva comparado con el estado basal, pero disminuye o detiene el proceso, lentifica la lesión de la neurona provocada por depósitos amiloides. Efectos secundarios: prolongación del tiempo de coagulación.
 
 Otros
 
-Ginko Biloba: 120-240 mg/día fraccionados en 2-3 tomas. Antioxidante, aumenta perfusión de los tejidos, aumenta tolerancia a la hipoxia, estimula la formación de circulación colateral, estabilizador capilar, reduce inhibición de receptores colino-muscarínicos asociados con la edad avanzada. Efectos secundarios escasos: cefaleas, GI, alergia. Mejoría cognitiva demostrada. Presentación: cm 40 - 80 mg \(Tebokan, Tebokan Forte, Clarvix, Ginkgo 80 fuerte).
+Ginko Biloba: 120-240 mg/día fraccionados en 2-3 tomas. Antioxidante, aumenta perfusión de los tejidos, aumenta tolerancia a la hipoxia, estimula la formación de circulación colateral, estabilizador capilar, reduce inhibición de receptores colino-muscarínicos asociados con la edad avanzada. Efectos secundarios escasos: cefaleas, GI, alergia. Mejoría cognitiva demostrada. Presentación: cm 40 - 80 mg (Tebokan, Tebokan Forte, Clarvix, Ginkgo 80 fuerte).
 
-Estrógenos: Estradiol E4: dosis \= 0.625-2.5 mg en única toma diaria. Acción antioxidante y neuroprotectora \(protegen la neurona de la proteína beta-amiloide). Ayudan a mantener la memoria y capacidad de aprendizaje. Retrasan el inicio de la DTA y produce mejoría en la DTA establecida. Modulan la secreción de Acetilcolina en el hipocampo por acción sobre la colinoacetiltransferasa \(s/t en los núcleos basales y áreas de proyección), genera un incremento de ramificaciones dendríticas, modulan los receptores específicos de la Serotonina, actúan sobre las neurotrofinas \(proteínas que mantienen los axones y dendritas), disminuyen densidad de receptores beta-adrenérgicos y 5HT2, inhibe la actividad glutamatérgica. Efectos secundario: menorragia, sensibilidad de senos, GI, HTA, tromboembolias. Manejo con múltiples precauciones. Presentaciones: Estrofem 2mg y 4 mg. Estrógenos conjugados: Premarin 0.625 mg-1.25 mg. Quinestrol 1.5 mg.
+Estrógenos: Estradiol E4: dosis = 0.625-2.5 mg en única toma diaria. Acción antioxidante y neuroprotectora (protegen la neurona de la proteína beta-amiloide). Ayudan a mantener la memoria y capacidad de aprendizaje. Retrasan el inicio de la DTA y produce mejoría en la DTA establecida. Modulan la secreción de Acetilcolina en el hipocampo por acción sobre la colinoacetiltransferasa (s/t en los núcleos basales y áreas de proyección), genera un incremento de ramificaciones dendríticas, modulan los receptores específicos de la Serotonina, actúan sobre las neurotrofinas (proteínas que mantienen los axones y dendritas), disminuyen densidad de receptores beta-adrenérgicos y 5HT2, inhibe la actividad glutamatérgica. Efectos secundario: menorragia, sensibilidad de senos, GI, HTA, tromboembolias. Manejo con múltiples precauciones. Presentaciones: Estrofem 2mg y 4 mg. Estrógenos conjugados: Premarin 0.625 mg-1.25 mg. Quinestrol 1.5 mg.
 
 Antiinflamatorios: Indometacina, Ibuprofeno. Dosis: 100-150 mg/día. Efectos secundarios: GI, ulcus, anemia, función renal.
 
-Nimodipina: bloqueador de canales de calcio, vasodilatador cerebral, antiisquémico, alta liposolubilidad \(\> concentración en SNC). Mecanismo aumento de somatostatina en LCR \(disminuida en pacientes con DTA).
+Nimodipina: bloqueador de canales de calcio, vasodilatador cerebral, antiisquémico, alta liposolubilidad (> concentración en SNC). Mecanismo aumento de somatostatina en LCR (disminuida en pacientes con DTA).
 
-Es dudosa la eficacia de precursores de la acetilcolina \(lecitina, colina y CDP colina): agentes presinápticos que supuestamente aumentan la síntesis y liberación de acetilcolina.
+Es dudosa la eficacia de precursores de la acetilcolina (lecitina, colina y CDP colina): agentes presinápticos que supuestamente aumentan la síntesis y liberación de acetilcolina.
 
 No existe tratamiento farmacológico. Debemos instrumentar un seguimiento regular pesquisando toda alteración metabólica o infecciosa que debe ser rápidamente corregida. Estará destinado a obtener una mejora adaptación, para lo que implementaremos s/t medidas psicosociales.
 
-Control de medicación semanal en policlínica \(que se irán espaciando hasta ser mensuales).
+Control de medicación semanal en policlínica (que se irán espaciando hasta ser mensuales).
 
-*Demencia vascular*
+====== Demencia vascular
 
-Control de riesgos: HTA, hiperlipidemia, diabetes, fibrilación
-auricular. Tratamiento específico: Acido acetil-salicílico. Ginko
-Biloba. Pentoxifilina: utilidad discutida. Antagonistas del calcio:
-Nimodipina: ayuda a controlar HTA, actúa como protector en situación de
-hipoxia o toxicidad neuronal y protegen neurona \(el Ca++ libre
-intracelular activa los sistemas enzimáticos intracelulares que causan
-muerte celular).
+Control de riesgos: HTA, hiperlipidemia, diabetes, fibrilación auricular.
+Tratamiento específico: Acido acetil-salicílico. Ginko Biloba.
+Pentoxifilina: utilidad discutida.
+Antagonistas del calcio: Nimodipina: ayuda a controlar HTA, actúa como protector en situación de hipoxia o toxicidad neuronal y protegen neurona (el Ca++ libre intracelular activa los sistemas enzimáticos intracelulares que causan muerte celular).
+
+====== Otros
 
 Intervenciones farmacológicas en trastornos no cognitivos
 - Apatía: Metilfenidato, anfetaminas.
@@ -592,49 +458,34 @@ Intervenciones farmacológicas en trastornos no cognitivos
 Intervenciones no farmacológicas:
 - Psicoeducación familiar.
 - Terapia de reminiscencias, estimulación positiva.
-- Terapia recreativa \(ejercicios, danza)
+- Terapia recreativa (ejercicios, danza)
 
-Social:
-- Psicoeducación, explicando la enfermedad y el pronóstico y la importancia de las medidas terapéuticas continencia y estímulo: instrucción y apoyo con conexión a grupos de Alzheimer \(familiares).
+===== Social
+- Psicoeducación, explicando la enfermedad y el pronóstico y la importancia de las medidas terapéuticas continencia y estímulo: instrucción y apoyo con conexión a grupos de Alzheimer (familiares).
 - Ambiente estable y predecible, para que el paciente excluya nuevo aprendizaje, lectura y comentario de periódicos, actividad física regular, reconocimiento de lugares.
 
 A largo plazo se podría plantear la institucionalización, efectuando un balance entre la evolución del paciente y su necesidad de supervisión continua y la continencia del medio.
 
 ==== Evolución y pronóstico
-Está marcado por la enfermedad de fondo. Pensamos que el cuadro actual
-será controlado con el tratamiento instituido. Una vez corregido dicho
-cuadro, mejorará el déficit cognitivo. Si bien tal función le permite
-por el momento mantener cierta autonomía, nos orientamos a un pronóstico
-regular/malo ya que estamos:
+Está marcado por la enfermedad de fondo. Pensamos que el cuadro actual será controlado con el tratamiento instituido. Una vez corregido dicho cuadro, mejorará el déficit cognitivo. Si bien tal función le permite por el momento mantener cierta autonomía, nos orientamos a un pronóstico regular/malo ya que estamos:
 
-- ante una enfermedad irreversible sin tratamiento específico
-  \(Alzheimer, Pick, Huntington, Parkinson) \* ante una enfermedad sobre
-  la cual podremos instrumentar un tratamiento paliativo de su HTA
-  \(DMI).
+- ante una enfermedad irreversible sin tratamiento específico (Alzheimer, Pick, Huntington, Parkinson)
+- ante una enfermedad sobre la cual podremos instrumentar un tratamiento paliativo de factores de riesgo: HTA, DM.
 
 Complicaciones frecuentes en DTA:
-
 - apatía, pérdida de afecto y motivación
-
 - agitación, ansiedad
-
 - depresión
-
 - desinhibición
-
 - alucinaciones y cuadros delirantes
 
-Complicaciones: - episodios depresivos frecuentes, para lo cual
-mantendremos la medicación AD - alteración de juicio: conductas con
-implicancias ML Pronóstico ligado a continencia sociofamiliar.
+Complicaciones:
+- episodios depresivos frecuentes, para lo cual mantendremos la medicación AD
+- alteración de juicio: conductas con implicancias ML Pronóstico ligado a continencia sociofamiliar.
 
-Pronóstico vital alejado: ligado a trastornos orgánicos. DMI: dependerá
-del control CV. En el seguimiento del paciente demente:
+Pronóstico vital alejado: ligado a trastornos orgánicos. DMI: dependerá del control CV. En el seguimiento del paciente demente:
 
 - rastrear condiciones de comorbilidad
-
 - operar en consonancia con familiares y cuidadores
-
 - medidas para mejorar la conducta / ánimo
-
 - medidas para la modulación del ambiente.

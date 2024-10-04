@@ -58,6 +58,8 @@
 
 #include "Intro.typ"
 
+#include "Semiologia.typ"
+
 = Trastornos mentales orgánicos
 
 #include "F00.typ"
