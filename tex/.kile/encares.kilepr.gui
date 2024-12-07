@@ -2,7 +2,7 @@
 kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=F20.tex
+lastDocument=Intro.tex
 
 [document-settings,item:Estupor.tex]
 Bookmarks=
@@ -91,7 +91,7 @@ open=false
 order=-1
 
 [item:F00.tex]
-open=true
+open=false
 order=1
 
 [item:F05.aux]
@@ -127,7 +127,7 @@ open=false
 order=-1
 
 [item:F20.tex]
-open=true
+open=false
 order=2
 
 [item:F22a.aux]
@@ -183,7 +183,7 @@ open=false
 order=-1
 
 [item:F40.tex]
-open=true
+open=false
 order=0
 
 [item:F40a.aux]
@@ -359,8 +359,8 @@ open=false
 order=-1
 
 [item:Intro.tex]
-open=false
-order=2
+open=true
+order=1
 
 [item:cc.png]
 open=false
@@ -415,7 +415,7 @@ open=false
 order=-1
 
 [item:encares.tex]
-open=false
+open=true
 order=0
 
 [item:encares.toc]
@@ -455,7 +455,7 @@ CursorColumn=0
 CursorLine=481
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"5ff643af41c2456b28e87fea0abae627113b094e","ranges":[]}
+TextFolding={"checksum":"f7dbf6bb1fbca8dbb33ea428645eb9c6dde4e870","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:F40.tex]
@@ -475,9 +475,9 @@ TextFolding={"checksum":"9b51c31095c629d36016b802ef42179583360cfd","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:encares.tex]
-CursorColumn=17
-CursorLine=20
+CursorColumn=6
+CursorLine=21
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"d8c41db9ebadf075d0a2dae4dd35801280748d97","ranges":[]}
+TextFolding={"checksum":"bb913048dcdc0186ba5c320729ead168c38a07d7","ranges":[]}
 ViMarks=

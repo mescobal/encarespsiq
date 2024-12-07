@@ -35,9 +35,6 @@ Estos encares fueron posibles gracias a la generosa contribución de varios cole
 === Licencia
 Todo el contenido tiene licencia Creative Commons (Atribución - Compartir igual) 4.0 Internacional
 #footnote[#link("http://creativecommons.org/licenses/by-sa/4.0/")] .
-<_nosografía_clásica_7>
-<_nosografía_clásica_7>
-<_nosografía_clásica_7>
 
 #figure([#image("cc.png")],  caption: [Creative Commons  ])
 
@@ -73,12 +70,12 @@ Al final hay una lista de las abreviaturas más usadas, así como fragmentos de 
 ==== Material básico
 El material mínimo para preparar una prueba es:
 
-- Un tratado de psiquiatría (quizás sea más práctico en forma de compendio). Uno de los más usados en este texto es el compendio de Kaplan & Sadock .
-- El tratado clásico más popular en Uruguay (es una característica local, no está extendido en el mundo): Ey.
-- Un manual de clasificación de enfermedades mentales. Si bien entre los docentes es popular el DSM-IV , hay que recordar que todos los documentos vinculados a salud se guían por la guía de la OMS: CIE-10. El DSM-5 puede no ser popular entre algunos docentes (por buenos motivos).
-- Un texto sobre psicofarmacología. Uno de los más populares es el de Stahl .
+- Un tratado de psiquiatría (quizás sea más práctico en forma de compendio). Uno de los más usados en este texto es el compendio de Kaplan & Sadock #footnote[Sadock, B. J. (2015). Kaplan & Sadock sinopsis de psiquiatría (Vol. 10). Barcelona: Wolters Kluwer.].
+- El tratado clásico más popular en Uruguay (es una característica local, no está extendido en el mundo): Ey #footnote[Ey, H., Bernard, P., & Brisset, C. (1975). Tratado de psiquiatría. In Tratado de psiquiatria].
+- Un manual de clasificación de enfermedades mentales. Si bien entre los docentes es popular el DSM-IV #footnote[American Psychiatric Association. (1998). DSM IV: manual diagnóstico y estadístico de los trastornos mentales. In DSM IV: manual diagnóstico y estadístico de los trastornos mentales.], hay que recordar que todos los documentos vinculados a salud se guían por la guía de la OMS: CIE-10 #footnote[Guía de Bolsillo de la Clasificación CIE-10: Clasificación de los Trastornos Mentales y del Comportamiento. Ed. Médica Panamericana, 2000.]. El DSM-5 #footnote[American Psychiatric Association. (2014). DSM-5: Manual diagnóstico y estadístico de los trastornos mentales. ] puede no ser popular entre algunos docentes (podrían tener buenos motivos).
+- Un texto sobre psicofarmacología. Uno de los más populares es el de Stahl #footnote[Stahl, S. M. (2014). Psicofarmacología esencial de Stahl. Bases neurocientíficas y aplicaciones prácticas. Madrid: Aula Médica.] .
 
 ==== Material complementario
 Hay material que se usó como base en muchos de los capítulos que siguen, por lo cual no están citados en cada capítulo:
 
-- Uno de las mejores referencias en psicofarmacología por la abundancia de tablas y accesibilidad de la información es el "Clinical Handbook of Psychotropic Drugs".
+- Uno de las mejores referencias en psicofarmacología por la abundancia de tablas y accesibilidad de la información es el "Clinical Handbook of Psychotropic Drugs" #footnote[Procyshyn, R. M., Bezchlibnyk-Butler, K. Z., & Kim, D. D. (Eds.). (2023). Clinical handbook of psychotropic drugs. Hogrefe Publishing.].
