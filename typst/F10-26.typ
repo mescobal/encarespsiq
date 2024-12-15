@@ -2,39 +2,31 @@
 
 === Descripción
 
-Parte del Síndrome de Wenicke-Korsakoff (SWK) descrito en 1881
-(Wernicke) y 1889 (Korsakoff). Cuadro de comienzo súbito con un período
-de confusión y ocasionalmente con oftalmoplegia-nistagmo o ataxia.
-Post-mortem se encontraban pequeñas hemorragias en los cuerpos mamilares
-(área del cerebro involucrada en la memoria reciente y en la visión
-binocular)
+Parte del Síndrome de Wenicke-Korsakoff (SWK) descrito en 1881 (Wernicke) y 1889 (Korsakoff). Cuadro de comienzo súbito con un período de confusión y ocasionalmente con oftalmoplegia-nistagmo o ataxia.
 
-Los síntomas precoces comprenden: deficiencia de tiamina, pérdida de
-memoria reciente retrógrada, pérdida de memoria anterógrada, precedida
-de consumo crónico de alcohol. La pérdida de ambras memorias, producen
-una extinción de la evocación de eventos desde el inicio del cuadro.
+Post-mortem se encontraban pequeñas hemorragias en los cuerpos mamilares (área del cerebro involucrada en la memoria reciente y en la visión binocular)
+
+Los síntomas precoces comprenden: deficiencia de tiamina, pérdida de memoria reciente retrógrada, pérdida de memoria anterógrada, precedida de consumo crónico de alcohol. La pérdida de ambras memorias, producen una extinción de la evocación de eventos desde el inicio del cuadro.
 
 === Terminología
 
-- Síndrome de Wernicke: generalmente se aplica a la deficiencia de
-Tiamina sin uso de alcohol. - Síndrome de Korsakoff: deficiencia de
-Tiamina precedida de uso crónico de alcohol, con inicio agudo y florido.
+- Síndrome de Wernicke: generalmente se aplica a la deficiencia de Tiamina sin uso de alcohol.
+- Síndrome de Korsakoff: deficiencia de Tiamina precedida de uso crónico de alcohol, con inicio agudo y florido.
 
 === Clínica
-Presentaciones muy dispares con diferentes componentes de:
-amnesia #footnote[Blansjaar, B. A., Takens, H., & Zwinderman, A. H. (1992). The course of alcohol amnestic disorder: a three‐year follow‐up study of clinical signs and social disabilities. Acta Psychiatrica Scandinavica, 86(3), 240-246.], delirium #footnote[ Wijnia JW, Oudman E (2013) Biomarkers of delirium as a clue to diagnosis and pathogenesis of Wernicke-Korsakoff syndrome. Eur J Neurol. 20:1531–1538.], demencia #footnote[Ridley NJ, Draper B, Withall A (2013) Alcohol-related dementia: An update of the evidence. Alzheimers Res Ther. 5:3.], encefalopatía #footnote[Isenberg-Grzeda E, Hsu AJ, Hatzoglou V, Nelso C, Breitbart W (2015) Palliative treatment of thiamine-related encephalopathy (Wernicke’s encephalopathy) in cancer: A case series and review of the literature. Palliat Support Care. 13:1241–1249], trastorno de personalidad #footnote[Plutchik R, DiScipio WJ (1974) Personality patterns in chronic alcoholism (Korsakoff’s syndrome), chronic schizophrenia, and geriatric patients with chronic brain syndrome. J Am Geriatr Soc. 22:514–516.], abstinencia de alcohol #footnote[Trevisan LA, Boutros N, Petrakis IL, Krystal JH (1998) Complications of alcohol withdrawal: Pathophysiological insights. Alcohol Health Res World. 22:61–66.], trumatismo #footnote[Brion S, Plas J, Mikol J, Jeanneau A, Brion F (2001) Post-traumatic Korsakoff’s syndrome: Clinical and anatomical report. Encephale. 27:513–525.] y psicosis #footnote[Ramayya A, Jauhar P (1997) Increasing incidence of Korsakoff’s psychosis in the east end of Glasgow. Alcohol Alcohol. 32:281–285.].
+Presentaciones muy dispares con diferentes componentes de: amnesia #footnote[Blansjaar, B. A., Takens, H., & Zwinderman, A. H. (1992). The course of alcohol amnestic disorder: a three‐year follow‐up study of clinical signs and social disabilities. Acta Psychiatrica Scandinavica, 86(3), 240-246.] delirium #footnote[ Wijnia JW, Oudman E (2013) Biomarkers of delirium as a clue to diagnosis and pathogenesis of Wernicke-Korsakoff syndrome. Eur J Neurol. 20:1531–1538.], demencia #footnote[Ridley NJ, Draper B, Withall A (2013) Alcohol-related dementia: An update of the evidence. Alzheimers Res Ther. 5:3.], encefalopatía #footnote[Isenberg-Grzeda E, Hsu AJ, Hatzoglou V, Nelso C, Breitbart W (2015) Palliative treatment of thiamine-related encephalopathy (Wernicke’s encephalopathy) in cancer: A case series and review of the literature. Palliat Support Care. 13:1241–1249], trastorno de personalidad #footnote[Plutchik R, DiScipio WJ (1974) Personality patterns in chronic alcoholism (Korsakoff’s syndrome), chronic schizophrenia, and geriatric patients with chronic brain syndrome. J Am Geriatr Soc. 22:514–516.], abstinencia de alcohol #footnote[Trevisan LA, Boutros N, Petrakis IL, Krystal JH (1998) Complications of alcohol withdrawal: Pathophysiological insights. Alcohol Health Res World. 22:61–66.], trumatismo #footnote[Brion S, Plas J, Mikol J, Jeanneau A, Brion F (2001) Post-traumatic Korsakoff’s syndrome: Clinical and anatomical report. Encephale. 27:513–525.] y psicosis #footnote[Ramayya A, Jauhar P (1997) Increasing incidence of Korsakoff’s psychosis in the east end of Glasgow. Alcohol Alcohol. 32:281–285.].
 
 Por el consumo de alcohol puede haber: neuropatía, falla hepática, várices esofágicas, otros trastornos neuropsiquiátricos, infeciones, ansiedad-depresión, formas de cáncer vinculadas al alcohol#footnote[Westermeyer JJ, Soukup B (2021) Late-onset cases of Korsakoff amnestic syndrome with CNS comorbidities: Suggestions for long-term management. Addict Disord Treat. 20:69–73.].
 
 ==== Signos patognomónicos y curso
-Los pacientes poseen una evocación "arcaica" intacta a pesar de las diferentes alteraciones en la memeoria
-presentes#footnote[Cutting J (1978) The relationship between Korsakoff’s syndrome and "alcohol dementia". Br J Psychiatry. 132:240–251.] #footnote[Spiegel DR, O’Connell K, Stocker G, Slater J, Spiegel A (2020) A case of Wernicke-Korsakoff syndrome initially diagnosed as autoimmune limbic encephalitis: Differential diagnosis of delirium and short-term memory deficits. Prim Care Companion CNS Disord. 22:20l02693.]. Existe una afectación de memoria y aprendizaje de forma desproporcionada en relación a otras funciones cognitivas, en un paciente alerta#footnote[Victor M (1989) The Wernicke-Korsakoff syndrome and related neurologic disorders due to alcoholism and malnutrition. Philadelphia: F.A. Davis.].
+Los pacientes poseen una evocación "arcaica" intacta a pesar de las diferentes alteraciones en la memoria presentes#footnote[Cutting J (1978) The relationship between Korsakoff’s syndrome and "alcohol dementia". Br J Psychiatry. 132:240–251.] #footnote[Spiegel DR, O’Connell K, Stocker G, Slater J, Spiegel A (2020) A case of Wernicke-Korsakoff syndrome initially diagnosed as autoimmune limbic encephalitis: Differential diagnosis of delirium and short-term memory deficits. Prim Care Companion CNS Disord. 22:20l02693.]. Existe una afectación de memoria y aprendizaje de forma desproporcionada en relación a otras funciones cognitivas, en un paciente alerta#footnote[Victor M (1989) The Wernicke-Korsakoff syndrome and related neurologic disorders due to alcoholism and malnutrition. Philadelphia: F.A. Davis.].
 
 A esto se le agrega neuropatía periférica y signos oftalmológicos#footnote[Caine D, Halliday GM, Kril JJ, Harper CG (1997) Operational criteria for the classification of chronic alcoholics: Identification of Wernicke’s encephalopathy. J Neurol Neurosurg Psychiatry. 62:51–60.]. Sin embargo la ataxia ocurre solo en 23%.
 
 El tratamiento con tiamina (aunque demore 1 o 2 días) puede provocar una recuperación parcial. Si se continúa el tratamiento por meses o años, puede verse una mejoría incremental lenta con cierta amnesia persistente. Si el tratamiento se retrasa 1-2 semanas, puede comprometerse la recuperación parcial#footnote[Thomson AD, Guerrini I, Marshall EJ (2012) The evolution and treatment of Korsakoff’s syndrome: Out of sight, out of mind?Neuropsychol Rev. 22:81–92].
 
 La memoria inemdiata en el SWK dura pocos minutos. Los detalles relacionados a eventos recientes con componente emocional (por ejemplo una tormenta eléctrica reciente) se pierden, aunque por condicionamiento puede aparecer una respuesta emocional en relación al evento original.
+
 Este déficit implica la imposiblidad de una vida autónoma. La falta de conciencia de los eventos que llevan a la circunstancia actual implican una falla en la resolución de problemas y en el juicio. El estado emocional del paciente puede ir desde una indiferencia calma hasta la conducta demandante e irritabilidad. La desinhibición puede precipitar conductas violentas#footnote[Gerridzen IJ, Hertogh CM, Depla MF, Veenhuizen RB, Vershuur EML, Joling KJ (2018) Neuropsychiatric symptoms in people with Korsakoff syndrome and other alcohol-related cognitive disorders living in specialized long-term care facilities: Prevalence, severity, and associated caregiver distress. J Am Med Dir Assoc. 19:240–247.].
 
 La memoria "arcaica" (eventos pre inicio del SWK) permanece accesible (nombres, eventos, aritmética básica, lecto-escritura). Puede perderse por falta de uso. Puede conservarse la realización de conductas complejas (nadar, tipear, conducir) si se practican (memoria procedural). Pueden continuar una actividad laboral en entornos supervisados. Con cuidados adecuados la sobrevida es buena#footnote[Sanvisens A, Zuluaga P, Fuster D, Rivas I, Tor J, Marcos M, Chamorro AJ, Muga R (2017) Long-term mortality of patients with an alcohol-related Wernicke-Korsakoff syndrome. Alcohol. 52:466–471.].
