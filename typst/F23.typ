@@ -1,54 +1,26 @@
-
 == Episodio Psicótico Agudo
-<_episodio_psicótico_agudo>
 === Notas clínicas
-<_notas_clínicas_8>
-Un EPA no es un diagnóstico sino un cuadro clínico que determina un
-encare \"de planteo\". En caso de estar frente a un EPA polimorfo, se
-puede hacer el encare de PDA.
+Un EPA no es un diagnóstico sino un cuadro clínico que determina un encare "de planteo". En caso de estar frente a un EPA polimorfo, se puede hacer el encare de PDA.
 
 EPA no es un diagnóstico nosológico.
 
-Múltiples nombres \(no siempre son sinónimos): Psicosis Delirante Aguda,
-Trastorno Psicótico Breve, Psicosis Reactiva Breve, Boufée Delirante,
-Psicosis Alucinatoria o Imaginativa Aguda, deliro d’emblée \(de inicio
-súbito). En la CIE: Trastornos Psicóticos Agudos y Transitorios \(F23).
+Múltiples nombres (no siempre son sinónimos): Psicosis Delirante Aguda, Trastorno Psicótico Breve, Psicosis Reactiva Breve, Boufée Delirante, Psicosis Alucinatoria o Imaginativa Aguda, deliro d’emblée \(de inicio súbito). En la CIE: Trastornos Psicóticos Agudos y Transitorios \(F23).
 
 === Encare
-<_encare_8>
+
 ==== En suma
-<_en_suma_2>
-Paciente con AFP de X, APM de X, APP de X que es traido por un cuadro
-clínico de inicio agudo, polimorfo, centrado en una alteración del
-pensamiento, en un contexto de \(pupererio, bajo nivel intelectual,
-retardo mental, trastorno de la personalidad, UISP, etc.)
+
+Paciente con AFP de X, APM de X, APP de X que es traido por un cuadro clínico de inicio agudo, polimorfo, centrado en una alteración del pensamiento, en un contexto de (pupererio, bajo nivel intelectual, retardo mental, trastorno de la personalidad, UISP, etc.)
 
 ==== Agrupación sindromática
-<_agrupación_sindromática_7>
-===== Síndrome delirante
-<_síndrome_delirante_3>
-De inicio brusco, de X evolución, dado por la presencia en el contenido
-del pensamiento de ideas mórbidas incompartibles, irreductibles a la
-lógica, carentes de juicio de realidad, que le generan conductas, por lo
-que las catalogamos como ideas delirantes. Este delirio es:
 
-- Politemático: persecutorio, megalomaníaco, transformación corporal
-  \(sexual, envenenamiento, influencia, riqueza, potencia), elementos
-  del Síndrome de influencia, automatismo mental, despersonalización.
-  Destacar peligrosidad si corresponde. \* A mecanismo múltiple:
-  intuitivo, interpretativo, alucinatorio. #strong[Intuitivo: inmediatez
-  irreflexiva, se le presenta como verdad revelada \(\"de pronto me di
-  cuenta que…\"). Aceptado sin crítica ni razonamiento.] Alucinatorio:
-  AAV, visuales, cenestésicas, táctiles, motoras \(puede estar dentro de
-  un SAM, siendo un elemento de mal pronóstico). Si hay alucinaciones
-  olfativas plantear en DD causa orgánica \(epilepsia temporal con
-  crisis uncinadas). #strong[Imaginativo: fantástico, basado en
-  ficciones.] Interpretativo: por inferencias y deducciones erróneas a
-  partir de un hecho real. \* Mal sistematizado: sus componentes no
-  guardan una lógica. Presente movilidad, carácter cambiante, mínima
-  organización. Carente de hilo argumental: expresado sin orden,
-  coherencia y claridad. Sin marcado poder de convicción. \* Estructura:
-  polimorfa.
+===== Síndrome delirante
+
+De inicio brusco, de X evolución, dado por la presencia en el contenido del pensamiento de ideas mórbidas incompartibles, irreductibles a la lógica, carentes de juicio de realidad, que le generan conductas, por lo que las catalogamos como ideas delirantes. Este delirio es:
+
+- Politemático: persecutorio, megalomaníaco, transformación corporal (sexual, envenenamiento, influencia, riqueza, potencia), elementos del Síndrome de influencia, automatismo mental, despersonalización. Destacar peligrosidad si corresponde.
+- A mecanismo múltiple: intuitivo, interpretativo, alucinatorio. #strong[Intuitivo: inmediatez irreflexiva, se le presenta como verdad revelada \(\"de pronto me di cuenta que…\"). Aceptado sin crítica ni razonamiento.] Alucinatorio: AAV, visuales, cenestésicas, táctiles, motoras \(puede estar dentro de un SAM, siendo un elemento de mal pronóstico). Si hay alucinaciones olfativas plantear en DD causa orgánica \(epilepsia temporal con crisis uncinadas). #strong[Imaginativo: fantástico, basado en ficciones.] Interpretativo: por inferencias y deducciones erróneas a partir de un hecho real. \* Mal sistematizado: sus componentes no guardan una lógica. Presente movilidad, carácter cambiante, mínima   organización. Carente de hilo argumental: expresado sin orden, coherencia y claridad. Sin marcado poder de convicción.
+- Estructura: polimorfa.
 
 Conductas generadas por el delirio.
 
@@ -56,22 +28,18 @@ Características del delirio: PAFaInVif
 
 Características del delirio:
 
-- Polimorfo: politemático, a mecanismo múltiple. \* Adhesión: el
-  paciente no puede desprenderse del contenido del delirio. \*
-  Fascinación: paciente fascinado por la experiencia. \* Inefabilidad:
-  hay incapacidad de organizar el discurso delirante, no da cuenta del
-  origen de la experiencia. \* Vivido: el delirio es más vivido y
-  actuado que relatado \(sensible y actual). \* Fluctuante, cambiante.
+- Polimorfo: politemático, a mecanismo múltiple.
+- Adhesión: el paciente no puede desprenderse del contenido del delirio.
+- Fascinación: paciente fascinado por la experiencia.
+- Inefabilidad:   hay incapacidad de organizar el discurso delirante, no da cuenta del origen de la experiencia.
+- Vivido: el delirio es más vivido y actuado que relatado \(sensible y actual).
+- Fluctuante, cambiante.
 
-El delirio está constituido desde el inicio, sin trabajo elaborativo
-delirante \(d’emblée), con intensificación parahípnica.
+El delirio está constituido desde el inicio, sin trabajo elaborativo delirante \(d’emblée), con intensificación parahípnica.
 
 ===== Síndrome de alteración del humor y la afectividad
-<_síndrome_de_alteración_del_humor_y_la_afectividad_2>
-Oscilante en forma solidaria con el delirio. Ansiedad MIDI, manifestada
-s/t a nivel de la psicomotricidad. Puede haber aceleración del
-pensamiento con taquipsiquia y verborrea. La mímica y gestualidad pueden
-estar aumentadas, con fascies cambiante.
+
+Oscilante en forma solidaria con el delirio. Ansiedad MIDI, manifestada s/t a nivel de la psicomotricidad. Puede haber aceleración del pensamiento con taquipsiquia y verborrea. La mímica y gestualidad pueden estar aumentadas, con fascies cambiante.
 
 ===== Síndrome conductual
 <_síndrome_conductual_3>

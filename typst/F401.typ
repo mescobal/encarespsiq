@@ -1,25 +1,7 @@
-
 == Fobia social
-<_fobia_social>
 === Notas clínicas
-<_notas_clínicas_13>
 ==== Definición
-<_definición>
-Temor ante situaciones que requieren exposición social: iniciar o
-mantener conversaciones, participar en pequeños grupos, tener citas,
-hablar con figuras de autoridad, asistir a fiestas. Percepción del temor
-como irracional o exagera-do. Preocupación por la posibilidad de estar
-en una situación embarazosa o que los demás le vean como ansioso, débil,
-\"loco\". Temor a que los demás se den cuenta de que sus manos tiemblan.
-Temor a no poder articular correctamente las palabras. Pueden evitar:
-comer, beber, escribir en público. Síntomas de ansiedad ante la
-exposición: palpitaciones, temblores, sudoración, molestias
-gastrointestinales, diarrea, tensión muscular, rubor. Temor a
-evaluaciones indirectas \(exámenes). De forma típica aparece en la
-adolescencia \(rango 5 a 35 años) con el antecedente de timidez o
-inhibición social en la infancia. La aparición puede estar marcada por
-algún su-ceso vivido como humillante.
-
+Temor ante situaciones que requieren exposición social: iniciar o mantener conversaciones, participar en pequeños grupos, tener citas, hablar con figuras de autoridad, asistir a fiestas. Percepción del temor como irracional o exagerado. Preocupación por la posibilidad de estar en una situación embarazosa o que los demás le vean como ansioso, débil, "loco". Temor a que los demás se den cuenta de que sus manos tiemblan. Temor a no poder articular correctamente las palabras. Pueden evitar: comer, beber, escribir en público. Síntomas de ansiedad ante la exposición: palpitaciones, temblores, sudoración, molestias gastrointestinales, diarrea, tensión muscular, rubor. Temor a evaluaciones indirectas (exámenes). De forma típica aparece en la adolescencia (rango 5 a 35 años) con el antecedente de timidez o inhibición social en la infancia. La aparición puede estar marcada por algún suceso vivido como humillante.
 ==== Curso
 <_curso>
 Crónico o continuo \(puede oscilar por circunstancias ambientales, por

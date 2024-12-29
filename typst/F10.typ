@@ -28,7 +28,7 @@ Comienzo: acceso confuso-onírico agitado, continuación de pesadillas. Duració
 
 Presentación: sudoración, olor podálico (Clérembault), agitado, delirio PAFAINVIF, gestos de defensa o ataque.
 
-Delirio onírico: Lasègue "Le délire alcoolique est un rêve", Garnier, Magnan. Vivenciado, actuado, onirismo profesional \(temática laboral). Zoopsias \(como imágenes oníricas, ratas, serpientes, arañas, sapos). Escenas de terror \(es atacado), visiones macabras, incendios. Raramente temas eróticos o de celos. Predominio de alucinaciones visuales \(como en el sueño). Pueden haber alucinaciones auditivas \(amenazantes, peyorativas), olfativas \(gas, azufre), gustativas \(veneno), alucinaciones de la sensibilidad general \(pinchazos, viscosidad, gusanos). Características:
+Delirio onírico: Lasègue "Le délire alcoolique est un rêve", Garnier, Magnan. Vivenciado, actuado, onirismo profesional (temática laboral). Zoopsias (como imágenes oníricas, ratas, serpientes, arañas, sapos). Escenas de terror (es atacado), visiones macabras, incendios. Raramente temas eróticos o de celos. Predominio de alucinaciones visuales (como en el sueño). Pueden haber alucinaciones auditivas (amenazantes, peyorativas), olfativas (gas, azufre), gustativas (veneno), alucinaciones de la sensibilidad general (pinchazos, viscosidad, gusanos). Características:
 
 - Vivido
 - Móvil,cambiante
@@ -38,29 +38,29 @@ Delirio onírico: Lasègue "Le délire alcoolique est un rêve", Garnier, Magnan
 
 Síndrome somático: taquicardia, temperatura normal o levemente aumentada. Poca afectación del estado general \(DD con DT). Sudoración, polipnea. Buscar subicericia. Temblor distal. Hiperalgia de masas musculares. Trastornos visuales: ambiolpía, discromatopsia, escotoma.
 
-Formas clínicas: más frecuente forma confusoonírica. Excepcionalmente formas alucinatorias no oníricas o sin confusión \(Marchand) o formas con automatismo mental \(eco del pensamiento, comentario de actos, s/t alucinosis de bebedores de Wernicke).
+Formas clínicas: más frecuente forma confusoonírica. Excepcionalmente formas alucinatorias no oníricas o sin confusión (Marchand) o formas con automatismo mental (eco del pensamiento, comentario de actos, s/t alucinosis de bebedores de Wernicke).
 
-Evolución: favorable \(o a DT). Secuelas: ideas fijas PO o crónicas (psicosis alcohólicas crónicas).
+Evolución: favorable (o a DT). Secuelas: ideas fijas PO o crónicas (psicosis alcohólicas crónicas).
 
 Diagnóstico: S° confusional en alcoholista.
 
 #strong[Delirio alcohólico agudo:]
 DT Comienzo: más agudo, más grave. Sudoración profusa, temblor generalizado, agitación intensa, insomnio total.
 
-Delirio onírico más marcado, intensamente alucinatorio, onirismo profesional, DOTE completa, zoopsias \(microzoopsias en esquinas del cuarto). Liberación de movimientos anormales \(masticación, succión, prensión). Temblor generalizado en todo el cuerpo. Fiebre \(\>39) persistente por días. Fiebre \> 40 → delirio alcohólico hiperazoémico. Deshidratación. Diuresis suele ser \(paradójicamente) suficiente.
+Delirio onírico más marcado, intensamente alucinatorio, onirismo profesional, DOTE completa, zoopsias (microzoopsias en esquinas del cuarto). Liberación de movimientos anormales (masticación, succión, prensión). Temblor generalizado en todo el cuerpo. Fiebre (>39) persistente por días. Fiebre > 40 → delirio alcohólico hiperazoémico. Deshidratación. Diuresis suele ser (paradójicamente) suficiente.
 
 #block[No existe DT apirético]
 
-Examen: azoemia \(puede ser normal, si está ↑ pronóstico grave, delirio agudo azoémico). Ionograma \(buscar hipopotasemia).
+Examen: azoemia (puede ser normal, si está ↑ pronóstico grave, delirio agudo azoémico). Ionograma \(buscar hipopotasemia).
 
-Evolución: favorable \(retorno del sueño, apirexia, retrocede confusión) o no \(coma hipertérmico, convulsiones, síncope).
+Evolución: favorable (retorno del sueño, apirexia, retrocede confusión) o no \(coma hipertérmico, convulsiones, síncope).
 
 Anatomía patológica: encefalitis psicótica aguda. Meningitis crónica alcohólica.
 
 Patogenia: DT → autointoxicación por disminución de capacidad funcional del hígado. DT: cada vez menos frecuentes por tratamiento precoz.
 
 + Secuelas postoníricas: Regis describe 3 tiempos del despertar de los estados oníricos: ausencia de crítica → dudas → rectificación. Cuando persiste la idea → idea fija postonírica \(explica el delirio con detalle). Pueden haber IFPO permanentes.
-+ Estados de alucinosis alcohólica: psicosis alucinatoria o síndrome de automatismo mental subagudo con predominio de actividad alucinatoria (más auditivo que visual) sin desestructuración de la conciencia. BOTE, sin obnubilación, sin trastorno de memoria. Alucinosis de los bebedores \(Wernicke). Inicio: ilusiones, s/t en la noche \(ruidos, conversaciones) y rápidamente aparecen alucinaciones acusticoverbales con carácter de sensorialidad más acentuado. Contenido hostil (insultos, amenazas, oye hablar de él en tercera persona). Poco frecuente alucinaciones visuales \(más ilusiones, formas amenazantes,   sombras). Experiencia delirante \(imaginación alucinatoria). Es una forma de delirio vivido solamente en los datos perceptivos. Evolución favorable en pocos días. Si se cronifica → F20 desencadenado por EPA OH.
++ Estados de alucinosis alcohólica: psicosis alucinatoria o síndrome de automatismo mental subagudo con predominio de actividad alucinatoria (más auditivo que visual) sin desestructuración de la conciencia. BOTE, sin obnubilación, sin trastorno de memoria. Alucinosis de los bebedores \(Wernicke). Inicio: ilusiones, s/t en la noche (ruidos, conversaciones) y rápidamente aparecen alucinaciones acusticoverbales con carácter de sensorialidad más acentuado. Contenido hostil (insultos, amenazas, oye hablar de él en tercera persona). Poco frecuente alucinaciones visuales (más ilusiones, formas amenazantes,   sombras). Experiencia delirante (imaginación alucinatoria). Es una forma de delirio vivido solamente en los datos perceptivos. Evolución favorable en pocos días. Si se cronifica → F20 desencadenado por EPA OH.
 + Delirios alcohólicos crónicos:
   + Delirios de interpretación: psicosis sistematizadas. Celotipia alcohólica. Personalidad neurótica predelirante, trastorno "procesual" de la personalidad \(Jaspers). Puede estar precedido de una fase onírica. Aumenta el número de amantes a medida que progresa el delirio. Mezcla de temas hipocondríacos, homosexuales, incestuosos latentes.
   + Delirios alucinatorios: paranoia alucinatoria de los bebedores (Kraepelin). Pueden estar precedida de una alucinosis. Actividad alucinatoria y seudoalucinatoria muy viva. Esfera acusticoverbal o visual. Diálogos, susurros, comentario de actos, fotopsias. Poco    ansiosa, alegría paradojal, intenta apartarse de las alucinaciones con distracción. Fabulación. Fantasía. Evolución a la indiferencia →  demencia.
@@ -298,17 +298,17 @@ Depende del diagnóstico
 Fármacos específicos
 
 Topiramato: es una molécula similar a la fructosa, con propiedades anticonvulsivantes, aumenta la actividad neuronal facilitada por GABA-A y simultáneamente antagoniza los receptores AMPA y kainato-glutamato lo que puede disminuir la liberación de dopamina inducida por alcohol en el núcleo accumbens. Teóricamente el aumento de la inhibición GABA de las neuronas dopaminérgicas del núcleo accumbens interferiría con el agonismo exitatorio glutamatérgico característico del alcoholismo crónico y atenuaría la actividad dopaminérgica mesolímbica. Esto atenuaría los efectos de recompensa de la ingesta de alcohol. Secundariamente tendría acción neuroprotectora sobre el aumentode la actividad glutamatérgica ocasionada por la ingesta crónica de alcohol.
-Por su acción anticonvulsivante, se comporta secundariamente como protector del umbral convulsivo en un proceso de abstinencia. 
+Por su acción anticonvulsivante, se comporta secundariamente como protector del umbral convulsivo en un proceso de abstinencia.
 
 En todos los casos: mantener abstinencia alcohólica + intervenciones psicosociales + vitaminoterapia v/o.
 
-Ejemplo de pauta de tratamiento: 
+Ejemplo de pauta de tratamiento:
 - Delirio Alcohólico Subagudo DAS: Urgencia médica con riesgo vital.
 - DT: CTI
 
 Directivas:
 - Inmediato: calmar agitación, yugular delirio, compensación del punto de vista general
-- largo plazo: tratamiento de la enfermedad de fondo 
+- largo plazo: tratamiento de la enfermedad de fondo
 
 Tratamiento de la confusión mental en general:
 - corregir agente causal
@@ -390,7 +390,7 @@ DAS: evolución favorable hacia la curación en pocos días, favorecido por la t
 
 Depende del éxito del tratamiento etiológico y sujeto a la reversibilidad de éste. Tiende a la curación sin secuelas. Puede ocurrir una fase de \"despertar\" luego de oscilaciones con ideas fijas postoníricas que desaparecen en días Pueden quedar ideas permanentes postoníricas \(delirio de evocación de la experiencia confuso-onírica).
 
-Pueden ocurrir recaídas provocadas por factores etiológicos concurrentes (infecciones, emociones, partos) 
+Pueden ocurrir recaídas provocadas por factores etiológicos concurrentes (infecciones, emociones, partos)
 
 Alejado
 

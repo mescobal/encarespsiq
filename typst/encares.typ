@@ -70,6 +70,8 @@
 
 #include "F10.typ"
 
+#include "F10-26.typ"
+
 #include "F11.typ"
 
 = Trastornos psicóticos
