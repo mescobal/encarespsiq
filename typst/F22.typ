@@ -1,4 +1,6 @@
-
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Trastorno delirante
 
 === Notas clínicas
@@ -97,7 +99,7 @@ Por:
 - Aumento de producción delirante \(con o sin cambio cualitativo)
 - síndrome conductual Que ha llevado en los últimos tiempos a una alteración de las conductas basales y pragmatismos \(ejemplos).
 
-Causa de descompensación
+====== Causa de descompensación
 
 - Biológico: abandono de la medicación.
 - Psicosocial: amenaza a su: intimidad, moralidad rígida, problemática homosexual inconsciente, herida narcisista.
@@ -146,7 +148,7 @@ Especificadores: TIPO: según tema predominante
 Los estudios a nivel biológico son escasos. En lo imagenológico #footnote[Vicens, V., Radua, J., Salvador, R., Anguera-Camos, M., Canales-Rodriguez, E. J., Sarro, S., … & Pomarol-Clotet, E. \(2016). Structural and functional brain changes in delusional disorder. The British Journal of Psychiatry, 208\(2), 153-159.] se destaca:
 
 - ↓ de la materia gris en la corteza medial frontal y cingulada anterior, así como en la ínsula a nivel bilateral. 
-- falla en la desactivación de la corteza medial frontal medial y cingulada anterior durante la realización de algunas tareas de desempeño continuo \(test N-back, mide memoria de trabajo)
+- falla en la desactivación de la corteza medial frontal medial y cingulada anterior durante la realización de algunas tareas de desempeño continuo (test N-back, mide memoria de trabajo)
 - ↓ de la conectividad de reposo en la ínsula a nivel bilateral.
 
 ===== Psicopatología
@@ -169,154 +171,70 @@ El diagnóstico es clínico.
 
 ===== Psicológico
 
-Luego de superado el cuadro actual: Tests P y NP. SOCIAL • policía-juez
-\(al que lo envía) • familia: jerarquizar si solo contamos con el relato
-del paciente \(relato con \"plausibilidad\" obliga a corroborar datos
-con terceros). • HC anteriores, tratamiento y respuestas • nivel de
-funcionamiento sociolaboral • ajuste familiar premórbido y períodos
-intercríticos • valorar red de soporte social • inventario de eventos
-vitales y objetivar la reacción del paciente a ellos • informar sobre la
-eventualidad de realizar ECT en caso de pobre respuesta a la medicación.
-Despejaremos temores al respecto, explicando ventajas y efectos
-secundarios y obtendremos un consentimiento informado por escrito.
+Luego de superado el cuadro actual: Tests P y NP
+
+===== Social
+- policía-juez (al que lo envía)
+- familia: jerarquizar si solo contamos con el relato del paciente \(relato con \"plausibilidad\" obliga a corroborar datos con terceros).
+- HC anteriores, tratamiento y respuestas
+- nivel de funcionamiento sociolaboral
+- ajuste familiar premórbido y períodos intercríticos
+- valorar red de soporte social
+- inventario de eventos vitales y objetivar la reacción del paciente a ellos
+- informar sobre la eventualidad de realizar ECT en caso de pobre respuesta a la medicación. Despejaremos temores al respecto, explicando ventajas y efectos secundarios y obtendremos un consentimiento informado por escrito.
 
 ==== Tratamiento
-<_tratamiento_7>
+
 Destinado a:
 
-- compensar el cuadro actual \* actuar sobre enfermedad de fondo,
-  evitando futuras descompensaciones, favoreciendo la adaptación social
-  con reinserción laboral y correcta adopción de roles.
+- compensar el cuadro actual
+- actuar sobre enfermedad de fondo, evitando futuras descompensaciones, favoreciendo la adaptación social con reinserción laboral y correcta adopción de roles.
 
 ===== Cuadro actual
-<_cuadro_actual_4>
-Internación o no según tipo y gravedad de descompensación. En orden de
-preferencia: ambulatorio → internación con consentimiento → internación
-compulsiva. Internaremos al paciente en Hospital Psiquiátrico en
-habitación aislada en lo posible de común acuerdo por lo que
-procuraremos obtener una relación cordial y de confianza. De no ser
-posible efectuaremos la internación compulsiva ya que existe peligro
-potencial \(dado que se trata de perseguidos perseguidores) de hechos de
-implicancias ML por sus frecuentes reacciones heteroagresivas con lo que
-protegemos al paciente y a terceros. Vigilaremos fuga y
-heteroagresividad. Equipo multidisciplinario.
+Internación o no según tipo y gravedad de descompensación. En orden de preferencia: ambulatorio → internación con consentimiento → internación compulsiva. Internaremos al paciente en Hospital Psiquiátrico en habitación aislada en lo posible de común acuerdo por lo que procuraremos obtener una relación cordial y de confianza. De no ser posible efectuaremos la internación compulsiva ya que existe peligro potencial \(dado que se trata de perseguidos perseguidores) de hechos de implicancias ML por sus frecuentes reacciones heteroagresivas con lo que protegemos al paciente y a terceros. Vigilaremos fuga y posible fuga.
 
-#block[
-#strong[Biológico Según tipo y gravedad de descompensación: a) i/m o b)
-v/o.]
+===== Tratamiento
 
-]
-a) Requiere medicación i/m Haloperidol: NL incisivo con acción sobre el
-delirio: 5 mg i/m H8 y H20. Como profilaxis de efectos EP \(rigidez,
-rueda dentada, temblor, bradiquinesia) que se pueden ver con esta
-medicación indicaremos dada la suspicacia persecutoria del paciente, que
-puede perjudicar la adhesión al tratamiento, desde el inicio, un
-antiparkinsoniano de síntesis como el Biperideno a dosis de 2 mg v/o H8
-y H14. Una vez establecida la dosis de Haloperidol, concentraremos en la
-noche ya que durante el sueño no aparecen estos efectos. \(Si este es el
-primer episodio. Si ya estaba tomando antes, basarse en AP). Si en 3-4
-días no notamos mejoría con aumento del monto delirante, agregaremos 5
-mg i/m de Haloperidol H14 con lo que llegaremos a 15 mg/día. A medida
-que vaya retrocediendo el cuadro delirante y logremos la sedación y el
-restablecimiento del sueño, pasaremos la medicación a v/o. Sedación con
-Lorazepam i/m. Hipnótico: Flunitrazepam i/m.
+====== Biológico
 
-b) Vía oral: se prefiere ya que no perjudica el vínculo. Antipsicótico:
-preferentemente un atípico: Risperidona: por tener menos efectos
-secundarios. !Ver pauta de inicio de Risperidona. Sedaremos con
-Benzodiacepinas: Lorazepam. Diazepam o Clonazepam a regular según
-evolución. Trataremos el insomnio con Flunitrazepam 2 mg v/o H20 a
-regular según la evolución.
+Implicancias ML por sus frecuentes reacciones heteroagresivas con lo que protegemos al paciente y a terceros. Vigilaremos fuga y posible fuga.
 
-NOTA: Conducta en caso de paranoico de tipo sensitivo deprimido:
-abstenerse de antidepresivos en lo posible ya que la depresión es
-secundaria al delirio. Si en 10-15 días no obtenemos mejoría ostensible
-con mantenimiento importante de falta de contacto con la realidad,
-indicaremos ECT a realizar por psiquiatra y anestesista, cada día por
-medio, con oxigenoterapia y monitoreo EEG y ECG, con barbitúricos de
-acción corta y curarizantes como la succinilcolina. La cantidad de
-sesiones la regularemos según la evolución, pero pensamos que serán
-necesarias entre 8-12 sesiones para lograr el efecto deseado.
-Vigilaremos al paciente luego de cada sesión sabiendo que pueden
-presentarse trastornos mnésicos transitorios y cefaleas.
+Biológico Según tipo y gravedad de descompensación: a) i/m o b) v/o.
 
-#block[
-#strong[Psicosocial]
+a) Requiere medicación i/m Haloperidol: NL incisivo con acción sobre el delirio: 5 mg i/m H8 y H20. Como profilaxis de efectos EP \(rigidez, rueda dentada, temblor, bradiquinesia) que se pueden ver con esta medicación indicaremos dada la suspicacia persecutoria del paciente, que puede perjudicar la adhesión al tratamiento, desde el inicio, un antiparkinsoniano de síntesis como el Biperideno a dosis de 2 mg v/o H8 y H14. Una vez establecida la dosis de Haloperidol, concentraremos en la medicación indicaremos dada la suspicacia persecutoria del paciente, que puede perjudicar la adhesión al tratamiento, desde el inicio, un antiparkinsoniano de síntesis como el Biperideno a dosis de 2 mg v/o H8 y H14. (Si este es el primer episodio. Si ya estaba tomando antes, basarse en AP). Si en 3-4 días no notamos mejoría con aumento del monto delirante, agregaremos 5 mg i/m de Haloperidol H14 con lo que llegaremos a 15 mg/día. A medida que vaya retrocediendo el cuadro delirante y logremos la sedación y el restablecimiento del sueño, pasaremos la medicación a v/o. Sedación con Lorazepam i/m. Hipnótico: Flunitrazepam i/m.
 
-]
+b) Vía oral: se prefiere ya que no perjudica el vínculo. Antipsicótico: preferentemente un atípico: Risperidona: por tener menos efectos secundarios. !Ver pauta de inicio de Risperidona. Sedaremos con Benzodiacepinas: Lorazepam. Diazepam o Clonazepam a regular según
+
+NOTA: Conducta en caso de paranoico de tipo sensitivo deprimido: abstenerse de antidepresivos en lo posible ya que la depresión es secundaria al delirio. Si en 10-15 días no obtenemos mejoría ostensible con mantenimiento importante de falta de contacto con la realidad, indicaremos ECT a realizar por psiquiatra y anestesista, cada día por medio, con oxigenoterapia y monitoreo EEG y ECG, con barbitúricos de acción corta y curarizantes como la succinilcolina. La cantidad de sesiones la regularemos según la evolución, pero pensamos que serán necesarias entre 8-12 sesiones para lograr el efecto deseado. Vigilaremos al paciente luego de cada sesión sabiendo que pueden presentarse trastornos mnésicos transitorios y cefaleas.
+
 Alta
 
-Indicaremos el alta hospitalaria cuando haya disminuido
-considerablemente el monto delirante ya que sabemos que puede no
-retroceder totalmente. Controlaremos en policlínica semanalmente e
-iremos espaciando los controles según la evolución.
+Indicaremos el alta hospitalaria cuando haya disminuido considerablemente el monto delirante ya que sabemos que puede no retroceder totalmente. Controlaremos en policlínica semanalmente e iremos espaciando los controles según la evolución.
 
 ===== Tratamiento a largo plazo
-<_tratamiento_a_largo_plazo>
-El objetivo no es eliminar el delirio sino favorecer la adaptación
-social, que el paciente no viva en función de éste y favorecer su
-reintegro laboral.
 
-#block[
-#strong[Biológico]
+El objetivo no es eliminar el delirio sino favorecer la adaptación social, que el paciente no viva en función de éste y favorecer su reintegro laboral.
 
-]
-Mantendremos en un principio la medicación a la misma dosis con que se
-obtuvo mejoría. Se trata de una enfermedad con bajo perfil de
-cumplimiento \(a/v puede existir AP de abandono de la medicación) por lo
-que si bien preferimos la v/o que nos permite un mejor manejo de la
-dosis, recurriremos previo al alta a NLD como: • Palmitato de
-Pipotiazina 25-50 mg i/m que repetiremos c/21 días • Decanoato de
-Haloperidol 100-200 mg i/m a repetir una vez al mes La dosis se ajustará
-según la evolución. En este caso mantendremos la medicación
-antiparkinsoniana. A largo plazo valoraremos la posibilidad de disminuir
-la dosis buscando la mínima dosis eficaz. En un plazo de 3 meses, de no
-haber efectos extrapiramidales, puede disminuirse en forma gradual el
-antiparkinsoniano.
+====== Biológico
+Mantendremos en un principio la medicación a la misma dosis con que se obtuvo mejoría. Se trata de una enfermedad con bajo perfil de cumplimiento \(a/v puede existir AP de abandono de la medicación) por lo que si bien preferimos la v/o que nos permite un mejor manejo de la dosis, recurriremos previo al alta a NLD como: 
 
-#block[
-#strong[Psicológico]
+- Palmitato de Pipotiazina 25-50 mg i/m que repetiremos c/21 días 
+- Decanoato de Haloperidol 100-200 mg i/m a repetir una vez al mes 
 
-]
-Realizaremos entrevistas reiteradas para evaluar las conductas agresivas
-y evolución, afianzar el vínculo en un marco cálido con límites claros,
-evitando contradecirlo \(y pasar a formar parte del complot) ya que se
-trata de un paciente extremadamente suspicaz y que realizará múltiples
-demandas. No realizaremos concesiones y no confrontaremos el núcleo
-delirante en las primeras entrevistas.
+La dosis se ajustará según la evolución. En este caso mantendremos la medicación antiparkinsoniana. A largo plazo valoraremos la posibilidad de disminuir la dosis buscando la mínima dosis eficaz. En un plazo de 3 meses, de no haber efectos extrapiramidales, puede disminuirse en forma gradual el antiparkinsoniano.
 
-#block[
-#strong[Social]
+====== Psicológico
 
-]
-Realizaremos desde el inicio psicoeducación a la familia, explicando la
-enfermedad y el pronóstico, buscando su participación en el tratamiento,
-control de la medicación, concurrencia del paciente a policlínica y
-reconocimiento precoz de síntomas de descompensación. Eventual terapia
-familiar dada la distorsión que puede provocar el delirio del paciente
-en la dinámica familiar. Paciente: enfatizar reinserción social,
-minimizar interferencia del delirio con su desempeño.
+Realizaremos entrevistas reiteradas para evaluar las conductas agresivas y evolución, afianzar el vínculo en un marco cálido con límites claros, evitando contradecirlo \(y pasar a formar parte del complot) ya que se trata de un paciente extremadamente suspicaz y que realizará múltiples demandas. No realizaremos concesiones y no confrontaremos el núcleo delirante en las primeras entrevistas.
+
+====== Social
+
+Realizaremos desde el inicio psicoeducación a la familia, explicando la enfermedad y el pronóstico, buscando su participación en el tratamiento, control de la medicación, concurrencia del paciente a policlínica y reconocimiento precoz de síntomas de descompensación. Eventual terapia familiar dada la distorsión que puede provocar el delirio del paciente en la dinámica familiar. Paciente: enfatizar reinserción social, minimizar interferencia del delirio con su desempeño.
 
 ==== Evolución y pronóstico
-<_evolución_y_pronóstico_4>
-PPI y PVI: bueno con el tratamiento instituido. Está sujeto a
-complicaciones: IAE \(sensitivo de relación), heteroagresividad
-\(paranoico).
 
-En el psiquiátrico alejado, es pobre por tratarse de una psicosis
-crónica, por la dificultad para lograr pese al tratamiento una remisión
-completa, por las frecuentes complicaciones ML en las que reivindicando
-sus derechos puede caer en actos heteroagresivos. Dependerá de la
-adhesión al tratamiento \(basarse en medio familiar). Es una enfermedad
-crónica, no esperamos la extinción del delirio sino una disminución del
-monto delirante que permita una mejor inserción social. La evolución
-habitual es con oscilaciones en la intensidad del deliro, aunque pueden
-existir remisiones completas seguidas de recaídas. No existe evolución
-deficitaria intelectual, pero puede existir deterioro sociofamiliar y
-laboral generados por el delirio y sus eventuales conductas agresivas.
-Para los clásicos: eventualidad de evolución hacia otras formas de
-psicosis crónicas.
+PPI y PVI: bueno con el tratamiento instituido. Está sujeto a complicaciones: IAE \(sensitivo de relación), heteroagresividad \(paranoico).
 
-El PVA es bueno ya que no existen trastornos orgánicos, pero está sujeto
-al psiquiátrico.
+En el psiquiátrico alejado, es pobre por tratarse de una psicosis crónica, por la dificultad para lograr pese al tratamiento una remisión completa, por las frecuentes complicaciones ML en las que reivindicando sus derechos puede caer en actos heteroagresivos. Dependerá de la adhesión al tratamiento \(basarse en medio familiar). Es una enfermedad crónica, no esperamos la extinción del delirio sino una disminución del monto delirante que permita una mejor inserción social. La evolución habitual es con oscilaciones en la intensidad del deliro, aunque pueden existir remisiones completas seguidas de recaídas. No existe evolución deficitaria intelectual, pero puede existir deterioro sociofamiliar y laboral generados por el delirio y sus eventuales conductas agresivas. Para los clásicos: eventualidad de evolución hacia otras formas de psicosis crónicas.
 
+El PVA es bueno ya que no existen trastornos orgánicos, pero está sujeto al psiquiátrico.

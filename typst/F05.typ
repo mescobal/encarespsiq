@@ -1,3 +1,6 @@
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Confusión Mental
 === Notas clínicas
 ==== Delirium en postoperatorio
@@ -76,17 +79,11 @@ Puede presentarse en cualquier patrón de personalidad y en cualquier nivel inte
 
 ==== Diagnóstico positivo
 ===== Nosografía clásica
-====== Psicosis
+- Psicosis #fa-icon("paste")
+- Aguda: #fa-icon("paste")
+- Confusión mental: por el síndrome confuso-onírico. Es un diagnóstico inespecífico en lo nosográfico, pero que implica gravedad.
 
-El paciente presenta una psicosis ya que se encuentra sumido en un mundo propio, incompartible, con el que se relaciona de una manera nueva, por él creada, del que no puede salir voluntariamente, con pérdida del juicio de realidad, con presencia de delirio, sin conciencia mórbida, estableciendo con el paciente un mal rapport.
-
-====== Aguda
-
-Por tratarse de una experiencia sensible y actual, intensamente vivida, cursando con oscilaciones, variabilidad y fluctuaciones del estado de conciencia, de X tiempo de evolución, con compromiso de las conductas basales.
-
-====== Confusión mental
-
-Otros nombres: psicosis confusional, psicosis confuso-onírica, delirium. Por el síndrome confuso-onírico. Es un diagnóstico inespecífico en lo nosográfico, pero que implica gravedad.
+#note[Otros nombres: psicosis confusional, psicosis confuso-onírica, delirium.]
 
 ====== Causa
 

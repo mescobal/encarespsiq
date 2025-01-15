@@ -1,3 +1,6 @@
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Trastornos por consumo de alcohol
 === Notas clínicas
 Los trastornos vinculados al alcohol son varios, y pueden acumularse como diagnósticos. Una clasificación posible es dividir entre trastornos crónicos (abuso, dependencia) y agudos (intoxicación, abstinencia, etc). El encare clásico de "Delirio Alcohólico Subagudo" no da cuenta de todas las situaciones vinculadas al alcohol y la nomenclatura está en desuso. El DASA, nosográficamente, quedaría ubicado como "Delirium inducido por alcohol" (por la existencia de confusión mental). Los diferentes cuadros posibles son:
@@ -20,7 +23,7 @@ En común: estado de confusión con diferente profundidad.
 - Agudo = Delirium Tremens
 - Subagudo = Delirio onírico alcohólico.
 
-*Delirio alcohólico subagudo*
+===== Delirio alcohólico subagudo
 
 Lasègue (1869: DASA), Magnan (1874: Delirio alcohólico simple), encefalosis alcohólica subaguda.
 
@@ -43,13 +46,12 @@ Formas clínicas: más frecuente forma confusoonírica. Excepcionalmente formas 
 Evolución: favorable (o a DT). Secuelas: ideas fijas PO o crónicas (psicosis alcohólicas crónicas).
 
 Diagnóstico: S° confusional en alcoholista.
-
-#strong[Delirio alcohólico agudo:]
+===== Delirio alcohólico agudo
 DT Comienzo: más agudo, más grave. Sudoración profusa, temblor generalizado, agitación intensa, insomnio total.
 
 Delirio onírico más marcado, intensamente alucinatorio, onirismo profesional, DOTE completa, zoopsias (microzoopsias en esquinas del cuarto). Liberación de movimientos anormales (masticación, succión, prensión). Temblor generalizado en todo el cuerpo. Fiebre (>39) persistente por días. Fiebre > 40 → delirio alcohólico hiperazoémico. Deshidratación. Diuresis suele ser (paradójicamente) suficiente.
 
-#block[No existe DT apirético]
+#tip[No existe DT apirético]
 
 Examen: azoemia (puede ser normal, si está ↑ pronóstico grave, delirio agudo azoémico). Ionograma \(buscar hipopotasemia).
 
@@ -69,7 +71,7 @@ Patogenia: DT → autointoxicación por disminución de capacidad funcional del 
 + Encefalopatía de Gayet-Wernicke: comienzo progresivo. Ansiedad, irritación, insomnio, indiferencia, inactividad, cefaleas, vértigos. Período de estado: torpor y somnolencia intercalado con agitación, delirio y alucinaciones. Patognomónico: trastorno oculares \(parálisis de los movimientos de los globos, descenso de la agudeza visual, fotofobia, nistagmo, contractura de tipo meningítico). Evolución en 10-15 días al coma y muerte. Remite con tratamiento.
 + Encefalopatía alcohólica portocava: F10 + cirrosis + trastornos de conciencia, trastornos del humor \(apatía, irritabilidad, despreocupación pueril) + flapping tremor \(batimiento de alas con flexión y extensión de los dedos), cierta hipotonía muscuilar. Duración breve, coma reversible. Hiperamoniemia \(aumento de producción, disminución de la eliminación por insuficiencia hepática) → interrupción del ciclo de Krebs.
 
-*Demencias alcohólicas*
+===== Demencias alcohólicas
 
 Predominio de apatía y degradación social. "Demencia ética". Puede haber regresión luego de tratamiento prolongado. Puede tomar forma de seudoparálisis general alcohólica (si se acompaña de temblor, disartria, anisocoria, indiferencia).
 
@@ -181,11 +183,12 @@ Con estos elementos hacemos diagnóstico de DELIRIO ALCOHÓLICO SUBAGUDO por tra
 ===== DSM IV
 
 Eje I. Caben varias posibilidades de codificación según la semiología presente: ver notas al inicio. Ejemplos:
-. Delirium por intoxicación por alcohol \(DASA).
-. Delirium por abstinencia de alcohol \(Del Alc Subag).
-. Trastorno psicótico inducido por alcohol, con ideas delirantes.
-. Trastorno psicótico inducido por alcohol, con alucinaciones.
-. Trastorno psicótico inducido por alcohol: con alucinaciones / con ideas delirantes.
+
+- Delirium por intoxicación por alcohol \(DASA).
+- Delirium por abstinencia de alcohol \(Del Alc Subag).
+- Trastorno psicótico inducido por alcohol, con ideas delirantes.
+- Trastorno psicótico inducido por alcohol, con alucinaciones.
+- Trastorno psicótico inducido por alcohol: con alucinaciones / con ideas delirantes.
 
 ==== Diagnósticos diferenciales
 - DELIRIUM TREMENS: no pensamos ya que en este cuadro confusional agudo existe: > gravedad con deshidratación, alteraciones HE, alteraciones NV con temperatura de 40º, taquicardia, sudoración, PA. • temblor importante • agitación intensa y agotadora • insomnio casi total

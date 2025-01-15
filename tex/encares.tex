@@ -1,30 +1,23 @@
-%\documentclass{book}
 \documentclass{scrbook}
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
-% \usepackage[spanish]{babel}
-\usepackage[backend=biber,
-	style=numeric,
-	refsection=chapter,
-	sorting=none]{biblatex}
-%\usepackage[style=numeric,refsection=chapter]{biblatex}
+\usepackage[backend=biber,style=numeric,refsection=chapter,sorting=none]{biblatex}
 \addbibresource{encares.bib}
 \usepackage{csquotes}
-%\bibliographystyle{unsrt}
 \usepackage{fontawesome5}
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \title{Encares de psiquiatría}
 \author{M. Escobal}
-%\date{Ver: 24.04}
 \date{}
 \begin{document}
 \maketitle
 \tableofcontents
 \part{Introducción}
 \include{Intro.tex}
+\printbibliography[heading=subbibliography,title={Referencias}]
 \part{Trastornos mentales orgánicos}
 \include{F00.tex}	
 \include{F05.tex}

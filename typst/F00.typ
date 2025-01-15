@@ -1,3 +1,6 @@
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 = Demencias
 
 === Notas clínicas
@@ -336,7 +339,7 @@ El diagnóstico de demencia es clínico. La paraclínica estará destinada a:
 - corroborar diagnóstico etiopatogénico planteado
 - descartar diferenciales
 
-Valoración general y de polo neurológico, cardiovascular, medio interno, focos infecciosos neurólogo + internista.
+===== Evaluación rápida
 
 Son de importancia los instrumentos de evaluación rápida, que si bien no son sustitutos de la evaluación clínica y no son específicos para cada tipo particular de demencia son breves y de fácil administración complementando datos clínicos y evolutivos. Puede realizarse el MMSE (Mini Mental State Examination), BOMC (Bless), test de la carátula del reloj.
 

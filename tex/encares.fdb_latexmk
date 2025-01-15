@@ -1,5 +1,6 @@
 # Fdb version 4
-["latex"] 1714528043.20747 "encares.tex" "encares.dvi" "encares" 1714528067.93835 2
+["pdflatex"] 1735870742.96003 "/Users/mescobal/Desarrollo/encarespsiq/tex/encares.tex" "encares.pdf" "encares" 1735870743.5446 2
+  "/Users/mescobal/Desarrollo/encarespsiq/tex/encares.tex" 1735870633.97414 1689 91bd7b34ac81a38ac997d6720285edc9 ""
   "/opt/local/etc/texmf/texmf.cnf" 1647819481.61631 38023 c1d8498ff3f1ae296f4814da452c2490 ""
   "/opt/local/share/texmf-texlive/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1556757448 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
   "/opt/local/share/texmf-texlive/fonts/tfm/public/cm/cmr10.tfm" 1556757456 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -21,12 +22,12 @@
   "/opt/local/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty" 1617748662 106047 24806cd8637fc950d6c478426f9ba321 ""
   "/opt/local/share/texmf-texlive/tex/latex/koma-script/typearea.sty" 1617748662 56021 192ec5bf5b5402cbddffa5dac8deb1ce ""
   "/opt/local/share/texmf-texlive/tex/latex/lm/lmodern.sty" 1617748662 1608 b00724785a9e9c599e5181bb8729160b ""
-  "/opt/local/var/db/texmf/web2c/pdftex/latex.fmt" 1647819566.91902 1329869 21ce8f705de55894e5cfa891e3970139 ""
+  "/opt/local/var/db/texmf/web2c/pdftex/pdflatex.fmt" 1647819569.3538 1329930 3c0ba0531f396e8755ef58b2a9e07119 ""
   "biblatex.sty" 0 -1 0 ""
-  "encares.aux" 1714528043.20654 32 3985256e7290058c681f74d7a3565a19 "latex"
-  "encares.tex" 1714226812.58178 1777 626f27d3f84bf0157b492162c4c080ab ""
+  "encares.aux" 1735870742.95909 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "encares.tex" 1735870633.97414 1689 91bd7b34ac81a38ac997d6720285edc9 ""
   (generated)
   "encares.aux"
-  "encares.dvi"
   "encares.log"
+  "encares.pdf"
   (rewritten before read)

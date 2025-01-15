@@ -1,6 +1,8 @@
-
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Trastornos del humor: generalidades
-En transición. Capítulo que será eliminado \(se superpone con los 2 siguientes)
+#warning[En transición. Capítulo que será eliminado \(se superpone con los 2 siguientes). Saltearse este capítulo.]
 
 === Notas clínicas
 Formas clínicas no contempladas en encares clásicos: trastornos subafectivos, trastorno depresivo breve recurrente, trastorno esquizoafectivo, depresión en esquizofrenia.
@@ -9,112 +11,64 @@ Formas clínicas no contempladas en encares clásicos: trastornos subafectivos, 
 Clínica depresiva o cíclica moderada y crónica.
 
 ===== Distimia
-Trastorno persistente de al \(-) 2 a de intensidad leve / moderada de
-inicio en adolescencia \(depre doble) / ASECAD / curso persist o
-intermitente \* trast ambulatorio compatible c/ func social, pero
-estabilidad precaria por hiperocupación c/ incapacidad para disfrutar
-del ocio o act fliar o social lo que lleva a fricción marital / sentim y
-falta de gusto por la vida fuera de su trabajo / dinám conyugal alterada
-\* hay adaptación a los síntomas por resistencia cognitiva al cambio, lo
-otro no le resulta fliar \* se ven a sí mismos como \"deprimidos desde
-siempre o desde el nacimiento\" \* Akiskal sostiene la mayor validez de
-criterio B alternativo que agrupa sínt subjetivos . autoestima,
-autoconfianza, pesimismo, desesperanza, incapacidad, desinterés
-gralizado, aislamiento social, cansancio crónico, cavilaciones referidas
-al pasado, \< productividad - efectividad, trast \[ \] memoria,
-indecisión \* inicio + precoz \> probab de complicarse C/ EDM \* pánico
-\(10 \* 1/3 inicio \< 12 a : \"niños incapaces de disfrutar\" / \> % de
-AF de humor \* \"depresión existencial\" / id suicida 31 % / comportam
-suicida 24 \* en suma : depresión de bajo gr y larga duración,
-fluctuante, experimentado como parte del YO habitual representando una
-acentuación de rasgos observados en temperamento depresivo \(en apéndice
-de DSM IV)
+Trastorno persistente de al \(-) 2 a de intensidad leve / moderada de inicio en adolescencia \(depre doble) / ASECAD / curso persist o intermitente 
+- trast ambulatorio compatible c/ func social, pero estabilidad precaria por hiperocupación c/ incapacidad para disfrutar del ocio o act fliar o social lo que lleva a fricción marital / sentim y falta de gusto por la vida fuera de su trabajo / dinám conyugal alterada 
+- hay adaptación a los síntomas por resistencia cognitiva al cambio, lo otro no le resulta fliar
+- se ven a sí mismos como \"deprimidos desde siempre o desde el nacimiento\"
+- Akiskal sostiene la mayor validez de criterio B alternativo que agrupa sínt subjetivos . autoestima, autoconfianza, pesimismo, desesperanza, incapacidad, desinterés gralizado, aislamiento social, cansancio crónico, cavilaciones referidas al pasado, \< productividad - efectividad, trast \[ \] memoria, indecisión
+- inicio + precoz \> probab de complicarse C/ EDM \* pánico \(10 \* 1/3 inicio \< 12 a : \"niños incapaces de disfrutar\" / \> % de AF de humor 
+- \"depresión existencial\" / id suicida 31 % / comportam suicida 24 
+- en suma : depresión de bajo gr y larga duración, fluctuante, experimentado como parte del YO habitual representando una acentuación de rasgos observados en temperamento depresivo \(en apéndice de DSM IV)
 
 ===== Ciclotimia
 <_ciclotimia>
-Caract hipomaníacas + subdepresivas \* en suma : disregulación bifásica
-c/ cambios endoreactivos de una fase a otra, cada fase dura pocos días x
-vez c/ infrecuente eutimia
+Caract hipomaníacas + subdepresivas 
+- en suma : disregulación bifásica c/ cambios endoreactivos de una fase a otra, cada fase dura pocos días x vez c/ infrecuente eutimia
 
-#block[
-#strong[Cambios de categoría diagnóstica]
-
-]
+#block[#strong[Cambios de categoría diagnóstica]]
 Siempre depende de la intensidad del ep de exaltación de humor
 
 - TD \> : 9
-
 - Ciclot : 30
-
 - Bip II: 5-13
 
 ==== Trastorno esquizoafectivo
 <_trastorno_esquizoafectivo>
-EDM, maníaco, mixto + sínt de fase activa de esquizofrenia / sd
-delirante alucinatorio en dicho período de al \(-) 2 sem en ausencia de
-sínt de humor prominentes / sínt de humor presentes en parte sustancial
-de fase activa y residual de los ep psicóticos
+EDM, maníaco, mixto + sínt de fase activa de esquizofrenia / sd delirante alucinatorio en dicho período de al \(-) 2 sem en ausencia de sínt de humor prominentes / sínt de humor presentes en parte sustancial de fase activa y residual de los ep psicóticos.
 
-- tipo bipolar \(maníaco o mixto) / tipo depresivo \* a \> terreno
-  esquizofr peor pronóstico
+- tipo bipolar \(maníaco o mixto) / tipo depresivo 
+- a \> terreno esquizofr peor pronóstico
 
 ==== Trastorno depresivo pospsicótico en la esquizofrenia \(NOS)
 <_trastorno_depresivo_pospsicótico_en_la_esquizofrenia_nos>
-- incidencia 25 \* peor pronóst / \> probab de recaídas / \> incidencia
-  de suicidios que en esquizofr s/ este trast \* DD : fase residual
-  \(atimormia, sgs negativos) / ef 2º de APS / esquizoafectivo \*
-  criterios de EDM en fase residual de esquizofr
+- incidencia 25 
+- peor pronóst / \> probab de recaídas / \> incidencia de suicidios que en esquizofr s/ este trast 
+- DD : fase residual \(atimormia, sgs negativos) / ef 2º de APS / esquizoafectivo / criterios de EDM en fase residual de esquizofr
 
 ==== Trastorno depresivo breve recidivante \(NOS)
 <_trastorno_depresivo_breve_recidivante_nos>
-De 2 días a 2 sem / deterioro pragmático en el episodio / vida más
-perturbada que TDM por frec cambios de humor
-
-nunca hubo EDM ni existen criterios para distimia
+De 2 días a 2 sem / deterioro pragmático en el episodio / vida más perturbada que TDM por frec cambios de humor
+- nunca hubo EDM ni existen criterios para distimia
 
 ==== Basados en etiología
 <_basados_en_etiología>
-\(debidos a enf médica / induc por sust \[ c/ sínt depresivos, maníacos,
-mixtos\] de inicio durante la intox o la abstinencia)
+\(debidos a enf médica / induc por sust \[ c/ sínt depresivos, maníacos, mixtos\] de inicio durante la intox o la abstinencia)
 
-AP de enf médica o consumo, no de trast humor
+- AP de enf médica o consumo, no de trast humor
+- no hay AF de humor
+- si coexisten hay implicancias pronósticas y terap
 
-no hay AF de humor
-
-si coexisten hay implicancias pronósticas y terap
-
-#block[
-#set enum(numbering: "A.", start: 1)
-+ Inducido por sustancias : diagnóstico doble es lo más adecuado.
-  Sustancias: enmascaran síntomas afectivos. Abuso de OH / sust :
-  resistencia al tto
-
-  #block[
-  #set enum(numbering: "1.", start: 1)
-  + bip I : 60 % de dx doble . bip II : 50%
-  ]
-]
-
++ Inducido por sustancias : diagnóstico doble es lo más adecuado. Sustancias: enmascaran síntomas afectivos. Abuso de OH / sust : resistencia al tto
++ + bip I : 60 % de dx doble . bip II : 50%
 adicción : proceso de aprendizaje biológico
-
 OH
 
-#block[
-#set enum(numbering: "1.", start: 1)
-+ tipo I : como ansiolítico \(trast de ansiedad o pánico)\> 20-25 a /
-  para manejo del stress / + ambiental / 60 . tipo II : como estim \(
-  trast de humor): \< 20-25 a / comportam agresivo y antisocial / drogas  / \> tasa de depresión e IAE / \> componente genético / búsqueda de ef
-  euforizantes / 40%
-]
++ + tipo I : como ansiolítico \(trast de ansiedad o pánico)\> 20-25 a / para manejo del stress / + ambiental / 60 
++ + tipo II : como estim \(trast de humor): \< 20-25 a / comportam agresivo y antisocial / drogas  / \> tasa de depresión e IAE / \> componente genético / búsqueda de ef euforizantes / 40%
 
-similitudes c/ bipolar: edad inicio / carga genética / \> suicidio
-impulsividad violencia / variación estacional / \"búsqueda de estím\" /
-sd deficiencia de 5HT
+similitudes c/ bipolar: edad inicio / carga genética / \> suicidio / impulsividad / violencia / variación estacional / \"búsqueda de estím\" / sd deficiencia de 5HT
 
-- 3-4 sem detox para evaluar tto \* comorb peor resp \* beber social tb
-  interfiere c/ tto \* ante dudas 3-4 sem detoxificación para determinar
-  que es primario \* comorbidez entre ambos . peor resultado a tto
-  convencional que cada grupo por separado
+- 3-4 sem detox para evaluar tto \* comorb peor resp \* beber social tb interfiere c/ tto \* ante dudas 3-4 sem detoxificación para determinar que es primario \* comorbidez entre ambos . peor resultado a tto convencional que cada grupo por separado
 
 drogodependencias
 
@@ -590,23 +544,17 @@ APS atípicos : olanzapina -aumento de peso- y risperidona \(70
 ante mixto / CR : retirar AD y NL / Li + cbz / valproato
 
 edad de inicio
-
-18 a: sínt
-
-22a: 1º tto
-
-28a: 1º episodio
+- 18 a: sínt
+- 22a: 1º tto
+- 28a: 1º episodio
 
 60
 
-joven + sínt psicóticos c/mejoría rápida: predictor de bipolar
+- joven + sínt psicóticos c/mejoría rápida: predictor de bipolar
 
-frec episodios
-
+Frec episodios
 1- 50
-
 4- 70
-
 5- 90
 
 media de 10 epis
@@ -619,41 +567,28 @@ en inicio tardío es más corto \(no confundir con peor pronóstico)
 
 consideraciones del tratamiento
 
-Directivas: cuadro actual - a largo plazo \(compensar enfermedad de
-fondo, profilaxis de recaídas, evitar complicaciones).
+Directivas: cuadro actual - a largo plazo \(compensar enfermedad de fondo, profilaxis de recaídas, evitar complicaciones).
 
 OBJETIVOS : cura del episodio \(no hay cura del trastorno)
 
-\< morbimortalidad / \< frecuencia y severidad / \< consecuencias
-psicosociales / mejorar funcionamiento interepisódico
+\< morbimortalidad / \< frecuencia y severidad / \< consecuencias psicosociales / mejorar funcionamiento interepisódico
 
 CUADRO ACTUAL
 
-Internaremos al paciente en hospital psiquiátrico, de ser posible con
-aprobación del paciente \(de lo contrario será compulsiva). Justificamos
-por:
-
-evitar complicaciones
-
-disminuir duración del acceso
-
-actos ML, heteroagresividad, dilapidación de bienes, ultraje público al
-pudor
+Internaremos al paciente en hospital psiquiátrico, de ser posible con aprobación del paciente \(de lo contrario será compulsiva). Justificamos por:
+- evitar complicaciones
+- disminuir duración del acceso
+- actos ML, heteroagresividad, dilapidación de bienes, ultraje público al pudor
 
 Protegiendo al paciente de sí mismos y de los demás \(y viceversa).
 
-Habitación aislada, evitando estímulos y el contacto con otros enfermos
-a quienes puede transmitir su excitación.
+Habitación aislada, evitando estímulos y el contacto con otros enfermos a quienes puede transmitir su excitación.
 
-Evitaremos medidas de contención a menos que sean imprescindibles, con
-riesgo de su integridad física o de terceros, de recurrir a ellas se
-llevarán a cabo por personal entrenado según normas del MSP.
+Evitaremos medidas de contención a menos que sean imprescindibles, con riesgo de su integridad física o de terceros, de recurrir a ellas se llevarán a cabo por personal entrenado según normas del MSP.
 
-Realizaremos estrictos controles de pulso, PA, temperatura e
-hidratación.
+Realizaremos estrictos controles de pulso, PA, temperatura e hidratación.
 
-Monitorizaremos diariamente la EPM, sueño y síntomas psicóticos.
-Estaremos alertas a la inversión del humor.
+Monitorizaremos diariamente la EPM, sueño y síntomas psicóticos. Estaremos alertas a la inversión del humor.
 
 BIOLOGICO
 
@@ -1058,44 +993,33 @@ predictores de suicidio
 
 al año siguiente : anhedonia / ansiedad severa psíquica / crisis pánico / abuso de OH o drogas \(en intoxicac o abstinencia)
 
-entre 1 y 5a : desesperanza severa / ideación suicida / ansiedad
-somática / AP de IAE
+entre 1 y 5a : desesperanza severa / ideación suicida / ansiedad somática / AP de IAE
 
 GOODWIN
 
-hombres empiezan x ep maníaco / mujeres x ep depresivo \(x lo gral)
+- hombres empiezan x ep maníaco / mujeres x ep depresivo \(x lo gral)
+- manía unipolar \< 2
 
-manía unipolar \< 2
-
-infancia y adolesc : + delirios y consumo / \> irritab que júbilo / peor
-respuesta / + epis mixtos / a inicio más precoz \> probabilidad de
-responder a anticonvulsivantes, \< al Li / diferencial : TDAH
+infancia y adolesc : + delirios y consumo / \> irritab que júbilo / peor respuesta / + epis mixtos / a inicio más precoz \> probabilidad de responder a anticonvulsivantes, \< al Li / diferencial : TDAH
 
 recaídas : 81
 
 recaídas en unipolar recurrente : 50
 
-valproato : trast cognitivos / alt de memoria / caída de cabello / alt
-hepáticas
+valproato : trast cognitivos / alt de memoria / caída de cabello / alt hepáticas
 
 NOTAS
 
-Latencia de los antidepresivos para el tratamiento del EDM: 2 semanas.
+- Latencia de los antidepresivos para el tratamiento del EDM: 2 semanas.
+- La venlafaxina a dosis altas parece tener una latencia menor \(CITA).
+Predictores de riesgo de inicio de un trastorno bipolar ante un primer EDM:
+- Historia familiar de TB
+- Aparición antes de los 25 años
+- Inicio en el posparto
+- Hipomanía farmacológica inducida por el antidepresivo
+- Presencia de síntomas psicóticos
+- Hipersomnia y/o inhibición psicomotriz
 
-La venlafaxina a dosis altas parece tener una latencia menor \(CITA).
+En pacientes con depresiones recurrentes plantear uso de antirrecurrencial / estabilizadores.
 
-Predictores de riesgo de inicio de un trastorno bipolar ante un primer
-EDM:
-
-- Historia familiar de TB \* Aparición antes de los 25 años \* Inicio en
-  el posparto \* Hipomanía farmacológica inducida por el antidepresivo
-  \* Presencia de síntomas psicóticos \* Hipersomnia y/o inhibición
-  psicomotriz
-
-En pacientes con depresiones recurrentes plantear uso de
-antirrecurrencial / estabilizadores.
-
-DISTIMIA: la combinación de psicoterapia + medicación es más eficaz que
-la medicación sola \(CITA) Depresión doble: la medicación AD consigue no
-solo la remisión del EDM sino la de la distimia.
-
+DISTIMIA: la combinación de psicoterapia + medicación es más eficaz que la medicación sola \(CITA) Depresión doble: la medicación AD consigue no solo la remisión del EDM sino la de la distimia.

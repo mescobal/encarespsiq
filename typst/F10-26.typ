@@ -1,3 +1,6 @@
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Síndrome de Korsakoff
 
 === Descripción
@@ -31,22 +34,14 @@ Este déficit implica la imposiblidad de una vida autónoma. La falta de concien
 
 La memoria "arcaica" (eventos pre inicio del SWK) permanece accesible (nombres, eventos, aritmética básica, lecto-escritura). Puede perderse por falta de uso. Puede conservarse la realización de conductas complejas (nadar, tipear, conducir) si se practican (memoria procedural). Pueden continuar una actividad laboral en entornos supervisados. Con cuidados adecuados la sobrevida es buena#footnote[Sanvisens A, Zuluaga P, Fuster D, Rivas I, Tor J, Marcos M, Chamorro AJ, Muga R (2017) Long-term mortality of patients with an alcohol-related Wernicke-Korsakoff syndrome. Alcohol. 52:466–471.].
 
-.Funciones mnésicas en el SWK [ |=== |Categorías cronológicas relacionadas con la memoria|Estado en el SWK |Memoria inmediata (hasta
-varios minutos)|Intacta: luego de la fase aguda, el paciente funciona
-normalmente en aspectos inmediatos del estado mental y en el examen
-psicométrico |Memoria reciente (minutos-días) | Falla: se pierde la
-memoria de episodios recientes y de episodios experimentados de forma
-personal, así como reportados por otros. |Memoria remota: intermedia
-(semanas-meses) y a largo plazo (años-décadas)| Intacta: se retienen
-recuerdos pre inicio del SWK (experimentados o aprendidos de otros).
-Esto se conoce como "memoria arcaica".
-
-Falla: recuerdos posteriores al inicio del SWK (experiencia personal o
-transmitida).
-
-Intacta: memoria post inicio del SWK con contenido emocional,
-dependiente del estado, somática (todo lo no-semántico o episódico).
-|===
+=== Funciones mnésicas en el SWK
+#table(columns: 2, table.header([*Categorías cronológicas relacionadas con la memoria*],[*Estado en el SWK*],),
+[Memoria inmediata (hasta varios minutos)],[Intacta: luego de la fase aguda, el paciente funciona normalmente en aspectos inmediatos del estado mental y en el examen psicométrico],
+[Memoria reciente (minutos-días)],[Falla: se pierde la memoria de episodios recientes y de episodios experimentados de forma personal, así como reportados por otros.],
+[Memoria remota: intermedia (semanas-meses) y a largo plazo (años-décadas)],[Intacta: se retienen recuerdos pre inicio del SWK (experimentados o aprendidos de otros). Esto se conoce como "memoria arcaica".],
+[Memoria post inicio del SWK (experiencia personal o transmitida)],[Falla: recuerdos posteriores al inicio del SWK (experiencia personal o transmitida).],
+[Memoria post inicio del SWK (contenido emocional, dependiente del estado, somática (todo lo no-semántico o episódico))],[Intacta: memoria post inicio del SWK con contenido emocional, dependiente del estado, somática (todo lo no-semántico o episódico).],
+)
 
 === Diagnóstico
 
@@ -87,7 +82,7 @@ La abstinencia de alcohol aumenta los niveles de cortisol#footnote[Keedwell PA, 
 
 PET: muestra hipometabolismo durante el SWK#footnote[Reed LJ, Lasserson D, Marsden P, Stanhope N, Stevens T, Bello F, Kingsley D, Colchester A, Kopelman MD (2003) FDG-PET findings in the Wernicke-Korsakoff syndrome. Cortex. 39:1027–1045.] con hipermetabolismo en la sustancia blanca cercana. Esto sugiere muerte celular en las áreas vinculadas a la memoria reciente con actividad axonal compensatoria.
 
-RNM volumétrica: muestra atrofia de los cuerpos mamilares, de otras áreas talámicas, de lóbulos frontales y otras áreas #footnote[Sullivan EV, Deshmukh A, Desmond JE, Lim KO, Pfefferbaum A (2000) Cerebellar volume decline in normal aging, alcoholism, and Korsakoff’s syndrome: Relation to ataxia. Neuropsychology. 14:341–352.] #footnote[Sullivan EV, Pfefferbaum A (2009) Neuroimaging of the Wernicke-Korsakoff syndrome. Alcohol Alcohol. 44:155–165.].
+RNM volumétrica: muestra atrofia de los cuerpos mamilares, de otras áreas talámicas, de lóbulos frontales y otras áreas #footnote[Sullivan EV, Deshmukh A, Desmond JE, Lim KO, Pfefferbaum A (2000) Cerebellar volume decline in normal aging, alcoholism, and Korsakoff’s syndrome: Relation to ataxia. Neuropsychology. 14:341–352.]- #footnote[Sullivan EV, Pfefferbaum A (2009) Neuroimaging of the Wernicke-Korsakoff syndrome. Alcohol Alcohol. 44:155–165.].
 
 Pueden verse anmesias similares a la del SWK en otras afecciones:
 
@@ -101,4 +96,5 @@ La amnesia involucrada es episódica. Falla el registro en la memoria a corto pl
 Por lo tanto antes de planear el tratamiento debe evaluarse qué estructuras están afectadas y cuáles están intactas. Esto puede incluir interconsultas con neurólogo, estudios de imagen y test neuropsicológico #footnote[Van Dam MJ, Van Meijel B, Postma A, Oudman E (2020) Health problems and
 care needs in patients with Korsakoff’s syndrome: A systematic review. J Psychiatr Ment Health Nurs. 27:460–481.]. Puede requerirse el tratamiento de síntomas asociados (comportamientos adictivos). Si hay una lesión de ganglios basales, puede plantearse el uso de antiparkinsonianos.
 Los abordajes de rehabilitación se apoyan en técnidas no-verbales: estimulación emcional, por ejemplo. También puede usarse condicionamiento operante, condicionamiento aversivo, contrato terapéutico de contingencia#footnote[Sullivan MA, Birkmayer F, Boyarsky BK, Frances RJ, Fromson JA, Galanter M, Levin FR, Lewis C, Nace EP, Suchinsky RT, Tamerin JS, Tolliver B, Westermeyer J (2008) Uses of coercion in addiction treatment: Clinical aspects. Am J Addict. 17:36–47].
+
 Se recomienda el uso de cuidadores especializados y hogares con pocos pacientes, más individualizados.
