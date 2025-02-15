@@ -1,7 +1,7 @@
 PWD /Users/mescobal/Desarrollo/encarespsiq/tex
 INPUT /opt/local/etc/texmf/texmf.cnf
-INPUT /opt/local/var/db/texmf/web2c/pdftex/latex.fmt
-INPUT encares.tex
+INPUT /opt/local/var/db/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /Users/mescobal/Desarrollo/encarespsiq/tex/encares.tex
 OUTPUT encares.log
 INPUT /opt/local/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
 INPUT /opt/local/share/texmf-texlive/tex/latex/koma-script/scrbook.cls

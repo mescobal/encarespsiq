@@ -1,4 +1,6 @@
-
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Trastornos conversivos y disociativos / Neurosis histérica
 <_trastornos_conversivos_y_disociativos_neurosis_histérica>
 === Encare
@@ -7,120 +9,69 @@
 <_agrupación_sindromática_14>
 ===== Síndrome conversivo
 <_síndrome_conversivo>
-Entendiendo por conversión la pérdida o alteración del funcionamiento
-físico que sugiere trastorno somático/físico pero sin base orgánica
-demostrable, que se interpreta como vinculado a un conflicto o necesidad
-psicológica/intrapsíquico dado por:
+Entendiendo por conversión la pérdida o alteración del funcionamiento físico que sugiere trastorno somático/físico pero sin base orgánica demostrable, que se interpreta como vinculado a un conflicto o necesidad psicológica/intrapsíquico dado por:
 
-\=\=\=\=\=\= A nivel motor
+====== A nivel motor
 
-- Crisis de excitación psicomotriz que motivan el ingreso, de X tiempo
-  de evolución, paroxísticas, con movimiento de los 4 miembros, con
-  caída al suelo, rotura de objetos, emisión de gritos, en presencia de
-  público, con o sin pérdida de conocimiento, sin incontinencia
-  esfinteriana ni sopor postcrítico, sin mordedura de lengua, sin
-  cianosis. Relata crisis mostrando indiferencia hacia ésta, frecuencia
-  diaria, duración, desencadenada por conflicto emocional \(ejemplo).
-  Por lo que la calificamos de crisis conversiva, expresión atenuada de
-  la gran crisis de Charcot. \* Manifestaciones deficitarias permanentes
-  de X duración: #strong[Astasia-abasia: incapacidad de andar y
-  mantenerse de pie, quedando la posibilidad de realización de
-  movimientos activos que no sean de deambulación.] Parálisis y
-  contracción localizadas: sin sistematización anatómica. Incluye afonía
-  por parálisis de músculos fonadores. \*\* Movimientos anormales.
+- Crisis de excitación psicomotriz que motivan el ingreso, de X tiempo de evolución, paroxísticas, con movimiento de los 4 miembros, con caída al suelo, rotura de objetos, emisión de gritos, en presencia de público, con o sin pérdida de conocimiento, sin incontinencia esfinteriana ni sopor postcrítico, sin mordedura de lengua, sin cianosis. Relata crisis mostrando indiferencia hacia ésta, frecuencia diaria, duración, desencadenada por conflicto emocional \(ejemplo). Por lo que la calificamos de crisis conversiva, expresión atenuada de la gran crisis de Charcot.
+- Manifestaciones deficitarias permanentes de X duración: #strong[Astasia-abasia: incapacidad de andar y mantenerse de pie, quedando la posibilidad de realización de movimientos activos que no sean de deambulación.] Parálisis y  contracción localizadas: sin sistematización anatómica. Incluye afonía por parálisis de músculos fonadores.
+- Movimientos anormales.
 
-\=\=\=\=\=\= A nivel sensitivo
+====== A nivel sensitivo
 
-- Anestesia: sin sistematización anatómica, en bota, en guante,
-  hemicuerpo. \* Puntos hiperestésicos \* Algias, con impotencia
-  funcional desproporcionada
+- Anestesia: sin sistematización anatómica, en bota, en guante, hemicuerpo.
+- Puntos hiperestésicos
+- Algias, con impotencia funcional desproporcionada
 
-\=\=\=\=\=\= A nivel sensorial
+====== A nivel sensorial
 
-- Visuales: obnubilación, diplopía, ceguera \(con las características
-  de: reducción concéntrica del campo visual y diplopía monocular). \*
-  Auditivos
+- Visuales: obnubilación, diplopía, ceguera \(con las características de: reducción concéntrica del campo visual y diplopía monocular).
+- Auditivos
 
-\=\=\=\=\=\= A nivel neurovegetativo
+====== A nivel neurovegetativo
 
-- Espasmos de músculo liso y esfínteres, faringe, vómitos, respiratorio,
-  vesical, vaginal
+- Espasmos de músculo liso y esfínteres, faringe, vómitos, respiratorio, vesical, vaginal
 
-Crisis de inhibición psicomotriz \(\"ataques catalépticos\", \"sueño
-histérico\"), simula un coma. Se recupera por técnicas sugestivas o
-dolorosas. Sin la tríada característica del sueño normal: miosis,
-estrabismo divergente por el predominio del tono del gran oblicuo,
-contracción activa del orbicular de los párpados).
+====== Otros
+Crisis de inhibición psicomotriz \(\"ataques catalépticos\", \"sueño histérico\"), simula un coma. Se recupera por técnicas sugestivas o dolorosas. Sin la tríada característica del sueño normal: miosis, estrabismo divergente por el predominio del tono del gran oblicuo, contracción activa del orbicular de los párpados).
 
 ===== Síndrome disociativo histérico
 <_síndrome_disociativo_histérico>
-Definido como la alteración súbita y transitoria de las funciones
-integradoras de la conciencia, memoria, identidad, percepción, dado por:
+Definido como la alteración súbita y transitoria de las funciones integradoras de la conciencia, memoria, identidad, percepción, dado por:
 
-\=\=\=\=\=\= Trastornos mnésicos
+====== Trastornos mnésicos
 
-Amnesia disociativa psicógena: evocación biográfica imprecisa, amnesia
-lacunar y selectiva, con dificultad para evocar determinados recuerdos
-importantes de valor simbólico \(Ej.: experiencias dolorosas o
-vergonzosas), con desencadenante psicológico. Puede ser global y total a
-partir del desencadenante \(generalizada y continua). La evocación de
-violación/seducción puede corresponder a una ilusión de la memoria,
-alteración frecuente en estos pacientes #footnote[Políticamente
-incorrecto, actualmente]. Puede haber identificación imaginaria con
-otras personas \(por ejemplo con otras pacientes de la sala: siente sus
-síntomas). No hay evidencias de un trastorno mental orgánico.
+Amnesia disociativa psicógena: evocación biográfica imprecisa, amnesia lacunar y selectiva, con dificultad para evocar determinados recuerdos importantes de valor simbólico \(Ej.: experiencias dolorosas o vergonzosas), con desencadenante psicológico. Puede ser global y total a partir del desencadenante \(generalizada y continua). La evocación de violación/seducción puede corresponder a una ilusión de la memoria, alteración frecuente en estos pacientes #footnote[Políticamente incorrecto, actualmente]. Puede haber identificación imaginaria con otras personas \(por ejemplo con otras pacientes de la sala: siente sus síntomas). No hay evidencias de un trastorno mental orgánico.
 
-\=\=\=\=\=\= Fuga disociativa
+====== Fuga disociativa
 
-Con desencadenante emocional. Amnesia disociativa + desplazamiento
-intencional \(lejos del hogar o lugar de trabajo), en la cual mantiene
-cuidados básicos de sí mismo, lleva a cabo una interacción simple con
-extraños y presenta amnesia del episodio, por lo que lo calificamos de
-fuga psicógena. Puede presentar confusión sobre su identidad.
+Con desencadenante emocional. Amnesia disociativa + desplazamiento intencional \(lejos del hogar o lugar de trabajo), en la cual mantiene cuidados básicos de sí mismo, lleva a cabo una interacción simple con extraños y presenta amnesia del episodio, por lo que lo calificamos de fuga psicógena. Puede presentar confusión sobre su identidad.
 
-\=\=\=\=\=\= Estupor disociativo
+====== Estupor disociativo
 
-Ver encare de estupor. Clínicamente reconocido por una disminución
-profunda o ausencia de movilidad voluntaria, disminución de reactividad
-a estímulos exteriores, no está dormida ni inconsciente.
+Ver encare de estupor. Clínicamente reconocido por una disminución profunda o ausencia de movilidad voluntaria, disminución de reactividad a estímulos exteriores, no está dormida ni inconsciente.
 
-\=\=\=\=\=\= Estados crepusculares
+====== Estados crepusculares
 
-Debilitamiento del nivel de consciencia, que puede llegar en profundidad
-desde la obnubilación al estupor. Comporta una experiencia
-semiconsciente de despersonalización y extrañeza.
+Debilitamiento del nivel de consciencia, que puede llegar en profundidad desde la obnubilación al estupor. Comporta una experiencia semiconsciente de despersonalización y extrañeza.
 
-\=\=\=\=\=\= Estados segundos
+====== Estados segundos
 
-Caracterizados por un estado de consciencia debilitado dentro del cual
-ocurre una producción de gran riqueza visual compleja \(fenómenos
-seudoperceptivos). Son de alto valor simbólico afectivo, en las que
-podemos inferir la expresión de conflictos internos, que recuerda al
-ensueño, admiten crítica, estereotipadas, parahípnicos \(hipnagógicos o
-hipnapómpicos). Dados por elementos sensorailes excitatorios de
-diferente complejidad \(acufenos, fosfenos). Pueden plantear DD con
-crisis uncinadas si hay alteraciones olfativas. Otros nombres:
-alucinosis histérica, síndrome seudoperceptivo.
+Caracterizados por un estado de consciencia debilitado dentro del cual ocurre una producción de gran riqueza visual compleja \(fenómenos seudoperceptivos). Son de alto valor simbólico afectivo, en las que podemos inferir la expresión de conflictos internos, que recuerda al ensueño, admiten crítica, estereotipadas, parahípnicos \(hipnagógicos o hipnapómpicos). Dados por elementos sensorailes excitatorios de diferente complejidad \(acufenos, fosfenos). Pueden plantear DD con crisis uncinadas si hay alteraciones olfativas. Otros nombres: alucinosis histérica, síndrome seudoperceptivo.
 
-\=\=\=\=\=\= Otros
+====== Otros
 
 Sonambulismo, personalidad múltiple.
 
 ===== Síndrome de ansiedad-angustia
 <_síndrome_de_ansiedad_angustia_7>
-Vivencial: estado de alerta y tensión, inquietud permanente sin objeto,
-desmesurado de las preocupaciones.
+Vivencial: estado de alerta y tensión, inquietud permanente sin objeto, desmesurado de las preocupaciones.
 
-Somático: tensión motora, hiperfuncionamiento autónomo, vigilancia y
-control.
+Somático: tensión motora, hiperfuncionamiento autónomo, vigilancia y control.
 
 ===== Síndrome depresivo
 <_síndrome_depresivo_6>
-Humor y afectividad: irritabilidad \(disforia histeroide), anhedonia.
-A/v depresión atípica \(irritabilidad, hipersomnia, hiperorexia).
-Inhibición psicomotriz \(presentación, pensamiento: ideas tristes,
-apatía, astenia, conductas basales y pragmatismos). Dolor moral: ruina,
-culpa, minusvalía, ideas de muerte o de AE.
+Humor y afectividad: irritabilidad \(disforia histeroide), anhedonia. A/v depresión atípica \(irritabilidad, hipersomnia, hiperorexia). 
 
 ===== Síndrome conductual
 <_síndrome_conductual_7>
@@ -130,209 +81,131 @@ IAE.
 <_generalidades_del_cuadro>
 El cuadro tienen las siguientes características:
 
-- Factor desencadenante: relación temporal entre un estímulo estresante
-  y el inicio del síndrome, reactivo. \* Beneficio secundario \(3° para
-  el psicoanálisis): le permite evitar un perjuicio u obtener un
-  beneficio del entorno. \* Intencionalidad inconsciente: el síntoma no
-  es voluntario, simboliza un deseo inconsciente. \* Inicio súbito,
-  posterior a una crisis de ansiedad que suele cesar con la instalación
-  del síntoma
-
-- Representa el concepto que la paciente tiene sobre el trastorno
-  somático \* Bella indiferencia hacia el síntoma \* Contexto biográfico
-  y actual que le da sentido al síntoma \* Recurrencia en el tiempo
+- Factor desencadenante: relación temporal entre un estímulo estresante y el inicio del síndrome, reactivo.
+- Beneficio secundario \(3° para el psicoanálisis): le permite evitar un perjuicio u obtener un beneficio del entorno.
+- Intencionalidad inconsciente: el síntoma no es voluntario, simboliza un deseo inconsciente.
+- Inicio súbito, posterior a una crisis de ansiedad que suele cesar con la instalación del síntoma.
+- Representa el concepto que la paciente tiene sobre el trastorno somático.
+- Bella indiferencia hacia el síntoma.
+- Contexto biográfico y actual que le da sentido al síntoma.
+- Recurrencia en el tiempo.
 
 ==== Personalidad y nivel
 <_personalidad_y_nivel_14>
-Nivel: pueden haber síntomas conversivos en contexto de nivel marginal /
-BNI \(DD con la puerilidad que puede verse en algunas histerias). Ante
-la duda: test de nivel.
+Nivel: pueden haber síntomas conversivos en contexto de nivel marginal / BNI \(DD con la puerilidad que puede verse en algunas histerias). Ante la duda: test de nivel.
 
 Personalidad:
 
 Historia de conflictiva infantil.
 
 Rasgos neuróticos globales \(yo débil)
-
-- Mal manejo de la agresividad \* Trastornos de la esfera sexual \*
-  Dependiente/inmaduro
+- Mal manejo de la agresividad
+- Trastornos de la esfera sexual
+- Dependiente/inmaduro
 
 Rasgos histéricos/personalidad histérica
-
 - Egocentrismo
-
 - Histrionismo: hiperexpresividad, dramatismo, fantasía mitomanía
-
 - Labilidad emocional
-
 - Sugestionabilidad plasticidad: autosugestión, sugestión externa
-
 - Dependencia
-
 - Erotización de los vínculos
-
 - Trastornos sexuales
-
 - Superficialidad de vínculos
-
 - Poco interés por lo intelectual
-
 - Baja tolerancia a las frustraciones
-
 - Manipulación del entorno
-
 - Acting-out con escasa o nula previsión de sus actos
 
 En la entrevista destacar:
 
 - bella indiferencia
-
 - impresionsimo, teatralidad, sugestionabilidad
-
 - intento de manipulación o manejo de la entrevista
-
 - puerilidad
-
 - erotización o intento de seducción durante la entrevista
 
-Siguiendo nosografía propuesta por DSM, puede estar asociados a rasgos
-histriónicos: patrón de excesiva emotividad y búsqueda de atención con 5
-o más de:
+Siguiendo nosografía propuesta por DSM, puede estar asociados a rasgos histriónicos: patrón de excesiva emotividad y búsqueda de atención con 5 o más de:
 
 - incomodidad si no es el centro
-
-- erotización de los vínculos \(comportamiento sexualmente seductor o
-  provocador)
-
+- erotización de los vínculos \(comportamiento sexualmente seductor o provocador)
 - expresión emocional superficial y cambiante
-
 - uso del aspecto físico para llamar la atención
-
 - forma de hablar excesivamente subjetiva y carente de matices
-
 - teatralidad, dramatización
-
 - sugestionabilidad
-
 - considera sus relaciones más íntimas de lo que son
 
-#block[
-El TP Histriónico se asocia a: Trastorno de Somatización, Trastorno
-Conversivo/Disociativo, otros trastornos del grupo B.
+#note[El TP Histriónico se asocia a: Trastorno de Somatización, Trastorno Conversivo/Disociativo, otros trastornos del grupo B.]
 
-]
 ==== Diagnóstico positivo
 <_diagnóstico_positivo_15>
 ===== Nosografía Clásica
 <_nosografía_clásica_16>
 Fragmentos: Neurosis.
 
-\=\=\=\=\=\= Neurosis histérica
+====== Neurosis histérica
 
-Por síndrome disociativo histérico + síndrome conversivo \(críticos o
-permanentes), en un paciente con rasgos de personalidad histérica, con
-AP de cuadros similares. Leve/moderada/grave: según grado de repercusión
-sociofamiliar-laboral, intensidad y duración de los síntomas.
+Por síndrome disociativo histérico + síndrome conversivo \(críticos o permanentes), en un paciente con rasgos de personalidad histérica, con AP de cuadros similares. Leve/moderada/grave: según grado de repercusión sociofamiliar-laboral, intensidad y duración de los síntomas.
 
-\=\=\=\=\=\= Descompensada
+====== Descompensada
 
 Por:
 
 - Síndrome depresivo
-
 - Ansiedad angustia
-
 - Exacerbación de síntomas con falla de mecanismos de defensa
-
 - Crisis conversiva o estado conversivo
-
-- IAE Causa de descompensación: estrés psicosocial situación vital que
-  es incapaz de asumir \(matrimonio, hijo, episodio conflictivo
-  intrafamiliar, frustraciones afectivas, situación de abandono o
-  rechazo).
+- IAE Causa de descompensación: estrés psicosocial situación vital que es incapaz de asumir \(matrimonio, hijo, episodio conflictivo intrafamiliar, frustraciones afectivas, situación de abandono o rechazo).
 
 ===== CIE-10 - DSM IV
 <_cie_10_dsm_iv_2>
-\=\=\=\=\=\= CIE-10
+====== CIE-10
 
 Las posibilidades diagnósticas \(CIE) son:
 
-F44 Trastornos disociativos \(de conversión)
-
+- F44 Trastornos disociativos \(de conversión)
 - F44.0 Amnesia disociativa
-
 - F44.1 Fuga disociativa
-
 - F44.2 Estupor disociativo
-
 - F44.3 Trastornos de trance y de posesión
-
 - F44.4 Trastornos disociativos de la motilidad
-
 - F44.5 Convulsiones disociativas
-
 - F44.6 Anestesias y pérdidas sensoriales disociativas
-
 - F44.7 Trastornos disociativos \(de conversión) mixtos
-
 - F44.8 Otros trastornos disociativos \(de conversión)
-
 - F44.80 Síndrome de Ganser
-
 - F44.81 Trastorno de personalidad múltiple
-
-- F44.82 Trastornos disociativos \(de conversión) transitorios de la
-  infancia o adolescencia
-
+- F44.82 Trastornos disociativos \(de conversión) transitorios de la infancia o adolescencia
 - F44.88 Otros trastornos disociativos \(de conversión)
-
 - F44.9 Trastorno disociativo \(de conversión) sin especificación
-  Recordar que para el DSM pueden o no coexistir un Trastorno de
-  Conversión \(eje I), un Trastorno Disociativo \(eje I) y un Trastorno
-  Histriónico de la Personalidad \(eje II).
 
-: Recordar que en el DSM el eje I y el II son independientes \(hasta
-cierto punto), por lo cual se puede diagnosticar \(en teoría) un
-trastorno conversivo con o sin un trastorno de la personalidad
-comórbido. Desde el punto de vista de la nosografía clásica no se puede
-diagnosticar una neurosis histérica y un trastorno de la personalidad
-histriónico.
+Recordar que para el DSM pueden o no coexistir un Trastorno de Conversión \(eje I), un Trastorno Disociativo \(eje I) y un Trastorno Histriónico de la Personalidad \(eje II).
 
-\=\=\=\=\=\= DSM
+Recordar que en el DSM el eje I y el II son independientes \(hasta cierto punto), por lo cual se puede diagnosticar \(en teoría) un trastorno conversivo con o sin un trastorno de la personalidad comórbido. Desde el punto de vista de la nosografía clásica no se puede diagnosticar una neurosis histérica y un trastorno de la personalidad histriónico.
 
-En general es un diagnóstico con un criterio positivo, varios criterios
-de exclusión y el requerimiento de qyue haya un malestar \"clínicamente
-significativo\".
+====== DSM
 
-- Trastorno de conversión #strong[Inclusión: Síntoma o déficit motor
-  voluntario / sensorial que sugiere enfermedad neurológica + factor
-  psicológico asociado \(con desencadenante o conflicto previo)]
-  Exclusión: Trastorno Facticio, Simulación, enfermedad médica o
-  sustancias \*\* Especificadores: con síntoma o déficit motor / con
-  crisis y convulsiones / con síntoma o déficit sensorial / de
-  presentación mixta
+En general es un diagnóstico con un criterio positivo, varios criterios de exclusión y el requerimiento de qyue haya un malestar \"clínicamente significativo\".
 
-- Amnesia disociativa \*\* Inclusión: uno o más episodios con
-  incapacidad para recordar información personal importante
-  \(generalmente traumático)
+_Trastorno de conversión_
+- Inclusión: Síntoma o déficit motor voluntario / sensorial que sugiere enfermedad neurológica + factor psicológico asociado \(con desencadenante o conflicto previo)
+- Exclusión: Trastorno Facticio, Simulación, enfermedad médica o sustancias
+- Especificadores: con síntoma o déficit motor / con crisis y convulsiones / con síntoma o déficit sensorial / de presentación mixta
 
-  - Exclusión: \(no aparece exclusivamente en…) Trastorno de Identidad
-    Disociativo, Fuga Disociativa, TEPT u otros. \* Fuga disociativa:
-    #strong[Inclusión: amnesia + desplazamiento geográfico + confusión
-    sobre la identidad personal o asunción de una nueva identidad
-    \(parcial o completa)] Exclusión: \(no aparece exclusivamente en…)
-    Trastorno de Identidad Disociativo, enfermedad médica, sustancias.
-    \* Trastorno de Identidad Disociativo: \*\* Inclusión: presencia de
-    2 o más identidades o estados de personalidad + al menos 2 de estas
-    identidades controlan de forma recurrente el comportamiento del
-    individuo + amnesia disociativa.
+_Amnesia disociativa_
+- Inclusión: uno o más episodios con incapacidad para recordar información personal importante \(generalmente traumático)
+- Exclusión: \(no aparece exclusivamente en…) Trastorno de Identidad Disociativo, Fuga Disociativa, TEPT u otros.
 
-  - Exclusión: efecto fisiológico directo de una sustancia, enfermedad
-    médica.
+_Fuga disociativa_
+- Inclusión: amnesia + desplazamiento geográfico + confusión sobre la identidad personal o asunción de una nueva identidad \(parcial o completa)
+- Exclusión: \(no aparece exclusivamente en…) Trastorno de Identidad Disociativo, enfermedad médica, sustancias.
 
-: el encare de un trastorno somatomorfo puede tener algunos puntos en
-común con el encare de una neurosis histérica, pero con la nosografía
-moderna quedan en categorías distintas.
+_Trastorno de Identidad Disociativo_
+- Inclusión: presencia de 2 o más identidades o estados de personalidad + al menos 2 de estas identidades controlan de forma recurrente el comportamiento del individuo + amnesia disociativa.
+- Exclusión: efecto fisiológico directo de una sustancia, enfermedad médica.
+
+#note[El encare de un trastorno somatomorfo puede tener algunos puntos en común con el encare de una neurosis histérica, pero con la nosografía moderna quedan en categorías distintas.]
 
 ==== Diagnósticos diferenciales
 <_diagnósticos_diferenciales_10>

@@ -1,3 +1,5 @@
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
 #import "@preview/note-me:0.2.1": *
 == Trastornos por consumo de opioides
 === Notas clínicas

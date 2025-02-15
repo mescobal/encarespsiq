@@ -1,4 +1,6 @@
-
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Reacciones a estrés grave y trastornos de adaptación
 <_reacciones_a_estrés_grave_y_trastornos_de_adaptación>
 === Notas clínicas

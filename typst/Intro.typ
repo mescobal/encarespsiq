@@ -22,7 +22,7 @@ Junto con la filosofía del Software Libre, viene el concepto de "liberar frecue
 
 ==== Cambios
 Ultimos cambios:
-
+- 01/25: actualizo Tricotilomanía.
 - 08/24: actualizo Trastorno del Espectro Autista. Revisión de tratamiento, DSM-5. Agrego sección farmacología con Clonidina, Clozapina.
 - 07/24: actualizo tratamiento con clozapina a pautas 2015
 - 04/24: formateo varios artículo para que el PDF vaya tomando forma. La transformación de la prueba de residencia al formato MIR (un paso atrás en la formación) hace que estos encares dejen de ser "para la residencia". Hago modificaciones acordes.
@@ -70,14 +70,13 @@ Al final hay una lista de las abreviaturas más usadas, así como fragmentos de 
 ==== Material básico
 El material mínimo para preparar una prueba es:
 
-- Un tratado de psiquiatría (quizás sea más práctico en forma de compendio). Uno de los más usados en este texto es el compendio de Kaplan & Sadock @kaplan1999sinopsis.
-- El tratado clásico más popular en Uruguay (es una característica local, no está extendido en el mundo): Ey @ey1996 .
-- Un manual de clasificación de enfermedades mentales. Si bien entre los docentes es popular el DSM-IV @dsmiv1998, hay que recordar que todos los documentos vinculados a salud se guían por la guía de la OMS: CIE-10 @cie102000. El DSM-5 @american2014dsm puede no ser popular entre algunos docentes (podrían tener buenos motivos).
-- Un texto sobre psicofarmacología. Uno de los más populares es el de Stahl @stahl2021stahl.
+- Un tratado de psiquiatría (quizás sea más práctico en forma de compendio). Uno de los más usados cuandor preparé era el compendio de Kaplan & Sadock#footnote[Kaplan, H., Sadock, B. J., & Grebb, J. A. (1999). Sinopsis de psiquiatría (pp. 362-98). Medica.]. Usar lo que sea que estén usando ahora.
+- El tratado clásico más popular en Uruguay (es una característica local, no está extendido en el mundo): Ey#footnote[Ey, H., Bernard, P., & Brisset, C. (1975). Tratado de psiquiatría. In Tratado de psiquiatria (pp. 1091-1091).].
+- Un manual de clasificación de enfermedades mentales. Si bien entre los docentes es popular el DSM-IV#footnote[American Psychiatric Association. (1998). DSM IV: manual diagnóstico y estadístico de los trastornos mentales. In DSM IV: manual diagnóstico y estadístico de los trastornos mentales (pp. 907-p).], hay que recordar que todos los documentos vinculados a salud se guían por la guía de la OMS: CIE-10#footnote[Guía de Bolsillo de la Clasificación CIE-10: Clasificación de los Trastornos Mentales y del Comportamiento. Ed. Médica Panamericana, 2000.]. El DSM-5#footnote[American Psychiatric Association. (2014). DSM-5: Manual diagnóstico y estadístico de los trastornos mentales.] puede no ser popular entre algunos docentes (podrían tener buenos motivos).
+- Un texto sobre psicofarmacología. Uno de los más populares es el de Stahl#footnote[Stahl, S. M. (2014). Psicofarmacología esencial de Stahl. Bases neurocientíficas y aplicaciones prácticas. Madrid: Aula Médica.].
 
 ==== Material complementario
 Hay material que se usó como base en muchos de los capítulos que siguen, por lo cual no están citados en cada capítulo:
 
-- Uno de las mejores referencias en psicofarmacología por la abundancia de tablas y accesibilidad de la información es el "Clinical Handbook of Psychotropic Drugs" @procyshyn2023clinical.
+- Uno de las mejores referencias en psicofarmacología por la abundancia de tablas y accesibilidad de la información es el "Clinical Handbook of Psychotropic Drugs"#footnote[Procyshyn, R. M., Bezchlibnyk-Butler, K. Z., & Kim, D. D. (Eds.). (2023). Clinical handbook of psychotropic drugs. Hogrefe Publishing GmbH.].
 
-#bibliography("encares.bib")

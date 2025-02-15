@@ -1,9 +1,6 @@
 #import "@preview/fontawesome:0.2.1": *
 == Fragmentos
-En los lugares marcados con el ícono \"pegar\" \(icon:paste\[\]) pueden
-insertarse textos similares a los que se encuentran a continuación. No
-se recomienda la copia textual, porque puede tener un efecto negativo a
-los ojos del tribunal.
+En los lugares marcados con el ícono "pegar" #fa-icon("paste") pueden insertarse textos similares a los que se encuentran a continuación. No se recomienda la copia textual, porque puede tener un efecto negativo a los ojos del tribunal.
 
 / Neurosis: #block[
 #fa-icon("cut") Por la presencia de sintomatología en el corte longitudinal

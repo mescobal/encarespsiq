@@ -1,5 +1,7 @@
-
-== Demencias
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
+= Demencias
 
 === Notas clínicas
 
@@ -46,8 +48,7 @@ Con afasia, apraxia, agnosia, amnesia, acalculia. Disminución de la habilidad d
 - No Alzheimer
   - Demencia frontotemporal: inicio insidioso, edad < 65 años, incidencia familiar, atrofia variable en LF/LT, EEG frecuentemente normal.
   - De neurona motora (esclerosis lateral amiotrófica)
-  - De Pick
-  - Afasia progresiva primaria
+  - De Pick - Afasia progresiva primaria
   - Vasculares: demencia multiinfarto, arteriosclerosis cerebral.
 
 ===== Subcorticales
@@ -300,7 +301,7 @@ Demencia tipo Alzheimer Criterio general para demencia y además:
 
 ==== Diagnóstico etiopatogénico y psicopatológico
 ===== Fisiopatología
-Estrés oxidativo: pérdida del balance prooxidativo/antioxidativo, relacionado con procesos de envejecimiento, contribuye a cambios en el sistema colinérgico. Hay refuerzo mutuo entre el estrés oxidativo y la transmisión glutamatérgica (frente a un aumento de radicales libres, hay mayor acción glutamatérgica). Radicales libres: son especies oxigenadas altamente reactivas que contribuyen a la fagocitosis. Cuando aumentan los radicales libres, se promueve el daño neuronal. Apoptosis: muerte celular inducida por radicales libres. Excitotoxicidad: acción neurotóxica por exceso de estimulación, mediada por Glutamato. Se postula un rol en la enfermedad de Parkinson, Huntington y Alzheimer. 
+Estrés oxidativo: pérdida del balance prooxidativo/antioxidativo, relacionado con procesos de envejecimiento, contribuye a cambios en el sistema colinérgico. Hay refuerzo mutuo entre el estrés oxidativo y la transmisión glutamatérgica (frente a un aumento de radicales libres, hay mayor acción glutamatérgica). Radicales libres: son especies oxigenadas altamente reactivas que contribuyen a la fagocitosis. Cuando aumentan los radicales libres, se promueve el daño neuronal. Apoptosis: muerte celular inducida por radicales libres. Excitotoxicidad: acción neurotóxica por exceso de estimulación, mediada por Glutamato. Se postula un rol en la enfermedad de Parkinson, Huntington y Alzheimer.
 
 A nivel neuroanatómico: Hallazgos macroscópicos: no hay hallazgos que sean patognomónicos. Atrofia cerebral, dilatación ventricular, reducción del volumen cerebral. Hallazgos microscópicos: placas amiloides (estructuras extracelulares con centro de proteína beta amiloide rodeado de axones y dendritas atróficas, su densidad no guarda relación con el deterioro cognitivo, son más numerosas en pacientes con demencia tipo Alzheimer, sobre todo en corteza e hipocampo), enredos neurofibrilares (estructuras intracelulares [no exclusivos de DTA] en forma de pares de filamentos helicoidales [proteína Tau que ha tenido fosforilación extrema] y restos de neurotúbulos destruidos, respuesta a eventos degenerativos tóxicos y traumáticos), degeneración granulovacuolar, cuerpos de Hirano.
 
@@ -317,7 +318,7 @@ Etiología desconocida. Hay una reducción de las fibras colinérgicas en partic
 + Degeneración neurofibrilar en forma de ovillos o haces neurofibrilares, intracelulares, en las dendritas de las neuronas piramidales o en las neuronas multipolares. Son una colección de filamentos de la proteína fosforilada t, componente normal de microtúbulos que se hace anormal y excesivamente fosforilada, formando filamentos helicoidales apareados. Se ven sobre todo en el hipocampo, corteza entorrinal, subiculum y corteza (capas III y IV).
 + Placas amiloides (seniles): terminaciones axonales degeneradas y dendritas anormales que rodean una zona central de sustancia amiloide. Son extracelulares, compuestas por fibras de proteína beta-amiloide. Presentes sobre todo en hipocampo y corteza.
 + Cuerpos de Hirano: estructuras intracelulares eosinófilas, visibles al MO.
-+ Degeneración vacuolar con vacuolas intracitoplasmáticas, centradas por un gránulo argirófilo. 
++ Degeneración vacuolar con vacuolas intracitoplasmáticas, centradas por un gránulo argirófilo.
 
 Los haces (1) y placas (2) pueden verse en ancianos no demenciados pero en menor número. La presencia de 5 o más placas x campo microscópico indica DTA. Pueden encontrarse cuerpos de
   Lewy en las neuronas corticales.
@@ -338,7 +339,7 @@ El diagnóstico de demencia es clínico. La paraclínica estará destinada a:
 - corroborar diagnóstico etiopatogénico planteado
 - descartar diferenciales
 
-Valoración general y de polo neurológico, cardiovascular, medio interno, focos infecciosos neurólogo + internista. 
+===== Evaluación rápida
 
 Son de importancia los instrumentos de evaluación rápida, que si bien no son sustitutos de la evaluación clínica y no son específicos para cada tipo particular de demencia son breves y de fácil administración complementando datos clínicos y evolutivos. Puede realizarse el MMSE (Mini Mental State Examination), BOMC (Bless), test de la carátula del reloj.
 
@@ -353,7 +354,7 @@ Rutinas:
 - hemograma, glicemia, ionograma, azoemia, creatininemia, orina.
 - ECG y RxTx Función tiroidea.
 - Dosificación de B12.
-- VDRL. 
+- VDRL.
 
 Evaluación selectiva:
 - Orina, toxicología, radiografías, HIV, ANA (anticuerpos antinucleares), ApoE (apolipoproteína E), Tau, proteína beta amiloide plaquetario, Tropicamida (antagonista muscarínico que se usa como gotas oftálmicas en una prueba que evalúa midriasis en pacientes con Alzheimer).
@@ -364,7 +365,7 @@ Evaluación selectiva:
 - Si se piensa en sífilis: VDRL, FTA-ABS, signo de Argyll-Robertson, PL: citológico, bacteriológico y bioquímico.
 
 ===== Psicológico
-Una vez superado el cuadro actual (depresivo, delirante, confusional) consulta con neuropsicólogo para valorar funciones instrumentales y simbólicas. 
+Una vez superado el cuadro actual (depresivo, delirante, confusional) consulta con neuropsicólogo para valorar funciones instrumentales y simbólicas.
 
 Evaluación psicométrica: Weschler (WAIS) para: cuantificar deterioro, control evolutivo del paciente.
 

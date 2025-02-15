@@ -1,4 +1,6 @@
-
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Trastornos somatomorfos
 === Trastorno de somatización
 Inclusión: múltiples problemas físicos que comienzan antes de los 30 años + persistencia x años + búsqueda de atención médica + afectación de pragmatismos.
