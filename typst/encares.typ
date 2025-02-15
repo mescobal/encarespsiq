@@ -80,6 +80,8 @@
 
 #include "F22.typ"
 
+#include "F22a.typ"
+
 #include "F23.typ"
 
 = Trastornos del humor
@@ -340,9 +342,6 @@ La muerte en general se produce por falla cardíaca, respiratoria, neumonia por 
 Si se reinicia el antipsicótico de forma inmediata: recurrencia de un 30%. Se recomienda esperar al menos 2 semanas después de la resolución para retomar cualquier antipsicótico- Se recomienda una dosificación lenta / gradual de neuroléptico sedativo o de APSG. Preferentemente usar antagonistas parciales de DA \(aripiprazol, brexpiprazol, cariprazina).
 
 Obtener consentimiento informado antes de reiniciar. En general no hay recurrencia si se empieza la misma droga luego de las 4 semanas de la recuperación del episodio inicial.
-= Farmacología
-#include "Clonidina.typ"
-#include "Clozapina.typ"
 = Apéndice
 
 #include "Fragmentos.typ"

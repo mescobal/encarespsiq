@@ -2,7 +2,7 @@
 #import "@preview/ilm:1.1.2": *
 #import "@preview/note-me:0.2.1": *
 == Trastornos del humor: generalidades
-#warning[En transición. Capítulo que será eliminado \(se superpone con los 2 siguientes). Saltearse este capítulo.]
+#warning[En transición. Capítulo que será eliminado (se superpone con los 2 siguientes). Saltearse este capítulo.]
 
 === Notas clínicas
 Formas clínicas no contempladas en encares clásicos: trastornos subafectivos, trastorno depresivo breve recurrente, trastorno esquizoafectivo, depresión en esquizofrenia.
@@ -18,19 +18,13 @@ Trastorno persistente de al \(-) 2 a de intensidad leve / moderada de inicio en 
 - Akiskal sostiene la mayor validez de criterio B alternativo que agrupa sínt subjetivos . autoestima, autoconfianza, pesimismo, desesperanza, incapacidad, desinterés gralizado, aislamiento social, cansancio crónico, cavilaciones referidas al pasado, \< productividad - efectividad, trast \[ \] memoria, indecisión
 - inicio + precoz \> probab de complicarse C/ EDM \* pánico \(10 \* 1/3 inicio \< 12 a : \"niños incapaces de disfrutar\" / \> % de AF de humor 
 - \"depresión existencial\" / id suicida 31 % / comportam suicida 24 
-- en suma : depresión de bajo gr y larga duración, fluctuante, experimentado como parte del YO habitual representando una acentuación de rasgos observados en temperamento depresivo \(en apéndice de DSM IV)
+En suma : depresión de bajo grado y larga duración, fluctuante, experimentado como parte del YO habitual representando una acentuación de rasgos observados en temperamento depresivo (en apéndice de DSM IV)
 
 ===== Ciclotimia
 <_ciclotimia>
 Caract hipomaníacas + subdepresivas 
-- en suma : disregulación bifásica c/ cambios endoreactivos de una fase a otra, cada fase dura pocos días x vez c/ infrecuente eutimia
 
-#block[#strong[Cambios de categoría diagnóstica]]
-Siempre depende de la intensidad del ep de exaltación de humor
-
-- TD \> : 9
-- Ciclot : 30
-- Bip II: 5-13
+En suma : disregulación bifásica c/ cambios endoreactivos de una fase a otra, cada fase dura pocos días x vez c/ infrecuente eutimia
 
 ==== Trastorno esquizoafectivo
 <_trastorno_esquizoafectivo>
@@ -52,90 +46,55 @@ De 2 días a 2 sem / deterioro pragmático en el episodio / vida más perturbada
 
 ==== Basados en etiología
 <_basados_en_etiología>
-\(debidos a enf médica / induc por sust \[ c/ sínt depresivos, maníacos, mixtos\] de inicio durante la intox o la abstinencia)
+- debidos a enfermedad médica
+- induc por sust (con síntomas depresivos, maníacos, mixtos) de inicio durante la intox o la abstinencia
 
+Diferencias:
 - AP de enf médica o consumo, no de trast humor
 - no hay AF de humor
-- si coexisten hay implicancias pronósticas y terap
+- si coexisten hay implicancias pronósticas y terapéuticas
 
-+ Inducido por sustancias : diagnóstico doble es lo más adecuado. Sustancias: enmascaran síntomas afectivos. Abuso de OH / sust : resistencia al tto
-+ + bip I : 60 % de dx doble . bip II : 50%
-adicción : proceso de aprendizaje biológico
-OH
+_Inducido por sustancias_
 
-+ + tipo I : como ansiolítico \(trast de ansiedad o pánico)\> 20-25 a / para manejo del stress / + ambiental / 60 
-+ + tipo II : como estim \(trast de humor): \< 20-25 a / comportam agresivo y antisocial / drogas  / \> tasa de depresión e IAE / \> componente genético / búsqueda de ef euforizantes / 40%
+Diagnóstico doble es lo más adecuado. Sustancias: enmascaran síntomas afectivos. Abuso de OH / sust : resistencia al tto
+- tipo I : como ansiolítico \(trast de ansiedad o pánico)\> 20-25 a / para manejo del stress / + ambiental / 60 
+- tipo II : como estim \(trast de humor): \< 20-25 a / comportam agresivo y antisocial / drogas  / \> tasa de depresión e IAE / \> componente genético / búsqueda de ef euforizantes / 40%
 
-similitudes c/ bipolar: edad inicio / carga genética / \> suicidio / impulsividad / violencia / variación estacional / \"búsqueda de estím\" / sd deficiencia de 5HT
+Similitudes c/ bipolar: edad inicio / carga genética / \> suicidio / impulsividad / violencia / variación estacional / \"búsqueda de estím\" / sd deficiencia de 5HT
 
-- 3-4 sem detox para evaluar tto \* comorb peor resp \* beber social tb interfiere c/ tto \* ante dudas 3-4 sem detoxificación para determinar que es primario \* comorbidez entre ambos . peor resultado a tto convencional que cada grupo por separado
-
-drogodependencias
-
-patología dual
-
-prevalencia:
-
-ciclotimia 50%OH
-
-hombre + manía \>40% ingesta de OH
-
-30% consumo de coca asocian bipolar
-
-bipolar patología de eje I con mayor riesgo de asociar
-
-consumo de sust y OH
-
-agrava evolución y empeora pronóstico
-
+- 3-4 sem detox para evaluar tto
+- comorbilidad peor respuesta
+- beber social tb interfiere c/ tto
+- ante dudas 3-4 sem detoxificación para determinar que es primario
+- comorbidez entre ambos
+- peor resultado a tto convencional que cada grupo por separado
 - + lentitud en recuperación \* + nº de internaciones
 
-B debido a enf médica
+_Debido a enf médica_
 
 Enfermedades que causan resistencia:
 
-#block[
-#set enum(numbering: "1.", start: 1)
-+ endocrinopatías: tiroides, hipercortisolemia . neoplasias /
-  infecciones . AVE / convulsiones / enfermedad cerebrovascular .
-  esclerosis múltiple / lupus
-]
+- endocrinopatías: tiroides, hipercortisolemia . neoplasias / infecciones . AVE / convulsiones / enfermedad cerebrovascular .
+- esclerosis múltiple / lupus
+- Demencia: > de 65 años, primer episodio). Puede tratarse de un episodio de manía en el curso de un trastorno bipolar complicado por la instalación de una encefalopatía degenerativa a descartar por paraclínica ya que sabemos que en esos casos disminuye la respuesta a la medicación. El abandono de la medicación puede estar precedido por un episodio de omnipotencia maníaca.
 
-Demencia
+_Trastorno de la personalidad_
 
-- \> de 65 años, primer episodio). Puede tratarse de un episodio de
-  manía en el curso de un trastorno bipolar complicado por la
-  instalación de una encefalopatía degenerativa a descartar por
-  paraclínica ya que sabemos que en esos casos disminuye la respuesta a
-  la medicación. El abandono de la medicación puede estar precedido por
-  un episodio de omnipotencia maníaca.
-
-T de P
-
-secuencia temporal: ¿TP post afectivo?
-
-BL ¿superposición? / 1/3 responden a AD \(ISRS) o estabilizadores
-
-en su labilidad afectiva /no en trast vinculares
-
-preferible, ante duda, dx humor
+- Secuencia temporal: ¿TP post afectivo?
+- BL ¿superposición? / 1/3 responden a AD \(ISRS) o estabilizadores
+- en su labilidad afectiva /no en trast vinculares
+- preferible, ante duda, dx humor
 
 fact pronósticos!!
-
-diátesis de eje II puede tranf en trast de eje I \(puede empeorar por
+-  diátesis de eje II puede tranf en trast de eje I \(puede empeorar por
 iatrogenia)
+- anastomosis humor / personalidad
 
-anastomosis humor / personalidad
+_EJE IV_
 
-EJE IV
-
-Muerte de progenitor x \< de 11a puede llevar a desarrollo post / pérd
-de cónyugue está vinculado al inicio del ep depresivo al reactivar
-aquella pérd de la infancia
-
-eventos vitales del episodio y estressores crónicos mantenidos
-
-disfunción fliar : incide en recaídas, readaptación y recuperación
+Muerte de progenitor x \< de 11a puede llevar a desarrollo post / pérd de cónyugue está vinculado al inicio del ep depresivo al reactivaraquella pérd de la infancia
+- eventos vitales del episodio y estressores crónicos mantenidos
+- disfunción fliar : incide en recaídas, readaptación y recuperación
 
 ==== Diagnóstico diferencial
 <_diagnóstico_diferencial_3>
@@ -1008,10 +967,7 @@ recaídas en unipolar recurrente : 50
 
 valproato : trast cognitivos / alt de memoria / caída de cabello / alt hepáticas
 
-NOTAS
 
-- Latencia de los antidepresivos para el tratamiento del EDM: 2 semanas.
-- La venlafaxina a dosis altas parece tener una latencia menor \(CITA).
 Predictores de riesgo de inicio de un trastorno bipolar ante un primer EDM:
 - Historia familiar de TB
 - Aparición antes de los 25 años
