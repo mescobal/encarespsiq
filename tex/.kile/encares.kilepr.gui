@@ -359,7 +359,7 @@ open=false
 order=-1
 
 [item:Intro.tex]
-open=true
+open=false
 order=1
 
 [item:cc.png]
@@ -415,7 +415,7 @@ open=false
 order=-1
 
 [item:encares.tex]
-open=true
+open=false
 order=0
 
 [item:encares.toc]
