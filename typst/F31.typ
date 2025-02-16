@@ -465,6 +465,18 @@ Generalmente como coadyuvante de otro estabilizador del humor. Dosis iniciales d
 
 Predictores de respuesta a antivonvulsivantes: ciclado rápido, episodio mixto, pobre respuesta a litio, manía secundaria, comorbilidad con abuso de sustancias.
 
+_Resistencia_
+Falla en la remisión completa en 3 ensayos (incluyendo 2 fármacos de familia distinta) por 12 semanas cada uno a la dosis máxima tolerada.
+Se considera un ensayo adecuado:
+- Diagnóstico adecuado
+- Antidepresivo apropiado
+- Dosis adecuada
+- Nivel plasmático óptimo
+- Duración adecuada
+- Buen cumplimiento
+
+En caso de resistencia: considerar alternativas de potenciación.
+
 ====== Mantenimiento
 
 Tratamiento de mantenimiento:

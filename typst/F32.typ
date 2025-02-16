@@ -15,26 +15,14 @@ conceptos clínicos útiles: depresión de inicio tardío, depresión de
 causa vascular. Depresión en el adulto mayor:
 
 - Mayores niveles de ansiedad.
-
 - Mayores niveles de síntomas hipocondríacos
-
 - Más asociado a ideación suicida
-
 - Más impacto en el funcionamiento.
-
 - Asociado a transición de autonomía a dependencia
-
 - La demencia es un factor de riesgo significativo
-
-- Las enfermedades somáticas graves son un factor de riesgo
-  significativo para el suicidio en varones más que en mujeres
-
-- Tratamiento de primera línea: ISRS. Realizar antes rutinas y ECG.
-  Considerar duales. La latencia del antidepresivo es mayor que en los
-  más jóvenes.
-
-- Si hay síntomas psicóticos, hay mayor riesgo de demencia y de
-  suicidio.
+- Las enfermedades somáticas graves son un factor de riesgo significativo para el suicidio en varones más que en mujeres.
+Tratamiento de primera línea: ISRS. Realizar antes rutinas y ECG. Considerar duales. La latencia del antidepresivo es mayor que en los más jóvenes.
+Si hay síntomas psicóticos, hay mayor riesgo de demencia y de suicidio.
 
 Depresión psicótica en adultos mayores: antidepresivos \(duales) \
 antipsicóticos. Segunda línea: ECT. Mantenimiento: si respondió a ECT →
@@ -90,6 +78,22 @@ MIRT | NORT, BUPR |ACV| | DESV, SERT, CITA, ESCI, AGOM, VORT, MIRT |
   of adolescent depression: a randomized, double-blind,
   placebo-controlled extension trial. Journal of child and adolescent
   psychopharmacology, 2013, vol. 23, no 7, p. 468-480.]
+
+==== Depresión con riesgo de Trastorno Bipolar
+Predictores de riesgo de inicio de un trastorno bipolar ante un primer EDM:
+- Historia familiar de TB
+- Aparición antes de los 25 años
+- Inicio en el posparto
+- Hipomanía farmacológica inducida por el antidepresivo
+- Presencia de síntomas psicóticos
+- Hipersomnia y/o inhibición psicomotriz
+
+En pacientes con depresiones recurrentes puede plantearse el uso de antirrecurrencial / estabilizadores.
+Goodwin planteaba que el hombre es más probable que comience con un episodios maníaco y la mujer con un episodio depresivo.
+
+==== Distimia
+La combinación de psicoterapia + medicación es más eficaz que la medicación sola \(CITA) Depresión doble: la medicación AD consigue no solo la remisión del EDM sino la de la distimia.
+
 
 === Encare
 <_encare_10>
