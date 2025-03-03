@@ -9,19 +9,19 @@
 ==== Paraclínica
 - Consulta con cardiólogo previo al uso
 - Controles de PA regulares
-- Periódicamente: hemograma \(raro: leucopenia / anemia) en caso de tratamiento prolongado.
+- Periódicamente: hemograma (raro: leucopenia / anemia) en caso de tratamiento prolongado.
 
 ==== Tratamiento
 ===== Biológico
 Adolescentes:
 
 - primera línea: Mefilfenidato, Dexanfetamina, lisdexanfetamina
-- segunda línea: atomoxetina \(si están CI los estimulantes, si no los tolera, si no respondió a 2 estimulantes distintos a dosis adecuadas)
+- segunda línea: atomoxetina (si están CI los estimulantes, si no los tolera, si no respondió a 2 estimulantes distintos a dosis adecuadas)
 
 Adultos:
 
 - Primera línea: Metilfenidato, dexanfetamina, lisdexanfetamina
-- Segunda línea: Atomoxetina o guanfacina \(si están CI los estimulantes, si no los tolera, si no respondió a 2 estimulantes distintos a dosis adecuadas)
+- Segunda línea: Atomoxetina o guanfacina (si están CI los estimulantes, si no los tolera, si no respondió a 2 estimulantes distintos a dosis adecuadas)
 - Tecera línea: Bupropion, Clonidina, Modafinilo, Reboxetina, Venlafaxina
 
 ====== Metilfenidato
@@ -39,7 +39,7 @@ Combinaciones:
 
 Presentaciones:
 
-- Liberación inmediata: duración de acción 4-6 horas \(2-3 tomas al día)
+- Liberación inmediata: duración de acción 4-6 horas (2-3 tomas al día)
   - Ritalina (Novartis) 10 mg x 30 comprimidos, Rubifen (Servimedic) 10 mg x 30 comprimidos.
 - Liberación bifásica:  duración de efecto 8 horas (una toma diaria) Ritalina LA (Novartis) 20 mg x 30 comp. Ritalina LA (Novartis) 30 mg x 30 comp
 - Liberación bifásica prolongada: 12 horas (una toma diaria)] Concerta (Janssen) 18 mg x 30 comprimidos: Concerta (Janssen) 36 mg x 30 comp.

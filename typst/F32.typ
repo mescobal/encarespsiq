@@ -6,13 +6,7 @@
 <_notas_clínicas_11>
 ==== Depresión en el adulto mayor
 <_depresión_en_el_adulto_mayor>
-Es un constructo clínicamente útil#footnote[Agüera-Ortiz, L.,
-Claver-Martín, M. D., Franco-Fernández, M. D., López-Álvarez, J.,
-Martín-Carrasco, M., Ramos-García, M. I., & Sánchez-Pérez, M. \(2020).
-Depression in the Elderly. consensus statement of the Spanish
-Psychogeriatric Association. Frontiers in psychiatry, 11, 380.]. Otros
-conceptos clínicos útiles: depresión de inicio tardío, depresión de
-causa vascular. Depresión en el adulto mayor:
+Es un constructo clínicamente útil#footnote[Agüera-Ortiz, L., Claver-Martín, M. D., Franco-Fernández, M. D., López-Álvarez, J., Martín-Carrasco, M., Ramos-García, M. I., & Sánchez-Pérez, M. \(2020). Depression in the Elderly. consensus statement of the Spanish Psychogeriatric Association. Frontiers in psychiatry, 11, 380.]. Otros conceptos clínicos útiles: depresión de inicio tardío, depresión de causa vascular. Depresión en el adulto mayor:
 
 - Mayores niveles de ansiedad.
 - Mayores niveles de síntomas hipocondríacos
@@ -24,16 +18,9 @@ causa vascular. Depresión en el adulto mayor:
 Tratamiento de primera línea: ISRS. Realizar antes rutinas y ECG. Considerar duales. La latencia del antidepresivo es mayor que en los más jóvenes.
 Si hay síntomas psicóticos, hay mayor riesgo de demencia y de suicidio.
 
-Depresión psicótica en adultos mayores: antidepresivos \(duales) \
-antipsicóticos. Segunda línea: ECT. Mantenimiento: si respondió a ECT →
-ECT de mantenimiento + fármacos. Se sugiere no usar litio, ni mantener
-los antipsicóticos durante el mismo lapso que los antidepresivos. Los
-antidepresivos son eficaces para el tratamiento de la depresión en
-pacientes con demencia. Depresión vascular y depresión en demencia:
-puede usarse ECT.
+Depresión psicótica en adultos mayores: antidepresivos (duales) \ antipsicóticos. Segunda línea: ECT. Mantenimiento: si respondió a ECT →  ECT de mantenimiento + fármacos. Se sugiere no usar litio, ni mantener los antipsicóticos durante el mismo lapso que los antidepresivos. Los antidepresivos son eficaces para el tratamiento de la depresión en pacientes con demencia. Depresión vascular y depresión en demencia: puede usarse ECT.
 
-#block[
-#strong[Recomendaciones según situación clínica]
+_Recomendaciones según situación clínica_
 
 ]
 \[options\=\"header\"\] |\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=

@@ -120,7 +120,7 @@
 
 #include "F632.typ"
 
-#include "F680.typ"
+#include "F68.typ"
 
 
 = Retraso Mental

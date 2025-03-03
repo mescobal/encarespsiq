@@ -7,20 +7,13 @@
 - F84.5 Síndrome de Asperger (Trastorno Esquizoide de la Infancia)
 
 === Notas Clínicas
-Característica fundamental de lo TGD: alteraciones cualitativas de la
-interacción social y formas de comunicación con un conjunto restringido
-de intereses y actividades.
+Característica fundamental de lo TGD: alteraciones cualitativas de la interacción social y formas de comunicación con un conjunto restringido de intereses y actividades.
 
-Otros nombres: trastorno autístico, autismo infantil, psicosis infantil,
-síndrome de Kanner.
+Otros nombres: trastorno autístico, autismo infantil, psicosis infantil, síndrome de Kanner.
 
-Síndrome de Asperger: validez diagnóstica dudosa. Autismo SIN déficit o
-retraso en el lenguaje o en el desarrollo cognoscitivo. Generalmente
-asociado a torpeza motora. Pueden tener episodios psicóticos
-ocasionales. Sinónimo: trastorno esquizoide de la infancia.
+Síndrome de Asperger: validez diagnóstica dudosa. Autismo SIN déficit o retraso en el lenguaje o en el desarrollo cognoscitivo. Generalmente asociado a torpeza motora. Pueden tener episodios psicóticos ocasionales. Sinónimo: trastorno esquizoide de la infancia.
 
-Tendencia a usar Trastornos del Espectro Autista \(TEA) como término
-paraguas. Prevalencia hasta 1
+Tendencia a usar Trastornos del Espectro Autista \(TEA) como término paraguas.
 
 === Encare
 ==== Diagnóstico positivo
@@ -98,8 +91,7 @@ En adultos, sobre todo para S de Asperger: DD con Trastorno de la P del grupo A 
 ===== Biológico
 En metaanálisis no hay diferencias significativas entre el placebo y los siguientes tratamientos #footnote[Yu, Yanjie, et al. "Pharmacotherapy of restricted/repetitive behavior in autism spectrum disorder: a systematic review and meta-analysis." BMC psychiatry 20.1 (2020): 1-11.]: fluvoxamina, risperidona, fluoxetina, citalopram, oxitocina, N-Acetilcisteína, buspirona.
 
-Aripiprazol: potencialmente útil para uso transitorio en el tratamiento de aspectos comportamentales (irritabilidad, hiperactividad, estereotipias). Debe prestarse atención a los efectos secundarios (ganancia de peso, sedación, sialorrea, temblor). Un estudio muestra que a largo plazo no se diferencia del placebo →  se recomienda usar por
-períodos cortos #footnote[Hirsch, Lauren E., and Tamara Pringsheim. "Aripiprazole for autism spectrum disorders (ASD)." Cochrane Database of Systematic Reviews 6 (2016).].
+Aripiprazol: potencialmente útil para uso transitorio en el tratamiento de aspectos comportamentales (irritabilidad, hiperactividad, estereotipias). Debe prestarse atención a los efectos secundarios (ganancia de peso, sedación, sialorrea, temblor). Un estudio muestra que a largo plazo no se diferencia del placebo →  se recomienda usar por períodos cortos #footnote[Hirsch, Lauren E., and Tamara Pringsheim. "Aripiprazole for autism spectrum disorders (ASD)." Cochrane Database of Systematic Reviews 6 (2016).].
 
 ====== Agitación y agresión
 La evidencia #footnote[Im, D. S. (2021). Treatment of aggression in adults with autism spectrum disorder: A review. Harvard review of psychiatry, 29(1), 35-80.] proveniente de estudios controlados sugiere el uso de: risperidona, propranolol, fluvoxamina, ejercicio aeróbico intenso y destrometorfano/quinidina.
@@ -108,4 +100,3 @@ Niveles menores de evidencia: intervenciones comportamentales, entornos multisen
 
 ===== Psicológico
 Psicoterapia de apoyo con promoción de conductas sociales e interacción. Técnicas de resolución de problemas. Entrenamiento en habilidades sociales.
-
