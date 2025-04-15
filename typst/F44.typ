@@ -33,7 +33,7 @@ Entendiendo por conversión la pérdida o alteración del funcionamiento físico
 - Espasmos de músculo liso y esfínteres, faringe, vómitos, respiratorio, vesical, vaginal
 
 ====== Otros
-Crisis de inhibición psicomotriz \(\"ataques catalépticos\", \"sueño histérico\"), simula un coma. Se recupera por técnicas sugestivas o dolorosas. Sin la tríada característica del sueño normal: miosis, estrabismo divergente por el predominio del tono del gran oblicuo, contracción activa del orbicular de los párpados).
+Crisis de inhibición psicomotriz \(\"ataques catalépticos\", \"sueño histérico\"), simula un coma. Se recupera por técnicas sugestivas o dolorosas. Sin la tríada característica del sueño normal: miosis, estrabismo divergente por el predominio del tono del gran oblicuo, contracción activa del orbicular de los párpados.
 
 ===== Síndrome disociativo histérico
 <_síndrome_disociativo_histérico>
@@ -142,7 +142,7 @@ Siguiendo nosografía propuesta por DSM, puede estar asociados a rasgos histrió
 <_diagnóstico_positivo_15>
 ===== Nosografía Clásica
 <_nosografía_clásica_16>
-Fragmentos: Neurosis.
+#fa-icon("paste") Neurosis.
 
 ====== Neurosis histérica
 
@@ -209,41 +209,21 @@ _Trastorno de Identidad Disociativo_
 
 ==== Diagnósticos diferenciales
 <_diagnósticos_diferenciales_10>
-#block[
-#set enum(numbering: "1.", start: 1)
-+ Epilepsia generalizada TC \(DD con crisis de EPM conversiva): por las
-  características reseñadas que nos permiten catalogar las crisis como
-  conversivas no pensamos que se trate de una crisis epiléptica. Dada la
-  frecuencia de coexistencia de ambas patologías realizaremos un
-  minucioso estudio paraclínico. Nos aleja de la epilepsia el hecho de
-  que en las crisis no hay pérdida de consciencia, ni mordedura de
-  lengua, ni incontinencia de orina, ni traumatismo al caer, ni sopor
-  postcrítico). Epilepsia de lóbulo temporal \(DD con amnesia
-  disociativa, fugas). . Otros trastornos orgánicos que se manifiestan
-  por plejias, trastornos sensitivos, visuales, como esclerosis múltiple
-  \(20-45 años, visión borrosa, diplopía, escotomas centrales,
-  alteraciones sensitivas, debilidad muscular) que evoluciona por
-  empujes. Otros: TEC, tumores, intoxicación, infecciones.. . Trastorno
-  de la personalidad histriónico: rasgos no son inflexibles ni
-  maladaptativos, no existe pauta de egosintonía \(pide ayuda), se da en
-  contexto intrapsíquico \(no interpersonal), por lo que lo descartamos.
-  NOTA: no es diferencial para la nosografía DSM. La nosografía clásica
-  exige personalidad + síntomas, pero la personalidad es de tipo
-  neurótico \(egodistónico, autoplástico) y el TdelaP no \(egosintónico,
-  aloplástico). . Neurosis de angustia / otras neurosis: el cuadro está
-  centrado por la sintomatología disociativa-conversiva y si existe
-  ansiedad-angustia esta aparece descompensando la neurosis
-  estructurada. . Trastorno afectivo primario \(melancolía ansiosa): no
-  existe dolor moral, la depresión es subsidiaria del trastorno
-  neurótico. . Síndrome amnésico orgánico: es más grave para los hechos
-  recientes que para los remotos, no existe selectividad, no existe
-  relación con desencadenantes emocionales. . Esquizofrenia \(alejado)
-  cuando se presenta con teatralidad exagerada, sobrecargada \(pero en
-  la esquizofrenia es por manierismo o catatonía). . Trastorno psicótico
-  breve: por alteración de conciencia + alteraciones perceptivas. .
-  Trastorno facticio / simulación \(expersa voluntad de engaño) . Otros:
-  intoxicación alcohólica, enfermedad psicosomática.
-]
+- Epilepsia generalizada TC \(DD con crisis de EPM conversiva): por las características reseñadas que nos permiten catalogar las crisis como conversivas no pensamos que se trate de una crisis epiléptica. Dada la frecuencia de coexistencia de ambas patologías realizaremos un minucioso estudio paraclínico. Nos aleja de la epilepsia el hecho de que en las crisis no hay pérdida de consciencia, ni mordedura de lengua, ni incontinencia de orina, ni traumatismo al caer, ni sopor postcrítico.
+- Epilepsia de lóbulo temporal \(DD con amnesia disociativa, fugas).
+- Otros trastornos orgánicos que se manifiestan por plejias, trastornos sensitivos, visuales, como esclerosis múltiple (20-45 años, visión borrosa, diplopía, escotomas centrales, alteraciones sensitivas, debilidad muscular) que evoluciona por empujes.
+- Otros: TEC, tumores, intoxicación, infecciones.
+- Trastorno de la personalidad histriónico: rasgos no son inflexibles ni maladaptativos, no existe pauta de egosintonía \(pide ayuda), se da en contexto intrapsíquico \(no interpersonal), por lo que lo descartamos.
+
+#note[no es diferencial para la nosografía DSM. La nosografía clásica exige personalidad + síntomas, pero la personalidad es de tipo neurótico \(egodistónico, autoplástico) y el TdelaP no \(egosintónico, aloplástico).]
+- Neurosis de angustia / otras neurosis: el cuadro está centrado por la sintomatología disociativa-conversiva y si existe ansiedad-angustia esta aparece descompensando la neurosis estructurada.
+- Trastorno afectivo primario \(melancolía ansiosa): no existe dolor moral, la depresión es subsidiaria del trastorno neurótico.
+- Síndrome amnésico orgánico: es más grave para los hechos recientes que para los remotos, no existe selectividad, no existe relación con desencadenantes emocionales.
+- Esquizofrenia \(alejado) cuando se presenta con teatralidad exagerada, sobrecargada \(pero en la esquizofrenia es por manierismo o catatonía).
+- Trastorno psicótico breve: por alteración de conciencia + alteraciones perceptivas.
+- Trastorno facticio / simulación \(expersa voluntad de engaño).
+- Otros: intoxicación alcohólica, enfermedad psicosomática.
+
 
 En los diferenciales por CIE / DSM: lo orgánico, sustancias.
 
@@ -251,236 +231,109 @@ En los diferenciales por CIE / DSM: lo orgánico, sustancias.
 <_diagnóstico_etiopatogénico_y_psicopatológico_12>
 ===== Comprensión psicológica
 <_comprensión_psicológica>
-Ey define la histeria como \"una neurosis caracterizada por la
-hiperexpresividad somática de las ideas, imágenes y afectos
-inconscientes\". Para Ey se necesitan 2 elementos para definir la
-histeria: la fuerza inconsciente de la realización plástica de las
-imágenes sobre el plano corporal \(síntoma) y la estructura inconsciente
-e imaginaria del personaje histérico \(personalidad).
+Ey define la histeria como \"una neurosis caracterizada por la hiperexpresividad somática de las ideas, imágenes y afectos inconscientes\". Para Ey se necesitan 2 elementos para definir la histeria: la fuerza inconsciente de la realización plástica de las imágenes sobre el plano corporal \(síntoma) y la estructura inconsciente e imaginaria del personaje histérico \(personalidad).
 
-Para el psicoanálisis, comporta una regresión y fijación a la fase
-edípica del desarrollo psicosexual. La reactivación del conflicto
-sobrepasa el mecanismo de represión que no basta para contener la
-angustia en el inconsciente, por lo que se recurre al mecanismo de
-conversión, con el cual el síntoma somático impide el acceso a la
-conciencia del conflicto rechazado, siendo el síntoma una expresión
-simbólica de éste. El conflicto que no puede hacerse consciente se
-disocia, refugiándose en una nueva realidad y aparece representado en
-una realidad paralela con lo cual se mitiga la ansiedad. La conversión
-sería la expresión somática de un conflicto inconsciente. El síntoma
-somático constituye un compromiso que impide el acceso a la conciencia
-del conflicto rechazado, al tiempo que implica una realización
-sustitutiva y disfrazada del deseo prohibido.
+Para el psicoanálisis, comporta una regresión y fijación a la fase edípica del desarrollo psicosexual. La reactivación del conflicto sobrepasa el mecanismo de represión que no basta para contener la angustia en el inconsciente, por lo que se recurre al mecanismo de conversión, con el cual el síntoma somático impide el acceso a la conciencia del conflicto rechazado, siendo el síntoma una expresión simbólica de éste. El conflicto que no puede hacerse consciente se disocia, refugiándose en una nueva realidad y aparece representado en una realidad paralela con lo cual se mitiga la ansiedad. La conversión sería la expresión somática de un conflicto inconsciente. El síntoma somático constituye un compromiso que impide el acceso a la conciencia del conflicto rechazado, al tiempo que implica una realización sustitutiva y disfrazada del deseo prohibido.
 
-Importa destacar que la sintomatología es involuntaria pero cargada de
-intencionalidad inconsciente. Del diagnóstico psicopatológico
-jerarquizamos los siguientes aspectos:
+Importa destacar que la sintomatología es involuntaria pero cargada de intencionalidad inconsciente. Del diagnóstico psicopatológico jerarquizamos los siguientes aspectos:
 
-- Presenta como beneficio primario la disminución de la angustia o la
-  anulación de ésta manteniéndola fuera del campo de la conciencia.
-
-- Presenta como beneficio secundario el manejo del entorno con lo que se
-  gratifican las necesidades de dependencia de la paciente, condiciona
-  la evolución de la dolencia, ganancia de tipo narcisista. La histeria
-  se modela en función de la respuesta, adaptándose al deseo del otro).
-  Se acompaña de \"belle indiference\" que es la indiferencia con
-  respecto al síntoma. Este mecanismo implica el uso de mecanismos de
-  defensa como la represión y la conversión.
-
+- Presenta como beneficio primario la disminución de la angustia o la anulación de ésta manteniéndola fuera del campo de la conciencia.
+- Presenta como beneficio secundario el manejo del entorno con lo que se gratifican las necesidades de dependencia de la paciente, condiciona la evolución de la dolencia, ganancia de tipo narcisista. La histeria se modela en función de la respuesta, adaptándose al deseo del otro. Se acompaña de \"belle indiference\" que es la indiferencia con respecto al síntoma. Este mecanismo implica el uso de mecanismos de defensa como la represión y la conversión.
 - Identificación con antecesor u otro enfermo
 
-Con respecto al desarrollo de la personalidad, el Yo histérico no ha
-logrado una organización estable conforme a una identificación de su
-propia persona. El papel que toma como rol oculta a su persona. Hay una
-gran psicoplasticidad \(histrionismo) con erotización de la conducta y
-los vínculos, produciéndose una \"falsificación\" de la existencia. Se
-sustituye el principio de realidad por el deseo y la fantasía
-\(pensamiento imaginario). El cuerpo pasa a ser escenario de los
-conflictos \(disposición conversiva).
+Con respecto al desarrollo de la personalidad, el Yo histérico no ha logrado una organización estable conforme a una identificación de su propia persona. El papel que toma como rol oculta a su persona. Hay una gran psicoplasticidad \(histrionismo) con erotización de la conducta y los vínculos, produciéndose una \"falsificación\" de la existencia. Se sustituye el principio de realidad por el deseo y la fantasía \(pensamiento imaginario). El cuerpo pasa a ser escenario de los conflictos \(disposición conversiva).
 
 ===== Comprensión biológica
 <_comprensión_biológica>
-Se postula la existencia de alteraciones en comunicacion
-interhemisferica, hipometabolismo del hemisferio dominante,
-hipermetabolismo del no dominante. Alteración de comunicación con la
-sustancia reticular.
+Se postula la existencia de alteraciones en comunicacion interhemisferica, hipometabolismo del hemisferio dominante, hipermetabolismo del no dominante. Alteración de comunicación con la sustancia reticular.
 
 ==== Paraclínica
 <_paraclínica_16>
-Para: apoyar diagnóstico, descartar diferenciales, en vistas al
-tratamiento, de valoración general. Se realizará desde un triple punto
-de vista: biológico, psicológico y social.
+Para: apoyar diagnóstico, descartar diferenciales, en vistas al tratamiento, de valoración general. Se realizará desde un triple punto de vista: biológico, psicológico y social.
 
 ===== Biológico
 <_biológico_19>
-- Consulta con internista con EF completo, con énfasis en lo neurológico
-  \(campo visual, pares craneanos, sensibilidad, fuerzas, reflejos),
-  incluyendo Fondo de Ojo. Despistaremos entidades de diagnóstico
-  clínico como Esclerosis Múltiple. Buscaremos signos focales, elementos
-  de síndrome frontal, polineuropatía sensitiva y motora, flapping,
-  rueda dentada, hiperreflexia, hiptertensión endocraneana, síndrome
-  cerebelos, etc. También buscaremos estigmas de UISP ode OH. \* EEG:
-  para despistar foco epiléptico \(con registro prolongado, con
-  deprivación de sueño y estimulación con hiperpnea y fotoestimulación).
-  \* Rx cráneo: valorando repercusión de múltiples caídas. \* Valoración
-  general: hemograma, glicemia, azoemia, creatininemia, orina completa,
-  ionograma., funcional y enzimograma hepático. \* Infeccioso: HIV;
-  VDRL, serología para hepatitis. \* Test de beta-HCG descartando
-  embarazo \(adolescente con reagudización de sintomatología). \*
-  Función tiroidea. \* Tóxicos en orina.
+- Consulta con internista con EF completo, con énfasis en lo neurológico (campo visual, pares craneanos, sensibilidad, fuerzas, reflejos), incluyendo Fondo de Ojo. Despistaremos entidades de diagnóstico clínico como Esclerosis Múltiple. Buscaremos signos focales, elementos de síndrome frontal, polineuropatía sensitiva y motora, flapping, rueda dentada, hiperreflexia, hiptertensión endocraneana, síndrome cerebeloso, etc.  También buscaremos estigmas de UISP ode OH.
+- EEG: para despistar foco epiléptico \(con registro prolongado, con deprivación de sueño y estimulación con hiperpnea y fotoestimulación).
+- Rx cráneo: valorando repercusión de múltiples caídas.
+- Valoración general: hemograma, glicemia, azoemia, creatininemia, orina completa, ionograma., funcional y enzimograma hepático.
+- Infeccioso: HIV, VDRL, serología para hepatitis.
+- Test de beta-HCG descartando embarazo \(adolescente con reagudización de sintomatología).
+- Función tiroidea.
+- Tóxicos en orina.
 
 Interconsultas con especialistas según hallazgos.
 
 ===== Psicológico
 <_psicológico_20>
-Entrevistas que tienen una finalidad diagnóstica y terapéutica. Superada
-la agudeza del cuadro evaluaremos características propias del paciente,
-sus capacidades y motivaciones para la psicoterapia. De ser necesario
-realizaremos tests:
+Entrevistas que tienen una finalidad diagnóstica y terapéutica. Superada la agudeza del cuadro evaluaremos características propias del paciente, sus capacidades y motivaciones para la psicoterapia. De ser necesario realizaremos tests:
 
-- Tests de Personalidad: proyectivos \(TAT, Rorschach), no proyectivos
-  \(MMPI). \* Tests de Nivel \(Wechsler).
+- Tests de Personalidad: proyectivos \(TAT, Rorschach), no proyectivos \(MMPI). \* Tests de Nivel \(Wechsler).
 
 En función de los hallazgos seleccionaremos el tipo de psicoterapia.
 
-Tendremos la precaución de generar un vínculo dentro de un encuadre
-adecuado, con adecuada puesta de límites y evitación de la generación de
-beneficios secundarios, favoreciendo la verbalización como forma de
-expresión, análisis y resolución de conflictos.
+Tendremos la precaución de generar un vínculo dentro de un encuadre adecuado, con adecuada puesta de límites y evitación de la generación de beneficios secundarios, favoreciendo la verbalización como forma de expresión, análisis y resolución de conflictos.
 
 ===== Social
 <_social_20>
-Entrevistas con terceros, valoración de la magnitud de los beneficios
-secundarios. Valoración de medio familiar, vínculos. Evaluación de red
-de soporte social, inventario de eventos vitales \(en particular eventos
-traumáticos) y respuesta a los mismos. HC anteriores, tratamientos,
-respuestas.
+Entrevistas con terceros, valoración de la magnitud de los beneficios secundarios. Valoración de medio familiar, vínculos. Evaluación de red de soporte social, inventario de eventos vitales \(en particular eventos traumáticos) y respuesta a los mismos. HC anteriores, tratamientos, respuestas.
 
 Indagar VD e historia de AS.
 
 ==== Tratamiento
 <_tratamiento_20>
-Sintomático y etiológico. Objetivo: compensar el cuadro actual,
-tratamiento enfermedad de fondo con profilaxis de recidivas y
-complicaciones. El tratamiento será dinámico, adaptándose a la evolución
-clínica. El tratamiento salvo excepciones se realizará de forma
-ambulatoria: evitar la internación dentro de lo posible. Esta será
-indicada cuando:
+Sintomático y etiológico. Objetivo: compensar el cuadro actual, tratamiento enfermedad de fondo con profilaxis de recidivas y complicaciones. El tratamiento será dinámico, adaptándose a la evolución clínica. El tratamiento salvo excepciones se realizará de forma ambulatoria: evitar la internación dentro de lo posible. Esta será indicada cuando:
 
-- Hay un IAE o alteraciones comportamentales que impliquen riesgo para
-  sí o terceros.
-
-- Se necesita aislamiento del foco conflictivo para combatir el
-  beneficio secundario que refuerza la sintomatología \(complicidad
-  familiar inconsciente)
-
+- Hay un IAE o alteraciones comportamentales que impliquen riesgo para sí o terceros.
+- Se necesita aislamiento del foco conflictivo para combatir el beneficio secundario que refuerza la sintomatología \(complicidad familiar inconsciente)
 - Si el medio es poco continente y el cuadro es grave
+- Para el tratamiento y control del síndrome depresivo y evitar sus complicaciones
 
-- Para el tratamiento y control del síndrome depresivo y evitar sus
-  complicaciones
-
-De internarse será breve por alta sugestionabilidad que hace que se
-alimente de las patologías de otros y la elevada tendencia a realizar un
-manejo del medio. Solo deberán autorizarse acompañantes más aptos, poco
-involucrado con los beneficios secundarios
+De internarse será breve por alta sugestionabilidad que hace que se alimente de las patologías de otros y la elevada tendencia a realizar un manejo del medio. Solo deberán autorizarse acompañantes más aptos, poco involucrado con los beneficios secundarios
 
 ===== Del cuadro actual
 <_del_cuadro_actual_2>
-#block[
-#strong[Biológico]
 
-]
+_Biológico_
+
 Tratamiento sintomático
 
-- Crisis: aislamiento con protección hasta que remita. Eventualmente
-  puede usarse una benzodiacepina IM \(Lorazepam 2mg i/m). Se debe
-  psicoeducar a la familia con respecto a las crisis para evitar que
-  sean consideradas producto de una simulación.
+- Crisis: aislamiento con protección hasta que remita. Eventualmente puede usarse una benzodiacepina IM \(Lorazepam 2mg i/m). Se debe psicoeducar a la familia con respecto a las crisis para evitar que sean consideradas producto de una simulación.
+- Ansiedad-angustia: Diazepam para disminuir el monto de ansiedad (5-5-10) a regular según evolución \(opciones: Clonazepam, Bromazepam, Alprazolam \[segunda línea por potencial generación de dependencia\]).
+- Depresión - ansiedad: ISRS → sedativos \(Paroxetina, Fluvoxamina) o no-sedativos \(Sertralina, Citalopram, Fluoxetina) a dosis estándar.
+- En caso de Disforia Histeroide, posibilidad de uso de IMAO: Moclobemida 300-600 mg/día \(comp 150 mg)
+- Síntomas seudoperceptivos: hay autores que plantean uso de NL a bajas dosis para síntomas seudoperceptivos: Haloperidol 1 mg/día. Otros autores que afirman que los NL están contraindicados, ya que la aparición de efectos secundarios puede agravar el cuadro preexistente. También se postula alto grado de imprevisibilidad en la respuesta al psicofármaco, incluso con reacciones paradojales
 
-- Ansiedad-angustia: Diazepam para disminuir el monto de ansiedad
-  \(5-5-10) a regular según evolución \(opciones: Clonazepam,
-  Bromazepam, Alprazolam \[segunda línea por potencial generación de
-  dependencia\]).
+_Psicológico_
 
-- Depresión - ansiedad: ISRS → sedativos \(Paroxetina, Fluvoxamina) o
-  no-sedativos \(Sertralina, Citalopram, Fluoxetina) a dosis estándar.
+Durante las crisis: habiendo tomado precauciones dejaremos sola a la paciente, dado que las crisis tienen un sentido vincular al cual no responderemos. Luego de las crisis haremos sesiones de apoyo breve. Instruiremos a la familia sobre este punto, evitando denigrar a la paciente, evitando que se la considere una simuladora.
 
-- En caso de Disforia Histeroide, posibilidad de uso de IMAO:
-  Moclobemida 300-600 mg/día \(comp 150 mg)
+Durante la internación: psicoterapia de apoyo buscando crear un vínculo terapéutico que asegure el apego al tratamiento a largo plazo y craendo un espacio de abordaje maduro de sus conflictos. Psicoeducación.
 
-- Síntomas seudoperceptivos: hay autores que plantean uso de NL a bajas
-  dosis para síntomas seudoperceptivos: Haloperidol 1 mg/día. Otros
-  autores que afirman que los NL están contraindicados, ya que la
-  aparición de efectos secundarios puede agravar el cuadro preexistente.
-  También se postula alto grado de imprevisibilidad en la respuesta al
-  psicofármaco, incluso con reacciones paradojales
+===== Alta
 
-#block[
-#strong[Psicológico]
-
-]
-Durante las crisis: habiendo tomado precauciones dejaremos sola a la
-paciente, dado que las crisis tienen un sentido vincular al cual no
-responderemos. Luego de las crisis haremos sesiones de apoyo breve.
-Instruiremos a la familia sobre este punto, evitando denigrar a la
-paciente, evitando que se la considere una simuladora.
-
-Durante la internación: psicoterapia de apoyo buscando crear un vínculo
-terapéutico que asegure el apego al tratamiento a largo plazo y craendo
-un espacio de abordaje maduro de sus conflictos. Psicoeducación.
-
-#block[
-#strong[Alta]
-
-]
-Se efectuará lo antes posible. Controles quincenales que iremos
-espaciando. Evitar polifarmacia. Re-evaluar la necesidad de medicación
-en forma periódica.
+Se efectuará lo antes posible. Controles quincenales que iremos espaciando. Evitar polifarmacia. Re-evaluar la necesidad de medicación en forma periódica.
 
 ===== De la enfermedad de fondo
 <_de_la_enfermedad_de_fondo>
-Una vez superado el cuadro actual será psicológico y social
-fundamentalmente.
+Una vez superado el cuadro actual será psicológico y social fundamentalmente.
 
-#block[
-#strong[Psicológico]
+_Psicológico_
 
-]
-Psicoterapia de corte psicoanalítico, según: edad, nivel intelectual,
-duración de la enfermedad, búsqueda de ayuda con deseo de mejoría. Los
-objetivos serán mejorar los síntomas, con adecuación al medio y lograr
-cambios perdurables en la estructura de su personalidad con uso de
-mecanismos de defensa más adaptativos. Será fundamental una comprensión
-de la sintomatología por parte de la paciente. El psicodrama como
-terapia grupal puede ser beneficioso.
+Psicoterapia de corte psicoanalítico, según: edad, nivel intelectual, duración de la enfermedad, búsqueda de ayuda con deseo de mejoría. Los objetivos serán mejorar los síntomas, con adecuación al medio y lograr cambios perdurables en la estructura de su personalidad con uso de mecanismos de defensa más adaptativos. Será fundamental una comprensión de la sintomatología por parte de la paciente. El psicodrama como terapia grupal puede ser beneficioso.
 
-#block[
-#strong[Social]
+_Social_
 
-]
-Si se encuentra inactiva: puede beneficiarse de laborterapia.
-Desalentaremos las prácticas religiosas que favorezcan la disociación.
-Terapia familiar para atacar el beneficio secundario. Psicoeducación.
+Si se encuentra inactiva: puede beneficiarse de laborterapia. Desalentaremos las prácticas religiosas que favorezcan la disociación. Terapia familiar para atacar el beneficio secundario. Psicoeducación.
 
 ==== Evolución y pronóstico
 <_evolución_y_pronóstico_15>
-Es un trastorno crónico que evoluciona con remisiones y reapariciones
-polimorfas, variadas, con recrudecimiento en relación a conflictos
-psicosociales. La cronicidad de los síntomas se puede producir si se
-mantienen constantes los beneficios secundarios cristalización fija.
-Tiende a disminuir en la madurez. Pueden instalarse trastornos en
-comorbilidad con las complicaciones consiguientes. Con psicoterapia
-pueden prolongarse los tiempos libres de síntomas.
+Es un trastorno crónico que evoluciona con remisiones y reapariciones polimorfas, variadas, con recrudecimiento en relación a conflictos psicosociales. La cronicidad de los síntomas se puede producir si se mantienen constantes los beneficios secundarios cristalización fija. Tiende a disminuir en la madurez. Pueden instalarse trastornos en comorbilidad con las complicaciones consiguientes. Con psicoterapia pueden prolongarse los tiempos libres de síntomas.
 
-PVI y PPI: bueno con el tratamiento instituido \(excepto por la
-posibilidad de lesiones por autoagresión o traumatismo durante las
-crisis).
+PVI y PPI: bueno con el tratamiento instituido \(excepto por la posibilidad de lesiones por autoagresión o traumatismo durante las crisis).
 
 PVA y PPA: depende de:
 
 - Personalidad premórbida
-
 - Situación ambiental
-
 - Adhesión a psicoterapia
-
