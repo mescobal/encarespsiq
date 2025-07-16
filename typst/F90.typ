@@ -42,7 +42,7 @@ Presentaciones:
 - Liberación inmediata: duración de acción 4-6 horas (2-3 tomas al día)
   - Ritalina (Novartis) 10 mg x 30 comprimidos, Rubifen (Servimedic) 10 mg x 30 comprimidos.
 - Liberación bifásica:  duración de efecto 8 horas (una toma diaria) Ritalina LA (Novartis) 20 mg x 30 comp. Ritalina LA (Novartis) 30 mg x 30 comp
-- Liberación bifásica prolongada: 12 horas (una toma diaria)] Concerta (Janssen) 18 mg x 30 comprimidos: Concerta (Janssen) 36 mg x 30 comp.
+- Liberación bifásica prolongada: 12 horas (una toma diaria): Concerta (Janssen) 18 mg x 30 comprimidos; Concerta (Janssen) 36 mg x 30 comp.
 
 
 

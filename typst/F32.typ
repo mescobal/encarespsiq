@@ -1,5 +1,6 @@
-
 #import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
 == Depresión
 <_depresión>
 === Notas clínicas
@@ -21,50 +22,45 @@ Si hay síntomas psicóticos, hay mayor riesgo de demencia y de suicidio.
 Depresión psicótica en adultos mayores: antidepresivos (duales) \ antipsicóticos. Segunda línea: ECT. Mantenimiento: si respondió a ECT →  ECT de mantenimiento + fármacos. Se sugiere no usar litio, ni mantener los antipsicóticos durante el mismo lapso que los antidepresivos. Los antidepresivos son eficaces para el tratamiento de la depresión en pacientes con demencia. Depresión vascular y depresión en demencia: puede usarse ECT.
 
 _Recomendaciones según situación clínica_
+#table(columns: 4,
+table.header([Situación], [1ª línea], [2ª línea], [Evitar]),
+[Cardiopatía isquémica], [SERT, AGOM], [DESV, VENL, FLUV, VORT, MIRT], [CITA, ESCI, REBO, NORT],
+[Arritmias], [SERT, AGOM], [DESV, FLUO, FLUV, VORT, MIRT], [CITA, ESCI, REBO, NORT, BUPR],
+[Hipertensión],
+[SERT, AGOM],
+[CITA, ESCI, FLUO, FLUV, PARO, VORT, MIRT],
+[VENL],
+[Anticoagulación],[], [DESV, VENL, DULO, SERT, CITA, ESCI, MIRT, BUPR, AGOM, VORT], [],
+[Diabetes], [],[DESV, VENL, DULO, FLUO, SERT, CITA, ESCI, AGOM, VORT, BUPR, REBO],
+[],
+[Dislipidemia], [], [FLUO, SERT, CITA, ESCI, DULO, BUPR, VORT, AGOM], [],
+[Obesidad], [FLUO, BUPR, AGOM], [DESV, VENL, DULO, CITA, ESCI, FLUV, SERT, VORT, REBO ], [MIRT],
+[Adelgazamiento, anorexia], [MIRT], [DESV, VENL, DULO, PARO, SERT, CITA, ESCI, NORT], [ FLUO],
+[Constipación], [], [FLUO, FLUV, SERT, CITA, ESCI, BUPR, AGOM, VORT ], [],
+[Hemorragia digestiva], [], [DESV, VENL, MIRT, BUPR, NORT ], [FLUO, CITA, ESCI ],
+[Hiponatremia], [], [DESV, VENL, DULO, MIRT, BUPR, AGOM, VORT], [FLUO, CITA, ESCI],
+[Mareos], [BUPR], [DESV,VENL, FLUO, SERT, CITA, ESCI, REBO, AGOM, VORT], [MIRT],
+[Caídas], [], [DESV, VENL, DULO, FLUO, SERT, CITA, ESCI, BUPR, VORT],[NORT],[Alcoholismo], [], [DESV, VENL, DULO, FLUO, PARO, SERT, CITA, ESCI, MIRT, BUPR, VORT], [],
+[Disfunción sexual], [AGOM, BUPR, MIRT], [REBO VORT], [FLUO PARO],
+[Glaucoma], [], [DESV, SERT, CITA, ESCI, BUPR, AGOM, VORT, TIAN],[NORT, VENL ],
+[Convulsiones], [], [MIRT], [NORT, BUPR],
+[ACV], [], [DESV, SERT, CITA, ESCI, AGOM, VORT, MIRT ], [],
+[Parkinson], [],[ BUPR ],[DESV, VENL, DULO, SERT, AGOM, VORT, MIRT, TIAN],
+[Demencia], [], [DESV, VENL, DULO, SERT, CITA, ESCI, BUPR, AGOM, VORT, MIRT], 
+[NORT],
+[Dolor], [DULO, DESV, VENL], [NORT], []
+)
 
-]
-\[options\=\"header\"\] |\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
-|Situación|1ª línea | 2ª línea | Evitar |Cardiopatía isquémica | SERT,
-AGOM | DESV, VENL, FLUV, VORT, MIRT|CITA, ESCI, REBO, NORT
-|Arritmias|SERT, AGOM|DESV, FLUO, FLUV, VORT, MIRT|CITA, ESCI, REBO,
-NORT, BUPR |Hipertensión|SERT, AGOM|CITA, ESCI, FLUO, FLUV, PARO, VORT,
-MIRT|VENL |Anticoagulación| |DESV, VENL, DULO, SERT, CITA, ESCI, MIRT,
-BUPR, AGOM, VORT| |Diabetes|| DESV, VENL, DULO, FLUO, SERT, CITA, ESCI,
-AGOM, VORT, BUPR, REBO| |Dislipidemia| | FLUO, SERT, CITA, ESCI, DULO,
-BUPR, VORT, AGOM| |Obesidad| FLUO, BUPR, AGOM | DESV, VENL, DULO, CITA,
-ESCI, FLUV, SERT, VORT, REBO | MIRT |Adelgazamiento, anorexia| MIRT |
-DESV, VENL, DULO, PARO, SERT, CITA, ESCI, NORT | FLUO |Constipación| |
-FLUO, FLUV, SERT, CITA, ESCI, BUPR, AGOM, VORT | |Hemorragia digestiva |
-| DESV, VENL, MIRT, BUPR, NORT | FLUO, CITA, ESCI |Hiponatremia| | DESV,
-VENL, DULO, MIRT, BUPR, AGOM, VORT|FLUO, CITA, ESCI |Mareos|BUPR|DESV,
-VENL, FLUO, SERT, CITA, ESCI, REBO, AGOM, VORT| MIRT |Caídas| | DESV,
-VENL, DULO, FLUO, SERT, CITA, ESCI, BUPR, VORT|NORT |Alcoholismo| |DESV,
-VENL, DULO, FLUO, PARO, SERT, CITA, ESCI, MIRT, BUPR, VORT| |Disfunción
-sexual| AGOM, BUPR, MIRT | REBO VORT | FLUO PARO |Glaucoma| | DESV,
-SERT, CITA, ESCI, BUPR, AGOM, VORT, TIAN|NORT, VENL |Convulsiones | |
-MIRT | NORT, BUPR |ACV| | DESV, SERT, CITA, ESCI, AGOM, VORT, MIRT |
-|Parkinson | BUPR | DESV, VENL, DULO, SERT, AGOM, VORT, MIRT, TIAN|
-|Demencia| | DESV, VENL, DULO, SERT, CITA, ESCI, BUPR, AGOM, VORT, MIRT
-| NORT |Dolor| DULO, DESV, VENL | NORT |
-|\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=
-
-#block[
-#set enum(numbering: "1.", start: 1)
-+ Escalar dosis . Cambio de antidepresivo . Combinación de AD .
-  Potenciación con antipsicótico o con lamotrigina . Potenciación con
-  litio . Potenciación con un agonista dopaminérgico o metilfenidato
-]
++ Escalar dosis
++ Cambio de antidepresivo
++ Combinación de AD
++ Potenciación con antipsicótico o con lamotrigina
++ Potenciación con litio
++ Potenciación con un agonista dopaminérgico o metilfenidato
 
 ==== Depresión en adolescentes
 <_depresión_en_adolescentes>
-- Escitalopram #footnote[EMSLIE, Graham J., et al. Escitalopram in the
-  treatment of adolescent depression: a randomized placebo-controlled
-  multisite trial. Journal of the American Academy of Child & Adolescent
-  Psychiatry, 2009, vol. 48, no 7, p. 721-729.]\] #footnote[FINDLING,
-  Robert L.; ROBB, Adelaide; BOSE, Anjana. Escitalopram in the treatment
-  of adolescent depression: a randomized, double-blind,
-  placebo-controlled extension trial. Journal of child and adolescent
-  psychopharmacology, 2013, vol. 23, no 7, p. 468-480.]
+Escitalopram #footnote[EMSLIE, Graham J., et al. Escitalopram in the treatment of adolescent depression: a randomized placebo-controlled multisite trial. Journal of the American Academy of Child & Adolescent Psychiatry, 2009, vol. 48, no 7, p. 721-729.] #footnote[FINDLING, Robert L.; ROBB, Adelaide; BOSE, Anjana. Escitalopram in the treatment of adolescent depression: a randomized, double-blind, placebo-controlled extension trial. Journal of child and adolescent psychopharmacology, 2013, vol. 23, no 7, p. 468-480.]
 
 ==== Depresión con riesgo de Trastorno Bipolar
 Predictores de riesgo de inicio de un trastorno bipolar ante un primer EDM:
@@ -75,269 +71,138 @@ Predictores de riesgo de inicio de un trastorno bipolar ante un primer EDM:
 - Presencia de síntomas psicóticos
 - Hipersomnia y/o inhibición psicomotriz
 
-En pacientes con depresiones recurrentes puede plantearse el uso de antirrecurrencial / estabilizadores.
+En pacientes con depresiones recurrentes puede plantearse el uso de  antirrecurrencial / estabilizadores.
 Goodwin planteaba que el hombre es más probable que comience con un episodios maníaco y la mujer con un episodio depresivo.
 
 ==== Distimia
-La combinación de psicoterapia + medicación es más eficaz que la medicación sola \(CITA) Depresión doble: la medicación AD consigue no solo la remisión del EDM sino la de la distimia.
-
+La combinación de psicoterapia + medicación es más eficaz que la medicación sola (CITA) Depresión doble: la medicación AD consigue no solo la remisión del EDM sino la de la distimia.
 
 === Encare
 <_encare_10>
 ==== En suma
 <_en_suma_5>
-Paciente de X años, procedente de MSEC X, con AF de trastornos afectivos / alcoholismo / suicidio, con AP de X, que es traído por una cuadro
-centrado en la esfera afectiva.
+Paciente de X años, procedente de MSEC X, con AF de trastornos afectivos / alcoholismo / suicidio, con AP de X, que es traído por una cuadro centrado en la esfera afectiva.
 
 ==== Agrupación sindromática
 <_agrupación_sindromática_9>
 ===== Síndrome depresivo
 <_síndrome_depresivo_2>
-De inicio insidioso / permanente, de X evolución, que centra el cuadro
-clínico, dado por alteraciones en: el humor y afectividad ,
-psicomotricidad, pensamiento, conductas basales y pragmatismos
+De inicio insidioso / permanente, de X evolución, que centra el cuadro clínico, dado por alteraciones en: el humor y afectividad , psicomotricidad, pensamiento, conductas basales y pragmatismos
 
-#block[
-#strong[Humor y afectividad Trastorno que centra el cuadro y del cual
-nacen las]
+_Humor y afectividad_
 
-]
-otras alteraciones. Está dado por un humor en menos cualitativamente
-distinto a la tristeza normal. Está evidenciado por una tristeza vital y
-profunda transcurso de la entrevista, monótona, que no responde a
-estímulos externos, que no calma con la entrevista, con polo matinal de
-peoría, con correlato en la presentación \(facies triste, omega
-melancólico), con deseos de llorar sin poder hacerlo o con llanto
-intenso. Se acompaña de una anhedonia \(pérdida de capacidad para sentir
-placer con cosas que previamente eran gratas) tanto anticipatoria como
-de consumación, con apatía \(pérdida de interés), desánimo, desgano,
-abulia \(aburrimiento), abatimiento. En la afectividad se presenta un
-afecto embotado que puede llegar a una anestesia afectiva: incapacidad
-de querer, de sentir, por fuera del sufrimiento. Hipersensibilidad a
-acontecimientos no placenteros con insensibilidad para acontecimientos
-placenteros.
+Trastorno que centra el cuadro y del cual nacen las otras alteraciones. Está dado por un humor en menos cualitativamente distinto a la tristeza normal. Está evidenciado por una tristeza vital y profunda transcurso de la entrevista, monótona, que no responde a estímulos externos, que no calma con la entrevista, con polo matinal de peoría, con correlato en la presentación \(facies triste, omega melancólico), con deseos de llorar sin poder hacerlo o con llanto intenso. Se acompaña de una anhedonia \(pérdida de capacidad para sentir placer con cosas que previamente eran gratas) tanto anticipatoria como de consumación, con apatía \(pérdida de interés), desánimo, desgano, abulia \(aburrimiento), abatimiento. 
 
-#block[
-#strong[Pensamiento En lo formal se destaca la bradipsiquia, percibida a
-través]
+En la afectividad se presenta un afecto embotado que puede llegar a una anestesia afectiva: incapacidad de querer, de sentir, por fuera del sufrimiento. Hipersensibilidad a acontecimientos no placenteros con insensibilidad para acontecimientos placenteros.
 
-]
-de un relato de curso lento y pausado, con silencios prolongados, voz
-tenue y monocorde, respuestas con latencia, asociaciones dificultosas,
-evocaciones penosas, sensación de \"mente en blanco\" o embotamiento,
-puede estar en mutismo o semimutismo. Caudal pobre. Frases monosilábicas
+_Pensamiento_
 
-En el contenido destacamos la autodevaluación, con ideas de minusvalía
-\(\"no valgo nada\", \"soy un desgraciado\", \"soy menos\"), ideas de
-culpa excesiva, autoacusación, ideas de ruina \(no ve salida, se percibe
-sin futuro, no será perdonado, no puede esperar sino cosas malas), lo
-que constituye el dolor moral. Puede llegar a constituir un síndrome
-delirante.
+En lo formal se destaca la bradipsiquia, percibida a través de un relato de curso lento y pausado, con silencios prolongados, voz tenue y monocorde, respuestas con latencia, asociaciones dificultosas, evocaciones penosas, sensación de \"mente en blanco\" o embotamiento, puede estar en mutismo o semimutismo. Caudal pobre. Frases monosilábicas
 
-#block[
-Dolor moral: culpa, ruina, minusvalía.
+En el contenido destacamos la autodevaluación, con ideas de minusvalía \(\"no valgo nada\", \"soy un desgraciado\", \"soy menos\"), ideas de culpa excesiva, autoacusación, ideas de ruina \(no ve salida, se percibe sin futuro, no será perdonado, no puede esperar sino cosas malas), lo que constituye el dolor moral. Puede llegar a constituir un síndrome delirante.
 
-]
-Pueden existir ideas de muerte \(desinterés por vivir), de
-autoeliminación \(deseo, plan y búsqueda), de indignidad, de
-transformación corporal, elaboraciones hipocondríacas \(temor y deseo de
-enfermedad), elaboración paranoica.
+#tip[Dolor moral: culpa, ruina, minusvalía.]
 
-Rumiación: ideación lenta centrada en temas tristes que se repiten
-indefinidamente.
+Pueden existir ideas de muerte \(desinterés por vivir), de autoeliminación \(deseo, plan y búsqueda), de indignidad, de transformación corporal, elaboraciones hipocondríacas \(temor y deseo de enfermedad), elaboración paranoica.
 
-#block[
-#strong[Psicomotricidad Inhibición psicomotriz: definida como
-disminución]
+Rumiación: ideación lenta centrada en temas tristes que se repiten indefinidamente.
 
-]
-global de las fuerzas que orientan el campo de la conciencia, dado en:
-Presentación:
+_Psicomotricidad_
 
-- Presentación: abatimiento, postura encorvada, inmóvil, cabizbajo.
-  Descuido del aspecto personal, desaliño. \* Actitud de colaboración
-  pasiva, disminución de iniciativa verbal. \* FMYG: Pobreza gestual.
-  hipomimia, hipogestualidad. Rostro marmóreo. \* Impresiona distante \*
-  Inercia: disminución de movilidad espontánea, fatiga \(\"todo es un
-  esfuerzo\"). \* Clinofilia
+Inhibición psicomotriz: definida como disminución global de las fuerzas que orientan el campo de la conciencia, dado en el examen psiquiátrico por:
 
-#block[
-AAAC: Apatía, Astenia, Anhedonia, Clinofilia
+- Presentación: abatimiento, postura encorvada, inmóvil, cabizbajo. Descuido del aspecto personal, desaliño.
+- Actitud de colaboración pasiva, disminución de iniciativa verbal.
+- FMYG: Pobreza gestual. Hipomimia, hipogestualidad. Rostro marmóreo.
+- Rapport: Impresiona distante
+- Psicomotricidad: inercia: disminución de movilidad espontánea, fatiga \(\"todo es un esfuerzo\"), clinofilia
 
-]
-- Apatía: disminución de interés \* Astenia: fatiga psíquica y física \*
-  Anhedonia: incapacidad para obtener y experimentar placer \(de
-  intención y/o realización) \* Clinofilia
+#tip[AAAC: Apatía, Astenia, Anhedonia, Clinofilia]
 
-#block[
-#strong[Síntomas de subtipos de depresión: Dentro del síndrome
-depresivo, hay]
+- Apatía: disminución de interés
+- Astenia: fatiga psíquica y física
+- Anhedonia: incapacidad para obtener y experimentar placer (de intención y/o realización)
+- Clinofilia
 
-]
-una serie de síntomas que apuntan a un subgrupo de depresiones con
-características diferenciales:
+*Síntomas de subtipos de depresión*
 
-Síntomas melancólicos: marcada anhedonia Falta de reactividad al
-entorno. Cualidad distintiva del estado de ánimo. Peoría matutina \(polo
-matinal de la depresión). Despertar precoz. Enlentecimiento o agitación
-psicomotor. Anorexia significativa o pérdida de peso. Culpabilidad
-excesiva o inapropiada.
+Dentro del síndrome fepresivo, hay una serie de síntomas que apuntan a un subgrupo de depresiones con características diferenciales:
 
-Síntomas atípicos: reactividad del estado de ánimo al entorno Aumento
-significativo de peso o del apetito. Hipersomnia. Abatimiento
-\(parálisis plúmbea) Patrón de larga duración de sensibilidad al rechazo
-interpersonal \(no limitado al episodio depresivo).
+- Síntomas melancólicos: marcada anhedonia Falta de reactividad al entorno. Cualidad distintiva del estado de ánimo. Peoría matutina \(polo matinal de la depresión). Despertar precoz. Enlentecimiento o agitación psicomotor. Anorexia significativa o pérdida de peso. Culpabilidad excesiva o inapropiada.
+- Síntomas atípicos: reactividad del estado de ánimo al entorno Aumento significativo de peso o del apetito. Hipersomnia. Abatimiento \(parálisis plúmbea) Patrón de larga duración de sensibilidad al rechazo interpersonal \(no limitado al episodio depresivo).
+- Síntomas catatónicos: inmovilidad motora con o sin catalepsia. Actividad motora excesiva, sin propósito. Negativismo extremo. Peculiaridades del movimiento voluntario \(manierismos). Ecolalia o ecopraxia.
+- Depresión puerperal: inicio dentro de las primeras 4 semanas del postparto.
+- Patrón estacional: relación temporal sostenida entre el inicio de los episodios afectivos y una determinada épica del año. Las remisiones totales también se dan en determinada época del año.
+- Episodio mixto: humor excitado, disfórico, ira, agitación, ideación suicida, mezcla con grandiosidad/hipersexualidad. Importante diferenciar de depresión agitada.
 
-Síntomas catatónicos: inmovilidad motora con o sin catalepsia. Actividad
-motora excesiva, sin propósito. Negativismo extremo. Peculiaridades del
-movimiento voluntario \(manierismos). Ecolalia o ecopraxia. Depresión
-puerperal: inicio dentro de las primeras 4 semanas del postparto.
-
-Patrón estacional: relación temporal sostenida entre el inicio de los
-episodios afectivos y una determinada épica del año. Las remisiones
-totales también se dan en de-terminada época del año.
-
-Episodio mixto: humor excitado, disfórico, ira, agitación, ideación
-suicida, mezcla con grandiosidad/hipersexualidad. Importante diferenciar
-de depresión agitada.
-
-#block[
-Atención a la presencia de elementos mixtos. A veces se presentan de
+#warning[Atención a la presencia de elementos mixtos. A veces se presentan de
 forma tal que no es posible diferenciar episodios. En ese caso quizás se
 debería hacer un Síndrome de alteración del humor y poner los elementos
-de humor en más y en menos.
+de humor en más y en menos.]
 
-]
-- X tiempo de evolución, con inicio brusco/insidioso \* reactivo
-  \(atípico) o no reactivo a estímulos externos \* con ritmo circadiano
-  \(polo matinal o no) \* intensidad: leve, moderado, grave.
+X tiempo de evolución, con inicio brusco/insidioso
+- reactivo (atípico) o no reactivo a estímulos externos
+- con ritmo circadiano (polo matinal o no)
+- intensidad: leve, moderado, grave.
 
 ===== Síndrome de ansiedad-angustia
 <_síndrome_de_ansiedad_angustia_2>
-#block[
-Ansiedad psicótica: MIDI.
-
-]
-Subsidiara al síndrome depresivo. Angustia MIDI \(masiva, invasiva,
-desestructurante, incompartible). Expresada sobre todo a nivel de la
-psicomotricidad.
+#block[Ansiedad psicótica: MIDI.]
+Subsidiara al síndrome depresivo. Angustia MIDI \(masiva, invasiva, desestructurante, incompartible). Expresada sobre todo a nivel de la psicomotricidad.
 
 ===== Síndrome delirante
 <_síndrome_delirante_4>
-En el cual las ideas melancólicas adquieren persistencia y convicción
-delirante volviéndose incompartibles, irreductibles a la lógica y con
-pérdida del juicio de la realidad quedando en primer plano.
+En el cual las ideas melancólicas adquieren persistencia y convicción delirante volviéndose incompartibles, irreductibles a la lógica y con pérdida del juicio de la realidad quedando en primer plano.
 
-#block[
-#strong[Temática De frustración, ruina, desgracia, de autodepreciación
-moral]
+Temática: frustración, ruina, desgracia, de autodepreciación moral (autoacusación), culpa, somática (transformación o negación corporal), hipocondría, psíquica \(dominación, pasividad Influencia). 
 
-]
-\(autoacusación), culpa, somática \(transformación o negación corporal),
-hipocondría, psíquica \(dominación, pasividad Influencia). Puede haber
-un Síndrome de Cotard completo/incompleto: forma mayor de melancolía
-\(CINE: condenación, inmortalidad, negación, enormidad). Negación: de la
-existencia, del cuerpo, del mundo. Transformación corporal: creencia de
-estar muerto, de ser un cadáver, de no tener órganos o de que éstos no
-funcionan \(combinación de nihilismo con megalomanía). Puede haber un
-síndrome de influencia subsidiario. El contenido puede ser congruente
-\(culpa, ruina, hipocondría, humillación, influencia, etc.) o no
-\(persecutorio) con el estado de ánimo. Puede ser subdelirante /
-ideación sobrevalorada \(excesivas, inapropiadas, que admiten cierta
-crítica) centrado en ideas de pérdida, disminución de autoestima,
-autorreproche, culpa excesiva, pesimismo.
+Puede haber un Síndrome de Cotard completo/incompleto: forma mayor de melancolía \(CINE: condenación, inmortalidad, negación, enormidad). Negación: de la existencia, del cuerpo, del mundo. Transformación corporal: creencia de estar muerto, de ser un cadáver, de no tener órganos o de que éstos no funcionan \(combinación de nihilismo con megalomanía).
 
-#block[
-Cotard: condenación, inmortalidad, negación, enormidad \(completo o
-incompleto).
+Puede haber un síndrome de influencia subsidiario. El contenido puede ser congruente (culpa, ruina, hipocondría, humillación, influencia, etc.) o no \(persecutorio) con el estado de ánimo. Puede ser subdelirante / ideación sobrevalorada \(excesivas, inapropiadas, que admiten cierta crítica) centrado en ideas de pérdida, disminución de autoestima, autorreproche, culpa excesiva, pesimismo.
 
-]
-#block[
-Características del delirio melancólico: ToMoPoPaDiR
+#tip[Cotard: condenación, inmortalidad, negación, enormidad \(completo o incompleto).]
 
-]
-Cumple con las características descritas por Seglas para el delirio
-melancólico: tonalidad afectiva penosa , monotonía \(reiterativo, fijo),
-pobreza \(más ricos en emoción que en contenido ideico, escaso
-desarrollo temático), pasivas \(el paciente acepta su desgracia como si
-se tratara de una fatalidad, paciente indefenso), divergentes \(se
-extienden a los que lo rodean y al ambiente, con riesgo de homicidio
-piadoso), referidas al pasado o al futuro \(ruina).
+#tip[Características del delirio melancólico: ToMoPoPaDiR]
+
+Cumple con las características descritas por Seglas para el delirio melancólico: tonalidad afectiva penosa , monotonía \(reiterativo, fijo), pobreza \(más ricos en emoción que en contenido ideico, escaso desarrollo temático), pasivas \(el paciente acepta su desgracia como si se tratara de una fatalidad, paciente indefenso), divergentes \(se extienden a los que lo rodean y al ambiente, con riesgo de homicidio piadoso), referidas al pasado o al futuro \(ruina).
 
 ===== Síndrome conductual
 <_síndrome_conductual_4>
-Dado por IAE \(si ansiedad es elevada puede ser en contexto de
-excitación psicomotriz). icon:directions\[\] Ver encare correspondiente.
+Dado por IAE \(si ansiedad es elevada puede ser en contexto de excitación psicomotriz). icon:directions\[\] Ver encare correspondiente.
 
-Alteración de conductas basales: insomnio \(destacar despertar precoz) o
-hipersomnia \(síntoma atípico), anorexia con adelgazamiento o hiperfagia
-\(síntoma atípico). Disminución del cuidado personal \(vestimenta e
-higiene). Disminución de la libido.
+Alteración de conductas basales: insomnio \(destacar despertar precoz) o hipersomnia \(síntoma atípico), anorexia con adelgazamiento o hiperfagia \(síntoma atípico). Disminución del cuidado personal \(vestimenta e higiene). Disminución de la libido.
 
-Alteración de las conductas complejas / pragmatismos. Disminución de la
-libido, tendencia al aislamiento social. Abandono o descuido del
-trabajo.
+Alteración de las conductas complejas / pragmatismos. Disminución de la libido, tendencia al aislamiento social. Abandono o descuido del trabajo.
 
 ===== Síndrome de alteración de la conciencia
 <_síndrome_de_alteración_de_la_conciencia_3>
-Desestructuración de conciencia de 1º nivel \(ético-temporal) según lo
-propuesto por Ey. Evidenciado por incapacidad del paciente de adaptar el
-campo fenomenológico del ser consciente a las exigencias del aquí y
-ahora. En general está BOTE \(aunque en ocasiones no, por desinterés o
-por inatención). Polarización por el estado de humor. Sensación
-subjetiva de enlentecimiento del tiempo.
+Desestructuración de conciencia de 1º nivel \(ético-temporal) según lo propuesto por Ey. Evidenciado por incapacidad del paciente de adaptar el campo fenomenológico del ser consciente a las exigencias del aquí y ahora. En general está BOTE \(aunque en ocasiones no, por desinterés o por inatención). Polarización por el estado de humor. Sensación subjetiva de enlentecimiento del tiempo.
 
 ==== Síndrome de alteración cognitiva
 <_síndrome_de_alteración_cognitiva>
-#block[
-no es un síndrome clásico, pero puede adecuarse más a la comprensión
-actual de la sintomatología depresiva.
+#tip[No es un síndrome clásico, pero puede adecuarse más a la comprensión actual de la sintomatología depresiva.]
+Pérdida de capacidad de concentración, olvidos. Déficit atencional. Incapacidad para tomar decisiones.
 
-]
-Pérdida de capacidad de concentración, olvidos. Déficit atencional.
-Incapacidad para tomar decisiones.
-
-#block[
-recordar que no debería diagnosticarse demencia solamente con los
-síntomas que aparecen dentro de un episodio depresivo.
-
-]
+#warning[Recordar que no debería diagnosticarse demencia solamente con los síntomas que aparecen dentro de un episodio depresivo.]
 ==== Personalidad y nivel
 <_personalidad_y_nivel_8>
-icon:clipboard\[\] Ver Fragmentos: \"Nivel en diferido\"
+#fa-icon("paste") Nivel en diferido.
 
-Personalidad: rasgos X que nos evocan X rasgos del grupo Y.
-Re-evaluaremos en la evolución pues el cuadro actual no permite un
-diagnóstico preciso. Realizaremos entrevistas con terceros y de ser
-necesario recurriremos a tests de personalidad. Podemos encontrar:
-dificultad para superar frustraciones y adaptarse a situaciones
-dolorosas de la vida yo débil, duelo patológico, dependencia, existir
-depresivo.
+Personalidad: rasgos X que nos evocan X rasgos del grupo Y. Re-evaluaremos en la evolución pues el cuadro actual no permite un diagnóstico preciso. Realizaremos entrevistas con terceros y de ser necesario recurriremos a tests de personalidad. Podemos encontrar: dificultad para superar frustraciones y adaptarse a situaciones dolorosas de la vida yo débil, duelo patológico, dependencia, existir depresivo.
 
 ==== Diagnóstico positivo
 <_diagnóstico_positivo_10>
 ===== Nosografía clásica
 <_nosografía_clásica_8>
-Los clásicos clasificaban las depresiones de forma distinta al
-DSM/CIE-10, con lo cual el encare \"clásico\" se adapta más a la
-depresión melancólica. Para otros formatos, evaluar hacer diagnóstico
-por el DSM/CIE.
+Los clásicos clasificaban las depresiones de forma distinta al DSM/CIE-10, con lo cual el encare \"clásico\" se adapta más a la depresión melancólica. Para otros formatos, evaluar hacer diagnóstico por el DSM/CIE.
 
-#block[
-#strong[Diagnóstico del episodio]
+_Diagnóstico del episodio_
 
-]
-icon:clipboard\[\] Ver Fragmentos: \"Psicosis\"
+#fa-icon("paste") Psicosis
 
-icon:clipboard\[\] Ver Fragmentos: \"Psicosis aguda\"
+#fa-icon("paste") Psicosis aguda
 
-Crisis de melancolía: por las características melancólicas del síndrome
-depresivo ya analizado. Importa destacar desde ya el RIESGO VITAL del
-diagnóstico establecido, basado en el riesgo de suicidio, ya que en la
-melancolía la muerte es sentida como una obligación, castigo necesario y
-solución para poner fin a la situación vivida. El riesgo está implícito
-en el diagnóstico establecido ya que si bien a veces no manifiestan sus
-ideas de muerte, la reticencia a manifestarlos es frecuente.
+Crisis de melancolía: por las características melancólicas del síndrome depresivo ya analizado. Importa destacar desde ya el RIESGO VITAL del diagnóstico establecido, basado en el riesgo de suicidio, ya que en la melancolía la muerte es sentida como una obligación, castigo necesario y solución para poner fin a la situación vivida. El riesgo está implícito en el diagnóstico establecido ya que si bien a veces no manifiestan sus ideas de muerte, la reticencia a manifestarlos es frecuente.
 
 - Simple: IPM + poco DM \(\"con conciencia\"). Predomina la IPM con
   tendencia a la inacción, inercia, astenia. Dolor moral escaso o falta.

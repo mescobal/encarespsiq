@@ -1,3 +1,7 @@
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
+
 == Síndrome Neuroléptico Maligno
 
 === Notas clínicas
@@ -50,11 +54,11 @@ Un consenso de expertos propuso criterios algo más restrictivos:
 Causas orgánicas:
 
 - Causas neurológicas:
--- Drogas: estados hipermetabólicos secundarios a drogas (fenilciclidona)
--- Infecciosas: encefalitis viral aguda, tétanos, infecciones parasitarias, bacterianas, micóticas
--- Efecto de masa: tumores, abscesos
--- ACV
--- Traumático
+  - Drogas: estados hipermetabólicos secundarios a drogas (fenilciclidona)
+  - Infecciosas: encefalitis viral aguda, tétanos, infecciones parasitarias, bacterianas, micóticas
+  - Efecto de masa: tumores, abscesos
+  - ACV
+  - Traumático
 - Catatonía: en un trastorno del humor o en esquizofrenia. La catatonía maligna puede ser indistinguible del SNM.
 - Endocrinológico: feocromocitoma, tirotoxicosis
 - Sistémico: LES, enfermedades del tejido conectivo.
@@ -90,8 +94,7 @@ Cesación de agente causante. Tratamiento de apoyo
 
 Farmacológico:
 
-- Benzodiacepinas: Lorazepam i/v 1-2 mg cada 4-6 horas. Reducción de rigidez y fiebre en 24-47 horas, remisión de síntomas catatónicos
-(mutismo e inmovilidad).
+- Benzodiacepinas: Lorazepam i/v 1-2 mg cada 4-6 horas. Reducción de rigidez y fiebre en 24-47 horas, remisión de síntomas catatónicos (mutismo e inmovilidad).
 - Agentes dopaminérgicos: revierten parkinsonismo, el tiempo de recuperación y la mortalidad a la mitad solos o en combinación.
   - Amantadina 200-400 mg/día en dosis divididas v/o o por SNG.
   - Bromocriptina 2.5 mg c/12 o c/8 aumentando hasta un total de 45 mg/día si se requiere. Puede empeorar la psicosis y precipitar hipertensión y vómitos. Debe continuarse 10 días después de la remisión para evitar recurrencia si se discontinúa precozmente.

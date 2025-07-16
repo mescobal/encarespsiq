@@ -1,4 +1,7 @@
-#import "@preview/fontawesome:0.2.0": *
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
+
 == Trastorno de Pánico
 
 NOTA: separo Trastorno de pánico de Trastorno de ansiedad generalizada.
@@ -8,29 +11,38 @@ Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digest
 ==== Agrupación sindromática
 ===== Síndrome de ansiedad-angustia
 Entendemos por ansiedad una experiencia displacentera con un componente psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o a morir, desrealización / despersonalización) y uno somático (psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos, mareos, disfagia, náuseas, malestar abdominal).
+
 Está centrada en el sentimiento de aprensión causado por la anticipación de un peligro (interno, externo, real o imaginado).
+
 Puede presentarse como episodio crítico o como estado más o menos persistente:
 
 ====== Crisis de angustia
 Definir crisis de angustia.
-De X evolución, de inicio brusco, paroxísticas, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia).
-Con rápido aumento de intensidad, de duración breve.
+
+De X evolución, de inicio brusco, paroxísticas, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia). Con rápido aumento de intensidad, de duración breve.
+
 Crisis que se presentan clínicamente con X (lista de síntomas). Crisis que han tenido una evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio evolutivo).
 
 ====== Ansiedad basal
+
 Fondo de ansiedad difusa y permanente. Dado por:
 - Fondo permanente de ansiedad y preocupación no realista o excesiva sobre una gama amplia de acontecimientos.
 - Tensión motora: temblor, sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva, hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca, mareos, sensación de inestabilidad, trastornos gastrointestinales, sofocaciones, escalofríos, micción frecuente, "nudo en la garganta", cefaleas).
 - Hipervigilancia: sentirse en peligro, alarma exagerada, dificultad para concentrarse, insomnio, irritabilidad.
 - Alteraciones de las conductas basales, alteraciones somáticas funcionales (anorexia, disfunción sexual, insomnio).
 
-#fa-lightbulb(): La semiología puede dividirse en componentes: psíquicos (afectivo / cognitivo) y somáticos (psicomotriz / neurovegetativo).
+#tip[La semiología puede dividirse en componentes: psíquicos (afectivo / cognitivo) y somáticos (psicomotriz / neurovegetativo).]
+
 ===== Síndrome fóbico
+
 Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de angustia configurando una Agorafobia (definirla).
+
 ===== Síndrome depresivo
+
 Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego depresión).
 
 ===== Otros síndromes
+
 - Síndrome disociativo
 - Síndrome conversivo
 - Síndrome obsesivo-compulsivo
@@ -40,8 +52,7 @@ Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego depresi�
 
 Nivel: cualquiera.
 
-Personalidad: rasgos evitativos, conflictividad infantil, introversión, timidez, rasgos de cualquier serie, síntomas de cualquier serie.
-Dificultad para superar e integrar separaciones y pérdidas. Dificultades para adaptarse a situaciones nuevas. Dificultad para manejar la agresividad.
+Personalidad: rasgos evitativos, conflictividad infantil, introversión, timidez, rasgos de cualquier serie, síntomas de cualquier serie. Dificultad para superar e integrar separaciones y pérdidas. Dificultades para adaptarse a situaciones nuevas. Dificultad para manejar la agresividad.
 
 Destacar: buena relación interpersonal, pedido de ayuda.
 
@@ -68,64 +79,60 @@ Conflicto psicosocial, estrés ambiental, separaciones, situaciones de pérdida,
 
 ===== DSM IV - CIE-10
 
-- Trastorno de angustia con Agorafobia. - Trastorno de angustia sin
-Agorafobia. - Trastorno de ansiedad generalizada. - Trastorno de
-ansiedad no especificado. - Trastornos adaptativos
+- Trastorno de angustia con Agorafobia. 
+- Trastorno de angustia sin Agorafobia. 
+- Trastorno de ansiedad generalizada. 
+- Trastorno de ansiedad no especificado. 
+- Trastornos adaptativos
 
-.Diagnóstico de Crisis de Pánico No codifica aislado.
+_Diagnóstico de Crisis de Pánico_
 
-Aparición aislada de miedo o malestar intensos, de inicio brusco, con
-expresión máxima en los primeros 10 minutos, con 4 o más de:
-palpitaciones, sudoración, temblores, disnea, sensación de atragantarse,
-opresión torácica, molestias digestivas, mareos / inestabilidad /
-desmayo, desrealización / despersonalización, miedo a enloquecer, miedo
-a morir, parestesias, escalofríos / sofocaciones.
+No codifica aislado.
 
-.Diagnóstico de Agorafobia No codifica aislado.Ver F40.
+Aparición aislada de miedo o malestar intensos, de inicio brusco, con expresión máxima en los primeros 10 minutos, con 4 o más de: palpitaciones, sudoración, temblores, disnea, sensación de atragantarse, opresión torácica, molestias digestivas, mareos / inestabilidad / desmayo, desrealización / despersonalización, miedo a enloquecer, miedo a morir, parestesias, escalofríos / sofocaciones.
 
-.F40.01 Trastorno de pánico con Agorafobia Requiere:
+_Diagnóstico de Agorafobia_
 
-. Crisis de pánico inesperadas recidivantes (al menos 2) seguidas de 1
-mes o más de ansiedad anticipatoria o preocupación por las crisis y sus
-consecuencias o cambio del comportamiento vinculado a las crisis. .
-Presencia de Agorafobia. . Descartar sustancias y enfermedad médica. .
-No se explica mejor por otro trastorno mental (excluir sobre todo
-fobias).
+No codifica aislado.Ver F40.
 
-.F41.0 Trastorno de pánico (sin Agorafobia) Requiere: lo mismo que
-F40.01, pero SIN Agorafobia
+_F40.01 Trastorno de pánico con Agorafobia_
+Requiere:
+- Crisis de pánico inesperadas recidivantes (al menos 2) seguidas de 1 mes o más de ansiedad anticipatoria o preocupación por las crisis y sus consecuencias o cambio del comportamiento vinculado a las crisis. 
+- Presencia de Agorafobia.
+- Descartar sustancias y enfermedad médica.
+- No se explica mejor por otro trastorno mental (excluir sobre todo fobias).
 
-.F41.1 Trastorno de ansiedad generalizada Requiere:
+_F41.0 Trastorno de pánico (sin Agorafobia)_
+Requiere: lo mismo que F40.01, pero SIN Agorafobia
 
-. Ansiedad y preocupación excesivas (expectación aprensiva) sobre una
-amplia gama de acontecimientos o actividades por más de 6 meses. .
-Dificultades para controlar el estado de preocupación. . Asociada a 3 o
-más síntomas de: inquietud / impaciencia; fatigabilidad; dificultades
-para concentrarse; irritabilidad; tensión muscular; alteraciones del
-sueño. . La ansiedad no se limita a ser sintomática a otro trastorno del
-eje I (no vinculado a crisis de pánico, fobia social, trastorno de
-somatización, etc.). . Alteración de pragmatismos. . Descartar
-sustancias, enfermedad médica y trastornos psicóticos.
+_F41.1 Trastorno de ansiedad generalizada_
+Requiere:
+- Ansiedad y preocupación excesivas (expectación aprensiva) sobre una amplia gama de acontecimientos o actividades por más de 6 meses.
+- Dificultades para controlar el estado de preocupación.
+- Asociada a 3 o más síntomas de:
+  - inquietud / impaciencia
+  - fatigabilidad
+  - dificultades para concentrarse
+  - irritabilidad
+  - tensión muscular
+  - alteraciones del sueño.
+- La ansiedad no se limita a ser sintomática a otro trastorno del eje I (no vinculado a crisis de pánico, fobia social, trastorno de somatización, etc.).
+- Alteración de pragmatismos.
+- Descartar sustancias, enfermedad médica y trastornos psicóticos.
 
-.F43.xx Trastornos adaptativos Requiere:
+_F43.xx Trastornos adaptativos_
+Requiere:
+- Aparición de síntomas emocionales o comportamentales en respuesta a un estresante identificable (aparece dentro de los 3 meses de sucedido el evento).
+- Malestar mayor al esperable para el desencadenante, con afectación de pragmatismos.
+- No cumple criterios para otro trastorno del eje I (descartar sobre todo TAG, EDM y TEPT) y no es una exacerbación de otro trastorno del eje I.
+- No es una reacción de duelo. 
+- Una vez que cesa el estresante los síntomas no permanecen más de 6 meses.
 
-. Aparición de síntomas emocionales o comportamentales en respuesta a un
-estresante identificable (aparece dentro de los 3 meses de sucedido el
-evento). . Malestar mayor al esperable para el desencadenante, con
-afectación de pragmatismos. . No cumple criterios para otro trastorno
-del eje I (descartar sobre todo TAG, EDM y TEPT) y no es una
-exacerbación de otro trastorno del eje I. . No es una reacción de duelo.
-. Una vez que cesa el estresante los síntomas no permanecen más de 6
-meses.
+Especificadores:
+- agudo (dura menos de 6 meses) o crónico (más de 6 meses)
+- con estado de ánimo depresivo, con ansiedad, mixto, con trastorno del comportamiento, no especificado.
 
-.Especificadores
-
-- agudo (dura menos de 6 meses) o crónico (más de 6 meses) - con estado
-de ánimo depresivo, con ansiedad, mixto, con trastorno del
-comportamiento, no especificado.
-
-En caso de desencadenantes graves considerar los diagnósticos de
-Trastorno por Estrés agudo y Trastorno por Estrés Postraumático.
+En caso de desencadenantes graves considerar los diagnósticos de Trastorno por Estrés agudo y Trastorno por Estrés Postraumático.
 
 ==== Diagnóstico diferencial
 
@@ -198,9 +205,11 @@ El diagnóstico es clínico.
 
 ===== Biológico
 
-Descartar causas tratables ya citadas. EF completo y PC e interconsultas
-según hallazgos. Rutinas de valoración general. ECG: trastornos de la
-conducción por ADT, extrasístoles. En especial: Función Tiroidea.
+Descartar causas tratables ya citadas. 
+- EF completo y PC e interconsultas según hallazgos. 
+- Rutinas de valoración general. 
+- ECG: trastornos de la conducción por ADT, extrasístoles. 
+- Función Tiroidea.
 
 ===== Psicológico
 
@@ -208,194 +217,125 @@ Entrevistas reiteradas profundizando en el conflicto, evaluación más concreta 
 
 ===== Social
 
-Entrevistas con terceros (familiares, amigos, compañeros de trabajo),
-red de soporte social, evaluando repercusión, objetivando reacciones de
-ésos así como su tolerancia con respecto al trastorno del paciente.
-Investigación de elementos que pueden coadyuvar a mantener el trastorno.
+Entrevistas con terceros (familiares, amigos, compañeros de trabajo), red de soporte social, evaluando repercusión, objetivando reacciones de ésos así como su tolerancia con respecto al trastorno del paciente. Investigación de elementos que pueden coadyuvar a mantener el trastorno.
 
 ==== Tratamiento
 
-Ambulatorio. Internar en caso de poca continencia familiar. Actuaremos
-s/t a nivel sintomático sobre:
+Ambulatorio. Internar en caso de poca continencia familiar. Actuaremos s/t a nivel sintomático sobre:
 
-- Crisis de pánico y sus complicaciones eventuales - Ansiedad de fondo -
-Síndrome depresivo y sus complicaciones (IAE) - Insomnio
+- Crisis de pánico y sus complicaciones eventuales
+- Ansiedad de fondo
+- Síndrome depresivo y sus complicaciones (IAE)
+- Insomnio
 
-Como primera medida, estableceremos un buen vínculo, realizando
-continentación y           apoyo, permitiendo expresión de emociones. Será de
-importancia el establecer determinadas medidas higiénico-dietéticas
-tales como: eliminación de cafeína o nicotina que pueden excerbar los
-síntomas. Tratamiento biológico y psicológico específico: ver más
-adelante. Combatiremos el insomnio con Zolpidem 10 mg en la noche, que
-retiraremos lentamente una vez regulados los parámetros de sueño con el
-tratamiento ansiolítico, antidepresivo y de fondo. (Opción:
-Flunitrazepam 2 mg).
+Como primera medida, estableceremos un buen vínculo, realizando continentación y apoyo, permitiendo expresión de emociones. Será de importancia el establecer determinadas medidas higiénico-dietéticas tales como: eliminación de cafeína o nicotina que pueden excerbar los síntomas. Tratamiento biológico y psicológico específico: ver más adelante. 
 
-Psicológico Entrevistas reiteradas con la frecuencia necesaria mitigando
-la ansiedad, en un marco de continentación. Psicoterapia de apoyo,
-procurando obtener los niveles previos de funcionamiento. Psicoeducación
-en relación a las crisis de pánico, explicando que son autolimitadas en
-el tiempo, que no son perjudiciales que no revisten peligro de muerte,
-etc.
+Combatiremos el insomnio con Zolpidem 10 mg en la noche, que retiraremos lentamente una vez regulados los parámetros de sueño con el tratamiento ansiolítico, antidepresivo y de fondo. (Opción: Flunitrazepam 2 mg).
+
+Psicológico Entrevistas reiteradas con la frecuencia necesaria mitigando la ansiedad, en un marco de continentación. Psicoterapia de apoyo, procurando obtener los niveles previos de funcionamiento. Psicoeducación en relación a las crisis de pánico, explicando que son autolimitadas en el tiempo, que no son perjudiciales que no revisten peligro de muerte, etc.
 
 ===== Trastorno de pánico .Biológico
 
--Durante la crisis-
+====== Durante la crisis
 
-En urgencias Alprazolam 1 mg o Diacepam 5 mg s/l. Para controlar la
-hiperventilación y la posible tetania puede ser útil reciclar el propio
-CO2 con una mascarilla obturada. Tras el control de la crisis puede
-comenzarse el tratamiento de base.
+En urgencias Alprazolam 1 mg o Diacepam 5 mg s/l. Para controlar la hiperventilación y la posible tetania puede ser útil reciclar el propio CO2 con una mascarilla obturada. Tras el control de la crisis puede comenzarse el tratamiento de base.
 
--Tratamiento de base-
+====== Tratamiento de base
 
-Se recomienda la combinación de tratamiento farmacológico con
-psicoterapia.
+Se recomienda la combinación de tratamiento farmacológico con psicoterapia.
 
 El tratamiento farmacológico con mejor perfil de eficacia y tolerancia es con Benzoadiacepinas, ISRS o antidepresivos tricíclicos. Se prefieren los ISRS a los ADT por mejor perfil de seguridad#footnote[Chawla, N., Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P., McKay, G. J., Attia, J., & Thakkinstian, A. (2022). Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials. bmj, 376.].
 
-Se puede comenzar con benzodiacepinas + ISRS, retirando en forma
-progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar,
-luego de su período de latencia (4-8 semanas). Si bien todos los ISRS
-tiene una eficacia similar, se recomiendan en primer lugar los sedativos
-ya que tienen acción sobre la ansiedad de fondo.
+Se puede comenzar con benzodiacepinas + ISRS, retirando en forma progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar, luego de su período de latencia (4-8 semanas). Si bien todos los ISRS tiene una eficacia similar, se recomiendan en primer lugar los sedativos ya que tienen acción sobre la ansiedad de fondo.
 
 ISRS :
+- Por eficacia: Fluoxetina 20-40 mg/día → Fluvoxamina 100-200 mg/día → Escitalopram 10-20 mg/día → Paroxetina 20-40 mg/día → Sertralina 50-100 mg/día → Citalopram 20-40 mg/día.
+- Por tolerancia: Escitalopram → Sertralina → Fluvoxamina → Paroxetina → Citalopram → Fluoxetina.
+- Mejor perfil eficacia/tolerancia: Escitalopram.
 
-- Por eficacia: Fluoxetina 20-40 mg/día → Fluvoxamina 100-200 mg/día →
-Escitalopram 10-20 mg/día → Paroxetina 20-40 mg/día → Sertralina 50-100
-mg/día → Citalopram 20-40 mg/día. - Por tolerancia: Escitalopram →
-Sertralina → Fluvoxamina → Paroxetina → Citalopram → Fluoxetina. - Mejor
-perfil eficacia/tolerancia: Escitalopram.
+Debe comenzarse con dosis muy bajas y aumentos graduales por la sensibilidad de éstos pacientes que pueden presentar exacerbación de los síntomas si se inicia de forma brusca (iniciar con 1/4 o 1/2 comprimido de cualquier ISRS). Latencia media: 4 semanas.
 
-Debe comenzarse con dosis muy bajas y aumentos graduales por la
-sensibilidad de éstos pacientes que pueden presentar exacerbación de los
-síntomas si se inicia de forma brusca (iniciar con 1/4 o 1/2 comprimido
-de cualquier ISRS). Latencia media: 4 semanas.
-
-Benzodiacepinas: Alprazolam liberación prolongada 1-2 mg/día en toma
-única -> Clonazepam 0.5 - 6mg/día en 2-3 tomas -> Alprazolam común 1 - 3
-mg/día en 3 tomas (otras benzodiacepinas no tienen acción antipánico
-demostrada). Latencia media: 1 semana.
+Benzodiacepinas: Alprazolam liberación prolongada 1-2 mg/día en toma única -> Clonazepam 0.5 - 6mg/día en 2-3 tomas -> Alprazolam común 1 - 3 mg/día en 3 tomas (otras benzodiacepinas no tienen acción antipánico demostrada). Latencia media: 1 semana.
 
 Segunda línea
 
-Pueden usarse antidepresivos tricíclicos: Clorimipramina 150-250 mg/día,
-Imipramina 100-300 mg/día. Se inician con 25 mg/día en 2–3 tomas (1-2
-tomas en caso de Clorimipramina de liberación sostenida), con aumentos
-graduales de 25 mg hasta desaparición de las crisis. Latencia media 6
-semanas (mayor que ISRS).
+Pueden usarse antidepresivos tricíclicos: Clorimipramina 150-250 mg/día, Imipramina 100-300 mg/día. Se inician con 25 mg/día en 2–3 tomas (1-2 tomas en caso de Clorimipramina de liberación sostenida), con aumentos graduales de 25 mg hasta desaparición de las crisis. Latencia media 6 semanas (mayor que ISRS).
 
-Casos resistentes: Fenelzina 30-90 mg/día (ver en F40 manejo de IMAOs) o
-asociaciones ISRS + ADT (a dosis menores que las usadas en monoterapia).
-También puede plantearse el uso de otros antidepresivos (Venlafaxina),
-análogos de la somatostatina, antagonistas del calcio, carbamazepina,
-lamotrigina o gabapentina (todos ellos en fase experimental).
+Casos resistentes: Fenelzina 30-90 mg/día (ver en F40 manejo de IMAOs) o asociaciones ISRS + ADT (a dosis menores que las usadas en monoterapia). También puede plantearse el uso de otros antidepresivos (Venlafaxina), análogos de la somatostatina, antagonistas del calcio, carbamazepina, lamotrigina o gabapentina (todos ellos en fase experimental).
 
-El tratamiento medicamentoso será mantenido por 12 meses luego de la
-remisión sintomática. A partir de ese momento puede intentarse una
-reducción gradual (de 20
+El tratamiento medicamentoso será mantenido por 12 meses luego de la remisión sintomática. A partir de ese momento puede intentarse una reducción gradual.
 
-.Tratamiento psicoterapéutico
+===== Tratamiento psicoterapéutico
 
-Terapia cognitivo-comportamental: psicoeducación + técnicas de manejo de
-la ansiedad y de la crisis de pánico (respiración controlada,
-relajación, reestructuración cognitiva).
+Terapia cognitivo-comportamental: psicoeducación + técnicas de manejo de la ansiedad y de la crisis de pánico (respiración controlada, relajación, reestructuración cognitiva).
 
 ===== Ansiedad de fondo
 
-.Biológico Si coexiste con crisis de pánico: el tratamiento queda
-cubierto con lo expuesto.
+.Biológico Si coexiste con crisis de pánico: el tratamiento queda cubierto con lo expuesto.
 
-Si aparece como único síndrome: se aconseja usar una única
-benzodiacepina. La elección de la misma se determinará según: edad del
-paciente, estado físico, respuesta previa a otra BZD, propiedades
-farmacológicas de cada BZD.
+Si aparece como único síndrome: se aconseja usar una única benzodiacepina. La elección de la misma se determinará según: edad del paciente, estado físico, respuesta previa a otra BZD, propiedades farmacológicas de cada BZD.
 
-- Adulto joven sano: Diazepam 5-20 mg/día en 1-3 tomas (o equivalente de
-vida media larga [Clonazepam] o intermedia [Alprazolam, Bromazepam]). -
-Paciente añoso: Lorazepam 2-8 mg/día en 3-4 tomas u Oxazepam 15-45
-mg/día en 2-3 tomas (carecen de metabolitos activos
+- Adulto joven sano: Diazepam 5-20 mg/día en 1-3 tomas (o equivalente de vida media larga [Clonazepam] o intermedia [Alprazolam, Bromazepam]).
+- Paciente añoso: Lorazepam 2-8 mg/día en 3-4 tomas u Oxazepam 15-45 mg/día en 2-3 tomas (carecen de metabolitos activos
 
-En caso de falta de respuesta: aumento de dosis o cambio a otra
-benzodiacepina. De forma concomitante o alternativa, puede plantearse el
-uso de antidepresivos ISRS sedativos En caso de que sea necesario evitar
-el efecto sedativo, manteniendo un efecto ansiolítico: Buspirona 20-45
-mg/día en 1-2 tomas, sabiendo que puede presentar una latencia de hasta
-2 semanas en su acción ansiolítica. Debe tenerse en cuenta la
-posibilidad de antagonización de su efecto sedativo en caso de uso
-concomitante con ISRS.
+En caso de falta de respuesta: aumento de dosis o cambio a otra benzodiacepina. De forma concomitante o alternativa, puede plantearse el uso de antidepresivos ISRS sedativos En caso de que sea necesario evitar el efecto sedativo, manteniendo un efecto ansiolítico: Buspirona 20-45 mg/día en 1-2 tomas, sabiendo que puede presentar una latencia de hasta 2 semanas en su acción ansiolítica. Debe tenerse en cuenta la posibilidad de antagonización de su efecto sedativo en caso de uso concomitante con ISRS.
 
-.Psicológico Tratamiento psicoterapéutico: Terapia
-cognitivo-comportamental: psicoeducación + técnicas de manejo de la
-ansiedad, técnicas de relajación, reestructuración cognitiva.
+.Psicológico Tratamiento psicoterapéutico: Terapia cognitivo-comportamental: psicoeducación + técnicas de manejo de la ansiedad, técnicas de relajación, reestructuración cognitiva.
 
-.Síntomas fóbicos
-
-Ver F40.
+.Síntomas fóbicos: Ver F40.
 
 ===== General
 
-Mantendremos la psicoterapia de apoyo y control de medicación
-antidepresiva que mantendremos a largo plazo ya que su suspensión
-aumenta el índice de recaídas de las crisis de angustia. En algunos
-casos puede indicarse psicoterapia de corte analítico, una vez superado
-el cuadro actual. Indicado en casos de: paciente joven, con buen nivel
-intelectual, con deseos de curarse, que ha pedido ayuda, que inició
-recientemente los síntomas, con buen insight y problemática global que
-exceda al cuadro actual.
+Mantendremos la psicoterapia de apoyo y control de medicación antidepresiva que mantendremos a largo plazo ya que su suspensión aumenta el índice de recaídas de las crisis de angustia. En algunos casos puede indicarse psicoterapia de corte analítico, una vez superado el cuadro actual. Indicado en casos de: paciente joven, con buen nivel intelectual, con deseos de curarse, que ha pedido ayuda, que inició recientemente los síntomas, con buen insight y problemática global que exceda al cuadro actual.
 
 ===== Social
 
-Psicoeducación explicando su enfermedad y la necesidad de tratamiento y
-controles, actuando s nivel de desencadenantes y factores que
-contribuyan a mantenimiento. Eventualmente: terapia familiar.
+Psicoeducación explicando su enfermedad y la necesidad de tratamiento y controles, actuando s nivel de desencadenantes y factores que contribuyan a mantenimiento. Eventualmente: terapia familiar.
 
 ==== Evolución y pronóstico
 
-Trastorno con tendencia a la cronicidad con curso variable: 30
+Trastorno con tendencia a la cronicidad con curso variable:
 
-- Organización en neurosis más estables: fóbica, histérica, obsesiva. -
-Aparición de síntomas hipocondríacos con centralización de la atención y
-ansiedad sobre determinados órganos, alteraciones psicosomáticas. -
-Abuso de sustancias psicoactivas (en 20-40 - Episodios depresivos
-(complica el cuadro en un 40-80
+- Organización en neurosis más estables: fóbica, histérica, obsesiva.
+- Aparición de síntomas hipocondríacos con centralización de la atención y ansiedad sobre determinados órganos, alteraciones psicosomáticas.
+- Abuso de sustancias psicoactivas
+- Episodios depresivos 
 
 El pronóstico psiquiátrico alejado dependerá de:
 
-- Fuerza/madurez del yo (de la estructura de la personalidad y su
-capacidad de elaborar mecanismos de defensa más adaptativos). -
-Peripecias vitales a las cuales estos pacientes son especialmente
-sensibles, dependerá de capacidad para enfrentar nuevas situaciones
-penosas. - Éxito de la terapéutica y adhesión a la misma.
+- Fuerza/madurez del yo (de la estructura de la personalidad y su capacidad de elaborar mecanismos de defensa más adaptativos).
+- Peripecias vitales a las cuales estos pacientes son especialmente sensibles, dependerá de capacidad para enfrentar nuevas situaciones penosas.
+- Éxito de la terapéutica y adhesión a la misma.
 
 Los elementos de buen pronóstico son:
+- corta edad con buen nivel intelectual
+- corta duración
+- pedido de ayuda
 
-- corta edad con buen nivel intelectual - corta duración - pedido de
-ayuda
-
-.Nota: Depresión neurótica Concepto caduco en lo nosológico, útil en la
-clínica. - Tonalidad afectiva más próxima al sentimiento de tristeza
-normal - Ansiedad intensa - El contenido está relacionado con el
-acontecimiento desencadenante (o es + comprensible) - Busca
-compasión/consuelo - Acusa a otros de su suerte (y no a sí mismo) -
-Sentimiento de impotencia que proyecta a los demás - Mayor sensibilidad
-a influencias del medio que el melancólico - Fondo de depresión está en
-relación a herida narcisista - Pico vespertino - Avidez afectiva puede
-alcanzar un carácter tiránico - Menor inhibición psicomotriz que permite
-expresión más dramática
+#note[Depresión neurótica Concepto caduco en lo nosológico, útil en la clínica.
+- Tonalidad afectiva más próxima al sentimiento de tristeza normal
+- Ansiedad intensa
+- El contenido está relacionado con el acontecimiento desencadenante (o es + comprensible)
+- Busca compasión/consuelo
+- Acusa a otros de su suerte (y no a sí mismo)
+- Sentimiento de impotencia que proyecta a los demás 
+- Mayor sensibilidad a influencias del medio que el melancólico 
+- Fondo de depresión está en relación a herida narcisista 
+- Pico vespertino 
+- Avidez afectiva puede alcanzar un carácter tiránico 
+- Menor inhibición psicomotriz que permite expresión más dramática]
 
 Rasgos típicos de los Ataques de Pánico:
-
-- Historia temprana - AF - Presencia de crisis nocturnas
+- Historia temprana 
+- AF 
+- Presencia de crisis nocturnas
 
 ==== Fuentes
 
-- Kaplan - DSM IV - RTM II, 1999. - Clinical Handbook of Psychotropic
-Drugs - Bezchlibnik-Butler, 8th ed, 1998. - The Journal of Clinical
-Psychiatry 60 (supp 18), 1999. - Encares: Dr. Curbelo - Dr. Escobal
+- Kaplan - DSM IV 
+- RTM II, 1999. 
+- Clinical Handbook of Psychotropic Drugs - Bezchlibnik-Butler, 8th ed, 1998. 
+- The Journal of Clinical Psychiatry 60 (supp 18), 1999. 
+- Encares: Dr. Curbelo - Dr. Escobal
 
-Falta: adecuada organización y puesta al día de la parte de
-psicopatología y etiopatogenia, al incluir varios trastornos de
-ansiedad, se hace necesario discriminar cada uno en cada ítem. Lo ideal
-sería hacer encares independientes.
+Falta: adecuada organización y puesta al día de la parte de psicopatología y etiopatogenia, al incluir varios trastornos de ansiedad, se hace necesario discriminar cada uno en cada ítem. Lo ideal sería hacer encares independientes.

@@ -198,7 +198,7 @@ húmedas, nerviosismo), feocromocitoma, hipoglicemias.
 <_diagnóstico_etiopatogénico_y_psicopatológico_9>
 ===== Etiopatogenia
 #strong[Trastorno por somatización Trastornos somatomorfos/disociativos]
-]
+
 Diferentes niveles explicativos:
 ====== Factores biológicos
 El modelo biológico es el de vulnerabilidad/estrés. La ansiedad es un comportamiento posible como respuesta al estrés (respuesta programada de lucha/huída). El trastorno sería el producto de la disregulación del sistema que procesa información de forma errónea aumentando la respuesta de ansiedad.

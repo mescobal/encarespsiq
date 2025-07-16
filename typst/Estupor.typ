@@ -1,48 +1,32 @@
+#import "@preview/fontawesome:0.2.1": *
+#import "@preview/ilm:1.1.2": *
+#import "@preview/note-me:0.2.1": *
+
 == Estupor
 
 === Notas clínicas
 
-Esto es un escueto resumen de un encare de un paciente que se presenta
-con un estupor catatónico en una esquizofrenia. El resto de los datos
-los completan con elementos de otras historias. Tomar en cuenta que un
-estupor puede presentarse en diferentes patologías (estupor melancólico,
-histérico, esquizofrenia, confusional).
+Esto es un escueto resumen de un encare de un paciente que se presenta con un estupor catatónico en una esquizofrenia. El resto de los datos los completan con elementos de otras historias. Tomar en cuenta que un estupor puede presentarse en diferentes patologías (estupor melancólico, histérico, esquizofrenia, confusional).
 
 === Encare
 
 ==== Agrupación sindromática
+===== Síndrome de inhibición psicomotriz
+Permanente, cotidiano, grave. Estupor. 
+===== Síndrome conductual
+- Impulsivo: IAE, Crisis de EPM con heteroagresividad, sin reflexión / meditación.
+- Conductas basales y pragmatismos.
+===== Síndrome disociativo-discordante
+IDEA
 
-{empty}1. síndrome de inhibición psicomotriz Permanente, cotidiano,
-grave. Estupor. 2. síndrome conductual • Impulsivo: IAE, Crisis de EPM
-con hetero-agresividad, sin reflexión / meditación. • Conductas basales
-y pragmatismos. 3. síndrome disociativo-discordante IDEA Hacemos
-diagnóstico de síndrome Catatónico, máxima discordancia psicomotriz:
-reducción de iniciativa motriz, máxima inhibición psicomotriz (estupor
-catatónico), con hipomimia, hipogestua-lidad, clinofilia. Sobre este
-fondo se presentan descargas motoras enigmáticas y absurdas (IAE,
-hetero): • Inhibición psicomotriz • Descarga impulsiva •
-Negativismo-oposicionismo
+Hacemos diagnóstico de Síndrome Catatónico, máxima discordancia psicomotriz: reducción de iniciativa motriz, máxima inhibición psicomotriz (estupor catatónico), con hipomimia, hipogestualidad, clinofilia. Sobre este fondo se presentan descargas motoras impulsivas, enigmáticas y absurdas (IAE, hetero). Puede haber de forma asociada un negativismo-oposicionismo.
 
 ==== Diagnóstico positivo
 
-Psicosis Psicosis Crónica Esquizofrenia En período de estado Tipo
-catatónica Descompensada
-
-==== Diagnósticos diferenciales
-
-. Otras causas de estupor: .. Depresivo: más lento, precedido de
-síntomas afectivos, AP o AF afectivos. .. Confusional: organicidad
-(fiebre, etc.), no existe catalepsia .. Histérico: se jerarquiza el
-mutismo, pero se comunica por otros medios. . Depresión psicótica en
-esquizofrenia: (depresión postpsicótica), donde existen síntomas
-depresivos y no existen síntomas discordantes. Clinofilia y disminución
-de la expresividad van por cuenta de síntomas negativos. . Otras formas
-de esquizofrenia: hebefrénica (predomina la jovialidad pueril y
-trastornos conductuales), paranoide (predomina el delirio). . Otras
-psicosis crónicas: Parafrenia (30-50 años, delirio polimorfo fantástico,
-persecutorio, megalomaníaco, a mecanismo imaginativo, para-lógico,
-bipolaridad), paranoia (ambos carecen de evolución deficitaria, no
-condicionando retirada a un mundo autista).
+- Psicosis -> Psicosis Crónica -> Esquizofrenia -> Tipo catatónica (un diferencial difícil: estupor en Trastorno Esquizoafectivo)
+- Depresión / Trastorno del humor -> con síntomas catatónicos. Estupor depresivo es más lento, precedido de síntomas afectivos, AP o AF afectivos.
+- Confusión mental -> forma estuporosa. Factores orgánicos (fiebre, por ejemplo.). No existe catalepsia.
+- Trastorno conversivo-disociativo -> estupor histérico. Se jerarquiza el mutismo (pero se comunica por otros medios).
 
 ==== Paraclínica
 
@@ -50,10 +34,4 @@ Descartar lo orgánico.
 
 ==== Tratamiento
 
-Antipsicóticos. ECT.
-
-==== Evolución y pronóstico
-
-MALO por estupor, actos impulsivos. Potencialmente mortal por
-deshidratación, infecciones, trastornos hidroelectrolíticos con
-arritmias.
+Tratamiento según diagnóstico de base. ECT útil en múltiples contextos.

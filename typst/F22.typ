@@ -59,7 +59,6 @@ de la serie:
 - Paranoico: desconfianza, aislamiento, orgullo, agresividad, psicorrigidez, falsedad de juicio, hipertrofia del yo (incapacidad de cambiar su posición mental), fanatismo, celoso, rencoroso, estricto moralista, obstinación, reproches, cuestiona lealtad de los demás, lógica falseada por la pasión. Esténico.
 
 ==== Diagnóstico positivo
-
 ===== Nosografía clásica
 
 Psicosis: #fa-icon("paste")
@@ -81,7 +80,7 @@ Edad adulta \(mitad de la vida), predisposición caracteriológica de la persona
   - Celotípico: transformación de una relación de pareja en una relación triangular. Delirio de infidelidad. Pruebas, seudocomprobaciones, falsos recuerdos, interpretaciones delirantes, ilusiones de la percepción o memoria.
   - Erotomaníaco: ilusión delirante de ser amado 3 etapas: esperanza - despecho - rencor (alto riesgo de acciones contra el objeto amado).
 
-#note[Las formas reivindicativas y pasionales comparten características:
+#admonition(title: "Nota")[Las formas reivindicativas y pasionales comparten características:
 - Exaltación: exhuberancia, hiperestesia o hipertimia.
 - Idea prevalente: subordina toda su vida, convicción absoluta.
 - Desarrollo en sector: el delirio penetra \"como una cuña\" en la realidad.
@@ -117,7 +116,7 @@ E. Descartar sustancias o enfermedad médica.
 Especificadores: TIPO: según tema predominante
 
 - Erotomaníaco: idea delirante de que otra persona \(generalmente de status superior) está enamorada del sujeto. 
-- De grandiosidad: ideas delirantes de exagerado valor, poder, conocimiento, identidad o ralación especial con una divinidad o persona famosa. 
+- De grandiosidad: ideas delirantes de exagerado valor, poder, conocimiento, identidad o relación especial con una divinidad o persona famosa. 
 - Celotípico: ideas delirantes de que la pareja es infiel. 
 - Persecutorio: ideas delirantes de que la persona \(o alguien próximo) está siendo perjudicada de alguna forma. 
 - Somático: idea delirante de tener algún defecto físico o enfermedad médica. 
@@ -133,12 +132,12 @@ Especificadores: TIPO: según tema predominante
   - Esquizofrenia paranoide: descartamos porque no existe en nuestro paciente una evolución deficitaria, el delirio es sistematizado, de estructura paranoica, y existe el calor afectivo con el que defiende su sistema seudológico de creencias.
   - Parafrenia: con la cual comparte la carencia de déficit con mantenimiento de la actividad pragmática. Pero en la parafrenia existe un pensamiento paralógico, fantástico a mecanismo imaginativo, en general es pobremente sistematizado con estructura paranoide.
   - Otras paranoias.
-- Causa orgánica del delirio \(enfermedades médicas, sustancias): nos aleja de esta posibilidad:
+- Causa orgánica del delirio (enfermedades médicas, sustancias): nos aleja de esta posibilidad:
   - características de la personalidad premórbida
   - tipo de evolución
   - no existencia de datos en la HC
   Pese a lo cual descartaremos por paraclínica.
-- Demencia \(según edad): no existen elementos de déficit intelectual, existen AP de ingresos anteriores por la misma causa \(no es el 1° episodio) En la demencia el delirio es más pobre y menos sistematizado.
+- Demencia (según edad): no existen elementos de déficit intelectual, existen AP de ingresos anteriores por la misma causa \(no es el 1° episodio) En la demencia el delirio es más pobre y menos sistematizado.
 - Melancolía delirante \(el 1° a plantear si es un sensitivo de relación). Si bien en ambos existe depresión y delirio, en nuestro paciente consideramos el S° depresivo como secundario al delirio. En este caso el delirio es generador de sintomatología depresiva \(en la Melancolía Delirante el delirio es generado por el estado de humor melancólico). Además en nuestro paciente no existen inhibición psicomotriz ni dolor moral. Nuestro paciente proyecta la culpa y no la introyecta como en la melancolía delirante.
 
 ==== Diagnóstico etiopatogénico y psicopatológico
