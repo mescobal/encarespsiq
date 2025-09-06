@@ -11,32 +11,34 @@ Formas clínicas no contempladas en encares clásicos: trastornos subafectivos, 
 Clínica depresiva o cíclica moderada y crónica.
 
 ===== Distimia
-Trastorno persistente de al \(-) 2 a de intensidad leve / moderada de inicio en adolescencia \(depre doble) / ASECAD / curso persist o intermitente 
-- trast ambulatorio compatible c/ func social, pero estabilidad precaria por hiperocupación c/ incapacidad para disfrutar del ocio o act fliar o social lo que lleva a fricción marital / sentim y falta de gusto por la vida fuera de su trabajo / dinám conyugal alterada 
+Trastorno persistente de al menos 2 años de duración, de intensidad leve/moderada, de inicio en adolescencia, de curso persistente o intermitente. Depresión doble: cuando un EDM aparece en el contexto de una Distimia.
+- trastorno ambulatorio compatible con funcionamiento social, pero con estabilidad precaria por hiperocupación con incapacidad para disfrutar del ocio o actividades familiares o sociales, lo que lleva a fricción marital, sentimientos de falta de gusto por la vida fuera de su trabajo, dinámica conyugal alterada 
 - hay adaptación a los síntomas por resistencia cognitiva al cambio, lo otro no le resulta fliar
 - se ven a sí mismos como \"deprimidos desde siempre o desde el nacimiento\"
-- Akiskal sostiene la mayor validez de criterio B alternativo que agrupa sínt subjetivos . autoestima, autoconfianza, pesimismo, desesperanza, incapacidad, desinterés gralizado, aislamiento social, cansancio crónico, cavilaciones referidas al pasado, \< productividad - efectividad, trast \[ \] memoria, indecisión
-- inicio + precoz \> probab de complicarse C/ EDM \* pánico \(10 \* 1/3 inicio \< 12 a : \"niños incapaces de disfrutar\" / \> % de AF de humor 
-- \"depresión existencial\" / id suicida 31 % / comportam suicida 24 
+- Akiskal sostiene la mayor validez de criterio B alternativo que agrupa síntomas subjetivos, autoestima, autoconfianza, pesimismo, desesperanza, incapacidad, desinterés gralizado, aislamiento social, cansancio crónico, cavilaciones referidas al pasado, menor productividad - efectividad, trastornos de memoria, indecisión
+- inicio más precoz con mayores probabilidades de complicarse con EDM, Trastorno de Pánico. 30% inician antes de los 12 años: \"niños incapaces de disfrutar\"
+- mayor porcentaje de AF de trastornos del humor
+- \"depresión existencial\"
+- ideación suicida en 31 %, comportamiento suicida en 24 % 
+
 En suma : depresión de bajo grado y larga duración, fluctuante, experimentado como parte del YO habitual representando una acentuación de rasgos observados en temperamento depresivo (en apéndice de DSM IV)
 
 ===== Ciclotimia
 <_ciclotimia>
-Caract hipomaníacas + subdepresivas 
+Características hipomaníacas + subdepresivas .
 
 En suma : disregulación bifásica c/ cambios endoreactivos de una fase a otra, cada fase dura pocos días x vez c/ infrecuente eutimia
 
 ==== Trastorno esquizoafectivo
 <_trastorno_esquizoafectivo>
-EDM, maníaco, mixto + sínt de fase activa de esquizofrenia / sd delirante alucinatorio en dicho período de al \(-) 2 sem en ausencia de sínt de humor prominentes / sínt de humor presentes en parte sustancial de fase activa y residual de los ep psicóticos.
-
+EDM, maníaco, mixto + sínt de fase activa de esquizofrenia. Síndrome delirante alucinatorio en dicho período de al menos 2 semanas, en ausencia de síntomas de humor prominentes. Síntomas del humor presentes en parte sustancial de fase activa y residual de los episodios psicóticos.
 - tipo bipolar \(maníaco o mixto) / tipo depresivo 
-- a \> terreno esquizofr peor pronóstico
+- a mayor terreno de esquizofrenia, peor pronóstico
 
 ==== Trastorno depresivo pospsicótico en la esquizofrenia \(NOS)
 <_trastorno_depresivo_pospsicótico_en_la_esquizofrenia_nos>
-- incidencia 25 
-- peor pronóst / \> probab de recaídas / \> incidencia de suicidios que en esquizofr s/ este trast 
+- incidencia 25% 
+- peor pronóstico, más probabilidad de recaídas, mayor incidencia de suicidios que en esquizofrenia sin este trastorno.
 - DD : fase residual \(atimormia, sgs negativos) / ef 2º de APS / esquizoafectivo / criterios de EDM en fase residual de esquizofr
 
 ==== Trastorno depresivo breve recidivante \(NOS)

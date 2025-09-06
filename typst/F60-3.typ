@@ -8,7 +8,7 @@ Patrón general de inestabilidad de las relaciones interpersonales, autoimagen y
 - Inestabilidad de la autoimagen o el sentido de sí mismo
 - Impulsividad en al menos 2 áreas (gastos, sexo, drogas, comidas, conducción)
 - Comportamiento suicida recurrente, amenazas de AE o autoagresiones
-- Inestabilidad afectiviva, hiperreactividad del humor (horas - pocos días de duración)
+- Inestabilidad afectiva, hiperreactividad del humor (horas - pocos días de duración)
 - Sensación crónica de vacío
 - Ira inapropiada / intensa / de difícil control.
 - Ideación paranoide transitoria o síntomas disociativos severos
@@ -19,7 +19,7 @@ Múltiples concepciones históricas:
 
 - Perspectiva psicodinámica: lo percibe como un nivel de organización de la personalidad (Kernberg) comprendiendo varias patologías del carácter entre la neurosis y la psicosis.
 - Perspectiva centrada en el humor (Akiskal): lo ve como un continuum con los trastornos afectivos.
-- Perspectiva centada en el control de impulsos (Zanarini): centrado en la incapacidad de posponer la gratificación.
+- Perspectiva centrada en el control de impulsos (Zanarini): centrado en la incapacidad de posponer la gratificación.
 - Perspectiva centrada en el estrés postraumático (Herman, Kroll): basada en el alto porcentaje de historia de abuso sexual.
 
 ===== Variantes (Millon)

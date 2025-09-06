@@ -9,7 +9,7 @@
 <_subtipos>
 Grupo A
 - Paranoide (F60.0): Obstinado (Compulsivo), Fanático (Narcisista), Querellante (Negativista), Insular (Evitativo), Maligno (Sádico)
-- Esquizoide (F60.1)] Remoto (Evitativo, Esquizotípico), Lánguido (Depresivo), Desafectivizado (Compulsivo), Despersonalizado (Esquizotípico) 
+- Esquizoide (F60.1): Remoto (Evitativo, Esquizotípico), Lánguido (Depresivo), Desafectivizado (Compulsivo), Despersonalizado (Esquizotípico) 
 - Esquizotípico (F21): Insípido (Esquizode, Depresivo, Dependiente), Timorato (Evitativo, Negativista)
 
 Grupo B
@@ -24,9 +24,9 @@ Grupo C
 - Dependiente (F60.7): Inquieto (Evitativo), Desinteresado (Depresivo), Complaciente (Masoquista), Ineficaz (Esquizoide)
 
 Otros
-- Negativista (Pasivo-agresivo): Vacilante (Límite)] Descontento (Depresivo), Tortuoso (Dependiente), Abrasivo (Sádico)
+- Negativista (Pasivo-agresivo): Vacilante (Límite), Descontento (Depresivo), Tortuoso (Dependiente), Abrasivo (Sádico)
 - Sádico: Sin carácter (Evitativo), Tiránico (Negativista), Imponedor (Compulsivo), Explosivo (Límite) 
-- Depresivo: Intranquilo (Evitativo), Autodespectivo (Dependiente), Malhumorado (Negativista)], Fashion  (Histriónico, Narcisista), Mórbido (Masoquista)
+- Depresivo: Intranquilo (Evitativo), Autodespectivo (Dependiente), Malhumorado (Negativista), Fashion  (Histriónico, Narcisista), Mórbido (Masoquista)
 - Masoquista:  Virtuoso (Histriónico), Posesivo (Negativista), Autoarruinado (Evitativo), Oprimido (Depresivo) 
 
 ==== Trastorno esquizotípico de la personalidad
@@ -35,9 +35,9 @@ Tratamiento psicofarmacológico
 
 Evidencia escasa #footnote[Jakobsen, K., Skyum, E., Hashemi, N., Schjerning, O., Fink-Jensen, A., & Nielsen, J. (2017). Antipsychotic treatment of schizotypy and schizotypal personality disorder: a systematic review. Journal of Psychopharmacology, 31\(4), 397-405.]
 
-- Amisulpiride: podría ser eficas para algunos de los síntomas cognitivos (evidencia A)
+- Amisulpiride: podría ser eficaz para algunos de los síntomas cognitivos (evidencia A)
 - Risperidona: dosis de 2mg mejorarían escala PANSS.
-- Antipsicóticos en genera peuden mejorar algunos síntomas psicótico-símiles (ilusiones, hostilidad, ideación paranoide)
+- Antipsicóticos en genera pueden mejorar algunos síntomas psicótico-símiles (ilusiones, hostilidad, ideación paranoide)
 
 === Encare
 Risperidona: dosis de 2mg mejorarían escala PANSS. - Antipsicóticos en general pueden mejorar algunos síntomas  psicótico-símiles (ilusiones, hostilidad, ideación paranoide)
@@ -60,7 +60,7 @@ Destacando: baja tolerancia a las frustraciones, rápido pasaje al acto.
 
 ===== Otros síndromes
 <_otros_síndromes_2>
-- Síndrome depresivo\(disfórico)
+- Síndrome depresivo (disfórico)
 - Síndrome delirante
 - Síndrome de ansiedad-angustia u otro de la serie neurótica.
 
@@ -153,13 +153,13 @@ AF de enfermedad depresiva o alcoholismo, que vinculan al trastorno Borderline c
 <_psicopatología_8>
 Se invoca un terreno de vulnerabilidad básica del individuo para mantener un sentido estable del yo \(yo fragmentado con relaciones de objeto ambivalentes). Otto Kernberg: hace hincapié en:
 
-1. Síndrome de difusión de la identidad: que nos muestra una incapacidad del paciente para mantener una identidad yoica estable. 
-2. Utilización de mecanismos de defensa arcaicos primarios: ES PRO AC NE
-- Escisión: división ambivalente de las personas en buenas y malas tanto del presente como del pasado \(poner ejemplos)
-- Proyección: atribución a los demás de sus propios sentimientos, no reconocidos como tales.
-- Negación: afirma proyección y escisión.
-- Acting-out: expresión directa mediante la acción de un deseo o conflicto inconsciente evitando el acceso a la conciencia de la idea o el afecto que la acompaña.
-3. Mantenimiento del juicio de la realidad.
++ Síndrome de difusión de la identidad: que nos muestra una incapacidad del paciente para mantener una identidad yoica estable. 
++ Utilización de mecanismos de defensa arcaicos primarios: ES PRO AC NE
+  - Escisión: división ambivalente de las personas en buenas y malas tanto del presente como del pasado \(poner ejemplos)
+  - Proyección: atribución a los demás de sus propios sentimientos, no reconocidos como tales.
+  - Negación: afirma proyección y escisión.
+  - Acting-out: expresión directa mediante la acción de un deseo o conflicto inconsciente evitando el acceso a la conciencia de la idea o el afecto que la acompaña.
++ Mantenimiento del juicio de la realidad.
 
 ==== Paraclínica
 <_paraclínica_18>
@@ -172,7 +172,7 @@ Orientada a:
 
 ===== Biológico
 <_biológico_20>
-Examen físico, rutinas, VIH, VDRL, estigmas de consumo de drogas. Con vistas al tratamiento con carbamazepina: hígado y MO \(descartando leucopenia, trombocitopenia, hepatopatía), test de embarazo \(promiscuidad).
+Examen físico, rutinas, VIH, VDRL, estigmas de consumo de drogas. Con vistas al tratamiento con Carbamazepina: hígado y MO \(descartando leucopenia, trombocitopenia, hepatopatía), test de embarazo \(promiscuidad).
 
 ===== Psicológico
 <_psicológico_22>
@@ -185,8 +185,8 @@ Fundamental para el diagnóstico evaluando aquellos aspectos interpersonales del
 <_tratamiento_23>
 Dirigido a:
 
-1. actuar sobre el episodio actual, previniendo nuevos IAE, procurando la remisión del cuadro depresivo y la ansiedad-angustia.
-2. a largo plazo, basado s/t en favorecer la reinserción social del paciente.
++ actuar sobre el episodio actual, previniendo nuevos IAE, procurando la remisión del cuadro depresivo y la ansiedad-angustia.
++ a largo plazo, basado s/t en favorecer la reinserción social del paciente.
 
 ===== Episodio actual
 <_episodio_actual_2>
@@ -198,11 +198,11 @@ Carbamazepina 200 mg c/12 hs v/o, 200 mg c/ pocos días hasta 1200-1600 mg. Act�
 
 Para el síndrome depresivo: Fluoxetina 20 mg H:8 v/o. A los 2 días, agregaremos 20 mg VO h:14, monitorizando efectos secundarios frecuentes como ansiedad, insomnio y según la tolerancia iremos pudiendo llegar a 80 mg/día. Si existen AP: a largo plazo.
 
-En suma: durante su estancia en el hospital: Carbamazepina, Clonazepam y Haloperidol \(de ser necesario). Si hay marcada ansiedad, nos inclinaremos por paroxetina o fluvoxamina como antidepresivos ya que además poseen un efecto sedante \(inicio, aumentos, controles de efectos secundarios, latencia).  
+En suma: durante su estancia en el hospital: Carbamazepina, Clonazepam y Haloperidol \(de ser necesario). Si hay marcada ansiedad, nos inclinaremos por Paroxetina o Fluvoxamina como antidepresivos ya que además poseen un efecto sedante \(inicio, aumentos, controles de efectos secundarios, latencia).  
 
 Para el insomnio: Flunitrazepam VO 2 mg H:20 a regular según respuesta, que iremos retirando una vez controlados los parámetros del sueño, dado el \> riesgo de AE en horas de la noche.  
 
-Si se agita: levomepromazina 25 mg 1 amp IM. PDA: Haloperidol 5 mg IM h:20.
+Si se agita: Levomepromazina 25 mg 1 amp IM. PDA: Haloperidol 5 mg IM h:20.
 
 _Psicológico_
 
@@ -229,4 +229,3 @@ Tratamiento familiar. Grupos de adolescentes, comunidad terapéutica para jóven
 ==== Evolución y pronóstico
 <_evolución_y_pronóstico_17>
 Enfermedad de evolución crónica con morbimortalidad con tendencia a disminuir en la edad adulta la inadaptación social. El cuadro actual será compensado con el tratamiento instituido y a largo plazo depende del éxito de la rehabilitación, de la adhesión al tratamiento a largo plazo y de la continencia social. Sujeto a complicaciones depresivas, episodios psicóticos breves, trastornos de conducta con consecuencias ML, consumo de sustancias y riesgo para HIV-SIDA.
-

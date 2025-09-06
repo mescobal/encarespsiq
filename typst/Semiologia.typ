@@ -21,7 +21,7 @@ Recordar siempre preguntar conductas basales (CB: sueño y alimentación), condu
 
 Es fundamental explorar los antecedentes de la enfermedad actual (AEA) así como otros antecedentes personales psiquiátricos (APP), antecedentes personales médicos (APM) y antecedentes familiares psiquiátricos (AFP).
 
-Finalmente hacemos un exploración de la biografía (BIO). Esta debe contemplar: composición del núcleo familiar, embarazo y parto, hitos del desarrollo, sintomatología de la infancia (parasomnias, onicofagia, trastornos de conducta, enuresis, encopresis), pubertad, escolaridad, logros, hábitos, intereses.
+Finalmente hacemos un exploración de la biografía (BIO). Esta debe contemplar: composición del núcleo familiar, embarazo y parto, hitos del desarrollo, sintomatología de la infancia (parasomnias, onicofagia, trastornos de conducta, enuresis, encopresis), pubertad, escolaridad, logros, hábitos, intereses. Explorar eventos traumáticos (violencia doméstica, maltrato, abuso).
 
 === Examen Psiquiátrico
 

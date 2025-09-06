@@ -40,18 +40,15 @@ En la infancia, aparece la inhibición comportamental en respuesta a extraños o
 El abordaje farmacológico es de primera línea.
 
 Recomendaciones: duloxetina > pregabalina > venlafaxina > escitalopram.
+
 Alternativa: bupropion#footnote[Slee, A., Nazareth, I., Bondaronek, P., Liu, Y., Cheng, Z., & Freemantle, N. (2019). Pharmacological treatments for generalised anxiety disorder: a systematic review and network meta-analysis. The Lancet, 393(10173), 768-777.]. Con menor evidencia: mirtazapina, sertralina, fluoxetina, buspirona y agomelatina.
-Quetiapina: efecto marcado pero con mala tolerabilidad. Paroxetina y
-benzodiacepinas: mala tolerabilidad.
 
-Duloxetina: comenzar con 30 mg/día por 1 semana y luego 60 mg/día. Si
-hay respuesta parcial: aumentar hasta 120 mg día.
+Quetiapina: efecto marcado pero con mala tolerabilidad. Paroxetina y benzodiacepinas: mala tolerabilidad.
 
-Pregabalina: comenzar con 150 mg/dia en 2 o 3 tomas, aumentos semanales
-hasdta dosis máxima de 600 mg/día.
+Duloxetina: comenzar con 30 mg/día por 1 semana y luego 60 mg/día. Si hay respuesta parcial: aumentar hasta 120 mg día.
 
-Venlafaxina: comenzar con 75 mg/día por 4 días, luego 150 mg/día. Máximo
-225 mg/día en 2 o 3 tomas (preparados de liberación sostenida: 1 toma
-diaria)
+Pregabalina: comenzar con 150 mg/dia en 2 o 3 tomas, aumentos semanales hasta dosis máxima de 600 mg/día.
+
+Venlafaxina: comenzar con 75 mg/día por 4 días, luego 150 mg/día. Máximo 225 mg/día en 2 o 3 tomas (preparados de liberación sostenida: 1 toma diaria)
 
 ==== Evolución y pronóstico
