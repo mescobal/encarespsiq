@@ -14,21 +14,12 @@
 
 Criterios diagnósticos:
 
-A. Ansiedad/preocupación excesivas ante amplia gama de estímulos de más
-de 6 mese de duración.
-
-B. Dificultad para controlar la ansiedad.
-
-C. 3 o + de 6 (en niños solo 1): inquietud / impaciencia, fatigabilidad,
-alteraciones en concentración, irritabilidad, tensión muscular,
-alteración del sueño (IFCITA).
-
-D. Excluye: síntomas debido a otros trastornos del eje I (sobre todo
-trastornos de ansiedad).
-
-E. Malestar clínicamente significativo.
-
-F. Descartar sustancias, enfermedad médica y otros trastornos de eje I.
+- A. Ansiedad/preocupación excesivas ante amplia gama de estímulos de más de 6 mese de duración.
+- B. Dificultad para controlar la ansiedad.
+- C. 3 o + de 6 (en niños solo 1): inquietud / impaciencia, fatigabilidad, alteraciones en concentración, irritabilidad, tensión muscular, alteración del sueño (IFCITA).
+- D. Excluye: síntomas debido a otros trastornos del eje I (sobre todo trastornos de ansiedad).
+- E. Malestar clínicamente significativo.
+- F. Descartar sustancias, enfermedad médica y otros trastornos de eje I.
 
 ==== Diagnósticos diferenciales
 

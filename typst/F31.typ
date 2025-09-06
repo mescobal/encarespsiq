@@ -220,7 +220,7 @@ Con otras psicosis agudas
   - Metabólica
   - Neoplasias: páncreas, pulmón
   - Autoinmune.
-+ PDA / Trastorno psicótico breve: tienen cosas en común (episodio agudo, desestructuración de conciencia y afectos, delirio, experiencia sensible y actual), pero con diferencias \(predominio del humor exaltado y de la fuga de ideas, con actitud lúdica, ideas delirantes secundarias al trastorno del ánimo, AF, AP), le faltaN elementos \(delirio polimorfo, alteración de conciencia más profunda, de tipo oniroide).
++ PDA / Trastorno psicótico breve: tienen cosas en común (episodio agudo, desestructuración de conciencia y afectos, delirio, experiencia sensible y actual), pero con diferencias (predominio del humor exaltado y de la fuga de ideas, con actitud lúdica, ideas delirantes secundarias al trastorno del ánimo, AF, AP), le faltaN elementos (delirio polimorfo, alteración de conciencia más profunda, de tipo oniroide).
 + Confusión mental: tiene cosas en común (desestructuración de conciencia). En contra: menor profundidad de la   desestructuración, delirio onírico en la confusión, falta de perplejidad, conservación de la orientación  Temporoespacial.
 
 No pensamos que este cuadro sea #fa-icon("paperclip"), por los AF, los AP de episodios maníacos y melancólicos y por el abandono de medicación determinando cuadros similares. Por la paraclínica descartaremos algunas de estas causas.
@@ -247,7 +247,7 @@ Se plantea una causa multifactorial. Existen múltiples niveles complementarios 
 + Hipótesis catecolaminérgica: involucra los neurotransmisores dopamina y noradrenalina, planteada en 1965 por Bunney y Davis. 
 + Hipótesis serotinérgica: planteada por Coppen y Lappin en 1969. Cambios primarios en los sistemas monoaminérgicos y cambios en la modulación realizada por el sistema serotoninérgico. Existiría una disregulación en estas vías.
 + Existiría una alteración de la carga alostérica al estrés, es decir la capacidad de conservar la estabilidad. Sería una enfermedad de la respuesta, del retorno a la normalidad.
-+ Se postula la existencia de un fenómeno de kindling límbico-amigdalino-prefrontal: en los sucesivos episodios, el   desencadenante exógeno es menor y finalmente el fenómeno adquiere autonomía de las causas externas.
++ Se postula la existencia de un fenómeno de kindling límbico-amigdalino-prefrontal: en los sucesivos episodios, el desencadenante exógeno es menor y finalmente el fenómeno adquiere autonomía de las causas externas.
 + Se detectan también cambios neuroendócrinos en: CRH, RCRH, VSP, ACTH, cortisol.
 
 Una causa frecuente de descompensación es el abandono de medicación.
@@ -266,7 +266,7 @@ Estresores sociales como factor exterior sobre la vulnerabilidad de base. Pérdi
 <_diagnóstico_psicopatológico>
 Para Binswanger se trata de una modalidad regresiva global con modificación de la estructura temporal de la vida psíquica, con desencadenamiento de los impulsos.
 
-Para la Teoría Organodinámica de Ey de la desestructuración de conciencia \(el Ser Consciente), el maníaco presenta una desestructuración del orden del cuerpo mental en su nivel ético-temporal \(de 1° grado). Etico por la incapacidad de postergar la realización de los deseos y temporal por la estrechez del presente en un punto virtual siempre renovado y sin trascendencia, con distensión, laxitud, relajamiento de la continuidad histórica del individuo. Determina una pérdida de la capacidad de adaptación a las exigencias del aquí y ahora. Comporta un aspecto negativo \(regresivo o deficitario) y aspecto positivo, de liberación de instancias inferiores.
+Para la Teoría Organodinámica de Ey de la desestructuración de conciencia (el Ser Consciente), el maníaco presenta una desestructuración del orden del cuerpo mental en su nivel ético-temporal (de 1° grado). Etico por la incapacidad de postergar la realización de los deseos y temporal por la estrechez del presente en un punto virtual siempre renovado y sin trascendencia, con distensión, laxitud, relajamiento de la continuidad histórica del individuo. Determina una pérdida de la capacidad de adaptación a las exigencias del aquí y ahora. Comporta un aspecto negativo (regresivo o deficitario) y aspecto positivo, de liberación de instancias inferiores.
 
 Para los psicoanalistas se trata de una regresión a las etapas infantiles del desarrollo psicosexual, anteriores a toda frustración exterior. Las pulsiones se liberan, especialmente las pregenitales. En este sentido, sería lo contrario del melancólico, pues el maníaco se precipita a la satisfacción inmediata de las pulsiones como una forma de escapar de la angustia. Sus mecanismos de defensa son la negación de la pérdida de objeto \(mal manejo de una pérdida) y la omnipotencia ante la melancolía \(en todo maníaco hay un fondo nuclear melancólico).
 
@@ -281,7 +281,7 @@ Solicitaremos la historia clínica previa o su resumen para objetivar los antece
 <_biológico_8>
 ====== Valoración general
 
-Realizaremos una anamnesis médica general al paciente y terceros. Un examen físico completo con énfasis en el aspecto neurológico \(con el paciente sedado, si corresponde), buscando elementos de organicidad que nos pongan en la pista de una patología reversible determinante de la expresión clínica actual. En particular buscaremos elementos de hipertensión endocraneana \(fondo de ojo), estigmas de UISP, focos infecciosos.
+Realizaremos una anamnesis médica general al paciente y terceros. Un examen físico completo con énfasis en el aspecto neurológico (con el paciente sedado, si corresponde), buscando elementos de organicidad que nos pongan en la pista de una patología reversible determinante de la expresión clínica actual. En particular buscaremos elementos de hipertensión endocraneana (fondo de ojo), estigmas de UISP, focos infecciosos.
 
 Solicitaremos exámenes de valoración general:
 
@@ -320,7 +320,7 @@ Acido valproico: funcional y enzimograma hepático, hemograma.
 <_psicológico_8>
 Será diferido hasta superada la agudeza del cuadro actual, salvo la existencia de dudas diagnósticas. Realizaremos entrevistas para evaluar las características propias del paciente y sus capacidades para en un futuro integrarse a grupos de psicoterapia.
 
-Realizaremos tests de personalidad proyectivos \(Rorscharch y TAT) y no proyectivos \(Minessota), que nos informarán sobre los mecanismos de defensa, integridad yoica, manejo de la agresividad y rasgos de personalidad.
+Realizaremos tests de personalidad proyectivos (Rorscharch y TAT) y no proyectivos (Minessota), que nos informarán sobre los mecanismos de defensa, integridad yoica, manejo de la agresividad y rasgos de personalidad.
 
 Realizaremos test de nivel, si hay dudas. La realización de tests no es imprescindible y no retrasará el inicio del tratamiento.
 
@@ -381,12 +381,13 @@ Por situación clínica:
 
 _Ansiedad_
 
-Inicialmente usaremos benzodiacepinas, como el lorazepam \(del cual contamos con presentación parenteral de ser necesario). Iniciamos con dosis de 2 mg v/o c/6-8 horas. Una alternativa es el uso de clonazepam a dosis de 2 a 4 mg c/8-12 horas, pudiendo llegar a 12 mg/día \(con efecto sobre la disforia y la impulsividad). Ambos fármacos actúan sobre receptores GABA.
+Inicialmente usaremos benzodiacepinas, como el lorazepam (del cual contamos con presentación parenteral de ser necesario). Iniciamos con dosis de 2 mg v/o c/6-8 horas. Una alternativa es el uso de clonazepam a dosis de 2 a 4 mg c/8-12 horas, pudiendo llegar a 12 mg/día (con efecto sobre la disforia y la impulsividad). Ambos fármacos actúan sobre receptores GABA.
 
-Excitación psicomotriz
-- Primera línea: lorazepam IM \(2 mg IM a repetir). En Uruguay no contamos con: loxapina inhalada, aripiprazol IM, , olanzapina IM.
-- Segunda línea: haloperidol IM \(5 mg/dosis, máximo: 15 mg/día), haloperidol + midazolam \(7.5 mg/dosis, máximo: 15 mg/día). En Uruguay no contamos con: asenapina SL, prometazina IM, risperidona TDO, ziprasidona IM.
-- Tercera línea: haloperidol VO \(5 mg/dosis, máximo: 15 mng/día), quetiapina VO \(dosis variable), risperidona VO \(2 mg/dosis). En Uruguay no contamos con loxapina IM.
+_Excitación psicomotriz_
+
+- Primera línea: lorazepam IM (2 mg IM a repetir). En Uruguay no contamos con: loxapina inhalada, aripiprazol IM, , olanzapina IM.
+- Segunda línea: haloperidol IM (5 mg/dosis, máximo: 15 mg/día), haloperidol + midazolam (7.5 mg/dosis, máximo: 15 mg/día). En Uruguay no contamos con: asenapina SL, prometazina IM, risperidona TDO, ziprasidona IM.
+- Tercera línea: haloperidol VO (5 mg/dosis, máximo: 15 mng/día), quetiapina VO (dosis variable), risperidona VO (2 mg/dosis). En Uruguay no contamos con loxapina IM.
 
 De nos ser suficiente con la benzodiacepina, utlizaremos antipsicóticos sedativos, sustityéndola o como complemento. Indicaremos Levomepromazina 25 mg i/m c/8 horas con un posible refuerzo de dosis nocturno \(50 mg H20) evaluando el pasaje a v/o, atentos a los efectos anticolinérgicos e hipotensión postural.
 
@@ -430,12 +431,12 @@ El tratamiento de la fase aguda será seguido de un tratamiento de continuación
 
 _Litio_
 
-De primera elección en manías típicas \(sin estados mixtos, sin ciclado rápido, sin abuso de sustancias). Indicaremos desde el inicio del tratamiento. Pese a su latencia de 8-10 días proporciona un efecto antimaníaco más específico, además de ser estabilizador del humor y profiláctico de recidivas. Comenzaremos con 300 mg v/o c/8 horas, con las comidas, probando tolerancia, ya que al inicio son frecuentes los trastornos digestivos leves que, al igual que la sintomatología neurológica inespecífica \(letargia, fatiga, debilidad muscular y temblor fino distal), polidipsia y poliuria, son todos fenómenos reversibles y transitorios. Indicaremos abundantes líquidos v/o. Estaremos atentos a la aparición de estos síntomas. Controlaremos la aparición de signos incipientes de toxicidad: ataxia, temblor grueso, disartria, fasciculaciones.
+De primera elección en manías típicas (sin estados mixtos, sin ciclado rápido, sin abuso de sustancias). Indicaremos desde el inicio del tratamiento. Pese a su latencia de 8-10 días proporciona un efecto antimaníaco más específico, además de ser estabilizador del humor y profiláctico de recidivas. Comenzaremos con 300 mg v/o c/8 horas, con las comidas, probando tolerancia, ya que al inicio son frecuentes los trastornos digestivos leves que, al igual que la sintomatología neurológica inespecífica (letargia, fatiga, debilidad muscular y temblor fino distal), polidipsia y poliuria, son todos fenómenos reversibles y transitorios. Indicaremos abundantes líquidos v/o. Estaremos atentos a la aparición de estos síntomas. Controlaremos la aparición de signos incipientes de toxicidad: ataxia, temblor grueso, disartria, fasciculaciones.
 
-Atentos a los signos de intoxicación por litio \(ATeGDiF): ataxia, temblor grueso, disartria, fasciculaciones
+Atentos a los signos de intoxicación por litio (ATeGDiF): ataxia, temblor grueso, disartria, fasciculaciones
 - Intoxicación leve: apatía, letargia, debilidad, temblor fino, síntomas   gastrointestinales \(náuseas, vómitos, diarreas).
 - Intoxicación moderada: temblor grueso, ataxia, lenguaje lento, confusión, hiperreflexia, clonus, cambios ECG inespecíficos.
-- Intoxicación grave: convulsiones, coma, shock, fasciculaciones generalizadas, alteraciones del ECG \(todo tipo), arritmias, muerte #footnote[Osés, I., Burillo-Putze, G., Munné, P., Nogué, S., & Pinillos, M.A.. \(2003). Intoxicaciones medicamentosas \(I): Psicofármacos y antiarrítmicos. Anales del Sistema Sanitario de Navarra, 26\(Supl. 1), 49-63].
+- Intoxicación grave: convulsiones, coma, shock, fasciculaciones generalizadas, alteraciones del ECG (todo tipo), arritmias, muerte #footnote[Osés, I., Burillo-Putze, G., Munné, P., Nogué, S., & Pinillos, M.A.. (2003). Intoxicaciones medicamentosas (I): Psicofármacos y antiarrítmicos. Anales del Sistema Sanitario de Navarra, 26(Supl. 1), 49-63].
 
 Si el paciente es añoso, o con problemas renales, o sensible a efectos secundarios: comenzar con 150 mg v/o c/8.
 
@@ -449,7 +450,7 @@ Las litemias se realizarán cada 3 meses o más seguido si hay efectos tóxicos 
 
 En paciente con ciclado rápido, se postula que el litio tiene menor eficacia, presentando mejor respuesta a Ácido Valproico o Carbamazepina. La disfunción tiroidea puede ser un factor predisponente para el ciclado rápido
 
-: Poner predictores de buena respuesta al litio \(ej. AF afectivos).
+#warning[Poner predictores de buena respuesta al litio \(ej. AF afectivos).]
 
 _Ácido Valproico_
 
@@ -466,6 +467,7 @@ Generalmente como coadyuvante de otro estabilizador del humor. Dosis iniciales d
 Predictores de respuesta a antivonvulsivantes: ciclado rápido, episodio mixto, pobre respuesta a litio, manía secundaria, comorbilidad con abuso de sustancias.
 
 _Resistencia_
+
 Falla en la remisión completa en 3 ensayos (incluyendo 2 fármacos de familia distinta) por 12 semanas cada uno a la dosis máxima tolerada.
 Se considera un ensayo adecuado:
 - Diagnóstico adecuado
@@ -492,21 +494,21 @@ En la fase de mantenimiento, es de primera línea la psicoeducación. De segunda
 
 ====== Social
 
-Entrevistas reiteradas con familiares con fines de psicoeducación sobre el diagnóstico y tratamiento instituido, los pronósticos y su relación con la adherencia al tratamiento, la importancia de los controles y afianzar el vínculo como aliado terapéutico. Evaluaremos el impacto de la patología en la autoestima del paciente. Facilitaremos el acceso a biblioterapia. Contactaremos a la familiar con grupos de psicoeducación de familiares de pacientes bipolares \(en especial grupos que sigan el modelo propuesto por Colom y Vieta\).
+Entrevistas reiteradas con familiares con fines de psicoeducación sobre el diagnóstico y tratamiento instituido, los pronósticos y su relación con la adherencia al tratamiento, la importancia de los controles y afianzar el vínculo como aliado terapéutico. Evaluaremos el impacto de la patología en la autoestima del paciente. Facilitaremos el acceso a biblioterapia. Contactaremos a la familiar con grupos de psicoeducación de familiares de pacientes bipolares (en especial grupos que sigan el modelo propuesto por Colom y Vieta).
 
 El familiar es un aliado en la evitación del abandono del tratamiento y en la detección de signos precoces de descompensación, que llevan a la consulta precoz.
 
 Se evaluarán las condiciones laborales evitando turnos rotativos, favoreciendo la estabilidad en el ciclo sueño-vigilia.
 
-Mujer en edad genital activa: derivar a planificación familiar \(potencial teratogénico de algunos fármacos, aumento de posibilidades de descompensaciones vinculadas a ciclos reproductivos\).
+Mujer en edad genital activa: derivar a planificación familiar (potencial teratogénico de algunos fármacos, aumento de posibilidades de descompensaciones vinculadas a ciclos reproductivos).
 
 ====== Alta hospitalaria
 
 Dependerá de la respuesta al tratamiento. Se dará al haber: remisión de sintomatología psicótica, aparición de crítica, normalización de las conductas basales y el autocuidado, adquisición de conceptos básicos de psicoeducación, compromiso con el paciente y la familia en el control evolutivo en policlínica. Se retirarán, en la medida de lo posible los fármacos que no sean necesarios.
 
-A largo plazo lo ideal es la monoterapia con estabilizadores del humor. Sabemos que esto no siempre es posible que en general se recurre a una combinación de fármacos a las mismas dosis con las que se obtuvo la mejoría \(ver esquema previo con secuencia de uso de fármacos de 1a, 2a y 3a linea).
+A largo plazo lo ideal es la monoterapia con estabilizadores del humor. Sabemos que esto no siempre es posible que en general se recurre a una combinación de fármacos a las mismas dosis con las que se obtuvo la mejoría (ver esquema previo con secuencia de uso de fármacos de 1a, 2a y 3a linea).
 
-Es fundamental el seguimiento para el control evolutivo, el cumplimiento con el tratamiento, la dosificación de fármacos en sangre \(si corresponde).
+Es fundamental el seguimiento para el control evolutivo, el cumplimiento con el tratamiento, la dosificación de fármacos en sangre (si corresponde).
 
 Poner control de fármacos según CANMAT
 
@@ -528,7 +530,7 @@ Pronóstico vital inmediato: supeditado a la exclusión de patologías orgánico
 
 Pronóstico psiquiátrico alejado: sujeto a la adhesión al tratamiento.
 
-Pronóstico vital alejado: sujeto a descompensaciones con conductas de riesgo; agresividad UISP, alcoholismo, sexualidad \(HIV, VDRL, HVB, HVC\). Comorbilidad médica \(insuficiencia renal, enfermedades cardíacas\).
+Pronóstico vital alejado: sujeto a descompensaciones con conductas de riesgo; agresividad UISP, alcoholismo, sexualidad (HIV, VDRL, HVB, HVC). Comorbilidad médica (insuficiencia renal, enfermedades cardíacas).
 
 Se considera refractario a un tratamiento si no ha habido respuesta significativa luego de 12 semanas de niveles terapéuticos en sangre.
  
@@ -540,7 +542,7 @@ Suicidio: en el trastorno bipolar bipolar hay 30 veces más riesgo que en la pob
 
 ====== Elementos de mal pronóstico
 
-- Presencia de comorbilidad \(deterioro cognitivo, consumo de sustancias)
+- Presencia de comorbilidad (deterioro cognitivo, consumo de sustancias)
 - Alta frecuencia de episodios
 - Estresores ambientales / psicosociales
 

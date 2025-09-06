@@ -7,6 +7,8 @@
 
 ==== Historia
 
+Antecedentes del concepto de Esquizofrenia.
+
 ===== Hebefrenia de Hecker
 Eclosión en la pubertad. Su estado terminal permite calificarlo como "estupidez" hebefrénica. Tendencia a la actividad exagerada y a menudo extravagante, conducta errática y absurda con tendencia al vagabundeo, extravagancias, de carácter cambiante, relato pueril (humoradas bobas, elucubraciones fantásticas pueriles). Anomalías en la construcción de frases, modo de expresión y lenguaje descendido bastante por debajo del nivel de educación alcanzado previamente. Propensión a desbordes verbales, frases huecas y ampulosas. Aparición precoz de "debilitamiento intelectual".
 
@@ -32,7 +34,9 @@ Pérdida de la dirección sobre la voluntad y la capacidad de actuar en forma in
 - Catatónica
 - Paranoide : gran actividad delirante alucinatoria.
 
-Forma paranoide atenuada : Parafrenia
+==== Parafrenia
+
+Algunos la conceptualizacn como una forma paranoide atenuada.
 
 Parafrenias:
 - no presentan empobrecimiento afectivo ni trastorno de la voluntad
@@ -50,6 +54,7 @@ Formas clínicas:
 Independencia nosográfica controvertida: un seguimiento en 1921 comprobó que 40% desarrollaron signos claros de demencia precoz. Cobró fuerza la idea de que sería una variante de la esquizofrenia que compromete menos la personalidad por su edad de comienzo tardía
 
 ==== Bleuler y la esquizofrenia
+
 Introduce el término en 1911 Diferencia con Kraepelin: privilegio del cuadro de estado intentando determinar los elementos de éste que permiten hacer el diagnóstico precozmente sin necesidad de esperar la evolución. Critica concepto de Demencia Precoz: no todos llegan a deterioro, si llega no siempre lo hace precozmente. Pone de relieve la escisión (Spaltung) como trastorno fundamental de la esquizofrenia. En su opinión la escisión de las funciones psíquicas es una de las características más relevantes, concepto ya presente en la obra de otros autores:
 - Stransky (ataxia intrapsíquica)
 - Chaslin (locura discordante)
@@ -241,9 +246,6 @@ Está descompensado debido a:
 - stress psicosocial
 - evento vital desfavorable
 
-
-
-
 ===== DSM IV
 
 ====== Esquizofrenia
@@ -256,8 +258,9 @@ Está descompensado debido a:
 - Paranoide
 - Desorganizada
 - Catatónica
-- Indiferenciada
 - Residual
+- Simple
+- Indiferenciada
 
 ====== Especificadores
 De curso longitudinal:
@@ -302,7 +305,7 @@ Otros:
 Diferencial con respecto a la forma clínica de esquizofrenia.
 
 ==== Diagnóstico etiopatogénico y psicopatológico
-===== Etiopatogenia
+
 Es una enfermedad multifactorial:
 
 ====== Biológicos
@@ -319,7 +322,7 @@ Anatómicos: vinculados a formas deficitarias, con anomalías estructurales ines
 
 Personalidad premórbida esquizoide
 
-======Social
+====== Social
 Lo que haya en su historia personal que actuaría en un terreno vulnerable. Factores de relación con el medio familiar, más vinculado a las recaídas que al debut.
 
 En la causa de descompensación:
