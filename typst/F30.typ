@@ -39,64 +39,63 @@ EDM, maníaco, mixto + sínt de fase activa de esquizofrenia. Síndrome delirant
 <_trastorno_depresivo_pospsicótico_en_la_esquizofrenia_nos>
 - incidencia 25% 
 - peor pronóstico, más probabilidad de recaídas, mayor incidencia de suicidios que en esquizofrenia sin este trastorno.
-- DD : fase residual \(atimormia, sgs negativos) / ef 2º de APS / esquizoafectivo / criterios de EDM en fase residual de esquizofr
+- DD: fase residual \(atimormia, síntomas negativos), efectos secundarios de antipsicóticos, trastorno esquizoafectivo, criterios de EDM en fase residual de esquizofrenia.
 
 ==== Trastorno depresivo breve recidivante \(NOS)
 <_trastorno_depresivo_breve_recidivante_nos>
-De 2 días a 2 sem / deterioro pragmático en el episodio / vida más perturbada que TDM por frec cambios de humor
-- nunca hubo EDM ni existen criterios para distimia
+De 2 días a 2 semanas, deterioro pragmático en el episodio, vida más perturbada que TDM por frecuentes cambios de humor.
+- nunca hubo EDM ni existen criterios para distimia.
 
 ==== Basados en etiología
 <_basados_en_etiología>
 - debidos a enfermedad médica
-- induc por sust (con síntomas depresivos, maníacos, mixtos) de inicio durante la intox o la abstinencia
+- inducido por sustancias (con síntomas depresivos, maníacos, mixtos), de inicio durante la intoxicación o la abstinencia.
 
 Diferencias:
-- AP de enf médica o consumo, no de trast humor
-- no hay AF de humor
-- si coexisten hay implicancias pronósticas y terapéuticas
+- AP de enfermedad médica o consumo, no de trastornos del humor.
+- No hay AF de trastornos del humor.
+- Si coexisten hay implicancias pronósticas y terapéuticas.
 
 _Inducido por sustancias_
 
-Diagnóstico doble es lo más adecuado. Sustancias: enmascaran síntomas afectivos. Abuso de OH / sust : resistencia al tto
-- tipo I : como ansiolítico \(trast de ansiedad o pánico)\> 20-25 a / para manejo del stress / + ambiental / 60 
-- tipo II : como estim \(trast de humor): \< 20-25 a / comportam agresivo y antisocial / drogas  / \> tasa de depresión e IAE / \> componente genético / búsqueda de ef euforizantes / 40%
+Diagnóstico doble es lo más adecuado. Sustancias: enmascaran síntomas afectivos. Abuso de OH/sustancias: resistencia al tratamiento.
+- tipo I : como ansiolítico \(trast de ansiedad o pánico), > 20-25 años, para manejo del stress, 60%.
+- tipo II : como estimulante (trastorno de humor): < 20-25 años, comportamiento agresivo y antisocial. Mayor tasa de depresión e IAE, mayor componente genético, búsqueda de efectos euforizantes, 40%.
 
-Similitudes c/ bipolar: edad inicio / carga genética / \> suicidio / impulsividad / violencia / variación estacional / \"búsqueda de estím\" / sd deficiencia de 5HT
+Similitudes con trastorno bipolar: edad inicio, carga genética, mayor índice de suicidio,  impulsividad, violencia, variación estacional, \"búsqueda de estímulo\", síndrome de deficiencia de 5HT.
 
 - 3-4 sem detox para evaluar tto
-- comorbilidad peor respuesta
-- beber social tb interfiere c/ tto
-- ante dudas 3-4 sem detoxificación para determinar que es primario
-- comorbidez entre ambos
-- peor resultado a tto convencional que cada grupo por separado
-- + lentitud en recuperación \* + nº de internaciones
+- comorbilidad es riesgo de peor respuesta
+- beber social también interfiere con el tratamiento
+- ante dudas: 3-4 sem detoxificación para determinar que es primario
+- comorbilidad entre ambos
+- peor resultado a tratamiento convencional que cada grupo por separado
+- + lentitud en recuperación y mayor número de internaciones
 
 _Debido a enf médica_
 
 Enfermedades que causan resistencia:
 
-- endocrinopatías: tiroides, hipercortisolemia . neoplasias / infecciones . AVE / convulsiones / enfermedad cerebrovascular .
+- endocrinopatías (tiroides, hipercortisolemia), neoplasias, infecciones, AVE, convulsiones, enfermedad cerebrovascular .
 - esclerosis múltiple / lupus
-- Demencia: > de 65 años, primer episodio). Puede tratarse de un episodio de manía en el curso de un trastorno bipolar complicado por la instalación de una encefalopatía degenerativa a descartar por paraclínica ya que sabemos que en esos casos disminuye la respuesta a la medicación. El abandono de la medicación puede estar precedido por un episodio de omnipotencia maníaca.
+- Demencia: > de 65 años (primer episodio). Puede tratarse de un episodio de manía en el curso de un trastorno bipolar complicado por la instalación de una encefalopatía degenerativa a descartar por paraclínica ya que sabemos que en esos casos disminuye la respuesta a la medicación. El abandono de la medicación puede estar precedido por un episodio de omnipotencia maníaca.
 
 _Trastorno de la personalidad_
 
 - Secuencia temporal: ¿TP post afectivo?
-- BL ¿superposición? / 1/3 responden a AD \(ISRS) o estabilizadores
-- en su labilidad afectiva /no en trast vinculares
-- preferible, ante duda, dx humor
+- BL ¿superposición? 1/3 responden a AD \(ISRS) o estabilizadores.
+- En su labilidad afectiva (no en trast vinculares).
+- Preferible, ante duda diagnosticar trastorno del humor.
 
-fact pronósticos!!
--  diátesis de eje II puede tranf en trast de eje I \(puede empeorar por
-iatrogenia)
-- anastomosis humor / personalidad
+Factores pronósticos:
+- diátesis de eje II puede transformarse en trast de eje I \(puede empeorar por iatrogenia)
+- anastomosis humor / personalidad.
 
 _EJE IV_
 
-Muerte de progenitor x \< de 11a puede llevar a desarrollo post / pérd de cónyugue está vinculado al inicio del ep depresivo al reactivaraquella pérd de la infancia
-- eventos vitales del episodio y estressores crónicos mantenidos
-- disfunción fliar : incide en recaídas, readaptación y recuperación
+Muerte de progenitor en < de 11 años puede llevar a desarrollo posterior de síntomas depresivos. Pérdida de cónyugue está vinculado al inicio del episodio depresivo al reactivar aquella pérdida de la infancia.
+- Eventos vitales del episodio y estresores crónicos mantenidos.
+- Disfunción fliar: incide en recaídas, readaptación y recuperación.
 
 ==== Diagnóstico diferencial
 <_diagnóstico_diferencial_3>
@@ -343,7 +342,7 @@ EDM leve-moderada : igual
 severa s/t c/ melancolía : TCA o ECT
 
 severa c/ atípicos : IMAO / Fluoxetina hasta 40-80 mg
-
+ 
 #block[
 #set enum(numbering: "1.", start: 1)
 + DISTIMIA : dosis más elevadas que para TDM : MOCLOBEMIDA : 600 MG /
