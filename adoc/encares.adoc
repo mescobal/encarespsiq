@@ -25,15 +25,17 @@ include::F05.adoc[]
 
 include::F10.adoc[]
 
+include::F10-26.adoc[]
+
 include::F11.adoc[]
 
 = Trastornos psicóticos
 
 include::F20.adoc[]
 
-include::F22a.adoc[]
+include::F22.adoc[]
 
-include::F22b.adoc[]
+include::F22a.adoc[]
 
 include::F23.adoc[]
 
@@ -49,11 +51,11 @@ include::F32.adoc[]
 
 include::F40.adoc[]
 
-include::F40a.adoc[]
+include::F401.adoc[]
 
-include::F41a.adoc[]
+include::F410.adoc[]
 
-include::F41b.adoc[]
+include::F411.adoc[]
 
 include::F42.adoc[]
 
@@ -75,7 +77,9 @@ include::F51.adoc[]
 
 include::F60.adoc[]
 
-include::F63.adoc[]
+include::F60-3.adoc[]
+
+include::F632.adoc[]
 
 include::F68.adoc[]
 
@@ -91,11 +95,11 @@ include::F84.adoc[]
 
 include::F90.adoc[]
 
-include::F93.adoc[]
-
-include::F98.adoc[]
+include::F985.adoc[]
 
 = Otras situaciones clínicas
+
+include::R53.adoc[]
 
 include::IAE.adoc[]
 

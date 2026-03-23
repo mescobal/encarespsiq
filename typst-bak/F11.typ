@@ -2,23 +2,16 @@
 #import "@preview/ilm:1.1.2": *
 #import "@preview/note-me:0.2.1": *
 == Trastornos por consumo de opioides
-
 === Notas clínicas
-
 ==== Evaluación del Trastorno por consumo de opioides
-
 Descartar otros trastorno psiquiátricos. Descartar otros consumos de sustancias actuales y previos. En caso de comorbilidad con otros consumos, considerar el tratamiento en nivel superior de atención.
 
 ==== Recomendaciones diagnósticas
-
 Confirmar diagnóstico (a pesar de que venga con diagnóstico hecho).
 
 === Encare
-
 ==== Paraclínica
-
 ===== Biológico
-
 Primer paso: identificar cualquier trastorno médico o psiquiátrico que requiera tratamiento de urgencia y hacer la derivación adecuada (por ejemplo: intoxicación son sobredosis).
 
 HC completa con evaluación de toda condición médica incluyendo las infecciosas (hepatitis, HIV, tuberculosis), traumatismos, embarazo.

@@ -7,10 +7,7 @@
 Por la frecuencia, existen guías específicas .
 
 ===== Etiopatogenia y fisiopatología
-
-Producto de estudios en modelos animales, se postulan mecanismos vinculados a factores deletéreos de la anestesia (hiperfosforilación de Tau)y a mecanismos inflamatorios. La intervención quirúrgica produce daño tisular agudo con liberación de patrones de moléculas asociadas a daño (DAMPs): proteínas S100, ácidos nucleicos, HMGB1 (análogos a los PAMPs: patrones moleculares asociados a patógenos tales como los lipopolisacáridos bacterianos: endotoxinas). Estas sustancias activan varios receptores inflamatorios, induciendo una respuesta inflamatoria aguda en la periferia y desencadenan cambios neuroinflamatorios: citoquinas, inducción de transcripción inflamatoria en el cerebro, alteraciones en la BJHE, cambios en morfología y número de células gliales y astrocitos.
-
-Cambios similares ocurren en el Delirium asociado a infecciones: bloqueo de citoquinas, depleción de microglía, inhibición de microglía, macrófagos y monocitos o bloqueo de vías inflamatorias usando vías antiinflamatorias naturales (restaurando niveles de acetilcolina, aumentando resolvinas que son mediadores lipídicos endógenos de resolución inflamatoria).
+Producto de estudios en modelos animales, se postulan mecanismos vinculados a factores deletéreos de la anestesia (hiperfosforilación de Tau)y a mecanismos inflamatorios. La intervención quirúrgica produce daño tisular agudo con liberación de patrones de moléculas asociadas a daño (DAMPs): proteínas S100, ácidos nucleicos, HMGB1 (análogos a los PAMPs: patrones moleculares asociados a patógenos tales como los lipopolisacáridos bacterianos: endotoxinas). Estas sustancias activan varios receptores inflamatorios, induciendo una respuesta inflamatoria aguda en la periferia y desencadenan cambios neuroinflamatorios: citoquinas, inducción de transcripción inflamatoria en el cerebro, alteraciones en la BJHE, cambios en morfología y número de células gliales y astrocitos. Cambios similares ocurren en el Delirium asociado a infecciones: bloqueo de citoquinas, depleción de microglía, inhibición de microglía, macrófagos y monocitos o bloqueo de vías inflamatorias usando vías antiinflamatorias naturales (restaurando niveles de acetilcolina, aumentando resolvinas que son mediadores lipídicos endógenos de resolución inflamatoria).
 
 ===== Factores de riesgo
 Edad avanzada, puntaje en la escala de la American Society of Anesthesiology > 2, indice de comorbilidad de Charlson > 4, MMSE < 25.
@@ -20,7 +17,6 @@ Es recomendable una evaluación geriátrica evaluando: fragilidad, déficit sens
 Los factores de riesgo se potencian entre si.
 
 ===== Medidas preventivas
-
 ====== Dexmedetomidina
 
 Comparado con placebo disminuye la incidencia de DPO en pacientes con cirugías no cardíacas (no da el mismo resultado en pacientes con cirugía cardíaca). Efectos secundarios: bradicardia e hipotensión. De todos modos NO se sugiere el uso de ningún fármaco de forma profiláctica.
@@ -30,7 +26,6 @@ Comparado con placebo disminuye la incidencia de DPO en pacientes con cirugías 
 Antipsicóticos: no disminuyen la incidencia de DPO. Melatonina 3 mg y ramelteon 8 mg (agonista del receptor de melatonina) : disminuyen la incidencia de DPO de forma significativa. Se administra desde el dia antes de la cirugía hasta 3 días después.
 
 === Encare
-
 ==== En suma
 Destacar algo de la patología orgánica (alcoholismo, infección, TEC, anciano, postoperatorio, fiebre, deshidratación, IAM, AVE, diabetes, EPOC).
 

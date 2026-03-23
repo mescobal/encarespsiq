@@ -48,8 +48,7 @@ Diagnóstico: S° confusional en alcoholista.
 .Delirio alcohólico agudo:
 DT Comienzo: más agudo, más grave. Sudoración profusa, temblor generalizado, agitación intensa, insomnio total.
 
-Delirio onírico más marcado, intensamente alucinatorio, onirismo profesional, DOTE completa, zoopsias (microzoopsias en esquinas del cuarto). Liberación de movimientos anormales (masticación, succión,
-prensión). Temblor generalizado en todo el cuerpo. Fiebre (>39) persistente por días. Fiebre > 40 → delirio alcohólico hiperazoémico. Deshidratación. Diuresis suele ser (paradójicamente) suficiente.
+Delirio onírico más marcado, intensamente alucinatorio, onirismo profesional, DOTE completa, zoopsias (microzoopsias en esquinas del cuarto). Liberación de movimientos anormales (masticación, succión, prensión). Temblor generalizado en todo el cuerpo. Fiebre (>39) persistente por días. Fiebre > 40 → delirio alcohólico hiperazoémico. Deshidratación. Diuresis suele ser (paradójicamente) suficiente.
 
 TIP: No existe DT apirético
 
@@ -62,8 +61,7 @@ Anatomía patológica: encefalitis psicótica aguda. Meningitis crónica alcohó
 Patogenia: DT → autointoxicación por disminución de capacidad funcional del hígado. DT: cada vez menos frecuentes por tratamiento precoz.
 
 .Formas delirantes del alcoholismo crónico 
-. Secuelas postoníricas: Regis describe 3 tiempos del despertar de los estados oníricos: ausencia
-de crítica → dudas → rectificación. Cuando persiste la idea → idea fija postonírica (explica el delirio con detalle). Pueden haber IFPO permanentes. 
+. Secuelas postoníricas: Regis describe 3 tiempos del despertar de los estados oníricos: ausencia de crítica → dudas → rectificación. Cuando persiste la idea → idea fija postonírica (explica el delirio con detalle). Pueden haber IFPO permanentes.
 . Estados de alucinosis alcohólica: psicosis alucinatoria o síndrome de automatismo mental subagudo con predominio de actividad alucinatoria (más auditivo que visual) sin desestructuración de la conciencia. BOTE, sin obnubilación, sin trastorno de memoria. Alucinosis de los bebedores (Wernicke). Inicio: ilusiones, s/t en la noche (ruidos, conversaciones) y rápidamente aparecen alucinaciones acusticoverbales con carácter de sensorialidad más acentuado. Contenido hostil (insultos, amenazas, oye hablar de él en tercera persona). Poco frecuente alucinaciones visuales (más ilusiones, formas amenazantes, sombras).
 Experiencia delirante (imaginación alucinatoria). Es una forma de
 delirio vivido solamente en los datos perceptivos. Evolución favorable
@@ -144,14 +142,14 @@ Lenguaje caótico, desordenado.
 
 ====== Síndrome de abstinencia
 
-Actual o retrospectivo. Definido por la aparición (en horas o días) de sintomatología luego de interrupción o disminución de ingesta alcohólica abundante previa, con (bastan 2) hiperactividad autonómica (sudoración, taquicardia), temblor distal de manos, insomnio, náuseas o vómitos, alucinaciones visuales / táctiles / auditivas o ilusiones, agitación psicomotora, ansiedad, crisis comiciales de gran mal. 3. Síndrome conductual 1. Cuadro actual: lo relacionado al MC, CB y pragmatismos. 2. Curso de vida: trastornos conductuales si existen. Alcoholista de larga
-data con pérdida del control e impulso a la embriaguez con elementos de
-abstinencia que calman con la ingesta (nombrarlos), con elementos que
-hablan de tolerancia (nombrarlos) o tolerancia inversa (nombrarlos), con
-consumo persistente a pesar de las consecuencias del mismo. 4. síndrome
-somático Sudoración, PNM (temblor), CV (central y periférico),
-toxiinfeccioso (fiebre, tos, expectoración), endócrino. Puede incluirse
-en un síndrome de abstinencia.
+Actual o retrospectivo. Definido por la aparición (en horas o días) de sintomatología luego de interrupción o disminución de ingesta alcohólica abundante previa, con (bastan 2) hiperactividad autonómica (sudoración, taquicardia), temblor distal de manos, insomnio, náuseas o vómitos, alucinaciones visuales / táctiles / auditivas o ilusiones, agitación psicomotora, ansiedad, crisis comiciales de gran mal.
+
+====== Síndrome conductual
+1. Cuadro actual: lo relacionado al MC, CB y pragmatismos.
+2. Curso de vida: trastornos conductuales si existen. Alcoholista de larga data con pérdida del control e impulso a la embriaguez con elementos de abstinencia que calman con la ingesta (nombrarlos), con elementos que hablan de tolerancia (nombrarlos) o tolerancia inversa (nombrarlos), con consumo persistente a pesar de las consecuencias del mismo.
+
+====== Síndrome somático
+Sudoración, PNM (temblor), CV (central y periférico), toxiinfeccioso (fiebre, tos, expectoración), endócrino. Puede incluirse en un síndrome de abstinencia.
 
 ==== Personalidad y nivel
 

@@ -2,45 +2,21 @@
 
 === Notas clínicas
 
-Una buena revisión clínica del trastorno es la realizada por Manschreck
-footnote:[Manschreck, T. C., & Khan, N. L. (2006). Recent advances in
-the treatment of delusional disorder. The Canadian Journal of
-Psychiatry, 51(2), 114-119. ISO 690].
+Una buena revisión clínica del trastorno es la realizada por Manschreck footnote:[Manschreck, T. C., & Khan, N. L. (2006). Recent advances in the treatment of delusional disorder. The Canadian Journal of Psychiatry, 51(2), 114-119. ISO 690].
 
 ==== Delirio sensitivo de relación (Kretschmer)
 
-Descrito en 1919. 3 componentes footnote:[Widakowich, C., Van Wettere,
-L., Hubain, P., & Snacken, J. (2013). 1938–Actuality of the Kretschmer’s
-sensitive delusion of reference in the DSM V era: two case reports.
-European Psychiatry, 28(S1), 1-1.]:
+Descrito en 1919. 3 componentes footnote:[Widakowich, C., Van Wettere, L., Hubain, P., & Snacken, J. (2013). 1938–Actuality of the Kretschmer’s sensitive delusion of reference in the DSM V era: two case reports. European Psychiatry, 28(S1), 1-1.]:
 
-* Carácter sensitivo: timidez, hiperemotividad, sensibilidad, sentido
-elevado de los valores morales, orgullo, hiperestesia emocional,
-hiperestesia en los contactos sociales. Resulta en alta vulnerabilidad
-en los contactos sociales, tendencia a la autocrítica, susceptibilidad y
-tendencia a internalizar fallas percibidas como dolorosas.
-* Evento "traumático" vivido como "falla" o "humillación" en plano
-ético.
-* Desarrollo del delirio en si: remordimiento depresivo con miedos
-hipocondríacos e ideación persecutoria en conversaciones banales
-cotidianas. Delirio concéntrico: el sujeto es el centro de la
-experiencia, rodeado por un grupo (cónyuge, familia, vecinos). Formato
-tipo "proceso".
+* Carácter sensitivo: timidez, hiperemotividad, sensibilidad, sentido elevado de los valores morales, orgullo, hiperestesia emocional, hiperestesia en los contactos sociales. Resulta en alta vulnerabilidad en los contactos sociales, tendencia a la autocrítica, susceptibilidad y tendencia a internalizar fallas percibidas como dolorosas.
+* Evento "traumático" vivido como "falla" o "humillación" en plano ético.
+* Desarrollo del delirio en si: remordimiento depresivo con miedos hipocondríacos e ideación persecutoria en conversaciones banales cotidianas. Delirio concéntrico: el sujeto es el centro de la experiencia, rodeado por un grupo (cónyuge, familia, vecinos). Formato tipo "proceso".
 
-Aparece en adultos, > 35 años, solteros añosos. En general complicado
-con un episodio depresivo severo. Evolución menos crónica que la
-paranoia con tendencia a recurrir ante nuevas humillaciones.
+Aparece en adultos, > 35 años, solteros añosos. En general complicado con un episodio depresivo severo. Evolución menos crónica que la paranoia con tendencia a recurrir ante nuevas humillaciones.
 
-La escuela francesa lo incluye entre los delirios crónicos no
-disociativos, entre la paranoia, la psicosis alucinatoria crónica y la
-parafrenia.
+La escuela francesa lo incluye entre los delirios crónicos no disociativos, entre la paranoia, la psicosis alucinatoria crónica y la parafrenia.
 
-Para el DSM queda incluido entre los trastornos delirantes. En otras
-partes del mundo conceptualizado como "delirio de referencia". La idea
-delirante queda "suspendida" del acontecimiento desencadenante
-(divulgación de una enfermedad, denuncia de un robo, acusación de una
-falta, exclusión de una comunidad). Prototipo: "paranoia de los
-gobernantes", "delirio de persecución de las solteronas"
+Para el DSM queda incluido entre los trastornos delirantes. En otras partes del mundo conceptualizado como "delirio de referencia". La idea delirante queda "suspendida" del acontecimiento desencadenante (divulgación de una enfermedad, denuncia de un robo, acusación de una falta, exclusión de una comunidad). Prototipo: "paranoia de los gobernantes", "delirio de persecución de las solteronas"
 
 === Encare
 
