@@ -2,26 +2,26 @@
 
 === Notas clínicas
 
-Esto es un escueto resumen de un encare de un paciente que se presenta con un estupor catatónico en una esquizofrenia. 
-El resto de los datos los completan con elementos de otras historias. 
+Esto es un escueto resumen de un encare de un paciente que se presenta con un estupor catatónico en una esquizofrenia.  El resto de los datos los completan con elementos de otras historias.
+
 Tomar en cuenta que un estupor puede presentarse en diferentes patologías (estupor melancólico, histérico, esquizofrenia, confusional).
 
 === Encare
 
 ==== Agrupación sindromática
 
-1. síndrome de inhibición psicomotriz Permanente, cotidiano, grave. Estupor. 
-2. síndrome conductual
-    - Impulsivo: IAE, Crisis de EPM con hetero-agresividad, sin reflexión / meditación. 
-    -  Conductas basales y pragmatismos. 
-3. síndrome disociativo-discordante IDEA 
+. síndrome de inhibición psicomotriz Permanente, cotidiano, grave. Estupor.
+. síndrome conductual
+.. Impulsivo: IAE, Crisis de EPM con hetero-agresividad, sin reflexión / meditación.
+.. Conductas basales y pragmatismos.
+. síndrome disociativo-discordante IDEA
 
 Hacemos diagnóstico de síndrome Catatónico, máxima discordancia psicomotriz: reducción de iniciativa motriz, máxima inhibición psicomotriz (estupor catatónico), con hipomimia, hipogestua-lidad, clinofilia. Sobre este
 fondo se presentan descargas motoras enigmáticas y absurdas (IAE, hetero):
 
-- Inhibición psicomotriz
-- Descarga impulsiva
-- Negativismo-oposicionismo
+* Inhibición psicomotriz
+* Descarga impulsiva
+* Negativismo-oposicionismo
 
 ==== Diagnóstico positivo
 

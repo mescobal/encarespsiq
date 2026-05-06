@@ -11,4 +11,3 @@ Psicosis:: icon:cut[] Porque el paciente perdió contacto con la realidad, encon
 Psicosis aguda:: icon:cut[] Por ser una experiencia sensible y actual, de X días de evolución, más vivida que relatada, con alteración importante del humor y la afectividad y con afectación de las conductas basales.
 
 Psicosis crónica:: icon:cut[] Por tratarse de un trastorno perdurable de X años de evolución que ha modificado el sistema de la personalidad llevando a una transformación delirante del yo y su mundo constituyéndose el paciente en un ser delirante, siendo el delirio más relatado que vivido, no existiendo elementos de agudeza tales como alteración de la conciencia y oscilaciones del humor.
-

@@ -33,17 +33,17 @@ C. Descartar otras causas (drogas, neurológicas) D. No se explica mejor por otr
 ===== Criterios de expertos
 
 Un consenso de expertos propuso criterios algo más restrictivos: 
-1. Exposición a un antagonista de DA o retiro de un agonista de DA en las 72 horas anteriores al inicio de los síntomas 
-2. Hipertermia en 2 ocasiones mayor o iguala 38oC oral. 
-3. Rigidez
-4. Alteración del estado mental con reducción o fluctuación de niveles de conciencia. 
-5. Elevación de la CPK al menos 4 veces por encima de lo normal. 
-6. Labilidad del sistema Simpático en al menos 2 de los siguientes parámetros: 
-a. PA > 25% sobre lo basal 
-b. Fluctuaciones de PA > 20 mmHg en la diastólica o 25 mm Hg en la sistólica dentro de 24 horas 
-c. Diaforesis d. Incontinencia urinaria. 
-7. Hipermetabolismo definido como FC % sobre lo basal y FR >50% sobre lo basal. 
-8. Ausencia de otras etiologías (infecciones, toxinas, causas metabólicas o neurológicas).
+. Exposición a un antagonista de DA o retiro de un agonista de DA en las 72 horas anteriores al inicio de los síntomas
+. Hipertermia en 2 ocasiones mayor o iguala 38oC oral.
+. Rigidez
+. Alteración del estado mental con reducción o fluctuación de niveles de conciencia.
+. Elevación de la CPK al menos 4 veces por encima de lo normal.
+. Labilidad del sistema Simpático en al menos 2 de los siguientes parámetros:
+.. PA > 25% sobre lo basal
+.. Fluctuaciones de PA > 20 mmHg en la diastólica o 25 mm Hg en la sistólica dentro de 24 horas
+.. Diaforesis d. Incontinencia urinaria.
+. Hipermetabolismo definido como FC % sobre lo basal y FR >50% sobre lo basal.
+. Ausencia de otras etiologías (infecciones, toxinas, causas metabólicas o neurológicas).
 
 ==== Diagnóstico diferencial
 
@@ -64,11 +64,14 @@ Causas orgánicas:
 
 Valoración general 
 * Hemograma: leucocitosis.
-* Ionograma: hiponatremia / hipernatremia. Gasometría: acidosis metabólica o hipoxia en 75% CPK:
-elevada * 4 (95%) Orina: mioglobinuria (67%) Función renal: falla renal
-aguda por necrosis muscular producto de la rigidez, hipertermia e
-isquemia. EEG: enlentecimiento difuso en 54% Sideremia: Fe disminuido
-Estudio de LCR y neurogimagen: no son de primera línea, suelen dar normales.
+* Ionograma: hiponatremia / hipernatremia.
+* Gasometría: acidosis metabólica o hipoxia en 75%
+* CPK:elevada x 4 (95%)
+* Orina: mioglobinuria (67%)
+* Función renal: falla renal aguda por necrosis muscular producto de la rigidez, hipertermia e isquemia.
+* EEG: enlentecimiento difuso en 54%
+* Sideremia: Fe disminuido
+* Estudio de LCR y neurogimagen: no son de primera línea, suelen dar normales.
 
 ==== Etiopatogenia y fisiopatología
 
@@ -94,7 +97,7 @@ Farmacológico:
 ** Amantadina 200-400 mg/día en dosis divididas v/o o por SNG.
 ** Bromocriptina 2.5 mg c/12 o c/8 aumentando hasta un total de 45 mg/día si se requiere. Puede empeorar la psicosis y precipitar hipertensión y vómitos. Debe continuarse 10 días después de la remisión para evitar recurrencia si se discontinúa precozmente.
 * Dantrolene: relajante de músculo esquelético. Útil en caso asociados con hipertermia extrema y rigidez. Se puede usar junto con BZD o con un agonista DA. No se puede administrar con bloqueadores de calcio. Dosis: inicio 1-2.5 mg/kg IV, luego 1 mg/Kg cada 6 horas si hay respuesta luego de la primera dosis. Efectos secundarios: insuficiencia respiratoria / hepática. Debe continuarse 10 días luego de la resolución de los síntomas por probabilidad de recurrencia si se retira precozmente.
-* ECT: puede ser eficaz. Segunda línea, si fallan fármacos o si no se puede descartar una catatonía letal. Se hacen 6-10 sesiones. Aparece respuesta a la 4~a~. Vigilar la aparición de lesión muscular y de hiperkalemia.
+* ECT: puede ser eficaz. Segunda línea, si fallan fármacos o si no se puede descartar una catatonía letal. Se hacen 6-10 sesiones. Aparece respuesta a la 4a. Vigilar la aparición de lesión muscular y de hiperkalemia.
 
 ==== Evolución y pronóstico
 
