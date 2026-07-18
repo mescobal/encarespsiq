@@ -13,7 +13,6 @@ The book exists in **parallel, independently-maintained formats** — they are n
 - `typst/` — **primary, actively maintained** source, using [Typst](https://typst.app/). `encares.typ` is the master file that `#include`s one `.typ` file per chapter/section. `formato.typ` holds shared styling (heading sizes, numbering, paragraph settings). Uses Typst packages `min-book`, `fontawesome`, `note-me`.
 - `adoc/` — **also actively maintained**, using [AsciiDoc](https://asciidoc.org/). `encares.adoc` is the master file that `include::`s one `.adoc` file per chapter. This is the format referenced in `README.md` as the one external contributors are asked to edit.
 - `tex/` — legacy LaTeX version, largely stale (last substantive update predates the typst/adoc content).
-- `md/` — occasional Markdown exports, not actively maintained.
 
 Chapters/files are named after **ICD-10 codes** (e.g. `F30.*` = manic/bipolar episodes, `F40.*` = phobic anxiety disorders, `F44.*` = dissociative disorders), matching the clinical classification the book is organized around. The same code generally has a same-named file in each format directory, but content is NOT kept in sync 1:1 across formats — e.g. `adoc/F30.adoc` and `typst/F30.typ` currently differ substantially in wording and length. When asked to update a chapter, clarify (or infer from context) whether the edit should go into `typst/`, `adoc/`, or both.
 
