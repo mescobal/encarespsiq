@@ -1,4 +1,4 @@
-asciidoc -b docbook encares2.adoc
-dblatex encares2.xml
+asciidoc -b docbook adoc/encares2.adoc
+dblatex adoc/encares2.xml
 
 

@@ -1,4 +1,4 @@
-asciidoctor -b docbook5 encares.adoc
-mv encares.xml encares.docbook
-pandoc -f docbook encares.docbook --pdf-engine=xelatex -o encares2.pdf
+asciidoctor -b docbook5 adoc/encares.adoc
+mv adoc/encares.xml adoc/encares.docbook
+pandoc -f docbook adoc/encares.docbook --pdf-engine=xelatex -o adoc/encares2.pdf
 
