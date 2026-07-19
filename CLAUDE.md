@@ -19,13 +19,20 @@ Bibliography: `encares.bib` (BibDesk-managed BibTeX) at the repo root, duplicate
 
 ## Build commands
 
-**AsciiDoc → PDF** (via DocBook + LaTeX, see `armartex.sh`):
+**AsciiDoc → PDF, direct (`armarpdf.sh`)** — this is how the published `adoc/encares.pdf` is actually produced (confirmed via its PDF metadata: `Producer: Asciidoctor PDF`):
+```sh
+asciidoctor-pdf adoc/encares.adoc -o adoc/encares.pdf
+```
+
+Two older, DocBook-based paths also exist and produce `encares2.pdf` instead — kept for reference, not what generates the published PDF:
+
+`armartex.sh` (DocBook + pandoc + xelatex):
 ```sh
 asciidoctor -b docbook5 adoc/encares.adoc
 mv encares.xml encares.docbook
 pandoc -f docbook encares.docbook --pdf-engine=xelatex -o encares2.pdf
 ```
-Alternate path via `armar.sh` (asciidoc + dblatex):
+`armar.sh` (asciidoc + dblatex):
 ```sh
 asciidoc -b docbook adoc/encares2.adoc
 dblatex encares2.xml
