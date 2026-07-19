@@ -3,16 +3,13 @@ Libro de encares de psiquiatría para pruebas de residencia/docentes
 
 Ultima versión para bajar:
 
-https://github.com/mescobal/encarespsiq/blob/master/typst/encares.pdf
-
-## Estructura del repositorio
-
-El texto se mantiene en dos formatos en paralelo:
-
-* `typst/` — formato principal, en [Typst](https://typst.app/).
-* `adoc/` — formato en [Asciidoc](https://asciidoc.org/), pensado para contribuciones externas por ser texto plano simple.
+https://github.com/mescobal/encarespsiq/blob/master/adoc/encares.pdf
 
 ## Para contribuir
+
+El texto está en formato [Asciidoc](https://asciidoc.org/), en la carpeta `adoc/`.
+
+(Existe también una carpeta `typst/` con una versión en [Typst](https://typst.app/), pero está obsoleta y no se mantiene.)
 
 Para contribuir:
 
