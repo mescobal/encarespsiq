@@ -3,75 +3,57 @@
 NOTA: separo Trastorno de pánico de Trastorno de ansiedad generalizada.
 Voy pasando de a poco TAG al encare correspondiente
 
-=== Encare Motivo de consulta: síntomas somáticos de diferentes tipos
-(cardíacos, digestivos), derivaciones desde otras especialidades
-(cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
+=== Encare
+Motivo de consulta: síntomas somáticos de diferentes tipos (cardíacos, digestivos), derivaciones desde otras especialidades (cardiólogo, neurólogo). Puede consultar por alguna comorbilidad.
 
 ==== Agrupación sindromática
 
 ===== Síndrome de ansiedad-angustia
 
-Entendemos por ansiedad una experiencia displacentera con un componente
-psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o
-a morir, desrealización / despersonalización) y uno somático
-(psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión
-torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos,
-mareos, disfagia, náuseas, malestar abdominal). Está centrada en el
-sentimiento de aprensión causado por la anticipación de un peligro
-(interno, externo, real o imaginado). Puede presentarse como episodio
-crítico o como estado más o menos persistente:
+Entendemos por ansiedad una experiencia displacentera con un componente psíquico (afectivo, cognitivo: miedo a perder el control, a enloquecer o a morir, desrealización / despersonalización) y uno somático (psicomotriz, neurovegetativo: palpitaciones, taquicardia, opresión torácica, sudor, escalofríos, disnea, temblores, parestesias, vértigos, mareos, disfagia, náuseas, malestar abdominal).
 
-.Crisis de angustia Definir crisis de angustia. De X evolución, de
-inicio brusco, paroxísticas, inesperadas o predispuestas por
-determinadas situaciones (si aparecen determinadas casi invariablemente
-por una situación, considerar el diagnóstico de fobia). Con rápido
-aumento de intensidad, de duración breve. Crisis que se presentan
-clínicamente con X (lista de síntomas). Crisis que han tenido una
-evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio
-evolutivo).
+Está centrada en el sentimiento de aprensión causado por la anticipación de un peligro (interno, externo, real o imaginado).
 
-.Ansiedad basal Fondo de ansiedad difusa y permanente. Dado por:
+Puede presentarse como episodio crítico o como estado más o menos persistente:
+
+.Crisis de angustia
+Definir crisis de angustia.
+
+De X evolución, de inicio brusco, paroxísticas, inesperadas o predispuestas por determinadas situaciones (si aparecen determinadas casi invariablemente por una situación, considerar el diagnóstico de fobia). Con rápido aumento de intensidad, de duración breve. Crisis que se presentan clínicamente con X (lista de síntomas). Crisis que han tenido una evolución X (edad de inicio, pauta, frecuencia, repercusión, cambio evolutivo).
+
+.Ansiedad basal
+Fondo de ansiedad difusa y permanente. Dado por:
 
 * Fondo permanente de ansiedad y preocupación no realista o excesiva
-sobre una gama amplia de acontecimientos. * Tensión motora: temblor,
-sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva,
-hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca,
-mareos, sensación de inestabilidad, trastornos gastrointestinales,
-sofocaciones, escalofríos, micción frecuente, "nudo en la garganta",
-cefaleas). * Hipervigilancia: sentirse en peligro, alarma exagerada,
-dificultad para concentrarse, insomnio, irritabilidad. * Alteraciones de
-las conductas basales, alteraciones somáticas funcionales (anorexia,
-disfunción sexual, insomnio).
+sobre una gama amplia de acontecimientos.
+* Tensión motora: temblor, sacudidas, tensión o dolor muscular, inquietud, fatigabilidad excesiva,
+* Hiperactividad vegetativa (ahogo, palpitaciones, sudoración, boca seca, mareos, sensación de inestabilidad, trastornos gastrointestinales, sofocaciones, escalofríos, micción frecuente, "nudo en la garganta", cefaleas).
+* Hipervigilancia: sentirse en peligro, alarma exagerada, dificultad para concentrarse, insomnio, irritabilidad.
+* Alteraciones de las conductas basales, alteraciones somáticas funcionales (anorexia, disfunción sexual, insomnio).
 
-TIP: La semiología puede dividirse en componentes: psíquicos (afectivo /
-cognitivo) y somáticos (psicomotriz / neurovegetativo).
+TIP: La semiología puede dividirse en componentes: psíquicos (afectivo / cognitivo) y somáticos (psicomotriz / neurovegetativo).
 
 ===== Síndrome fóbico
 
-Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de
-angustia configurando una Agorafobia (definirla).
+Entendiendo por fobia X. Que aparece (o no) a partir de las crisis de angustia configurando una Agorafobia (definirla).
 
 ===== Síndrome depresivo
 
-Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego
-depresión).
+Vinculado a la ansiedad. Marcar la cronología (primero ansiedad, luego depresión).
 
 ===== Otros síndromes
 
-* Síndrome disociativo * Síndrome conversivo: motor (como crisis o más
-permanentes), sensorial, sensitivo, neurovegetativo. * Síndrome
-obsesivo-compulsivo * Síndrome de despersonalización: puede hablar de la
-gravedad de la ansiedad-angustia.
+* Síndrome disociativo
+* Síndrome conversivo: motor (como crisis o más permanentes), sensorial, sensitivo, neurovegetativo.
+* Síndrome
+obsesivo-compulsivo
+* Síndrome de despersonalización: puede hablar de la gravedad de la ansiedad-angustia.
 
 ==== Personalidad y nivel
 
 Nivel: cualquiera.
 
-Personalidad: rasgos evitativos, conflictividad infantil, introversión,
-timidez, rasgos de cualquier serie, síntomas de cualquier serie.
-Dificultad para superar e integrar separaciones y pérdidas. Dificultades
-para adapta|rse a situaciones nuevas. Dificultad para manejar la
-agresividad.
+Personalidad: rasgos evitativos, conflictividad infantil, introversión, timidez, rasgos de cualquier serie, síntomas de cualquier serie. Dificultad para superar e integrar separaciones y pérdidas. Dificultades para adaptarse a situaciones nuevas. Dificultad para manejar la agresividad.
 
 Destacar: buena relación interpersonal, pedido de ayuda.
 
@@ -81,76 +63,64 @@ Destacar: buena relación interpersonal, pedido de ayuda.
 
 .Neurosis icon:paste[] Fragmentos: Neurosis.
 
-.Neurosis de angustia Ya que el cuadro está centrado en la ansiedad
-angustia. Y si bien existen elementos de otras series (sobre todo
-fóbicos), éstos no bastan para yugular la angustia. No llegando a
-estructurarse en una neurosis fóbica (no existe organización en fobia
-única, no existe evitación ni conductas tranquilizantes).
+.Neurosis de angustia
+Ya que el cuadro está centrado en la ansiedad angustia. Y si bien existen elementos de otras series (sobre todo fóbicos), éstos no bastan para yugular la angustia. No llegando a estructurarse en una neurosis fóbica (no existe organización en fobia única, no existe evitación ni conductas tranquilizantes).
 
-.Descompensada Por
+.Descompensada
+Por
 
-* Exacerbación de la sintomatología de ansiedad-angustia con aparición
-de episodios críticos de angustia y utilización de mecanismos de defensa
-tipo fóbicos, intento fallido por el momento de estructuración en
-neurosis fóbica. * Síndrome depresivo con elementos disfóricos como
-consecuencia de un desencadenante (reactivo)... (depresión neurótica).
+* Exacerbación de la sintomatología de ansiedad-angustia con aparición de episodios críticos de angustia y utilización de mecanismos de defensa tipo fóbicos, intento fallido por el momento de estructuración en neurosis fóbica.
+* Síndrome depresivo con elementos disfóricos como consecuencia de un desencadenante (reactivo)... (depresión neurótica).
 
 .Causa de descompensación
 
-Conflicto psicosocial, estrés ambiental, separaciones, situaciones de
-pérdida, situaciones de competencia (agresividad culpabilizada),
-frustraciones de orden sexual, alteración de relaciones interpersonales,
-pérdida de apoyos sociales.
+Conflicto psicosocial, estrés ambiental, separaciones, situaciones de pérdida, situaciones de competencia (agresividad culpabilizada), frustraciones de orden sexual, alteración de relaciones interpersonales, pérdida de apoyos sociales.
 
 .Diagnóstico de gravedad:
 
-* Gravedad de las crisis de angustia: por cantidad de crisis (grave > 8
-al mes), según períodos intercríticos. * Gravedad de la evitación
-agorafóbica: según limitaciones en la vida cotidiana y uso de
-acompañantes al salir.
+* Gravedad de las crisis de angustia: por cantidad de crisis (grave > 8 al mes), según períodos intercríticos.
+* Gravedad de la evitación agorafóbica: según limitaciones en la vida cotidiana y uso de acompañantes al salir.
 
 ===== DSM IV - CIE-10
 
-* Trastorno de angustia con Agorafobia. * Trastorno de angustia sin
-Agorafobia. * Trastorno de ansiedad generalizada. * Trastorno de
-ansiedad no especificado. * Trastornos adaptativos
+* Trastorno de angustia con Agorafobia.
+* Trastorno de angustia sin Agorafobia.
+* Trastorno de ansiedad generalizada.
+* Trastorno de ansiedad no especificado.
+* Trastornos adaptativos
 
-.Diagnóstico de Crisis de Pánico No codifica aislado.
+.Diagnóstico de Crisis de Pánico
 
-Aparición aislada de miedo o malestar intensos, de inicio brusco, con
-expresión máxima en los primeros 10 minutos, con 4 o más de:
-palpitaciones, sudoración, temblores, disnea, sensación de atragantarse,
-opresión torácica, molestias digestivas, mareos / inestabilidad /
-desmayo, desrealización / despersonalización, miedo a enloquecer, miedo
-a morir, parestesias, escalofríos / sofocaciones.
+No codifica aislado.
 
-.Diagnóstico de Agorafobia No codifica aislado.Ver F40.
+Aparición aislada de miedo o malestar intensos, de inicio brusco, con expresión máxima en los primeros 10 minutos, con 4 o más de: palpitaciones, sudoración, temblores, disnea, sensación de atragantarse, opresión torácica, molestias digestivas, mareos / inestabilidad / desmayo, desrealización / despersonalización, miedo a enloquecer, miedo a morir, parestesias, escalofríos / sofocaciones.
 
-.F40.01 Trastorno de pánico con Agorafobia Requiere:
+.Diagnóstico de Agorafobia
 
-. Crisis de pánico inesperadas recidivantes (al menos 2) seguidas de 1
-mes o más de ansiedad anticipatoria o preocupación por las crisis y sus
-consecuencias o cambio del comportamiento vinculado a las crisis. .
-Presencia de Agorafobia. . Descartar sustancias y enfermedad médica. .
-No se explica mejor por otro trastorno mental (excluir sobre todo
-fobias).
+No codifica aislado.Ver F40.
 
-.F41.0 Trastorno de pánico (sin Agorafobia) Requiere: lo mismo que
-F40.01, pero SIN Agorafobia
+.F40.01 Trastorno de pánico con Agorafobia
+Requiere:
 
-.F41.1 Trastorno de ansiedad generalizada Requiere:
+* Crisis de pánico inesperadas recidivantes (al menos 2) seguidas de 1 mes o más de ansiedad anticipatoria o preocupación por las crisis y sus consecuencias o cambio del comportamiento vinculado a las crisis.
+* Presencia de Agorafobia.
+* Descartar sustancias y enfermedad médica.
+* No se explica mejor por otro trastorno mental (excluir sobre todo fobias).
 
-. Ansiedad y preocupación excesivas (expectación aprensiva) sobre una
-amplia gama de acontecimientos o actividades por más de 6 meses. .
-Dificultades para controlar el estado de preocupación. . Asociada a 3 o
-más síntomas de: inquietud / impaciencia; fatigabilidad; dificultades
-para concentrarse; irritabilidad; tensión muscular; alteraciones del
-sueño. . La ansiedad no se limita a ser sintomática a otro trastorno del
-eje I (no vinculado a crisis de pánico, fobia social, trastorno de
-somatización, etc.). . Alteración de pragmatismos. . Descartar
-sustancias, enfermedad médica y trastornos psicóticos.
+.F41.0 Trastorno de pánico (sin Agorafobia)
+Requiere: lo mismo que F40.01, pero SIN Agorafobia
 
-.F43.xx Trastornos adaptativos Requiere:
+.F41.1 Trastorno de ansiedad generalizada
+Requiere:
+* Ansiedad y preocupación excesivas (expectación aprensiva) sobre una amplia gama de acontecimientos o actividades por más de 6 meses.
+* Dificultades para controlar el estado de preocupación.
+* Asociada a 3 o más síntomas de: inquietud / impaciencia; fatigabilidad; dificultades para concentrarse; irritabilidad; tensión muscular; alteraciones del sueño.
+* La ansiedad no se limita a ser sintomática a otro trastorno del eje I (no vinculado a crisis de pánico, fobia social, trastorno de somatización, etc.).
+* Alteración de pragmatismos.
+* Descartar sustancias, enfermedad médica y trastornos psicóticos.
+
+.F43.xx Trastornos adaptativos
+Requiere:
 
 . Aparición de síntomas emocionales o comportamentales en respuesta a un
 estresante identificable (aparece dentro de los 3 meses de sucedido el
@@ -174,7 +144,8 @@ Trastorno por Estrés agudo y Trastorno por Estrés Postraumático.
 
 ===== Nosografía clásica
 
-.Con otras neurosis * Neurosis fóbica: acá la ansiedad-angustia va
+.Con otras neurosis
+* Neurosis fóbica: acá la ansiedad-angustia va
 ligada al objeto o situación fóbica. En la neurosis de angustia no hay
 desencadenante específico, aunque el paciente puede evitar por ansiedad
 anticipatoria los lugares donde puede quedar expuesto en caso de sufrir
@@ -202,9 +173,8 @@ que ningún trastorno médico descarta un trastorno psíquico coexistente.
 
 ===== DSM IV - CIE-10
 
-.Trastorno de personalidad Al poder acumular diagnóstico en cada uno de
-los ejes (pueden coexistir varios trastornos de ansiedad + trastornos
-del estado de ánimo + trastornos de la personalidad), los DD cambian:
+.Trastorno de personalidad
+Al poder acumular diagnóstico en cada uno de los ejes (pueden coexistir varios trastornos de ansiedad + trastornos del estado de ánimo + trastornos de la personalidad), los DD cambian:
 
 .Entre trastornos de ansiedad
 
@@ -381,11 +351,7 @@ psicoterapia.
 
 El tratamiento farmacológico con mejor perfil de eficacia y tolerancia
 es con Benzoadiacepinas, ISRS o antidepresivos tricíclicos. Se prefieren
-los ISRS a los ADT por mejor perfil de seguridad footnote:[Chawla, N.,
-Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P.,
-McKay, G. J., Attia, J., & Thakkinstian, A. (2022). Drug treatment for
-panic disorder with or without agoraphobia: systematic review and
-network meta-analysis of randomised controlled trials. bmj, 376.].
+los ISRS a los ADT por mejor perfil de seguridad footnote:[Chawla, N., Anothaisintawee, T., Charoenrungrueangchai, K., Thaipisuttikul, P., McKay, G. J., Attia, J., & Thakkinstian, A. (2022). Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials. bmj, 376.].
 
 Se puede comenzar con benzodiacepinas + ISRS, retirando en forma
 progresiva las benzodiacepinas una vez que los ISRS comienzan a actuar,

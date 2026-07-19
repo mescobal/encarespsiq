@@ -33,9 +33,9 @@ depth: 2)
 
 #include "F20.typ"
 
-#include "F22.typ"
-
 #include "F22a.typ"
+
+#include "F22b.typ"
 
 #include "F23.typ"
 

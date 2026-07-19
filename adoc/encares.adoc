@@ -97,7 +97,7 @@ include::F98.adoc[]
 
 = Otras situaciones clínicas
 
-// include::R53.adoc[]
+include::R53.adoc[]
 
 include::IAE.adoc[]
 
