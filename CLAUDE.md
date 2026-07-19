@@ -23,6 +23,7 @@ Bibliography: `encares.bib` (BibDesk-managed BibTeX) at the repo root, duplicate
 ```sh
 asciidoctor-pdf adoc/encares.adoc -o adoc/encares.pdf
 ```
+Wrapped by the root `Makefile`: `make` / `make pdf` runs `armarpdf.sh`, `make view` builds then opens `adoc/encares.pdf`, `make clean` removes it.
 
 Two older, DocBook-based paths also exist and produce `encares2.pdf` instead — kept for reference, not what generates the published PDF:
 
