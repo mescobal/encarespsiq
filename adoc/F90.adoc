@@ -32,7 +32,9 @@ Adultos:
 
 Estimulante del SNC. Aprobado por la FDA para el tratamiento del TDAH en niños y adultos. Usos no aprobados por FDA: narcolepsia, tratamiento de la depresión resistente.
 
-Mecanismo: ↑ NA y DA x bloqueo de recaptación. ↑ acción en corteza dorsolateral prefrontal → mejora atención, concentración, funciones ejecutivas y vigilia. El aumento de DA en otras regiones (ganglios basales) puede mejorar la hiperactividad. Por acción en la corteza prefrontal medial y el hipotélamo: mejoría en depresión, fatiga y somnolencia. Inicio de acción: 30’. Máximo beneficio terapéutico: varias semanas. Si es efectivo: tratamiento prolongado a la vida adulta. Si no es efectivo: ajuste de dosis, cambio de presentación o cambio de fármaco. Siempre intentar con monoterapia antes de plantearse terapias combinadas. Combinaciones:
+Mecanismo: ↑ NA y DA x bloqueo de recaptación. ↑ acción en corteza dorsolateral prefrontal → mejora atención, concentración, funciones ejecutivas y vigilia. El aumento de DA en otras regiones (ganglios basales) puede mejorar la hiperactividad. Por acción en la corteza prefrontal medial y el hipotélamo: mejoría en depresión, fatiga y somnolencia. Inicio de acción: 30’. Máximo beneficio terapéutico: varias semanas. Si es efectivo: tratamiento prolongado a la vida adulta. Si no es efectivo: ajuste de dosis, cambio de presentación o cambio de fármaco. Siempre intentar con monoterapia antes de plantearse terapias combinadas. 
+
+Combinaciones:
 
 * Liberación inmediata + liberación prolongada
 * Con Modafinil o Atomoxetina

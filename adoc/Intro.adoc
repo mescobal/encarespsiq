@@ -24,6 +24,8 @@ Junto con la filosofía del Software Libre, viene el concepto de "liberar frecue
 ==== Cambios
 
 Ultimos cambios:
+
+* 08/26: Creo capítulo de Depresión en Trastorno Bipolar. Pautas CANMAT
 * 01/25: actualizo Tricotilomanía.
 * 08/24: actualizo Trastorno del Espectro Autista. Revisión de tratamiento, DSM-5. Agrego sección farmacología con Clonidina, Clozapina.
 * 07/24: actualizo tratamiento con Clozapina a pautas 2015

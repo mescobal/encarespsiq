@@ -1,3 +1,7 @@
+----
+lang: es
+----
+
 == Esquizofrenias
 
 === Notas clínicas
@@ -5,8 +9,9 @@
 ==== Historia
 
 ===== Hebefrenia de Hecker
-Eclosión en la pubertad. Su estado terminal permite calificarlo como "estupidez" hebefrénica. 
+Eclosión en la pubertad. Su estado terminal permite calificarlo como "estupidez" hebefrénica.
 Tendencia a la actividad exagerada y a menudo extravagante, conducta errática y absurda con tendencia al vagabundeo, extravagancias, de carácter cambiante, relato pueril (humoradas bobas, elucubraciones fantásticas pueriles).
+
 Anomalías en la construcción de frases, modo de expresión y lenguaje descendido bastante por debajo del nivel de educación alcanzado previamente. Propensión a desbordes verbales, frases huecas y ampulosas.
 Aparición precoz de "debilitamiento intelectual".
 
@@ -152,23 +157,18 @@ El maníaco depresivo permanece sintónico respecto al ambiente mientras que el 
 La enfermedad no ataca tal o cual función, sino a su cohesión, a su juego armonioso de conjunto : así lo revelan Chaslin (discordancia), Stransky (ataxia intrapsíquica), Kraepelin (pérdida de la unidad interior), Bleuler (esquizofrenia) Metáforas : "máquina sin combustible" (Chaslin) / "libro desprovisto de encuadernación" cuyas páginas están mezcladas y en desorden, pero sin que ninguna falte (Anglade).
 
 ===== El autismo
-No trata de adaptarse a la realidad, por el contrario, está apartado de ésta / opuesto al pensamiento realista que trata de adaptarse a la realidad tratando de alcanzar el máximo de valor pragmático "No busca ni ser comunicado a los demás de una manera comprensible, ni dirigir la conducta conforme a las exigencias de la realidad. Sólo tiene un alcance subjetivo; sirve sólo al individuo y únicamente cuando está apartado de la realidad; así puede hacer uso libremente de signos y de procedimientos especiales, que pueden volverlo más rápido, más cómodo, más apropiado a los caracteres particulares de los complejos que expresa"
+No trata de adaptarse a la realidad, por el contrario, está apartado de ésta / opuesto al pensamiento realista que trata de adaptarse a la realidad tratando de alcanzar el máximo de valor pragmático "No busca ni ser comunicado a los demás de una manera comprensible, ni dirigir la conducta conforme a las exigencias de la realidad. Sólo tiene un alcance subjetivo; sirve sólo al individuo y únicamente cuando está apartado de la realidad; así puede hacer uso libremente de signos y de procedimientos especiales, que pueden volverlo más rápido, más cómodo, más apropiado a los caracteres particulares de los complejos que expresa".
+
+Síntomas (+): alucinaciones / delirio / trast formales del pensamiento (buena respuesta a NL).
+
+Síntomas (-): aplanamiento afectivo / pobreza del discurso / apatía / retraimiento social (respuesta nula o pobre a NL).
+
+Escalas para determinar ambos tipos de síntomas: SANS - SAPS / PANSS.
 
 Crow
 
-Subtipos no son identificados por el cuadro clínico de estado sino por otras medidas clínicas o biológicas como la respuesta al tratamiento o la evidencia de alteraciones estructurales del cerebro
-
-Síntomas (+): alucinaciones / delirio / trast formales del pensam (buena respuesta a NL) 
-
-Síntomas (-): aplanamiento afectivo / pobreza del discurso / apatía / retraimiento social (resp nula o pobre a NL)
-
-Escalas para determinar ambos tipos de sínt : SANS - SAPS / PANSS
-
-Crow : en crónicos : resistencia a los efectos de drogas de tipo anfetamínico / trast cognitivos / aumento del tamaño ventricular en la TAC / marcados sínt negativos 1980 :
-
-(a) sd tipo I : "esquizofrenia aguda" : sínt (+) / alt en transmisión dopaminérgica / potencialmente reversibles / predictores de buena respuesta al tto NL / pueden ser seguidos x el desarrollo de sd tipo II o presentarse combinados
-
-(b) sd tipo II : "estado defectual" : sínt (-) / asoc a trast cognitivos y cambios estructurales del cerebro / por lo gral indican irreversibilidad y mala evolución a largo plazo / pobre resp a NL Andreasen : esquizofrenia (+) / (-) : pobreza del discurso, del afecto y del contenido del pensam, retardo psicomotor y anhedonia / mixta / creó escalas SANS y SAPS
+* Tipo I: "esquizofrenia aguda". Síntomas (+), Alteración en transmisión dopaminérgica. Potencialmente reversibles. Predictores de buena respuesta al tto NL. Pueden ser seguidos x el desarrollo de Tipo II o presentarse combinados.
+* Tipo II: "estado defectual".  Síntomas (-). Asociado atrastornos cognitivos y Cambios estructurales del cerebro. Por lo general indican irreversibilidad y mala evolución a largo plazo. Pobre respuesta a NL.
 
 === Encare
 
@@ -182,10 +182,9 @@ Ambos términos son equivalentes y califican el mismo fenómeno mórbido que con
 
 * Desapego: vuelta del sujeto sobre sí mismo, con abandono  a la ensoñación interior , en la cual afectos e intereses no se vuelcan en la realidad. Ambos síntomas (impenetrabilidad y desapego) evocan la retracción a un mundo autista. A nivel del lenguaje, se produce un desvío de su legítima función, no estando destinado a establecer contacto con el entrevistador. Incapacidad de vibrar con el relato, dificultad en el encuentro. Indiferencia. Grado máximo dedesapego: *atimormia* (desinterés afectivo, apariencia desvitalizada, inercia aparente, interrupción del continuo intercambio entre el mundo y el sujeto).
 
-* Ambivalencia: antagonismo simultáneo y sucesivo de 2 experiencias contradictorias sin que el paciente capte contradicción alguna, objetivable por terceros, lo que configura una ambivalencia psicótica. Ambitendencia: ambivalencia conductual.
-
 * Extravagancia: carácter insólito, bizarro e incomprensible para el observador de conductas, palabras y afectos expresados. Manifestaciones paradójicas y desconcertantes.
 
+* Ambivalencia: antagonismo simultáneo y sucesivo de 2 experiencias contradictorias sin que el paciente capte contradicción alguna, objetivable por terceros, lo que configura una ambivalencia psicótica. Ambitendencia: ambivalencia conductual.
 
 TIP: IDEA: Impenetrabilidad Desapego Extravagancia Ambivalencias
 
@@ -202,6 +201,8 @@ Estupor:: máximo de inhibición psicomotriz. Perdida de la iniciativa motriz so
 Manierismos:: tonalidad de afectación teatral, pateticismo: paramimias, risas inmotivadas.
 Impulsiones:: actos incoercibles que escapan al control del paciente: hetero o autoagresivos,defenestración, fugas, verbales. Son imnotivados, incompartibles.
 Estereotipias:: conductas caracterizadas por la iteración: de movimientos, de actitudes, lenguaje (verbigeración), de conductas.
+
+TIP: CINE MIE: Catalepsia inercia Negativismo Estupor Manierismos Impulsiones Estereotipias
 
 ===== Síndrome delirante o síndrome de alteración del pensamiento
 
@@ -235,7 +236,8 @@ Pérdida del sentido de familiaridad de la persona consigo misma y con el entorn
 
 * Alteración del esquema corporal: alucinaciones somatognósticas, ilusión de desplazamiento o distorsión, metamorfosis segmentarias, miembros fantasmas.
 * Desrealización: cambio de ambiente, falta de familiaridad con el ambiente.
-* Desanimación: sentimiento de vacuidad, sin vida. * Tendencia al autoanálisis (signo del espejo).
+* Desanimación: sentimiento de vacuidad, sin vida. 
+* Tendencia al autoanálisis (signo del espejo).
 
 ===== Síndrome del humor y la afectividad
 
@@ -414,25 +416,15 @@ nutrición.
 
 .Biológico
 
-* (NOTA) según situación clínica valorar inicio c/ APS típicos o
-atípicos
+Según situación clínica, si permite VO,  valorar inicio c/ APS típicos o atípicos
 
 Haloperidol: neuroléptico incisivo, antidelirante, 5 mg i/m c/12 hs (H
 8:00 y H 20:00). Estaremos alertas a la aparición de efectos secundarios
 extrapiramidales (rigidez, rueda dentada, bradiquinesia, temblores). Si
 aparecen, concentraremos las dosis en la noche ya que durante el sueño
-éstos no se producen. Si con esta medida no podemos controlar-los,
+éstos no se producen. Si con esta medida no podemos controlar-los, agregaremos antiparkinsonianos de síntesis tales como el Biperideno 2 mg v/o H 8:00 y H 14:00. Lo agregaremos de entrada si existen AP de parkinsonismo o efectos secundarios o AF de enfermedad de Parkinson.
 
-agregaremos antiparkinsonianos de síntesis tales como el Biperideno 2 mg
-
-v/o H 8:00 y H 14:00. Lo agregaremos de entrada si existen AP de
-parkinsonismo o efectos secundarios o AF de enfermedad de Parkinson.
-
-En caso de tratarse de un hombre joven < 35 años, hay > riesgo de
-distonía aguda: actitud expectante. Si aparece: 5 mg i/m de Biperideno,
-con lo que calma inmediatamente, manteniéndolo cada 8 horas x 24-48
-horas y luego pasaremos a v/o al tiempo que ® el Haloperidol a dosis
-mínima eficaz.
+En caso de tratarse de un hombre joven < 35 años, hay > riesgo de distonía aguda: actitud expectante. Si aparece: 5 mg i/m de Biperideno, con lo que calma inmediatamente, manteniéndolo cada 8 horas x 24-48 horas y luego pasaremos a v/o al tiempo que ® el Haloperidol a dosis mínima eficaz.
 
 Sedación con (preferible BZD)
 

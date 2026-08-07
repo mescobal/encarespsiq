@@ -2,7 +2,7 @@
 
 === Notas clínicas
 
-Una buena revisión clínica del trastorno es la realizada por Manschreck footnote:[Manschreck, T. C., & Khan, N. L. (2006). Recent advances in the treatment of delusional disorder. The Canadian Journal of Psychiatry, 51(2), 114-119. ISO 690].
+Una buena revisión clínica del trastorno es la realizada por Manschreck footnote:[Manschreck, T. C., & Khan, N. L. (2006). Recent advances in the treatment of delusional disorder. The Canadian Journal of Psychiatry, 51(2), 114-119.].
 
 ==== Delirio sensitivo de relación (Kretschmer)
 
@@ -65,12 +65,14 @@ Psicosis: por hallarse el paciente sumido en un mundo propio, incompartible, con
 
 Psicosis crónica: por tratarse de un trastorno mental perdurable en el tiempo de X años de evolución, que ha modificado el sistema de la personalidad, llevando a una transformación delirante del yo y su mundo, constituyéndose el paciente en un ser delirante y que se manifiesta como un modo de ser y no de estar en el mundo, siendo el delirio un sistema de creencias inamovibles, con las cuales convive y en el cual existe un trabajo delirante.
 
-Psicosis paranoica:
+Psicosis paranoica
+
 * Edad adulta (mitad de la vida)
 * predisposición caracteriológica de la personalidad premórbida
 * pero s/t por la sistematización y estructura paranoica del delirio ya analizado, con ideas seudológicas que defiende con calor afectivo.
 
 Tipo
+
 * Reivindicativo: ya que está basado en la apreciación delirante de que ha sufrido un perjuicio que lo conduce a plantear quejas o denunciar hechos. Delirio caracterizado por la exaltación (hipertimia, exhuberancia, hiperestesia) con el cual el paciente expone sus convicciones delirantes inamovibles, con la existencia de una idea persecutoria prevalente que subordina toda la actividad psíquica a sus fines, razones para catalogar a éste delirio como de elevado potencial agresivo ya que se trata de perseguidos perseguidores que pueden caer en conductas agresivas de implicancias ML, procurando tomar represalias ante sus perseguidores imaginarios.
 ** Querellantes: reivindica un derecho.
 ** Inventores: revindican un mérito.
@@ -91,10 +93,10 @@ un grupo (delirio de relación). Tendencia a reacciones depresivas. Delirio de r
 Descompensado
 
 Por:
+
 * síndrome depresivo
 * Aumento de producción delirante (con o sin cambio cualitativo)
-* síndrome conductual que ha llevado en los últimos
-tiempos a una alteración de las conductas basales y pragmatismos (ejemplos).
+* síndrome conductual que ha llevado en los últimos tiempos a una alteración de las conductas basales y pragmatismos (ejemplos).
 
 Causa de descompensación
 
@@ -102,9 +104,12 @@ Causa de descompensación
 * Psicosocial: amenaza a su: intimidad, moralidad rígida, problemática homosexual inconsciente, herida narcisista.
 
 EN SUMA: Delirio crónico paranoico de tipo:
+
 * Reivindicativo = inventor, querellante, apasionado idealista
 * Pasional = celotípico, erotomaníaco.
-* Sensitivo de relación Actualmente descompensado por X.
+* Sensitivo de relación 
+
+Actualmente descompensado por X.
 
 ===== CIE-10 - DSM-IV
 
@@ -118,7 +123,7 @@ E. Descartar sustancias o enfermedad médica.
 Especificadores: TIPO: según tema predominante
 
 * Erotomaníaco: idea delirante de que otra persona (generalmente de status superior) está enamorada del sujeto.
-* De grandiosidad: ideas delirantes de exagerado valor, poder, conocimiento, identidad o ralación especial con una divinidad o persona famosa.
+* De grandiosidad: ideas delirantes de exagerado valor, poder, conocimiento, identidad o relación especial con una divinidad o persona famosa.
 * Celotípico: ideas delirantes de que la pareja es infiel.
 * Persecutorio: ideas delirantes de que la persona (o alguien próximo) está siendo perjudicada de alguna forma.
 * Somático: idea delirante de tener algún defecto físico o enfermedad médica.
@@ -170,9 +175,8 @@ El diagnóstico es clínico.
 
 ===== Biológico
 
-1. Lo que tenga
-2. Valoración general
-3. Con vistas al tratamiento (ECT de 2° elección únicamente)
+. Valoración general
+. Con vistas al tratamiento (ECT de 2° elección únicamente)
 
 ===== Psicológico
 
@@ -206,7 +210,9 @@ a) Requiere medicación i/m Haloperidol: NL incisivo con acción sobre el deliri
 
 b) Vía oral: se prefiere ya que no perjudica el vínculo. Antipsicótico: preferentemente un atípico: Risperidona: por tener menos efectos secundarios. !Ver pauta de inicio de Risperidona. Sedaremos con Benzodiacepinas: Lorazepam. Diazepam o Clonazepam a regular según evolución. Trataremos el insomnio con Flunitrazepam 2 mg v/o H20 a regular según la evolución.
 
-NOTA: Conducta en caso de paranoico de tipo sensitivo deprimido: abstenerse de antidepresivos en lo posible ya que la depresión es secundaria al delirio. Si en 10-15 días no obtenemos mejoría ostensible con mantenimiento importante de falta de contacto con la realidad, indicaremos ECT a realizar por psiquiatra y anestesista, cada día por medio, con oxigenoterapia y monitoreo EEG y ECG, con barbitúricos de acción corta y curarizantes como la succinilcolina. La cantidad de sesiones la regularemos según la evolución, pero pensamos que serán necesarias entre 8-12 sesiones para lograr el efecto deseado. Vigilaremos al paciente luego de cada sesión sabiendo que pueden presentarse trastornos mnésicos transitorios y cefaleas.
+NOTE: Conducta en caso de paranoico de tipo sensitivo deprimido: abstenerse de antidepresivos en lo posible ya que la depresión es secundaria al delirio. 
+
+Si en 10-15 días no obtenemos mejoría ostensible con mantenimiento importante de falta de contacto con la realidad, indicaremos ECT a realizar por psiquiatra y anestesista, cada día por medio, con oxigenoterapia y monitoreo EEG y ECG, con barbitúricos de acción corta y curarizantes como la succinilcolina. La cantidad de sesiones la regularemos según la evolución, pero pensamos que serán necesarias entre 8-12 sesiones para lograr el efecto deseado. Vigilaremos al paciente luego de cada sesión sabiendo que pueden presentarse trastornos mnésicos transitorios y cefaleas.
 
 Alta
 
@@ -219,6 +225,7 @@ El objetivo no es eliminar el delirio sino favorecer la adaptación social, que 
 .Biológico
 
 Mantendremos en un principio la medicación a la misma dosis con que se obtuvo mejoría. Se trata de una enfermedad con bajo perfil de cumplimiento (a/v puede existir AP de abandono de la medicación) por lo que si bien preferimos la v/o que nos permite un mejor manejo de la dosis, recurriremos previo al alta a NLD como:
+
 * Palmitato de Pipotiazina 25-50 mg i/m que repetiremos c/21 días
 * Decanoato de Haloperidol 100-200 mg i/m a repetir una vez al mes.
 

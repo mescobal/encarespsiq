@@ -32,7 +32,7 @@ Presentación: sudoración, olor podálico (Clérembault), agitado, delirio PAFA
 Delirio onírico: Lasègue "Le délire alcoolique est un rêve", Garnier, Magnan. Vivenciado, actuado, onirismo profesional (temática laboral). Zoopsias (como imágenes oníricas, ratas, serpientes, arañas, sapos). Escenas de terror (es atacado), visiones macabras, incendios. Raramente temas eróticos o de celos. Predominio de alucinaciones visuales (como en el sueño). Pueden haber alucinaciones auditivas (amenazantes, peyorativas), olfativas (gas, azufre), gustativas (veneno), alucinaciones de la sensibilidad general (pinchazos, viscosidad, gusanos). Características:
 
 * Vivido
-* Móvil,cambiante
+* Móvil, cambiante
 * Cargado de ansiedad, carácter penoso, peligro inminente
 * Contexto de confusión mental: DOTE, distraibilidad.
 * Sin trazas mnésicas excepto las ideas fijas postoníricas.
@@ -60,22 +60,18 @@ Anatomía patológica: encefalitis psicótica aguda. Meningitis crónica alcohó
 
 Patogenia: DT → autointoxicación por disminución de capacidad funcional del hígado. DT: cada vez menos frecuentes por tratamiento precoz.
 
-.Formas delirantes del alcoholismo crónico 
+.Formas delirantes del alcoholismo crónico
 . Secuelas postoníricas: Regis describe 3 tiempos del despertar de los estados oníricos: ausencia de crítica → dudas → rectificación. Cuando persiste la idea → idea fija postonírica (explica el delirio con detalle). Pueden haber IFPO permanentes.
-. Estados de alucinosis alcohólica: psicosis alucinatoria o síndrome de automatismo mental subagudo con predominio de actividad alucinatoria (más auditivo que visual) sin desestructuración de la conciencia. BOTE, sin obnubilación, sin trastorno de memoria. Alucinosis de los bebedores (Wernicke). Inicio: ilusiones, s/t en la noche (ruidos, conversaciones) y rápidamente aparecen alucinaciones acusticoverbales con carácter de sensorialidad más acentuado. Contenido hostil (insultos, amenazas, oye hablar de él en tercera persona). Poco frecuente alucinaciones visuales (más ilusiones, formas amenazantes, sombras).
-Experiencia delirante (imaginación alucinatoria). Es una forma de
-delirio vivido solamente en los datos perceptivos. Evolución favorable
-en pocos días. Si se cronifica → F20 desencadenado por EPA OH. 
-. Delirios alcohólicos crónicos: 
-.. Delirios de interpretación: psicosis sistematizadas. Celotipia alcohólica. Personalidad neurótica
-predelirante, trastorno "procesual" de la personalidad (Jaspers). Puede estar precedido de una fase onírica. Aumenta el número de amantes a medida que progresa el delirio. Mezcla de temas hipocondríacos, homosexuales, incestuosos latentes. 
-.. Delirios alucinatorios: paranoia alucinatoria de los bebedores (Kraepelin). Pueden estar precedida de una alucinosis. Actividad alucinatoria y seudoalucinatoria muy viva. Esfera acusticoverbal o visual. Diálogos, susurros, comentario de actos, fotopsias. Poco ansiosa, alegría paradojal, intenta apartarse de las alucinaciones con distracción. Fabulación. Fantasía. Evolución a la indiferencia → demencia. 
+. Estados de alucinosis alcohólica: psicosis alucinatoria o síndrome de automatismo mental subagudo con predominio de actividad alucinatoria (más auditivo que visual) sin desestructuración de la conciencia. BOTE, sin obnubilación, sin trastorno de memoria. Alucinosis de los bebedores (Wernicke). Inicio: ilusiones, s/t en la noche (ruidos, conversaciones) y rápidamente aparecen alucinaciones acusticoverbales con carácter de sensorialidad más acentuado. Contenido hostil (insultos, amenazas, oye hablar de él en tercera persona). Poco frecuente alucinaciones visuales (más ilusiones, formas amenazantes, sombras). Experiencia delirante (imaginación alucinatoria). Es una forma de delirio vivido solamente en los datos perceptivos. Evolución favorable en pocos días. Si se cronifica → F20 desencadenado por EPA OH.
+. Delirios alcohólicos crónicos:
+.. Delirios de interpretación: psicosis sistematizadas. Celotipia alcohólica. Personalidad neurótica predelirante, trastorno "procesual" de la personalidad (Jaspers). Puede estar precedido de una fase onírica. Aumenta el número de amantes a medida que progresa el delirio. Mezcla de temas hipocondríacos, homosexuales, incestuosos latentes.
+.. Delirios alucinatorios: paranoia alucinatoria de los bebedores (Kraepelin). Pueden estar precedida de una alucinosis. Actividad alucinatoria y seudoalucinatoria muy viva. Esfera acusticoverbal o visual. Diálogos, susurros, comentario de actos, fotopsias. Poco ansiosa, alegría paradojal, intenta apartarse de las alucinaciones con distracción. Fabulación. Fantasía. Evolución a la indiferencia → demencia.
 .. Delirios paranoides: evolución de tipo esquizofrénico → rediagnóstico.
 
-.Síndromes anatomoclínicos de las encefalopatías alcohólicas 
-. Psicosis polineurítica alcohólica de Korsakoff. Más frecuente en mujer. Precedido de uno o más accesos subagudos. Cambios de humor, depresión o apatía y cefaleas. Trastornos de memoria, amnesia de fijación, fabulación. Lesiones de cuerpos mamilares. Signos de polineuritis (dolores, paresteisas o abolición de ROT, atrofia muscualr, steppage). En agudo: encefalomielitis alcohólica aguda (confusión mental, onirismo, paraplejia fláccida, repercusión general, insomnio, deshidratación, incontinencia). Evolución fatal. Forma crónica: trastorno de memoria → clínica de cuadro demencial progresivo. 
-. Encefalopatía de Gayet-Wernicke: comienzo progresivo. Ansiedad, irritación, insomnio, indiferencia, inactividad, cefaleas, vértigos. Período de estado: torpor y somnolencia intercalado con agitación, delirio y alucinaciones. Patognomónico: trastorno oculares (parálisis de los movimientos de los globos, descenso de la agudeza visual, fotofobia, nistagmo, contractura de tipo meningítico). Evolución en 10-15 días al coma y muerte. Remite con tratamiento. 
-. Encefalopatía alcohólica portocava: F10 + cirrosis + trastornos de conciencia, trastornos del humor (apatía, irritabilidad, despreocupación pueril) + flapping tremor (batimiento de alas con flexión y extensión de los dedos), cierta hipotonía muscuilar. Duración breve, coma reversible. Hiperamoniemia (aumento de producción, disminución de la eliminación por insuficiencia hepática) → interrupción del ciclo de Krebs.
+.Síndromes anatomoclínicos de las encefalopatías alcohólicas
+. Psicosis polineurítica alcohólica de Korsakoff. Más frecuente en mujer. Precedido de uno o más accesos subagudos. Cambios de humor, depresión o apatía y cefaleas. Trastornos de memoria, amnesia de fijación, fabulación. Lesiones de cuerpos mamilares. Signos de polineuritis (dolores, parestesias o abolición de ROT, atrofia muscular, steppage). En agudo: encefalomielitis alcohólica aguda (confusión mental, onirismo, paraplejia fláccida, repercusión general, insomnio, deshidratación, incontinencia). Evolución fatal. Forma crónica: trastorno de memoria → clínica de cuadro demencial progresivo.
+. Encefalopatía de Gayet-Wernicke: comienzo progresivo. Ansiedad, irritación, insomnio, indiferencia, inactividad, cefaleas, vértigos. Período de estado: torpor y somnolencia intercalado con agitación, delirio y alucinaciones. Patognomónico: trastorno oculares (parálisis de los movimientos de los globos, descenso de la agudeza visual, fotofobia, nistagmo, contractura de tipo meningítico). Evolución en 10-15 días al coma y muerte. Remite con tratamiento.
+. Encefalopatía alcohólica portocava: F10 + cirrosis + trastornos de conciencia, trastornos del humor (apatía, irritabilidad, despreocupación pueril) + flapping tremor (batimiento de alas con flexión y extensión de los dedos), cierta hipotonía muscular. Duración breve, coma reversible. Hiperamoniemia (aumento de producción, disminución de la eliminación por insuficiencia hepática) → interrupción del ciclo de Krebs.
 
 .Demencias alcohólicas
 Predominio de apatía y degradación social. "Demencia ética". Puede haber regresión luego de tratamiento prolongado. Puede tomar forma de seudoparálisis general alcohólica (si se acompaña de temblor, disartria, anisocoria, indiferencia).
@@ -88,14 +84,14 @@ Va a depender del trastorno
 
 A= Agudo, C= Crónico, R= Recurrente
 
-[cols="^,^,^,^,^,^,^",]
+[cols="^,^,^,^,^,^,^"]
 |===
 |Diagnóstico |Conductual |Confusional |Abst |Delirante |Alt.Percep.
 |Def.Int.
 
 |Intoxicación |A+C | | | | |
 
-|Delirium |A+C |A |A |A | |
+|Delirium |A+C |A |A |A |A |
 
 |Abuso |C | | | | |
 
@@ -116,14 +112,14 @@ De instalación brusca, de X tiempo de evolución, con síntomas fluctuantes.
 
 ====== Síndrome confusional
 
-Donde destacamos las fluctuaciones en la sintomatología que pasamos a detallar dada por trastornos en (COMA): 
+Donde destacamos las fluctuaciones en la sintomatología que pasamos a detallar dada por trastornos en (COMA):
 
 * Conciencia: no presentifica (siendo incapaz de organizar el aquí y ahora), embotamiento, obnubilación, que muestra falta de lucidez y claridad del campo de la conciencia, con imposibilidad para efectuar una síntesis adecuada de los contenidos psíquicos, los cuales se confunden y aglutinan. A partir de este trastorno fundamental derivan los otros elementos del síndrome.
 * Orientación: desorientación TE con autopsíquica generalmente conservada.
-* Memoria: falsos reconocimientos, alteraciones en la memoria de fijación, evocación laboriosa, fabulación. 
+* Memoria: falsos reconocimientos, alteraciones en la memoria de fijación, evocación laboriosa, fabulación.
 * Atención: deficiente tanto en su modalidad voluntaria como espontánea. El paciente en un esfuerzo por poner en orden su síntesis mental alterada hace intentos por salir del embotamiento y orientarse lo que se manifiesta por una perplejidad ansiosa.
 
-Esta confusión se acompaña de trastornos perceptivos típicos que configuran un delirio de características peculiares que pasamos a analizar. Predisponen a confusión: edad avanzada, lesión SNC (demencia, etc.), abstinencia de sustancia, que-maduras, cirugía, etc.
+Esta confusión se acompaña de trastornos perceptivos típicos que configuran un delirio de características peculiares que pasamos a analizar. Predisponen a confusión: edad avanzada, lesión SNC (demencia, etc.), abstinencia de sustancia, quemaduras, cirugía, etc.
 
 ====== Síndrome onírico
 
@@ -137,8 +133,10 @@ Definimos este delirio como onírico por las siguientes características:
 . Fluctuante: se presenta en oleadas tomando el pensamiento del paciente en sacabocados, por momentos el paciente recobra su lucidez
 . Exacerbación nocturna con de agitación y ansiedad fases hipnagógicas ansiosas y atormentadoras.
 
-.Fenómenos acompañantes Excitación psicomotriz. Humor y afectividad.
-Lenguaje caótico, desordenado.
+.Fenómenos acompañantes
+* Excitación psicomotriz.
+* Humor y afectividad.
+* Lenguaje caótico, desordenado.
 
 ====== Síndrome de abstinencia
 
@@ -155,8 +153,7 @@ Sudoración, PNM (temblor), CV (central y periférico), toxiinfeccioso (fiebre, 
 
 Nivel: Cualquiera.
 
-Personalidad: dependiente, paranoico. Dificultad en evaluación de rasgos
-por el alcoholismo.
+Personalidad: dependiente, paranoico. Dificultad en evaluación de rasgos por el alcoholismo.
 
 ==== Diagnóstico positivo
 
@@ -181,28 +178,27 @@ Corresponde a un alcoholismo: Tipo Jellineck / Alonso-Fernández
 
 * Alfa Sintomático, secundario a otro trastorno psiquiátrico
 * Beta Sin síndrome de abstinencia, sin tolerancia pero con repercusión orgánica extra cerebral
-* Gamma Tolerancia, dependencia, abstinencia, falta de control, impulso a la embriaguez. Bebedor
-irregular, acoholómano.
+* Gamma Tolerancia, dependencia, abstinencia, falta de control, impulso a la embriaguez. Bebedor irregular, alcoholómano.
 * Delta Tolerancia, dependencia, abstinencia, incapacidad de abstención, no existe pérdida de control. Bebedor excesivo regular
 
 Con estos elementos hacemos diagnóstico de DELIRIO ALCOHÓLICO SUBAGUDO por tratarse de un alcoholista crónico con modificaciones en la ingesta (aumento, suspensión brusca, mantenimiento) y por el Sº confusoonírico analizado, donde se destaca la presencia de temblores, sudoración y zoopsias (típicas alteraciones del onirismo alcohólico). Destacamos la existencia de factores de comorbilidad tales como:
 
-* adolescentes: intoxicación aguda, abstinencia de drogas, TEC, postQ. 
+* adolescentes: intoxicación aguda, abstinencia de drogas, TEC, postQ.
 * adulto: cuadros MQ, intoxicación alcohólica/abstinencia, psicofármacos.
 * anciano: adulto + estresores previamente bien tolerados (postQ, EPOC, arritmia), enfermedad cerebrovascular (lo + frecuente).
 
 ===== DSM IV
 
-Eje I. Caben varias posibilidades de codificación según la semiología presente: ver notas al inicio. Ejemplos: 
-. Delirium por intoxicación por alcohol (DASA). 
-. Delirium por abstinencia de alcohol (Del Alc Subag). 
-. Trastorno psicótico inducido por alcohol, con ideas delirantes. 
-. Trastorno psicótico inducido por alcohol, con alucinaciones. 
+Eje I. Caben varias posibilidades de codificación según la semiología presente: ver notas al inicio. Ejemplos:
+. Delirium por intoxicación por alcohol (DASA).
+. Delirium por abstinencia de alcohol (Del Alc Subag).
+. Trastorno psicótico inducido por alcohol, con ideas delirantes.
+. Trastorno psicótico inducido por alcohol, con alucinaciones.
 . Trastorno psicótico inducido por alcohol: con alucinaciones / con ideas delirantes.
 
 ==== Diagnósticos diferenciales
 
-* DELIRIUM TREMENS: no pensamos ya que en este cuadro confusional agudo existe: > gravedad con deshidratación, alteraciones HE, alteraciones NV con temperatura de 40º, taquicardia, sudoración, PA. • temblor importante • agitación intensa y agotadora • insomnio casi total 
+* DELIRIUM TREMENS: no pensamos ya que en este cuadro confusional agudo existe: > gravedad con deshidratación, alteraciones HE, alteraciones NV con temperatura de 40º, taquicardia, sudoración, PA. • temblor importante • agitación intensa y agotadora • insomnio casi total
 * Otras causas de confusión mental: no pensamos: enfermedades médicas, otras sustancias.
 * Encefalopatía por derivación porto-cava: se trata de una descompensación de una hepatopatía crónica por hiperamoniemia, que se presenta como un trastorno de conciencia que por lo general agrega ictericia, ante un estrés físico grave (ej.: hemorragia digestiva).
 * Encefalopatía de Wernicke: en la cual se presenta confusión grave pero que agrega síntomas neurológicos: nistagmo, oftalmoplejia del III par, ataxia.
@@ -266,19 +262,25 @@ Examenes complementarios:
 
 De suma importancia para detección de comorbilidad (infeccioso, neurológico, medio interno) y para valoración del alcoholismo.
 
+icon::vial[] Rutinas
+
 * hemograma completo: anemia carencial por déficit nutricional, leucocitosis y VES [infecciones: hay aumento de susceptibilidad]).
+* Funcional y enzimograma hepático.
+* Glicemia, función renal
+
+Otros:
+
 * ionograma: ver Zn y Mg (cofactores de vitamina B).
 * crasis sanguínea: s/t tiempo de protrombina que disminuye al disminuir la capacidad funcional del hígado.
-* Funcional y enzimograma hepático.
 * PEF: hipoalbuminemia
-* Glicemia, azo, crea, orina * RxTx (neumopatía por aspiración)
+* RxTx (neumopatía por aspiración)
 * TAC: hematoma subdural crónico, atrofia cortical (se desconoce su relación con OH).
 
 Exámenes complementarios para detección de consumo:
 
 * Alcoholemia: valores > 50 mg/100ml sugiere consumo de riesgo. Valores > 150 mg/100 ml sugieren existencia de tolerancia (y por lo tanto de dependencia).
 * GGT (alta especificidad pero baja sensibilidad), dado que la ingestión aguda no modifica sus valores, es un indicador de consumo perjudicial habitual (consumo > a 40 g/día en ausencia de hepatopatía). Cifras de GGT de Nx3 se consideran valores muy sugestivos de consumo perjudicial. Para monitorizar la abstinencia: las cifras disminuyen a un 50% en 5-7 días y se normalizan a las 4-8 semanas del cese de la ingesta (vuelven a aumentar si se reanuda el consumo). Pueden haber valores elevados en hepatopatías no alcohólicas o x fármacos.
-* Volumen corpuscular medio (alta especificidad, baja sensibilidad): aumentado en el 70% de pacientes alcohólicos, con consumos superiores a 60 g/día x períodos prolongados. Luego de la suspensión de la ingesta, disminuye a los 90 días aproximadamente. Aumenta nuevamente en caso de que se reinicie la ingesta. 
+* Volumen corpuscular medio (alta especificidad, baja sensibilidad): aumentado en el 70% de pacientes alcohólicos, con consumos superiores a 60 g/día x períodos prolongados. Luego de la suspensión de la ingesta, disminuye a los 90 días aproximadamente. Aumenta nuevamente en caso de que se reinicie la ingesta.
 * Otros: relación AST/ALT, Transferrina deficiente en hidratos de carbono.
 
 ===== Psicológico
@@ -311,7 +313,7 @@ Depende del diagnóstico
 
 Fármacos específicos
 
-Topiramato: es una molécula similar a la fructosa, con propiedades anticonvulsivantes, aumenta la actividad neuronal facilitada por GABA-A y simultáneamente antagoniza los receptores AMPA y kainato-glutamato lo que puede disminuir la liberación de dopamina inducida por alcohol en el núcleo accumbens. Teóricamente el aumento de la inhibición GABA de las neuronas dopaminérgicas del núcleo accumbens interferiría con el agonismo exitatorio glutamatérgico característico del alcoholismo crónico y atenuaría la actividad dopaminérgica mesolímbica. Esto atenuaría los efectos de recompensa de la ingesta de alcohol. Secundariamente tendría acción neuroprotectora sobre el aumentode la actividad glutamatérgica ocasionada por la ingesta crónica de alcohol. Por su acción anticonvulsivante, se comporta secundariamente como protector del umbral convulsivo en un proceso de abstinencia.
+Topiramato: es una molécula similar a la fructosa, con propiedades anticonvulsivantes, aumenta la actividad neuronal facilitada por GABA-A y simultáneamente antagoniza los receptores AMPA y kainato-glutamato lo que puede disminuir la liberación de dopamina inducida por alcohol en el núcleo accumbens. Teóricamente el aumento de la inhibición GABA de las neuronas dopaminérgicas del núcleo accumbens interferiría con el agonismo exitatorio glutamatérgico característico del alcoholismo crónico y atenuaría la actividad dopaminérgica mesolímbica. Esto atenuaría los efectos de recompensa de la ingesta de alcohol. Secundariamente tendría acción neuroprotectora sobre el aumento de la actividad glutamatérgica ocasionada por la ingesta crónica de alcohol. Por su acción anticonvulsivante, se comporta secundariamente como protector del umbral convulsivo en un proceso de abstinencia.
 
 En todos los casos: mantener abstinencia alcohólica + intervenciones psicosociales + vitaminoterapia v/o.
 
@@ -326,13 +328,13 @@ Directivas:
 . corregir agente causal
 . corrección de factores intercurrentes, funciones vitales, psiquiátrico sintomático
 
-Mantener la internación con controles diarios, monitoreo de síntomas. Equipo multidisciplinario. Medidas de sostén: control de signos vitales mantener abstinencia nutrición, reposo iluminación medidas de orientación de realidad (reloj, calendario, iluminación, acompañante a permanencia). En caso de riesgo de existencia de agitación marcada, intentos de quitarse la vía que instalaremos, au-to/heteroagresividad, fugas, instauraremos medidas de contención a cargo de personal entrenado (según normas del MSP).
+Mantener la internación con controles diarios, monitoreo de síntomas. Equipo multidisciplinario. Medidas de sostén: control de signos vitales mantener abstinencia nutrición, reposo iluminación medidas de orientación de realidad (reloj, calendario, iluminación, acompañante a permanencia). En caso de riesgo de existencia de agitación marcada, intentos de quitarse la vía que instalaremos, auto/heteroagresividad, fugas, instauraremos medidas de contención a cargo de personal entrenado (según normas del MSP).
 
 Medidas específicas
 
 Bajar la fiebre (si hay): Dipirona, medidas físicas.
 
-Hidratación, abundantes líquidos v/o. Si hay deshidratación (fiebre, diaforesis, vómitos, diarreas, san-grados, pliegue perezoso, agitación) VVP + 1000 cc SGF c/8 hs (o hidratación rápida con 1 l en 2 hs., 1 l en 6 hs y 1 l hasta completar las 24 horas.) Previamente administraremos Tiamina ya que la glucosa aumenta los requerimientos de ésta en el SNC, pudiendo precipitar una encefalopatía de Wernicke.
+Hidratación, abundantes líquidos v/o. Si hay deshidratación (fiebre, diaforesis, vómitos, diarreas, sangrados, pliegue perezoso, agitación) VVP + 1000 cc SGF c/8 hs (o hidratación rápida con 1 l en 2 hs., 1 l en 6 hs y 1 l hasta completar las 24 horas.) Previamente administraremos Tiamina ya que la glucosa aumenta los requerimientos de ésta en el SNC, pudiendo precipitar una encefalopatía de Wernicke.
 
 Sedación: fundamental para: tratar la agitación, prevenir la progresión a DT, alivio sintomático, facilitar tratamiento. El fármaco a usar dependerá de si aparece durante la intoxicación o en abstinencia.
 
@@ -368,7 +370,7 @@ En cuanto el cuadro agudo se estabilice pasaremos la medicación a vía oral.
 
 Naltrexona: antagonista opiáceo que actúa por bloqueo del sistema opioide endógeno (delta y mu) reduciendo la apetencia por el alcohol. Previo a eso nos aseguraremos que el paciente tiene voluntad de continuar el tratamiento, descartaremos consumo de opioides en los 10 días previos y descartaremos la existencia de insuficiencia renal o hepática así como de hepatitis en curso y embarazo. El funcional hepático debe tener valores menores a los normales x 3, con bilirrubina a niveles normales. La dosis inicial es igual a la de mantenimiento, de 50 mg/día en una sola toma. De aparecer efectos secundarios (náuseas, mialgias, insomnio, dolores osteoarticulares) se puede bajar la dosis a 25 mg/día. El tratamiento debe prolongarse por 12 semanas, con controles con examen físico, funcional y enzimograma hepático (semanas 2, 4, 8 y 12).
 
-En caso de haber síntomas depresivos, valoraremos el uso de antidepresivos de tipo ISRS a dosis están-dar (Paroxetina y Fluvoxamina > Sertralina y Citalopram > Fluoxetina). Si bien la frecuencia de síntomas depresivos durante la abstinencia es alta, la gran mayoría remiten en forma espontánea, no requiriendo AD. Los antidepresivos pueden ser de utilidad para mantener la abstinencia, lo que aún no está totalmente demostrado.
+En caso de haber síntomas depresivos, valoraremos el uso de antidepresivos de tipo ISRS a dosis estándar (Paroxetina y Fluvoxamina > Sertralina y Citalopram > Fluoxetina). Si bien la frecuencia de síntomas depresivos durante la abstinencia es alta, la gran mayoría remiten en forma espontánea, no requiriendo AD. Los antidepresivos pueden ser de utilidad para mantener la abstinencia, lo que aún no está totalmente demostrado.
 
 En caso de Celotipia alcohólica, los antipsicóticos deben usarse de forma prolongada dada la cronicidad del proceso.
 
@@ -398,17 +400,17 @@ Inmediato DAS: evolución favorable hacia la curación en pocos días, favorecid
 
 Depende del éxito del tratamiento etiológico y sujeto a la reversibilidad de éste. Tiende a la curación sin secuelas. Puede ocurrir una fase de "despertar" luego de oscilaciones con ideas fijas postoníricas que desaparecen en días Pueden quedar ideas permanentes postoníricas (delirio de evocación de la experiencia confuso-onírica).
 
-Pueden ocurrir recaídas provocadas por factores etiológicos concurrentes (infecciones, emociones, par-tos) Alejado Depende del alcoholismo, enfermedad crónica con frecuentes recaídas. El pronóstico depende de la abstinencia. De no lograrse las complicaciones pueden ser:
+Pueden ocurrir recaídas provocadas por factores etiológicos concurrentes (infecciones, emociones, partos) Alejado Depende del alcoholismo, enfermedad crónica con frecuentes recaídas. El pronóstico depende de la abstinencia. De no lograrse las complicaciones pueden ser:
 
-. Orgánicas: 
-.. digestivas: hemorragias, esofagitis, gastritis, cirrosis, ulcus, pancreatitis 
-.. hematológicas: anemia 
-.. neurológicas: polineuritis, traumatismos, degeneración cerebelosa, miopatía 
-.. CV: HTA, miocardiopatía dilatada 
-. Psiquiátricos: 
-.. intoxicación aguda y sus complicaciones (accidentes, homicidios, suicidios) 
-.. abstinencia 
-.. déficit de tiamina Wernicke, Korsakoff 
-.. alucinosis 
-.. intoxicación crónica: Korsakoff, demencia, psicosis alcohólica. 
+. Orgánicas:
+.. digestivas: hemorragias, esofagitis, gastritis, cirrosis, ulcus, pancreatitis
+.. hematológicas: anemia
+.. neurológicas: polineuritis, traumatismos, degeneración cerebelosa, miopatía
+.. CV: HTA, miocardiopatía dilatada
+. Psiquiátricos:
+.. intoxicación aguda y sus complicaciones (accidentes, homicidios, suicidios)
+.. abstinencia
+.. déficit de tiamina Wernicke, Korsakoff
+.. alucinosis
+.. intoxicación crónica: Korsakoff, demencia, psicosis alcohólica.
 . Sociales: deterioro FA SE SO LA Estado de vulnerabilidad encefálica que puede desencadenar nuevos episodios ante aparición de factores comórbidos con los consiguientes riesgos y complicaciones. Depende de la compensación del trastorno (por ej. CV).

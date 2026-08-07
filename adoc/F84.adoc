@@ -105,7 +105,7 @@ En metaanálisis no hay diferencias significativas entre el placebo y los siguie
 Aripiprazol: potencialmente útil para uso transitorio en el tratamiento de aspectos comportamentales (irritabilidad, hiperactividad, estereotipias). Debe prestarse atención a los efectos secundarios (ganancia de peso, sedación, sialorrea, temblor). Un estudio muestra que a largo plazo no se diferencia del placebo -> se recomienda usar por períodos cortos footnote:[Hirsch, Lauren E., and Tamara Pringsheim. "Aripiprazole for autism spectrum disorders (ASD)." Cochrane Database of Systematic Reviews 6 (2016).].
 
 ====== Agitación y agresión
-La evidencia #footnote:[Im, D. S. (2021). Treatment of aggression in adults with autism spectrum disorder: A review. Harvard review of psychiatry, 29(1), 35-80.] proveniente de estudios controlados sugiere el uso de: risperidona, propranolol, fluvoxamina, ejercicio aeróbico intenso y dextrometorfano/quinidina.
+La evidencia footnote:[Im, D. S. (2021). Treatment of aggression in adults with autism spectrum disorder: A review. Harvard review of psychiatry, 29(1), 35-80.] proveniente de estudios controlados sugiere el uso de: risperidona, propranolol, fluvoxamina, ejercicio aeróbico intenso y dextrometorfano/quinidina.
 
 Niveles menores de evidencia: intervenciones comportamentales, entornos multisensoriales, yokukansan, clorimipramina, sertralina, clozapina y aripiprazol.
 
