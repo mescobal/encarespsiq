@@ -45,6 +45,8 @@ include::F30.adoc[]
 
 include::F31.adoc[]
 
+include::F31a.adoc[]
+
 include::F32.adoc[]
 
 = Trastornos de ansiedad
