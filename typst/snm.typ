@@ -1,7 +1,3 @@
-#import "@preview/fontawesome:0.2.1": *
-#import "@preview/ilm:1.1.2": *
-#import "@preview/note-me:0.2.1": *
-
 == Síndrome Neuroléptico Maligno
 
 === Notas clínicas
@@ -30,13 +26,13 @@ Es un diagnóstico de exclusión (ver diferenciales).
 
 ===== Criterios propuestos por DSM-IV
 
-+ Rigidez muscular intensa + fiebre + asociación temporal con administración de antipsicótico.
-+ 2 o + de: diaforesis, disfagia, temblor, incontinencia, disminución del nivel de conciencia (de confusión a coma), mutismo, taquicardia, PA elevada o fluctuante, leucocitosis, aumento de CPK o equivalente.
-+ Descartar otras causas (drogas, neurológicas) D. No se explica mejor por otro cuadro (Síndrome catatónico)
+A. Rigidez muscular intensa + fiebre + asociación temporal con administración de antipsicótico. 
+B. 2 o + de: diaforesis, disfagia, temblor, incontinencia, disminución del nivel de conciencia (de confusión a coma), mutismo, taquicardia, PA elevada o fluctuante, leucocitosis, aumento de CPK o equivalente. 
+C. Descartar otras causas (drogas, neurológicas) D. No se explica mejor por otro cuadro (Síndrome catatónico)
 
 ===== Criterios de expertos
 
-Un consenso de expertos propuso criterios algo más restrictivos:
+Un consenso de expertos propuso criterios algo más restrictivos: 
 + Exposición a un antagonista de DA o retiro de un agonista de DA en las 72 horas anteriores al inicio de los síntomas
 + Hipertermia en 2 ocasiones mayor o iguala 38oC oral.
 + Rigidez
@@ -66,10 +62,11 @@ Causas orgánicas:
 
 ==== Paraclínica
 
-Valoración general
+Valoración general 
 - Hemograma: leucocitosis.
-- Ionograma: hiponatremia / hipernatremia. Gasometría: acidosis metabólica o hipoxia en 75%
-- CPK: elevada - 4 (95%)
+- Ionograma: hiponatremia / hipernatremia.
+- Gasometría: acidosis metabólica o hipoxia en 75%
+- CPK:elevada x 4 (95%)
 - Orina: mioglobinuria (67%)
 - Función renal: falla renal aguda por necrosis muscular producto de la rigidez, hipertermia e isquemia.
 - EEG: enlentecimiento difuso en 54%
@@ -94,16 +91,17 @@ Cesación de agente causante. Tratamiento de apoyo
 
 Farmacológico:
 
-- Benzodiacepinas: Lorazepam i/v 1-2 mg cada 4-6 horas. Reducción de rigidez y fiebre en 24-47 horas, remisión de síntomas catatónicos (mutismo e inmovilidad).
+- Benzodiacepinas: Lorazepam i/v 1-2 mg cada 4-6 horas. Reducción de rigidez y fiebre en 24-47 horas, remisión de síntomas catatónicos
+(mutismo e inmovilidad).
 - Agentes dopaminérgicos: revierten parkinsonismo, el tiempo de recuperación y la mortalidad a la mitad solos o en combinación.
   - Amantadina 200-400 mg/día en dosis divididas v/o o por SNG.
   - Bromocriptina 2.5 mg c/12 o c/8 aumentando hasta un total de 45 mg/día si se requiere. Puede empeorar la psicosis y precipitar hipertensión y vómitos. Debe continuarse 10 días después de la remisión para evitar recurrencia si se discontinúa precozmente.
 - Dantrolene: relajante de músculo esquelético. Útil en caso asociados con hipertermia extrema y rigidez. Se puede usar junto con BZD o con un agonista DA. No se puede administrar con bloqueadores de calcio. Dosis: inicio 1-2.5 mg/kg IV, luego 1 mg/Kg cada 6 horas si hay respuesta luego de la primera dosis. Efectos secundarios: insuficiencia respiratoria / hepática. Debe continuarse 10 días luego de la resolución de los síntomas por probabilidad de recurrencia si se retira precozmente.
-- ECT: puede ser eficaz. Segunda línea, si fallan fármacos o si no se puede descartar una catatonía letal. Se hacen 6-10 sesiones. Aparece respuesta a la 4~a~. Vigilar la aparición de lesión muscular y de hiperkalemia.
+- ECT: puede ser eficaz. Segunda línea, si fallan fármacos o si no se puede descartar una catatonía letal. Se hacen 6-10 sesiones. Aparece respuesta a la 4a. Vigilar la aparición de lesión muscular y de hiperkalemia.
 
 ==== Evolución y pronóstico
 
-Luego de ser reconocido y tratado, el SNM es autolimitado a menos que existan complicaciones. El tiempo promedio de recuperación son 7-10 días luego de la discontinuación de la droga. Casi todos los pacientes se recuperan en 30 días o menos. El uso de medicación de depósito puede dar episodios del doble de duración. En algunos pacientes puede haber catatonía y parkinsonismo residual por meses. La ECT suele ser útil para estos síntomas residuales. Tasa de mortalidad: originalmente era de un 30%, actualmente hay reportes de 0-15%.
+Luego de ser reconocido y tratado, el SNM es autolimitado a menos que existan complicaciones. El tiempo promedio de recuperación son 7-10 días luego de la discontinuación de la droga. Casi todos los pacientes se recuperan en 30 días o menos. El uso de medicación de depósito puede dar episodios del doble de duración. En algunos pacientes puede haber catatonía y parkinsonismo residual por meses. La ECT suele ser útil para estos síntomas residuales. Tasa de mortilidad: originalmente era de un 30%, actualmente hay reportes de 0-15%.
 
 Buen pronóstico:
 

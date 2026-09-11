@@ -1,14 +1,16 @@
-#import "@preview/min-book:1.4.0": book
+#import "@preview/bookly:4.1.3": *
+// #import "@preview/min-book:1.4.0": book
 #import "@preview/fontawesome:0.2.1": *
-#import "@preview/note-me:0.5.0": *
+#import "@preview/note-me:0.6.0": *
 #set text(lang: "es")
+
+#show: bookly.with(
+  title: "Encares de Psiquiatría",
+  author: "M. Escobal",
+  theme: classic,
+  lang: "es")
 #outline(
 depth: 2)
-#show: book.with(
-  title: "Encares de Psiquiatría",
-  subtitle: "Para residencia",
-  authors: "M. Escobal")
-
 = Introducción
 
 #include "Intro.typ"
@@ -45,23 +47,27 @@ depth: 2)
 
 #include "F31.typ"
 
+#include "F31a.typ"
+
 #include "F32.typ"
 
 = Trastornos de ansiedad
 
 #include "F40.typ"
 
-#include "F401.typ"
+#include "F41a.typ"
 
-#include "F410.typ"
-
-#include "F411.typ"
+#include "F41b.typ"
 
 #include "F42.typ"
 
 #include "F43.typ"
 
 #include "F44.typ"
+
+#include "F45.typ"
+
+#include "F48.typ"
 
 = Trastornos asociados a disfunciones fisiológicas
 
@@ -75,7 +81,7 @@ depth: 2)
 
 #include "F60-3.typ"
 
-#include "F632.typ"
+#include "F63.typ"
 
 #include "F68.typ"
 
@@ -88,12 +94,11 @@ depth: 2)
 
 #include "F84.typ"
 
-= Trastornos de inicio en la infancia o adolescencia
+= Trastornos de inicio en la infancia/adolescencia
 
 #include "F90.typ"
 
-#include "F985.typ"
-== Otros trastornos de inicio en la niñez y adolescencia
+#include "F98.typ"
 
 = Otras situaciones clínicas
 

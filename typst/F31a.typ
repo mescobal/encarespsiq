@@ -1,0 +1,16 @@
+== Episodio Depresivo en Trastorno Bipolar
+
+=== Trastorno Bipolar II
+
+==== Tratamiento
+
+Pautas CANMAT #footnote[Keramatian, K., Chithra, N. K., & Yatham, L. N. (2023). The CANMAT and ISBD guidelines for the treatment of bipolar disorder: summary and a 2023 update of evidence. Focus, 21(4), 344-353.]
+
+\[cols="1,2,2", options="header"\]
+#table(columns: 3, table.header([*Línea*], [*Depresión aguda*], [*Mantenimiento*],),
+[Primera línea], [Quetiapina], [Quetiapina, Litio, Lamotrigina],
+[Segunda línea], [Litio, Lamotrigina, Bupropion (ady), ECT, Sertralina (a), Venlafaxina (a), Lumateperona (nuevo)], [Venlafaxina],
+[Tercera línea], [Agomelatina (ady), Bupropion (ady), Divalproato, AEP (ady), Ketamina (IV o sublingual) (ady), N-acetylcysteina (ady), Pramipexol (ady), T3 y T4 (ady), Tranilcypromina, Ziprasidona (b)], [Carbamazepina, Divalproato, Escitalopram, Fluoxetina, otros antidepresivos, Risperidona (c)],
+)
+
+AEP: ácido eicosapentaenoico. (a): depresión pura (no mixta). (b): depresión mixta (con hipomanía), (c): prevención de hipomanía.

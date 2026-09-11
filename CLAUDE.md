@@ -10,22 +10,30 @@ This is **not a software project** — it's the source for "Encares de Psiquiatr
 
 The book exists in **parallel formats** that are not auto-generated from one another, and whose content has diverged over time:
 
-- `adoc/` — **primary, actively maintained** source, using [AsciiDoc](https://asciidoc.org/). `encares.adoc` is the master file that `include::`s one `.adoc` file per chapter. This is the format referenced in `README.md` as the one external contributors are asked to edit.
-- `typst/` — **obsolete, no longer maintained**, using [Typst](https://typst.app/). `encares.typ` is the master file that `#include`s one `.typ` file per chapter/section; `formato.typ` holds shared styling. Kept around for reference/history only — do not treat it as a build target or propagate new content into it unless the user explicitly asks. See `adoc2typst.py` if a one-off AsciiDoc→Typst conversion is ever needed again.
+- `typst/` — **primary, actively maintained** source, using [Typst](https://typst.app/). `encares.typ` is the master file that `#include`s one `.typ` file per chapter/section; `formato.typ` holds shared styling. This is the format referenced in `README.md` as the one external contributors are asked to edit.
+- `adoc/` — **obsolete, no longer maintained**, using [AsciiDoc](https://asciidoc.org/). `encares.adoc` is the master file that `include::`s one `.adoc` file per chapter. Kept around for reference/history only — do not treat it as a build target or propagate new content into it unless the user explicitly asks. See `adoc2typst.py` if a one-off AsciiDoc→Typst conversion of legacy content is ever needed.
 
-Chapters/files are named after **ICD-10 codes** (e.g. `F30.*` = manic/bipolar episodes, `F40.*` = phobic anxiety disorders, `F44.*` = dissociative disorders), matching the clinical classification the book is organized around. The same code generally has a same-named file in each format directory, but content is NOT kept in sync 1:1 across formats — e.g. `adoc/F30.adoc` and `typst/F30.typ` differ substantially in wording and length, and several chapters don't even split into files the same way between the two (see `adoc2typst.py`'s `SKIPPED_CHAPTERS` for the specific mismatches).
+Chapters/files are named after **ICD-10 codes** (e.g. `F30.*` = manic/bipolar episodes, `F40.*` = phobic anxiety disorders, `F44.*` = dissociative disorders), matching the clinical classification the book is organized around. The same code generally has a same-named file in each format directory, but content is NOT kept in sync 1:1 across formats — e.g. `adoc/F30.adoc` and `typst/F30.typ` differ substantially in wording and length, and several chapters don't even split into files the same way between the two (see `adoc2typst.py`'s `SKIPPED_CHAPTERS` for the specific mismatches). `typst/` also has chapters with no `adoc/` counterpart (e.g. `Autoagresiones.typ`, `F31a.typ`, `F63.typ`, `LeySM.typ`) — new content belongs in `typst/` first and does not need to be back-ported to the legacy `adoc/` tree.
 
 Bibliography: `encares.bib` (BibDesk-managed BibTeX) at the repo root, duplicated per-format in `adoc/`, `typst/`.
 
 ## Build commands
 
-**AsciiDoc → PDF, direct (`armarpdf.sh`)** — this is how the published `adoc/encares.pdf` is actually produced (confirmed via its PDF metadata: `Producer: Asciidoctor PDF`):
+**Typst → PDF, direct** — this is now the primary build, producing `typst/encares.pdf`:
+```sh
+typst compile typst/encares.typ typst/encares.pdf
+```
+Use `typst watch typst/encares.typ typst/encares.pdf` for a live-rebuilding preview while editing. There is no Makefile wrapper for this yet — the root `Makefile` and `armarpdf.sh` still only build the legacy AsciiDoc path below; update them (or ask before doing so) if a `make`-based typst build is wanted.
+
+Three older, legacy paths exist for the now-obsolete `adoc/` tree — kept for reference, not what should be used going forward:
+
+**AsciiDoc → PDF, direct (`armarpdf.sh`)** — how `adoc/encares.pdf` used to be produced (confirmed via its PDF metadata: `Producer: Asciidoctor PDF`):
 ```sh
 asciidoctor-pdf adoc/encares.adoc -o adoc/encares.pdf
 ```
 Wrapped by the root `Makefile`: `make` / `make pdf` runs `armarpdf.sh`, `make view` builds then opens `adoc/encares.pdf`, `make clean` removes it.
 
-Two older, DocBook-based paths also exist and produce `encares2.pdf` instead — kept for reference, not what generates the published PDF:
+Two even older, DocBook-based paths also exist and produce `encares2.pdf` instead:
 
 `armartex.sh` (DocBook + pandoc + xelatex):
 ```sh
@@ -41,6 +49,6 @@ dblatex encares2.xml
 
 ## Conventions when editing content
 
-- Content is in Spanish (`es`); keep terminology, abbreviations, and clinical style consistent with the surrounding text (e.g. abbreviations like `EDM`, `AF`, `TDAH` are used throughout — see `Abreviaturas.adoc`/`.typ` for the glossary chapter).
-- Follow AsciiDoc's existing markup conventions in `adoc/` — section levels (`==`, `===`, ...), `include::` structure, admonitions (`NOTE:`/`TIP:`/`WARNING:`), `footnote:[...]`.
+- Content is in Spanish (`es`); keep terminology, abbreviations, and clinical style consistent with the surrounding text (e.g. abbreviations like `EDM`, `AF`, `TDAH` are used throughout — see `Abreviaturas.typ` for the glossary chapter).
+- Follow Typst's existing markup conventions in `typst/` — section levels (`==`, `===`, ...) at the same depth convention as the old AsciiDoc files, `#include` structure in `encares.typ`, admonitions via the `note-me` package (`#note[...]`/`#tip[...]`/`#warning[...]`), `#footnote[...]`.
 - Prefer citing sources with bibliography keys already present in `encares.bib` when adding clinical claims; add new BibTeX entries there (and the corresponding per-format copy) if introducing a new reference. `README.md` explicitly asks that added/modified content include the relevant bibliographic citations.

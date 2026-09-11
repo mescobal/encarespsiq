@@ -1,13 +1,10 @@
-#import "@preview/fontawesome:0.2.1": *
-#import "@preview/ilm:1.1.2": *
-#import "@preview/note-me:0.2.1": *
 == Fobia social
 
 === Notas clínicas
 
 ==== Definición
 
-Temor ante situaciones que requieren exposición social: iniciar o mantener conversaciones, participar en pequeños grupos, tener citas, hablar con figuras de autoridad, asistir a fiestas. Percepción del temor como irracional o exagera-do. Preocupación por la posibilidad de estar en una situación embarazosa o que los demás le vean como ansioso, débil, "loco". Temor a que los demás se den cuenta de que sus manos tiemblan. Temor a no poder articular correctamente las palabras. Pueden evitar: comer, beber, escribir en público. Síntomas de ansiedad ante la exposición: palpitaciones, temblores, sudoración, molestias gastrointestinales, diarrea, tensión muscular, rubor. Temor a evaluaciones indirectas (exámenes). De forma típica aparece en la adolescencia (rango 5 a 35 años) con el antecedente de timidez o inhibición social en la infancia. La aparición puede estar marcada por algún su-ceso vivido como humillante.
+Temor ante situaciones que requieren exposición social: iniciar o mantener conversaciones, participar en pequeños grupos, tener citas, hablar con figuras de autoridad, asistir a fiestas. Percepción del temor como irracional o exagerado. Preocupación por la posibilidad de estar en una situación embarazosa o que los demás le vean como ansioso, débil, "loco". Temor a que los demás se den cuenta de que sus manos tiemblan. Temor a no poder articular correctamente las palabras. Pueden evitar: comer, beber, escribir en público. Síntomas de ansiedad ante la exposición: palpitaciones, temblores, sudoración, molestias gastrointestinales, diarrea, tensión muscular, rubor. Temor a evaluaciones indirectas (exámenes). De forma típica aparece en la adolescencia (rango 5 a 35 años) con el antecedente de timidez o inhibición social en la infancia. La aparición puede estar marcada por algún suceso vivido como humillante.
 
 ==== Curso
 
@@ -23,7 +20,7 @@ Prevalencia a 6 meses: 2-3% de población general. En estudios epidemiológicos:
 
 === Encare
 
-==== Agupración sindromática
+==== Agrupación sindromática
 
 ===== Síndrome fóbico
 
@@ -36,7 +33,7 @@ Entendiendo por fobia, la presencia de un temor irracional y exagerado con objet
 - Que desaparece al margen del objeto-situación (lo que favorece la aparición de conductas de evitación).
 - Que genera conductas tranquilizadoras: elementos que cumplen función aseguradora de protección: personaje, habitación, objeto, ingesta de alcohol.
 
-En este caso la ansiedad se vincula a situaciones sociales y se presenta como miedo a ser examinado por otras personas, que conduce a evitar situaciones de encuentro social. Puede estar asociado a baja autoestima y temor a las críticas. Se presenta generalmente en situaciones tales como comer o hablar en público, encontrarse con conocidos en público o introducirse o permanecer en actividades de grupo reducido (fiestas, reuniones de trabajo, clases). Se destaca la presencia de elementos somáticos tales como: ruborización, temblor de manos, náuseas o urgencia miccional. Afecta de X modo los pragmatismos.
+En este caso la ansiedad se vincula a situaciones sociales y se presenta como miedo a ser examinado por otras personas, que conduce a evitar situaciones de encuentro social. Puede estar asociado a baja autoestima y temor a las críticas. Se presenta generalmente en situaciones tales como comer o hablar en público, encontrarse con conocidos en público o introducirse o permanecer en actividades de grupo reducido (fiestas, reuniones de trabajo, clases). Se destaca la presencia de elementos somáticos tales como: rubor, temblor de manos, náuseas o urgencia miccional. Afecta de X modo los pragmatismos.
 
 ===== Síndrome de ansiedad-angustia
 
@@ -65,12 +62,11 @@ Dificultad para autoafirmarse y baja autoestima.
 
 ===== Nosografía Clásica
 
-#fa-icon("paste") Neurosis. #fa-icon("paste") Neurosis fóbica.
-
-Gravedad: Leve-moderada-grave- incapacitante.
-
-_Descompensada_
-
+====== Neurosis
+====== Neurosis fóbica
+====== Gravedad
+Leve-moderada-grave-incapacitante.
+====== Descompensada
 Por:
 - Síndrome de ansiedad angustia
 - Depresión (disfórica)
@@ -80,125 +76,117 @@ Por:
 
 F40.1: Fobia social Entendiendo por fobia social el temor irracional persistente y reconocible de turbarse o verse humillado cuando se desempeña en situaciones sociales.
 
-_DSM-IV_
+DSM-IV
 
-- temor acusado y persistente por una o más situaciones sociales o actuaciones en público en las que el sujeto se ve expuesto a personas que no pertenecen al ámbito familiar o a la posible evaluación por parte de los demás. Teme actuar de un modo que resulte humillante o embarazoso
-- la exposición provoca respuesta de ansiedad (con o sin crisis de pánico)
-- reconoce que el temor es excesivo o irracional
-- evitación (o las soporta con malestar intenso)
-- interferencia con desempeño
-- más de 6 meses en menores de 18 años
-- descartar sustancias, enfermedad médica y otros trastornos mentales
-- si hay otro diagnóstico, la fobia no se relaciona con estos procesos (por ejemplo, el miedo no es debido a tartamudez o a exhibición de conductas vinculadas a un trastorno de la alimentación)
+- A. temor acusado y persistente por una o más situaciones sociales o actuaciones en público en las que el sujeto se ve expuesto a personas que no pertenecen al ámbito familiar o a la posible evaluación por parte de los demás. Teme actuar de un modo que resulte humillante o embarazoso
+- B. la exposición provoca respuesta de ansiedad (con o sin crisis de pánico)
+- C. reconoce que el temor es excesivo o irracional
+- D. evitación (o las soporta con malestar intenso)
+- E. interferencia con desempeño
+- F. más de 6 meses en menores de 18 años
+- G. descartar sustancias, enfermedad médica y otros trastornos mentales
+- H. si hay otro diagnóstico, la fobia no se relaciona con estos procesos (por ejemplo, el miedo no es debido a tartamudez o a exhibición de conductas vinculadas a un trastorno de la alimentación)
 
 Especificadores: generalizada: si los temores hacen referencia a la mayoría de las situaciones sociales.
 
-_CIE-10_
+CIE-10
 
 Requiere:
 
-- Dos criterios:
-  - Miedo marcado a ser foco de atención o miedo a comportarse de un modo que sería embarazoso o humillante.
-  - Evitación notable de ser el centro de atención, o de situaciones en las cuales hay miedo de comportarse de un modo que sería embarazoso o humillante.
-- Uno de los síntomas siguientes: ruborización, temor a vomitar, necesidad imperiosa o temor a orinar o defecar.
-- Malestar significativo.
-- Los síntomas se limitan a las situaciones temidas o a la contemplación de las mismas.
-- Exclusión de: trastornos mentales orgánicos, esquizofrenia, trastornos afectivos, TOC, factores culturales.
+- A. Dos criterios:
+  - 1. Miedo marcado a ser foco de atención o miedo a comportarse de un modo que sería embarazoso o humillante.
+  - 2. Evitación notable de ser el centro de atención, o de situaciones en las cuales hay miedo de comportarse de un modo que sería embarazoso o humillante.
+- B. Uno de los síntomas siguientes: ruborización, temor a vomitar, necesidad imperiosa o temor a orinar o defecar.
+- C. Malestar significativo.
+- D. Los síntomas se limitan a las situaciones temidas o a la contemplación de las mismas.
+- E. Exclusión de: trastornos mentales orgánicos, esquizofrenia, trastornos afectivos, TOC, factores culturales.
 
 ==== Diagnósticos diferenciales
 
-_Nosografía clásica_
+===== Nosografía clásica
 
-- Neurosis de angustia: no existen conductas de evitación ni tranquilización. En la NF los elementos de AA son subsidiarios al
-síndrome fóbico que aparece descompensando. En la NA no existen mecanismos de defensa estructurados.
-- Otras neurosis.
-- Fobia sintomática de Trastorno de la Personalidad.
-- Crisis de angustia: descartar origen orgánico:
+1. Neurosis de angustia: no existen conductas de evitación ni tranquilización. En la NF los elementos de AA son subsidiarios al síndrome fóbico que aparece descompensando. En la NA no existen mecanismos de defensa estructurados.
+2. Otras neurosis.
+3. Fobia sintomática de Trastorno de la Personalidad.
+4. Crisis de angustia: descartar origen orgánico:
   - Hiperglicemia
   - Feocromocitoma
   - Prolapso de válvula mitral (comorbilidad)
   - Hipertiroidismo
   - Drogas: abstinencia (barbitúricos, benzodiacepinas), intoxicación (anfetaminas y similares)
-- Si hay un So depresivo: Trastorno afectivo primario
+5. Si hay un síndrome depresivo: Trastorno afectivo primario
 
-_DSM / CIE-10_
+DSM / CIE-10
 
 Los diagnósticos diferenciales son diferentes dado que estos sistemas clasificatorios permiten acumular diagnósticos en uno o más ejes. Los principales diagnósticos diferenciales son:
-- Entre los diferentes trastornos de ansiedad:
-  - Agorafobia con/sin crisis de pánico: aparición de crisis de angustia inesperada que no se limitan al contexto de interacciones sociales. En la Fobia Social no hay crisis inesperadas recidivantes. Si se cumplen ambos criterios, pueden diagnosticarse a la vez.
-  - Fobia específica: x ej. evitación limitada a situaciones aisladas (ascensores).
-  - TOC: x ej. evita situaciones vinculadas a obsesión (evita suciedad si hay ideas obsesivas de contaminación.
-  - TEPT: evitación de estímulos relacionados con situación altamente estresante o traumática.
-  - Trastorno por ansiedad de separación: evitación de abandonar el hogar o la familia.
-- Causas médicas
-- Inducidos por sustancias
-- Trastorno Esquizoide de la Personalidad: se evitan situaciones sociales por falta de interés por relacionarse con los demás.
-- Como diagnósticos adicionales (más que diferenciales) considerar Trastorno de la Personalidad del grupo C (sobre todo TP por Evitación). Existe cierto consenso en considerar al TPE como una forma crónica de Fobia Social (ya que responde al mismo tipo de tratamiento).
-- Otros diagnósticos que pueden tener síntomas en común o estar presentes por comorbilidad: Trastorno Depresivo Mayor, Trastorno Distímico, Trastorno Dismórfico Corporal, Trastornos Alimentarios, temor o vergüenza asociada a patología médica (obesidad, estrabismo, cicatrices faciales).
-- Normalidad: temor a actuar en público, temor a escenarios o timidez en reuniones sociales donde no participan personas del entorno familiar. No deben calificarse como Fobia Social a menos que interfieran significativamente con el funcionamiento del individuo.
++ Entre los diferentes trastornos de ansiedad:
+  + Agorafobia con/sin crisis de pánico: aparición de crisis de angustia inesperada que no se limitan al contexto de interacciones sociales. En la Fobia Social no hay crisis inesperadas recidivantes. Si se cumplen ambos criterios, pueden diagnosticarse a la vez.
+  + Fobia específica: x ej. evitación limitada a situaciones aisladas (ascensores).
+  + TOC: x ej. evita situaciones vinculadas a obsesión (evita suciedad si hay ideas obsesivas de contaminación.
+  + TEPT: evitación de estímulos relacionados con situación altamente estresante o traumática.
+  + Trastorno por ansiedad de separación: evitación de abandonar el hogar o la familia.
++ Causas médicas
++ Inducidos por sustancias
++ Trastorno Esquizoide de la Personalidad: se evitan situaciones sociales por falta de interés por relacionarse con los demás.
++ Como diagnósticos adicionales (más que diferenciales) considerar Trastorno de la Personalidad del grupo C (sobre todo TP por Evitación). Existe cierto consenso en considerar al TPE como una forma crónica de Fobia Social (ya que responde al mismo tipo de tratamiento).
++ Otros diagnósticos que pueden tener síntomas en común o estar presentes por comorbilidad: Trastorno Depresivo Mayor, Trastorno Distímico, Trastorno Dismórfico Corporal, Trastornos Alimentarios, temor o vergüenza asociada a patología médica (obesidad, estrabismo, cicatrices faciales).
++ Normalidad: temor a actuar en público, temor a escenarios o timidez en reuniones sociales donde no participan personas del entorno familiar. No deben calificarse como Fobia Social a menos que interfieran significativamente con el funcionamiento del individuo.
 
 ==== Etiopatogenia y psicopatología
 
-Se propone una gran heterogeneidad causal, aplicándose en general el modelo de estrés-diátesis. Los modelos vigentes apuntan a interacción entre mecanismos ambientales, biológicos, cognitivos y comportamentales . Los eventos sociales se presentarían como amenazantes, activando los circuitos innatos vinculados a la ansiedad (punto de acción de los ISRS, IMAOs, Benzodiacepinas y alcohol), lo que genera a través de vías corticales, cogniciones negativas (punto de acción de la Psicoterapia Cognitiva). A su vez, por activación del sistema nervioso autónomo (punto de acción de beta bloqueantes) se produce el aprendizaje de conductas de evitación (punto de acción del entrenamiento en habilidades sociales y de la Terapia Comportamental).
+Se propone una gran heterogeneidad causal, aplicándose en general el modelo de estrés-diátesis. Los modelos vigentes apuntan a interacción entre mecanismos ambientales, biológicos, cognitivos y comportamentales. Los eventos sociales se presentarían como amenazantes, activando los circuitos innatos vinculados a la ansiedad (punto de acción de los ISRS, IMAOs, Benzodiacepinas y alcohol), lo que genera a través de vías corticales, cogniciones negativas (punto de acción de la Psicoterapia Cognitiva). A su vez, por activación del sistema nervioso autónomo (punto de acción de beta bloqueantes) se produce el aprendizaje de conductas de evitación (punto de acción del entrenamiento en habilidades sociales y de la Terapia Comportamental).
 
 ===== Biológico
 
 Algunos autores proponen un modelo vulnerabilidad-estrés, citando una predisposición constitucional en personas que nacen con un temperamento específico conocido como "inhibición conductual a lo desconocido", que ante factores de estrés constituirían una fobia. Este patrón conductual se observa frecuentemente en niños cuyos padres están afectados por un trastorno de angustia.
 
-_Genética_
+====== Genética
+Los factores genéticos son más importantes en el subtipo de FS generalizada. El riesgo para familiares de pacientes con FSG es 10 veces mayor. Hay alta concordancia entre gemelos monocigóticos. Los familiares de primer grado de pacientes con fobia social tiene 3 veces más probabilidades de tenerlas que los familiares de personas sanas. Para el caso de la fobia social, diversos autores postulan la existencia de alteraciones en sistemas de neurotransmisión (adrenérgico, serotoninérgico y dopaminérgico), basado en la eficacia de fármacos.
 
-Los factores genéticos son más importantes en el subtipo de FS generalizada. EL riesgo para familiares de pacientes con FSG es 10 veces mayor. Hay alta concordancia entre gemelos monocigóticos. Los familiares de primer grado de pacientes con fobia social tiene 3 veces más probabilidades de tenerlas que los familiares de personas sanas. Para el caso de la fobia social, diversos autores postulan la existencia de alteraciones en sistemas de neurotransmisión (adrenérgico, serotoninérgico y dopaminérgico), basado en la eficacia de fármacos.
-
-_Pruebas de estimulación_
-
-- Lactato: similar respuesta que en controles, lo que indicaría ausencia de alteraciones en quimiorreceptores (a diferencia del Tras-torno de Pánico).
+====== Pruebas de estimulación:
+- Lactato: similar respuesta que en controles, lo que indicaría ausencia de alteraciones en quimiorreceptores (a diferencia del Trastorno de Pánico).
 - CO2: Mayor respuesta que controles, pero menor que pacientes con TP.
-- Colecistoquinina (CCK): resultados contra-dictorios.
+- Colecistoquinina (CCK): resultados contradictorios.
 - Cafeína: igual respuesta que en TP y mayor respuesta que en controles.
 - Epinefrina: resultados contradictorios.
 
-_Sistema adrenérgico_
-
+====== Sistema adrenérgico
 Basado en la eficacia de antagonistas beta-adrenérgicos (Propranolol) para fobias de ejecución (éstos pacientes liberarían más adrenalina tanto a nivel central como periférico). La estimulación beta adrenérgica periférica provocaría sudoración, temblor y rubor. La clonidina (antagonista alfa2 adrenérgico) alivia síntomas tales como la sudoración axilar. Los sujetos con FS presentan una respuesta de PA exagerada ante una maniobra de Valsalva y una menor disminución de la PA al pasar a posición de pie en relación a controles normales.
 
-_Sistema GABA_
-
+====== Sistema GABA
 Las pruebas de estimulación con el antagonista gabaérgico Flumazenil muestra un aumento de los síntomas de ansiedad en relación a controles normales. Sistema dopaminérgico: basada en la eficacia de los IMAO y del Bupropion para el tratamiento de la Fobia Social generalizada. Además se cita como evidencia:
 
 - Desarrollo de síntomas de ansiedad social luego del tratamiento con fármacos que bloquean la Dopamina
-- Correlación existente entre rasgos de intro-versión y bajos niveles de Dopamina en el LCR
+- Correlación existente entre rasgos de introversión y bajos niveles de Dopamina en el LCR
 - Altas tasas de Fobia Social en pacientes con Enfermedad de Parkinson.
 - Baja actividad dopaminérgica detectada en cepas de ratones "tímidos"
 - Bajos niveles en LCR de ácido homovanílico en pacientes con T de Pánico y Fobia Social.
-- En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopa-mina a nivel del estriado.
+- En SPECTs aparece una disminución en la densidad de sitios de recaptación de Dopamina a nivel del estriado.
 
-_Sistema serotoninérgico_
+====== Sistema serotoninérgico
+Basada en la eficacia de los ISRS. Los sujetos con FS expuestos a Fenfluramina (agente liberador de serotonina) aumentan los síntomas de ansiedad en relación a controles (podría indicar hipersensibilidad de receptores 5HT2), dado que esto se contradice con el efecto terapéutico de los ISRS, pero se interpreta esto como el efecto de 2 vías serotoninérgicas diferentes, siendo el efecto terapéutico en la FS proporcional a la importancia de cada vía en el trastorno. Se plantea la existencia de una conexión inhibitoria 5HT2 y una conexión excitatoria 5HT1A al estriado que afectan a su vez al sistema dopaminérgico.
 
-Basada en la eficacia de los ISRS. Los sujetos con FS expuestos a Fenfluramina (agente liberador de serotonina) aumentan los síntomas de ansiedad en relación a con-troles (podría indicar hipersensibilidad de receptores 5HT2), dado que esto se contradice con el efecto terapéutico de los ISRS, pero se interpreta esto como el efecto de 2 vías serotoninérgicas diferentes, siendo el efecto terapéutico en la FS proporcional a la importancia de cada vía en el trastorno. Se plantea la existencia de una conexión inhibitoria 5HT2 y una conexión excitatoria 5HT1A al estriado que afectan a su vez al sistema dopaminérgico.
-
-_Neuroimagen_
-
+====== Neuroimagen
 Los estudios sugieren la presencia de circuitos neurales específicos involucrados en la Fobia Social:
 - cíngulo anterior
 - córtex prefrontal dorsolateral derecho y córtex parietal izquierdo (involucrados en la planificación de respuestas afectivas y consciencia de la posición del cuerpo).
 - córtex orbitofrontal.
 
-Por otro lado hay estudios que muestran una mayor disminución del volumen del putamen con la edad en sujetos con FS en relación a con-troles.
+Por otro lado hay estudios que muestran una mayor disminución del volumen del putamen con la edad en sujetos con FS en relación a controles.
 
 ===== Psicológico
 
-_Psicoanálisis_
+====== Psicoanálisis
+Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún impulso inconsciente prohibido (pulsiones genitales edípicas incestuosas) está luchando para expresarse en forma consciente, con falla del mecanismo de Represión (mecanismo destinado a mantener la pulsión fuera de la representación consciente), lo que lleva al Yo al uso de mecanismos de defensa auxiliares:
 
-Para Freud la ansiedad es una señal del Yo que se pone en marcha cuando algún impulso in-consciente prohibido (pulsiones genitales edípicas incestuosas) está luchando para expresarse en forma consciente, con falla del mecanismo de Represión (mecanismo destinado a mantener la pulsión fuera de la representación consciente), lo que lleva al Yo al uso de mecanismos de defensa auxiliares:
-
-- Desplazamiento: separa el afecto de la re-presentación prohibida y lo desplaza a una situación u objeto en el exterior, aparente-mente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
+- Desplazamiento: separa el afecto de la representación prohibida y lo desplaza a una situación u objeto en el exterior, aparentemente neutro, pero en conexión asociativa con la fuente del conflicto (simbolización como mecanismo de defensa).
 - Evitación como mecanismo adicional de defensa. El objeto sobre el que se desplaza la angustia puede ser evitado.
 
 La reactivación del conflicto sobrepasa los mecanismos de defensa ya estructurados y se manifiesta como angustia. Se trata de una regresión y fijación a etapa edípica del desarrollo psicosexual, vinculado a intensa angustia de castración (el impulso sexual continuaría teniendo una marcada connotación incestuosa en el adulto por lo que la activación sexual tiende a transformarse en ansiedad que de forma característica es un miedo a la castración).
 
-_Teoría Cognitivo-comportamental_
+====== Teoría Cognitivo-comportamental
 
-El modelo teórico del aprendizaje (Watson) vincula la fobia y la evitación consiguiente al modelo estímulo-respuesta pavloviano tradicional de los reflejos condicionados, donde un estímulo originalmente neutro se transforma en condicionado para producir ansiedad al presentarse apareado a un estímulo amenazante. Si bien el condicionamiento clásico puede explicar el origen de la fobia, no explica el mantenimiento, para lo cual se postula la intervención del condiciona-miento operante: el patrón de evitación se muestra eficaz para reducir la ansiedad por lo que se refuerza el mantenimiento de la fobia. Otro mecanismo de aprendizaje que podría estar implicado es el moldeamiento (por observación de reacciones de un tercero).
+El modelo teórico del aprendizaje (Watson) vincula la fobia y la evitación consiguiente al modelo estímulo-respuesta pavloviano tradicional de los reflejos condicionados, donde un estímulo originalmente neutro se transforma en condicionado para producir ansiedad al presentarse apareado a un estímulo amenazante. Si bien el condicionamiento clásico puede explicar el origen de la fobia, no explica el mantenimiento, para lo cual se postula la intervención del condicionamiento operante: el patrón de evitación se muestra eficaz para reducir la ansiedad por lo que se refuerza el mantenimiento de la fobia. Otro mecanismo de aprendizaje que podría estar implicado es el moldeamiento (por observación de reacciones de un tercero).
 
 ===== Social
 
@@ -216,18 +204,18 @@ Paraclínica general. Con interés académico: los individuos con Fobia Social t
 
 ===== Psicológico
 
-Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorscharch), no proyectivos (Minnesota), evaluando:
+Superado el cuadro actual: tests de personalidad proyectivos (TAT, Rorschach), no proyectivos (Minnesota), evaluando:
 
 - Fortaleza yoica
 - Elementos para el análisis de los mecanismos de defensa, Implementación de psicoterapia
-- Tests de nivel (Weschler)..
+- Tests de nivel (Wechsler).
 
 ===== Social
 
-Familiares y terceros. Valoración de red de so-porte. Otros: para el seguimiento del trastorno, pueden ser útiles las escalas de cuantificación de síntomas.
+Familiares y terceros. Valoración de red de soporte. Otros: para el seguimiento del trastorno, pueden ser útiles las escalas de cuantificación de síntomas.
 
 ==== Tratamiento
-
+Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
 - Ambulatorio con control en policlínica
 - Hospitalizar según entidad de síndromes asociados (ej. depresión)
 
@@ -236,11 +224,11 @@ Objetivos del tratamiento:
 - Reducción de la ansiedad anticipatoria
 - Atenuar el comportamiento de evitación
 - Reducir los síntomas autonómicos y fisiológicos de ansiedad
-- Lograr mejores niveles de funcionamiento Directivas: compensar el cuadro actual y tratar la enfermedad de fondo.
+- Lograr mejores niveles de funcionamiento 
 
 ===== Biológico
 
-_Fobia social restringida o limitada (de ejecución)_
+====== Fobia social restringida o limitada (de ejecución):
 
 Primera línea: beta bloqueantes:
 
@@ -249,13 +237,12 @@ Primera línea: beta bloqueantes:
 
 Segunda línea: benzodiacepinas, dosis de 5-15 mg de equivalentes Diazepam.
 
-_Fobia social generalizada o difusa_
-
+====== Fobia social generalizada o difusa
 Si bien el fármaco mejor estudiado y con mayores índices de eficacia es la Fenelzina, su manejo complicado (con contraindicaciones y restricciones) lo relegan a un segundo plano.
 
-Primera línea: Paroxetina 20 - 60 mg/día > Sertralina > Fluvoxamina (orden según calidad de evidencia en estudios realizados)
+Primera línea: Paroxetina 20 - 60 mg/día > Sertralina > Fluvoxamina (orden según calidad de evidencia en estudios realizados).
 
-Segunda línea: Fenelzina 45-90 mg/día, inician-do con 15 mg/día, aumentando hasta 45-60 mg/día, esperando 4 semanas y luego, según resultados y tolerancia puede aumentarse hasta.
+Segunda línea: Fenelzina 45-90 mg/día, iniciando con 15 mg/día, aumentando hasta 45-60 mg/día, esperando 4 semanas y luego, según resultados y tolerancia puede aumentarse hasta.
 
 Casos resistentes: pueden asociarse benzodiacepinas: Alprazolam o Clonazepam (la terapia única con BZD es de eficacia dudosa o limitada).
 
@@ -291,7 +278,7 @@ Puede seguir varios caminos evolutivos:
 
 PVI: bueno
 
-PPI: crisis y depresión bueno.
+PPI: bueno.
 
 PVA: depende de complicaciones del cuadro.
 
@@ -303,13 +290,12 @@ El pronóstico depende de:
 - Edad de comienzo del tratamiento
 - Continuidad del tratamiento
 - Nivel intelectual
-- Nivel socioeconómico - Comorbilidad (depresión, alcoholismo, TP)
+- Nivel socioeconómico
+- Comorbilidad (depresión, alcoholismo, TP)
 - Antecedentes familiares (predictor negativo para el caso de la fobia social).
 
-Evaluación de resultados del tratamiento :
+Evaluación de resultados del tratamiento: se define respuesta como una reducción del 50%.
 
 - Síntomas: disminución o desaparición de síntomas (Escala de Liebowitz de Ansiedad Social).
 - Disfunción: Escala de Discapacidad de Sheehan.
 - Evolución general: CGI.
-
-Se define respuesta como una reducción del 50

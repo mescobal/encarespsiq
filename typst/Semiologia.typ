@@ -1,7 +1,8 @@
-#import "@preview/fontawesome:0.2.1": *
-#import "@preview/note-me:0.2.1": *
+#import "@preview/note-me:0.5.0": *
 == Semiología
+
 === Entrevista
+
 ==== Dinámica
 La dinámica tiene que ser flexible, adaptada al paciente. En general es útil hacer ciclos alternantes de preguntas cerradas y preguntas abiertas. Luego de una tanda de preguntas abiertas se formulan preguntas más cerradas para concretar datos y así sucesivamente.
 
@@ -13,15 +14,13 @@ Se continúa con el motivo de consulta (MC) que es el hilo conductor de la entre
 
 Luego de explorar la enfermedad actual (EA) es útil explorar otros grupos sintomáticos de forma sistemática para no dejar afuera aspectos que el paciente puede no considerar relevante, pero que para nosotros puede serlo.
 
-#tip[
-es útil en la entrevista hacerse un esquema con los grupos de la CIE-10, para recordar preguntarlos (F00 hasta F90).
-]
+#tip[es útil en la entrevista hacerse un esquema con los grupos de la CIE-10, para recordar preguntarlos (F00 hasta F90).]
 
 Recordar siempre preguntar conductas basales (CB: sueño y alimentación), conductas complejas (CC: hetero y autoagresividad, crisis clásticas, IAEs) y pragmatismos (PRG: sexual, familiar, laboral, académico, social).
 
 Es fundamental explorar los antecedentes de la enfermedad actual (AEA) así como otros antecedentes personales psiquiátricos (APP), antecedentes personales médicos (APM) y antecedentes familiares psiquiátricos (AFP).
 
-Finalmente hacemos un exploración de la biografía (BIO). Esta debe contemplar: composición del núcleo familiar, embarazo y parto, hitos del desarrollo, sintomatología de la infancia (parasomnias, onicofagia, trastornos de conducta, enuresis, encopresis), pubertad, escolaridad, logros, hábitos, intereses. Explorar eventos traumáticos (violencia doméstica, maltrato, abuso).
+Finalmente hacemos un exploración de la biografía (BIO). Esta debe contemplar: composición del núcleo familiar, embarazo y parto, hitos del desarrollo, sintomatología de la infancia (parasomnias, onicofagia, trastornos de conducta, enuresis, encopresis), pubertad, escolaridad, logros, hábitos, intereses.
 
 === Examen Psiquiátrico
 
@@ -62,10 +61,12 @@ Semiológicamente: examinar el rostro:
 - Mutismo histérico a veces "en frío" (sin motivo aparente). El paciente ahce gestos de que no puede continuar hablando. Afonía histérica de Charcot.
 - Mutismo oposicionista: en población carcelaria, retardo mental, trastorno de la personalidad. Ante contrariedad o circunstancia dificil. Puede tener cierto grado de utilitarismo.
 - Mutismo en la simulación.
-===== Trastornos de la expresión verbal
-====== Trastornos cualitativos del discurso
-*Disartria*
 
+===== Trastornos de la expresión verbal
+
+====== Trastornos cualitativos del discurso
+
+====== Disartria
 - Sistematizada: recae siempre sobre los mismos fonemas. Origen periférico (bulbo, protuberancia) por afección neurológica
 - Irregular: más o menos generalizada e independiente de los fonemas. Lesión cerebral que afecta funciones superiores de regulación de los movimientos de articulación del lenguaje.
 - Otros:
@@ -73,5 +74,7 @@ Semiológicamente: examinar el rostro:
   - Disartrias por patología degenerativa cortyical
   - Disartria escandida: síndromes cerebelosos, estriados, Huntington, Creutzfeldt-Jakob
 
-*Disprosodia*
+====== Disprosodia
+
 Alteraciones en la pronunciación
+
